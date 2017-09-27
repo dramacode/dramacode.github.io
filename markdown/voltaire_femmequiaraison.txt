@@ -1,7 +1,7 @@
 ---
 identifier: voltaire_femmequiaraison  
 creator: Voltaire  
-date:   
+date: 1759  
 title: La femme qui a raison. , comédie  
 ---
 

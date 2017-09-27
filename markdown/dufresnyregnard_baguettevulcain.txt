@@ -13,8 +13,6 @@ COMÉDIE EN UN ACTE
 1693
 
 REGNARD et DUFRESNY
-
-
 Représentée pour la première fois le 10 janvier 1693 en société.
 
 
@@ -83,7 +81,7 @@ Roger combat le géant, le vainc ensuite il touche la caverne de sa baguette, et
     ROGER.
 Allons, allons, debout : depuis deux cents ans de sommeil n'êtes-vous pas lasse de dormir ? On ne saurait tirer une femme du lit.
 
-    BRADAMNTE SE RÉVEILLE.
+    BRADAMANTE SE RÉVEILLE.
 Où suis-je ?
 
     ROGER.

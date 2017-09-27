@@ -543,7 +543,7 @@
             <l n="333" xml:id="l333">C’est que la bonne foi surtout règne entre nous.</l>
           </sp>
           <sp xml:id="II02-20" who="PHILACTE">
-            <l n="334 part='i'" xml:id="l334 part='i'">D’accord, soit.</l>
+            <l n="334" part="I" xml:id="l334">D’accord, soit.</l>
           </sp>
           <sp xml:id="II02-21" who="CALLITEE">
             <l part="F">Je veux pour vous marquer la mienne,</l>

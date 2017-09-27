@@ -161,7 +161,7 @@ Te vais faire un heureux.
 -*who_suson
 Lequel des deux....
 
--*who_mathurinetcolin
+-*who_mathurin_colin
 Aimes tu mieux ?
 
 -*who_colin
@@ -211,7 +211,7 @@ J'aurai sa foi.
 Oh ! Je le crois,
 Ce sera moi ?
 
--*who_mathurinetcolin
+-*who_mathurin_colin
 Décide-toi.
 
 -*who_alison
@@ -868,7 +868,7 @@ C'est fait ; allons vite chez le notaire.
 -*who_mathurin
 Ne faisons qu'une seule noce pour nous quatre, et vive le joie.
 
--*who_ensemble
+-*who_suson_alison_colin_mathurin
 Tu m'obtiens,
 Je t'obtiens.
 Mes plaisirs sont les tiens :
@@ -879,7 +879,7 @@ Sont dans nos liens.
 
 VAUDEVILLE.
 
--*who_ensemble
+-*who_suson_alison_colin_mathurin
 Une fille à dix-huit ans
 A de la prudence,
 Sur le choix de ses amants

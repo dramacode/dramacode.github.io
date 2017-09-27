@@ -550,7 +550,7 @@
             <l n="385" part="I" xml:id="l385">N’obéirez-vous point ?</l>
           </sp>
           <sp who="ALEXIS">
-            <l n="385" part="m" xml:id="l385">Non, seigneur.</l>
+            <l n="385" part="M">Non, seigneur.</l>
           </sp>
           <sp who="NICÉPHORE">
             <l n="385" part="F">C’est assez.</l>
@@ -685,7 +685,7 @@
             <l n="459" part="I" xml:id="l459">Ils sont aux mains ; rentrez.</l>
           </sp>
           <sp who="IRÈNE">
-            <l n="459" part="m" xml:id="l459">Et mon père ?</l>
+            <l n="459" part="M">Et mon père ?</l>
           </sp>
           <sp who="ZOÉ">
             <l n="459" part="F">Il arrive ;</l>

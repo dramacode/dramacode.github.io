@@ -4,13 +4,13 @@
       <titleStmt>
         <title>Vercingentorixe</title>
         <title type="sub">, tragédie.</title>
-        <author born="1747" born_location="Paris" death="1789" death_location="Bavière" academie="">
+        <author academie="" born="1747" born_location="Paris" death="1789" death_location="Bavière">
           <surname>Bievre</surname>
           <forename> François George Maréchal, marquis de</forename>
         </author>
       </titleStmt>
       <publicationStmt>
-        <p>publié par Paul FIEVRE mars  2006</p>
+        <p>publié par Paul FIEVRE mars 2006</p>
         <idno/>
       </publicationStmt>
       <sourceDesc>
@@ -39,18 +39,18 @@
       </langUsage>
       <textClass>
         <keywords>
-          <term type="genre" subtype="tragedy">Tragédie</term>
+          <term subtype="tragedy" type="genre">Tragédie</term>
         </keywords>
       </textClass>
     </profileDesc>
   </teiHeader>
   <text>
     <body>
-      <div1 xml:id="I" type="act" n="1">
+      <div1 n="1" type="act" xml:id="I">
         <head/>
-        <div2 xml:id="I01" type="scene" n="1">
+        <div2 n="1" type="scene" xml:id="I01">
           <head>SCÈNE PREMIÈRE. Vercingentorixe, environné de ses officiers, tient un conseil de guerre, Conutodun, Catuat, Convictolitan sont assis à sa droite, Éporédorixe, Cotus et Critognat sont assis à sa gauche.<listPerson type="configuration" xml:id="conf1"/></head>
-          <sp xml:id="I01-1" who="VERCINGENTORIXE">
+          <sp who="VERCINGENTORIXE" xml:id="I01-1">
             <l n="1" xml:id="l1">Dans ces lieux à l’anglaise, où ma voix vous amène,</l>
             <l n="2" xml:id="l2">Il faut de nos malheurs rompre le cours la reine.</l>
             <l n="3" xml:id="l3">Amis, vous dont l’esprit est plus mûr mitoyen,</l>
@@ -70,7 +70,7 @@
             <l n="17" xml:id="l17">Parlez, Conutodun ; vous Éporédorixe,</l>
             <l n="18" xml:id="l18">Vous répondrez ensuite à Vercingentorixe.</l>
           </sp>
-          <sp xml:id="I01-2" who="CONUTODUN">
+          <sp who="CONUTODUN" xml:id="I01-2">
             <l n="19" xml:id="l19">C’est à mon chef Saint-Jean que ma bouche de four</l>
             <l n="20" xml:id="l20">Ose dévoiler tout de point en point du jour.</l>
             <l n="21" xml:id="l21">Je sais bien viager que le secours approche,</l>
@@ -90,19 +90,19 @@
             <l n="35" xml:id="l35">Et ne leur faisons point de quartier de soulier,</l>
             <l n="36" xml:id="l36">Périssons ou vengeons les Gaules d’écuyer.</l>
           </sp>
-          <sp xml:id="I01-3" who="EPOREDORIXE">
+          <sp who="EPOREDORIXE" xml:id="I01-3">
             <l n="37" xml:id="l37">C’est mon avis, seigneur, et mon coeur de laitue...</l>
           </sp>
-          <sp xml:id="I01-4" who="VERCINGENTORIXE">
-            <l n="38" xml:id="l38" part="I">Vous, Catuat, parlez.</l>
+          <sp who="VERCINGENTORIXE" xml:id="I01-4">
+            <l n="38" part="I" xml:id="l38">Vous, Catuat, parlez.</l>
           </sp>
-          <sp xml:id="I01-5" who="CATUAT">
+          <sp who="CATUAT" xml:id="I01-5">
             <l part="F">Seigneur, ce point de vue</l>
             <l n="39" xml:id="l39">Mérite un examen plus clair de procureur;</l>
             <l n="40" xml:id="l40">Le secours ne vient point et César est vainqueur;</l>
             <l n="41" xml:id="l41">Le meilleur parti... peut-être est de se rendre.</l>
           </sp>
-          <sp xml:id="I01-6" who="CRITOGNAT">
+          <sp who="CRITOGNAT" xml:id="I01-6">
             <l n="42" xml:id="l42">Vous, Catuat, ô ciel ! seigneur, daignez m’entendre;</l>
             <l n="43" xml:id="l43">Non, je ne puis souffrir ni ce plan de maison,</l>
             <l n="44" xml:id="l44">Ni le noble dessein à la mine de plomb,</l>
@@ -131,43 +131,43 @@
             <l n="67" xml:id="l67">D’asservir sous leurs lois un peuple généreux,</l>
             <l n="68" xml:id="l68">Et sur le sol dièse où régnaient vos aïeux.</l>
           </sp>
-          <sp xml:id="I01-7" who="CONVICTOLITAN">
+          <sp who="CONVICTOLITAN" xml:id="I01-7">
             <l n="69" xml:id="l69">Oui, nous sommes, Seigneur, si bas de Ségovie,</l>
             <l n="70" xml:id="l70">Qu’un remède d’eau chaude utile à la patrie</l>
-            <l n="71" xml:id="l71" part="I">Ne peut trop s’acheter.</l>
+            <l n="71" part="I" xml:id="l71">Ne peut trop s’acheter.</l>
           </sp>
-          <sp xml:id="I01-8" who="VERCINGENTORIXE">
+          <sp who="VERCINGENTORIXE" xml:id="I01-8">
             <l part="M">Eh bien ?</l>
           </sp>
         </div2>
-        <div2 xml:id="I02" type="scene" n="2">
+        <div2 n="2" type="scene" xml:id="I02">
           <head>SCÈNE II. Les Précédents, Sylvie.<listPerson type="configuration" xml:id="conf2"/></head>
-          <sp xml:id="I02-1" who="SYLVIE">
+          <sp who="SYLVIE" xml:id="I02-1">
             <l part="F">Ciel ! de mon lit,</l>
             <l n="72" xml:id="l72">Prenez garde malade, ô prince ! On vous trahit :</l>
-            <l n="73" xml:id="l73" part="I">C’est Éporédorixe.</l>
+            <l n="73" part="I" xml:id="l73">C’est Éporédorixe.</l>
           </sp>
-          <sp xml:id="I02-2" who="EPOREDORIXE">
+          <sp who="EPOREDORIXE" xml:id="I02-2">
             <l part="M">Ah ! Seigneur !</l>
           </sp>
-          <sp xml:id="I02-3" who="SYLVIE">
+          <sp who="SYLVIE" xml:id="I02-3">
             <l part="F">Oui, barbare,</l>
             <l n="74" xml:id="l74">Tu croyais m’abuser par ton air de guitare;</l>
             <l n="75" xml:id="l75">Mais plus que toi, Sylvie est adroite en entrant.</l>
           </sp>
-          <sp xml:id="I02-4" who="VERCINGENTORIXE">
+          <sp who="VERCINGENTORIXE" xml:id="I02-4">
             <l n="76" xml:id="l76">Qu’à nos corps épuisés il serve d’aliment :</l>
             <l n="77" xml:id="l77">Soldats, obéissez à mon ordre ionique;</l>
             <l n="78" xml:id="l78">Qu’on apporte en ces lieux ma table alphabétique.</l>
           </sp>
         </div2>
-        <div2 xml:id="I03" type="scene" n="3">
+        <div2 n="3" type="scene" xml:id="I03">
           <head>SCÈNE III. Les précédents, un soldat.<listPerson type="configuration" xml:id="conf3"/></head>
-          <sp xml:id="I03-1" who="SOLDAT">
+          <sp who="UNSOLDAT" xml:id="I03-1">
             <l n="79" xml:id="l79">Seigneur, je voudrais bien vous celer et brider</l>
-            <l n="80" xml:id="l80" part="I">Que...</l>
+            <l n="80" part="I" xml:id="l80">Que...</l>
           </sp>
-          <sp xml:id="I03-2" who="VERCINGENTORIXE">
+          <sp who="VERCINGENTORIXE" xml:id="I03-2">
             <l part="F">Cours de botanique, et fais tout décider.</l>
             <l n="81" xml:id="l81">Madame, pardonnez, je souffre d’allumette,</l>
             <l n="82" xml:id="l82">En m’éloignant de vous, mais l’état de mes dettes</l>
@@ -175,57 +175,57 @@
             <l n="84" xml:id="l84">Il est bien temps d’arrêt de lui montrer son roi.</l>
           </sp>
         </div2>
-        <div2 xml:id="I04" type="scene" n="4">
+        <div2 n="4" type="scene" xml:id="I04">
           <head>SCÈNE IV. Sylvie, Convictolitan.<listPerson type="configuration" xml:id="conf4"/></head>
-          <sp xml:id="I04-1" who="SYLVIE">
-            <l n="85" xml:id="l85" part="I">Cher Convictolitan !</l>
+          <sp who="SYLVIE" xml:id="I04-1">
+            <l n="85" part="I" xml:id="l85">Cher Convictolitan !</l>
           </sp>
-          <sp xml:id="I04-2" who="CONVICTOLITAN">
+          <sp who="CONVICTOLITAN" xml:id="I04-2">
             <l part="F">Ô ma chère Sylvie !</l>
             <l n="86" xml:id="l86">Je vole dans la poche au secours d’Alexie.</l>
           </sp>
-          <sp xml:id="I04-3" who="SYLVIE">
+          <sp who="SYLVIE" xml:id="I04-3">
             <l n="87" xml:id="l87">Qu’avez-vous au plus fort ? Assuré d’être aimé,</l>
             <l n="88" xml:id="l88">Vos yeux, ces si beaux yeux, sont éteints rétamé;</l>
             <l n="89" xml:id="l89">Vous n’avez plus cet air serein de Canarie.</l>
             <l n="90" xml:id="l90">Quoi ! vous me préférez votre ingrate patrie ?</l>
             <l n="91" xml:id="l91">Ne peut-on vivre heureux sans elle de dindon ?</l>
           </sp>
-          <sp xml:id="I04-4" who="CONVICTOLITAN">
+          <sp who="CONVICTOLITAN" xml:id="I04-4">
             <l n="92" xml:id="l92">Ah ! Cessez d’arrêter mes pas de rigaudon;</l>
             <l n="93" xml:id="l93">Je vois trop de cheval ce qui cause vos peines;</l>
             <l n="94" xml:id="l94">Mais ce sang de marron qui circule en mes veines,</l>
             <l n="95" xml:id="l95">Doit couler pour la ville où je suis né morveux.</l>
           </sp>
-          <sp xml:id="I04-5" who="SYLVIE">
+          <sp who="SYLVIE" xml:id="I04-5">
             <l n="96" xml:id="l96">Va, nous savons de Naples où tu portes tes voeux ;</l>
-            <l n="97" xml:id="l97" part="I">Pars de gâteau, cruel ! Laisse-moi.</l>
+            <l n="97" part="I" xml:id="l97">Pars de gâteau, cruel ! Laisse-moi.</l>
           </sp>
-          <sp xml:id="I04-6" who="CONVICTOLITAN">
+          <sp who="CONVICTOLITAN" xml:id="I04-6">
             <l part="F">Non, Sylvie ;</l>
             <l n="98" xml:id="l98">Votre coeur d’opéra fait toute mon envie :</l>
             <l n="99" xml:id="l99">Je méritais plutôt d’être plaint comme un oeuf :</l>
             <l n="100" xml:id="l100">Pourquoi ce ton salé ? prenez un air de boeuf.</l>
             <l n="101" xml:id="l101">Qui ne redouble point mes maux à double entente.</l>
           </sp>
-          <sp xml:id="I04-7" who="SYLVIE">
+          <sp who="SYLVIE" xml:id="I04-7">
             <l n="102" xml:id="l102">Pardonne au feu grégeois dont brûle ton amante :</l>
             <l n="103" xml:id="l103">Hélas ! je sens mauvais ce que tu fais pour moi.</l>
           </sp>
-          <sp xml:id="I04-8" who="CONVICTOLITAN">
-            <l n="104" xml:id="l104" part="I">Voulais-tu m’éprouver ?</l>
+          <sp who="CONVICTOLITAN" xml:id="I04-8">
+            <l n="104" part="I" xml:id="l104">Voulais-tu m’éprouver ?</l>
           </sp>
-          <sp xml:id="I04-9" who="SYLVIE">
+          <sp who="SYLVIE" xml:id="I04-9">
             <l part="M">Non propre.</l>
           </sp>
-          <sp xml:id="I04-10" who="CONVICTOLITAN">
+          <sp who="CONVICTOLITAN" xml:id="I04-10">
             <l part="F">Eh bien ! Pourquoi</l>
             <l n="105" xml:id="l105">Souiller nos noeuds coulants par une erreur cruelle ?</l>
             <l n="106" xml:id="l106">Notre chaîne de montre est si forte et si belle !</l>
             <l n="107" xml:id="l107">Tu me seras toujours chère de professeur :</l>
-            <l n="108" xml:id="l108" part="I">Oui, toujours.</l>
+            <l n="108" part="I" xml:id="l108">Oui, toujours.</l>
           </sp>
-          <sp xml:id="I04-11" who="SYLVIE">
+          <sp who="SYLVIE" xml:id="I04-11">
             <l part="F">Je t’entends, j’admire ta valeur;</l>
             <l n="109" xml:id="l109">Ne soit point de côté dans la froideur stoïque,</l>
             <l n="110" xml:id="l110">Tout parti par le coche est toujours héroïque,</l>
@@ -237,7 +237,7 @@
             <l n="116" xml:id="l116">Et dans le sein des arts de ce siècle grossier,</l>
             <l n="117" xml:id="l117">Nous vivrons tous les deux à l’abri champenoise.</l>
           </sp>
-          <sp xml:id="I04-12" who="CONVICTOLITAN">
+          <sp who="CONVICTOLITAN" xml:id="I04-12">
             <l n="118" xml:id="l118">Je ne puis très profond vivre sans toi d’ardoise :</l>
             <l n="119" xml:id="l119">Mais ne dois-pas rendre un compte de Grécourt</l>
             <l n="120" xml:id="l120">De la place de fiacre on m’a nommé la cour ?</l>
@@ -249,46 +249,46 @@
             <l n="126" xml:id="l126">Pour être de raison aussi grand que Sylvie.</l>
           </sp>
         </div2>
-        <div2 xml:id="I05" type="scene" n="5">
+        <div2 n="5" type="scene" xml:id="I05">
           <head>SCÈNE V. Les précécent, Critognat.<listPerson type="configuration" xml:id="conf5"/></head>
-          <sp xml:id="I05-1" who="CRITOGNAT">
+          <sp who="CRITOGNAT" xml:id="I05-1">
             <l n="127" xml:id="l127">C’est trop livrer vos coeurs à ce combat naval;</l>
             <l n="128" xml:id="l128">L’amour dans ce héros est un vice-amiral,</l>
             <l n="129" xml:id="l129">Lorsqu’il doit de la main défendre sa patrie.</l>
-            <l n="130" xml:id="l130" part="I">Viens, Convictolitan.</l>
+            <l n="130" part="I" xml:id="l130">Viens, Convictolitan.</l>
           </sp>
-          <sp xml:id="I05-2" who="CONVICTOLITAN">
+          <sp who="CONVICTOLITAN" xml:id="I05-2">
             <l part="F">Vous venez de l’entendre...</l>
-            <l n="131" xml:id="l131" part="I">Je te suis, Critognat... Dieux !</l>
+            <l n="131" part="I" xml:id="l131">Je te suis, Critognat... Dieux !</l>
           </sp>
-          <sp xml:id="I05-3" who="SYLVIE">
+          <sp who="SYLVIE" xml:id="I05-3">
             <l part="F">Tu n’oublieras pas</l>
             <l n="132" xml:id="l132">Ta maîtresse à chanter dans l’horreur des combats ?</l>
           </sp>
-          <sp xml:id="I05-4" who="CONVICTOLITAN">
+          <sp who="CONVICTOLITAN" xml:id="I05-4">
             <l n="133" xml:id="l133">L’amour va m’y conduire, et par sa main divine,</l>
             <l n="134" xml:id="l134">Ton image en mon coeur sera peinte ou chopine.</l>
           </sp>
-          <sp xml:id="I05-5" who="SYLVIE">
+          <sp who="SYLVIE" xml:id="I05-5">
             <l n="135" xml:id="l135">Je suis remise au mois par cet espoir charmant.</l>
-            <l n="136" xml:id="l136" part="I">Adieu...</l>
+            <l n="136" part="I" xml:id="l136">Adieu...</l>
           </sp>
-          <sp xml:id="I05-6" who="CONVICTOLITAN">
+          <sp who="CONVICTOLITAN" xml:id="I05-6">
             <l part="M">Je pars...</l>
           </sp>
-          <sp xml:id="I05-7" who="SYLVIE">
+          <sp who="SYLVIE" xml:id="I05-7">
             <l part="M">Eh bien !</l>
           </sp>
-          <sp xml:id="I05-8" who="CONVICTOLITAN">
+          <sp who="CONVICTOLITAN" xml:id="I05-8">
             <l part="M">Sylvie !...</l>
           </sp>
-          <sp xml:id="I05-9" who="SYLVIE">
+          <sp who="SYLVIE" xml:id="I05-9">
             <l part="F">Ah ! Quel moment !</l>
           </sp>
         </div2>
-        <div2 xml:id="I06" type="scene" n="6">
+        <div2 n="6" type="scene" xml:id="I06">
           <head>SCÈNE VI.<listPerson type="configuration" xml:id="conf6"/></head>
-          <sp xml:id="I06-1" who="SYLVIE">
+          <sp who="SYLVIE" xml:id="I06-1">
             <l n="137" xml:id="l137">Ah ! Nous attendrissons les cieux de mon carrosse.</l>
             <l n="138" xml:id="l138">Quel serait l’avenir, si le présent de noce</l>
             <l n="139" xml:id="l139">Nous réduit solitaire à tant d’affreux tourments...</l>
@@ -310,60 +310,60 @@
             <l n="155" xml:id="l155">Une secrète horreur me glace au chocolat...</l>
           </sp>
         </div2>
-        <div2 xml:id="I07" type="scene" n="7">
+        <div2 n="7" type="scene" xml:id="I07">
           <head>SCÈNE VII. Vercingentorixe, Critognat, Conutodun, Catuat, Cotus, Sylvie, Gardes.<listPerson type="configuration" xml:id="conf7"/></head>
-          <sp xml:id="I07-1" who="VERCINGENTORIXE">
+          <sp who="VERCINGENTORIXE" xml:id="I07-1">
             <l n="156" xml:id="l156">Princesse, il fut un temps où les grâces d’état,</l>
             <l n="157" xml:id="l157">Les ris de veau jouaient autour de ma couronne.</l>
             <l n="158" xml:id="l158">Les jeux de main alors embellissaient mon trône</l>
             <l n="159" xml:id="l159">Il plut à verse aux dieux de m’enlever ces biens...</l>
             <l n="160" xml:id="l160">Hélas ! Sans eux brouillés que peuvent les humains ?</l>
             <l n="161" xml:id="l161">Vous, soldats, avancez la table des matières.</l>
-            <l n="162" xml:id="l162" part="I">C’est votre place aux veaux.</l>
+            <l n="162" part="I" xml:id="l162">C’est votre place aux veaux.</l>
             <l part="F">Oublions nos misères.</l>
           </sp>
-          <sp xml:id="I07-2" who="SYLVIE">
+          <sp who="SYLVIE" xml:id="I07-2">
             <l n="163" xml:id="l163">Mais Convictolitan ne paraît point fermé.</l>
-            <l n="164" xml:id="l164" part="I">Je tremble.</l>
+            <l n="164" part="I" xml:id="l164">Je tremble.</l>
           </sp>
-          <sp xml:id="I07-3" who="CRITOGNAT">
+          <sp who="CRITOGNAT" xml:id="I07-3">
             <l part="M">Il va venir.</l>
             <l part="F">Je reste inanimé !...</l>
           </sp>
-          <sp xml:id="I07-4" who="VERCINGENTORIXE">
+          <sp who="VERCINGENTORIXE" xml:id="I07-4">
             <l n="165" xml:id="l165">Voici ce corps de chasse où logeaient tous les vices.</l>
             <l n="166" xml:id="l166">Consolons-nous, amis, reprenons nos sens suisses.</l>
-            <l n="167" xml:id="l167" part="I">Vous, Madame, damée.</l>
+            <l n="167" part="I" xml:id="l167">Vous, Madame, damée.</l>
           </sp>
-          <sp xml:id="I07-5" who="SYLVIE">
+          <sp who="SYLVIE" xml:id="I07-5">
             <l part="M">Ah ! Seigneur.</l>
           </sp>
-          <sp xml:id="I07-6" who="VERCINGENTORIXE">
+          <sp who="VERCINGENTORIXE" xml:id="I07-6">
             <l part="F">Catuat...</l>
-            <l n="168" xml:id="l168" part="I">Cotus... Conutodun...</l>
+            <l n="168" part="I" xml:id="l168">Cotus... Conutodun...</l>
           </sp>
-          <sp xml:id="I07-7" who="CONUTODUN">
+          <sp who="CONUTODUN" xml:id="I07-7">
             <l part="M">Ah ! Prince.</l>
           </sp>
-          <sp xml:id="I07-8" who="VERCINGENTORIXE">
+          <sp who="VERCINGENTORIXE" xml:id="I07-8">
             <l part="F">Critognat...</l>
             <l n="169" xml:id="l169">Dieux ! Je sens fermenter la brûlante amertume...</l>
             <l n="170" xml:id="l170">L’amour dans ces plats pieds est-ce ton sang qui fume</l>
             <l n="171" xml:id="l171">Hélas ! Sous ces couteaux tranchants du grand seigneur</l>
             <l n="172" xml:id="l172">Si ces lambeaux épars... O soupçons pleins d’horreur !</l>
           </sp>
-          <sp xml:id="I07-9" who="VERCINGENTORIXE">
+          <sp who="VERCINGENTORIXE" xml:id="I07-9">
             <l n="173" xml:id="l173">Eh quoi ! Je participe à vos vives alarmes,</l>
             <l n="174" xml:id="l174">Et ne puis souterrain commander à mes larmes...</l>
-            <l n="175" xml:id="l175" part="I">Critognat ne dis rien...</l>
+            <l n="175" part="I" xml:id="l175">Critognat ne dis rien...</l>
           </sp>
-          <sp xml:id="I07-10" who="CRITOGNAT">
+          <sp who="CRITOGNAT" xml:id="I07-10">
             <l part="F">Je pense mon cheval.</l>
           </sp>
-          <sp xml:id="I07-11" who="VERCINGENTORIXE">
+          <sp who="VERCINGENTORIXE" xml:id="I07-11">
             <l n="176" xml:id="l176">Romps en visière, ami, ce silence fatal.</l>
           </sp>
-          <sp xml:id="I07-12" who="CRITOGNAT">
+          <sp who="CRITOGNAT" xml:id="I07-12">
             <l n="177" xml:id="l177">Je voulais vous cacher une action des fermes,</l>
             <l n="178" xml:id="l178">Qui pourrait accabler les âmes les plus fermes;</l>
             <l n="179" xml:id="l179">Vous l’ordonnez, seigneur, je me livre tournois :</l>
@@ -397,13 +397,13 @@
             <l n="207" xml:id="l207">La tête du héros près du corps de logis</l>
             <l n="208" xml:id="l208">Du traître dont par vous les jours furent proscrits.</l>
           </sp>
-          <sp xml:id="I07-13" who="VERCINGENTORIXE">
+          <sp who="VERCINGENTORIXE" xml:id="I07-13">
             <l n="209" xml:id="l209">Ami, tout mon courage est à bout de chandelle.</l>
           </sp>
-          <sp xml:id="I07-14" who="SYLVIE">
-            <l n="210" xml:id="l210" part="I">Ah ! b, c, d...</l>
+          <sp who="SYLVIE" xml:id="I07-14">
+            <l n="210" part="I" xml:id="l210">Ah ! b, c, d...</l>
           </sp>
-          <sp xml:id="I07-15" who="CRITOGNAT">
+          <sp who="CRITOGNAT" xml:id="I07-15">
             <l part="F">Seigneur, la suite est plus cruelle.</l>
             <l n="211" xml:id="l211">Le même garde meuble à côté du héros,</l>
             <l n="212" xml:id="l212">Met la tête de clou de l’auteur de nos maux,</l>
@@ -411,10 +411,10 @@
             <l n="214" xml:id="l214">On préparait déjà cette pompe aspirante</l>
             <l n="215" xml:id="l215">Que l’on croyait devoir à ses mânes d’osier.</l>
           </sp>
-          <sp xml:id="I07-16" who="SYLVIE">
-            <l n="216" xml:id="l216" part="I">Oh ! p, q...</l>
+          <sp who="SYLVIE" xml:id="I07-16">
+            <l n="216" part="I" xml:id="l216">Oh ! p, q...</l>
           </sp>
-          <sp xml:id="I07-17" who="CRITOGNAT">
+          <sp who="CRITOGNAT" xml:id="I07-17">
             <l part="F">J’avais bien juré comme un charretier</l>
             <l n="217" xml:id="l217">Mais c’était en vain points d’arrêter un échange,</l>
             <l n="218" xml:id="l218">Devant causer tout haut quelque méprise étrange,</l>
@@ -425,47 +425,47 @@
             <l n="223" xml:id="l223">Et que sa cendre chaude est couverte de pleurs...</l>
             <l n="224" xml:id="l224">Et dans ces plats pays... Ô comble des horreurs !</l>
           </sp>
-          <sp xml:id="I07-18" who="VERCINGENTORIXE">
-            <l n="225" xml:id="l225" part="I">Dieux ! Convictolitan !</l>
+          <sp who="VERCINGENTORIXE" xml:id="I07-18">
+            <l n="225" part="I" xml:id="l225">Dieux ! Convictolitan !</l>
           </sp>
-          <sp xml:id="I07-19" who="CRITOGNAT">
+          <sp who="CRITOGNAT" xml:id="I07-19">
             <l part="M">Oui, Seigneur.</l>
           </sp>
-          <sp xml:id="I07-20" who="VERCINGENTORIXE">
+          <sp who="VERCINGENTORIXE" xml:id="I07-20">
             <l part="F">Ah ! mon frère.</l>
           </sp>
-          <sp xml:id="I07-21" who="CONUTODUN_CATUAT">
-            <l n="226" xml:id="l226" part="I">Cher ami !</l>
+          <sp who="CONUTODUN CATUAT" xml:id="I07-21">
+            <l n="226" part="I" xml:id="l226">Cher ami !</l>
           </sp>
-          <sp xml:id="I07-22" who="SYLVIE">
+          <sp who="SYLVIE" xml:id="I07-22">
             <l part="M">Cher amant !</l>
           </sp>
-          <sp xml:id="I07-23" who="VERCINGENTORIXE">
+          <sp who="VERCINGENTORIXE" xml:id="I07-23">
             <l part="F">En faisant de bruyère</l>
             <l n="227" xml:id="l227">Ce qu’a fait Critognat, je m’acquitte envers toi !</l>
-            <l n="228" xml:id="l228" part="I">Dans tes bras séculiers reçois ton frère.</l>
+            <l n="228" part="I" xml:id="l228">Dans tes bras séculiers reçois ton frère.</l>
           </sp>
-          <sp xml:id="I07-24" who="CONUTODUN">
+          <sp who="CONUTODUN" xml:id="I07-24">
             <l part="F">Et moi</l>
             <l n="229" xml:id="l229">Je ne veux sur leurs pas d’autres guides de laine.</l>
           </sp>
-          <sp xml:id="I07-25" who="CATUAT">
+          <sp who="CATUAT" xml:id="I07-25">
             <l n="230" xml:id="l230">Ah ! De votre main d’oeuvre, ami, guidez la mienne.</l>
           </sp>
-          <sp xml:id="I07-26" who="CONUTODUN">
-            <l n="231" xml:id="l231" part="I">Et le courage, ami.</l>
+          <sp who="CONUTODUN" xml:id="I07-26">
+            <l n="231" part="I" xml:id="l231">Et le courage, ami.</l>
           </sp>
-          <sp xml:id="I07-27" who="CATUAT">
+          <sp who="CATUAT" xml:id="I07-27">
             <l part="M">L’avez-vous les pieds ?</l>
           </sp>
-          <sp xml:id="I07-28" who="CONUTODUN">
+          <sp who="CONUTODUN" xml:id="I07-28">
             <l part="F">Non.</l>
           </sp>
-          <sp xml:id="I07-29" who="CATUAT">
+          <sp who="CATUAT" xml:id="I07-29">
             <l n="232" xml:id="l232">Ne me refusez point; car de conversion,</l>
             <l n="233" xml:id="l233">Vous me rendrez enfin un service de table.</l>
           </sp>
-          <sp xml:id="I07-30" who="SYLVIE">
+          <sp who="SYLVIE" xml:id="I07-30">
             <l n="234" xml:id="l234">Pour moi, quand mes flancs d’oeufs dans ce jour déplorable,</l>
             <l n="235" xml:id="l235">Ont reçu quittance le cors de mon amant,</l>
             <l n="236" xml:id="l236">Le mien ne sera point souillé par le fer blanc.</l>

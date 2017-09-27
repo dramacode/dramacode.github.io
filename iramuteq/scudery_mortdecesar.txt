@@ -2,7 +2,8 @@
 
 **** *book_ *id_1 *act_P
 
--*who_le_tibre
+-*who_letibre
+
 
 J'ai traversé les flots amers
 De deux fières et vastes mers,
@@ -39,7 +40,8 @@ Mais quelques ornements qu'il y puisse employer,
 Je ne fais que payer
 Un tribut que te doit le Danube et le Gange.
 
--*who_la_seine
+-*who_laseine
+
 
 Sois plus juste en ce compliment,
 Fais mieux agir ton jugement,
@@ -110,7 +112,8 @@ Tarde un peu sur mes bords, ou pour se réjouir,
 Je veux te faire ouïr
 Tout un peuple ravi de voir ta République.
 
--*who_le_tibre
+-*who_letibre
+
 
 S'il te plaît, j'y suis résolu ;
 Ton commandement absolu
@@ -119,7 +122,8 @@ Plongeons nous sou les flots qui craigne ton pouvoir
 Trop heureux de t'y voir,
 J'oublierai si tu veux le lieu de ma naissance.
 
--*who_la_seine
+-*who_laseine
+
 
 Nos pays ne souffrent pas ;
 Le sort appelle ailleurs tes pas ;
@@ -1750,7 +1754,7 @@ Souffrez-moi de mêler ce sang avec mes larmes :
 Et si quelque pitié règne en vos cœurs pour moi,
 Gardez bien d'en avoir, de ces hommes sans foi.
 
--*who_un_citoyen
+-*who_uncitoyen
 D'une lâche pitié nos cœurs sont incapables :
 Qui défend les méchants, est au rang des coupables :
 Allons, allons changer ce discours en effets ;
@@ -1758,7 +1762,7 @@ Et de ce même feu consumer leurs palais.
 
 **** *book_ *id_V7 *act_V
 
--*who_un_autre_citoyen
+-*who_unautrecitoyen
 Sénateurs, apprenez la plus grande merveille,
 Qui peut-être jamais ait frappé votre oreille :
 Hier au soir ennuyé de voir tant de méchants,

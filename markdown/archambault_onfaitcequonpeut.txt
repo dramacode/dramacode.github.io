@@ -24,7 +24,7 @@ Représentée au Théâtre des Variétés amusantes en 1779.
  – UN VALET ALLEMAND, et sourd.
  – LE BEAU LÉANDRE.
  – MONSIEUR POINTU, ivre. Joués par le même.
- – MADME POINTU, bègue.
+ – MADAME POINTU, bègue.
  – L'ABBÉ, Petit Maître.
  – LE COMMISSAIRE.
  – LE FIACRE, joués par M. Volage.La Scène est dans le Salon de Monsieur Franville.
@@ -1165,7 +1165,7 @@ Comme il va pour sortir, il est arrêté par le Commissaire qui entre.
 
 
 
-## SCÈˆNE XIV ET DERNIÈRE. Franville, Un Commissaire, en robe.
+## SCÈNE XIV ET DERNIÈRE. Franville, Un Commissaire, en robe.
 
     LE COMMISSAIRE.
 Qu'est-ce que c'est donc, Monsieur, qu'est-ce que c'est donc ? L'on me fait des plaintes contre vous.

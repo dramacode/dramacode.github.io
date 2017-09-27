@@ -428,6 +428,7 @@ CREATE INDEX play_setcode ON play(setcode);
     // pas d’argument, on démarre sur les valeurs par défaut
     if (!count($_SERVER['argv'])) {
       $base = new Dramacode($sqlite, STDERR);
+      $filelist = array();
       foreach(self::$sets as $setcode=>$setrow) {
         echo $setcode."\n";
         if (!is_array( $setrow['glob'] )) $setrow['glob']=array( $setrow['glob'] );
@@ -435,9 +436,11 @@ CREATE INDEX play_setcode ON play(setcode);
           foreach( glob($glob) as $file ) {
             // attention au "livret" de Molière
             if ( strpos( $file, "-livret") !== false ) continue;
-            // Théatre classique, priorité inférieure aux autres collections
-            if ( $setcode == 'tc' ) $base->add( $file, $setcode, -1 );
-            else $base->add( $file, $setcode);
+            $filename = basename( $file );
+            // first win
+            if ( isset( $filelist[$filename] ) ) continue;
+            $filelist[$filename] = true;
+            $base->add( $file, $setcode);
           }
         }
       }

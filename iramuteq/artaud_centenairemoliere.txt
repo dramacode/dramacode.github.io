@@ -1938,7 +1938,7 @@ Ma foi, louer, chanter, n'est pas mon caractère ;
 Mais j'y veux déroger, seulement pour Molière.
 Au surplus, je ne sais qu'un air.
 
--*who_momus,monsieurjourdain
+-*who_momus_monsieurjourdain
 Chantez, chantez toujours.
 
 -*who_alceste

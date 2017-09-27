@@ -251,7 +251,7 @@
             <l n="130" xml:id="l130">Il alla pour les battre, et qu’il en fut battu.</l>
           </sp>
           <sp xml:id="I03-4" who="FADEZE">
-            <l n="131 part='i'" xml:id="l131 part='i'">C’est qu’il eut du malheur.</l>
+            <l n="131" part="I" xml:id="l131">C’est qu’il eut du malheur.</l>
           </sp>
           <sp xml:id="I03-5" who="LALZIRE">
             <l part="F">Il y perdit la vie.</l>

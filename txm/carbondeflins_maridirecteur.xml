@@ -4,7 +4,7 @@
       <titleStmt>
         <title>Le mari directeur ou le déménagement du couvent</title>
         <title type="sub">, comédie en un acte et en vers libres.</title>
-        <author born="1757" born_location="Reims" death="1806" death_location="Vervins" academie="">
+        <author academie="" born="1757" born_location="Reims" death="1806" death_location="Vervins">
           <surname>Carbon de flins</surname>
           <forename> Claude de</forename>
         </author>
@@ -39,69 +39,69 @@
       </langUsage>
       <textClass>
         <keywords>
-          <term type="genre" subtype="comedy">Comédie</term>
+          <term subtype="comedy" type="genre">Comédie</term>
         </keywords>
       </textClass>
     </profileDesc>
   </teiHeader>
   <text>
     <body>
-      <div1 xml:id="I" type="act" n="1">
+      <div1 n="1" type="act" xml:id="I">
         <head/>
-        <div2 xml:id="I01" type="scene" n="1">
-          <head>SCÈNE PREMIÈRE. L’Abbesse, Soeur Pétronille,  Soeur Appoline, Soeur Eudalie, Agnès, Thétime, La Tourrière, Gabriel coiffé et habillé à l’anglaise, Séraphin coiffé et habillé à la française, Religieuses.<listPerson type="configuration" xml:id="conf1"/></head>
-          <sp xml:id="I01-1" who="GABRIEL">
-            <l n="1" xml:id="l1" part="I">Pourquoi me fuyez-vous ?</l>
+        <div2 n="1" type="scene" xml:id="I01">
+          <head>SCÈNE PREMIÈRE. L’Abbesse, Soeur Pétronille, Soeur Appoline, Soeur Eudalie, Agnès, Thétime, La Tourrière, Gabriel coiffé et habillé à l’anglaise, Séraphin coiffé et habillé à la française, Religieuses.<listPerson type="configuration" xml:id="conf1"/></head>
+          <sp who="GABRIEL" xml:id="I01-1">
+            <l n="1" part="I" xml:id="l1">Pourquoi me fuyez-vous ?</l>
           </sp>
-          <sp xml:id="I01-2" who="LABBESSE">
+          <sp who="LABBESSE" xml:id="I01-2">
             <l part="F">Arrêtez, malheureux.</l>
             <l n="2" xml:id="l2">Ce n’est qu’avec l’horreur que je vous vois tous deux ;</l>
-            <l n="3" xml:id="l3">Vous êtes retourné dans un monde profane  ;</l>
+            <l n="3" xml:id="l3">Vous êtes retourné dans un monde profane ;</l>
             <l n="4" xml:id="l4">Vous avez délié les noeuds les plus sacrée.</l>
           </sp>
-          <sp xml:id="I01-3" who="SERAPHIN">
-            <l n="5" xml:id="l5" part="I">La raison nous absout.</l>
+          <sp who="SERAPHIN" xml:id="I01-3">
+            <l n="5" part="I" xml:id="l5">La raison nous absout.</l>
           </sp>
-          <sp xml:id="I01-4" who="LABBESSE">
+          <sp who="LABBESSE" xml:id="I01-4">
             <l part="F">L’Église vous condamne.</l>
             <l n="6" xml:id="l6">Dans ces lieux saint et retirés</l>
             <l n="7" xml:id="l7">Venez-vous apporter vos coupables maximes ?</l>
           </sp>
-          <sp xml:id="I01-5" who="GABRIEL">
+          <sp who="GABRIEL" xml:id="I01-5">
             <l n="8" xml:id="l8">Nous venons détromper d’innocentes victimes ;</l>
-            <l n="9" xml:id="l9" part="I">Et nous réussirons.</l>
+            <l n="9" part="I" xml:id="l9">Et nous réussirons.</l>
           </sp>
-          <sp xml:id="I01-6" who="LABBESSE">
+          <sp who="LABBESSE" xml:id="I01-6">
             <l part="F">Nous ne redoutons rien;</l>
             <l n="10" xml:id="l10">Nous regardons comme des crimes</l>
             <l n="11" xml:id="l11">Les lois qui de vos voeux ont rompu le lien.</l>
           </sp>
-          <sp xml:id="I01-7" who="PETRONILLE">
+          <sp who="PETRONILLE" xml:id="I01-7">
             <l n="12" xml:id="l12">Oui, notre âme est constante et pure,</l>
             <l n="13" xml:id="l13">Et nous resterons dans ces lieux,</l>
             <l n="14" xml:id="l14">Fidèles aux serments qu’ont entendu les cieux.</l>
           </sp>
-          <sp xml:id="I01-8" who="APPOLINE">
-            <l n="15" xml:id="l15" part="I">Nous le promettons.</l>
+          <sp who="APPOLINE" xml:id="I01-8">
+            <l n="15" part="I" xml:id="l15">Nous le promettons.</l>
           </sp>
-          <sp xml:id="I01-9" who="LATOURRIERE">
+          <sp who="LATOURRIERE" xml:id="I01-9">
             <l part="F">Je le jure.</l>
           </sp>
-          <sp xml:id="I01-10" who="EUDALIE">
+          <sp who="EUDALIE" xml:id="I01-10">
             <l n="16" xml:id="l16">Mais quelle est donc cette coiffure ?</l>
             <l n="17" xml:id="l17">Ah ! Frère Gabriel, qui vous aurait remis,</l>
             <l n="18" xml:id="l18">Avec ces cheveux plats tombants sur vos habits ?</l>
           </sp>
-          <sp xml:id="I01-11" who="GABRIEL">
+          <sp who="GABRIEL" xml:id="I01-11">
             <l n="19" xml:id="l19">Je suis vraiment fâché que cela vous déplaise :</l>
             <l n="20" xml:id="l20">C’est une coiffure à l’anglaise.</l>
             <l n="21" xml:id="l21">Elle est fort à la mode, et rend le cerveau sain ;</l>
             <l n="22" xml:id="l22">On en est levé plus matin.</l>
           </sp>
-          <sp xml:id="I01-12" who="EUDALIE">
+          <sp who="EUDALIE" xml:id="I01-12">
             <l n="23" xml:id="l23">Vous avez donc plus d’une affaire ?</l>
           </sp>
-          <sp xml:id="I01-13" who="GABRIEL">
+          <sp who="GABRIEL" xml:id="I01-13">
             <l n="24" xml:id="l24">Oh ! Je vous en réponds : du parti populaire,</l>
             <l n="25" xml:id="l25">Je suis le plus ferme soutien.</l>
             <l n="26" xml:id="l26">J’avais, quand j’étais bernardin,</l>
@@ -110,14 +110,14 @@
             <l n="29" xml:id="l29">Mais aujourd’hui pour la fortune</l>
             <l n="30" xml:id="l30">Je descends de la chaire et monte à la tribune.</l>
           </sp>
-          <sp xml:id="I01-14" who="EUDALIE">
+          <sp who="EUDALIE" xml:id="I01-14">
             <l n="31" xml:id="l31">Oh ! Frère Séraphin, comme vous voilà fait !</l>
             <l n="32" xml:id="l32">Cette énorme cravate, et ce joli toupet,</l>
             <l n="33" xml:id="l33">Ces cordons, ce petit gilet,</l>
             <l n="34" xml:id="l34">Pour un religieux, semblent bien peu modestes ;</l>
             <l n="35" xml:id="l35">N’en redoutez-vous pas quelques suites funestes ?</l>
           </sp>
-          <sp xml:id="I01-15" who="SERAPHIN">
+          <sp who="SERAPHIN" xml:id="I01-15">
             <l n="36" xml:id="l36">Il faut se conformer à l’état qu’on a pris.</l>
             <l n="37" xml:id="l37">Je chantais assez bien ; pour nos moines ravis,</l>
             <l n="38" xml:id="l38">Ma voix charma souvent la longueur de l’office ;</l>
@@ -125,16 +125,16 @@
             <l n="40" xml:id="l40">Obtenu le bénéfice :</l>
             <l n="41" xml:id="l41">La nation les a tous pris.</l>
           </sp>
-          <sp xml:id="I01-16" who="EUDALIE">
+          <sp who="EUDALIE" xml:id="I01-16">
             <l n="42" xml:id="l42">Vous aviez, il est vrai, la voix douce et touchante.</l>
           </sp>
-          <sp xml:id="I01-17" who="SERAPHIN">
+          <sp who="SERAPHIN" xml:id="I01-17">
             <l n="43" xml:id="l43">J’ai gardé mon goût, et je chante.</l>
           </sp>
-          <sp xml:id="I01-18" who="EUDALIE">
-            <l n="44" xml:id="l44" part="I">Des orémus.</l>
+          <sp who="EUDALIE" xml:id="I01-18">
+            <l n="44" part="I" xml:id="l44">Des orémus.</l>
           </sp>
-          <sp xml:id="I01-19" who="SERAPHIN">
+          <sp who="SERAPHIN" xml:id="I01-19">
             <l part="F">Des opéras.</l>
             <l n="45" xml:id="l45">Jadis, je chantais tristement</l>
             <l n="46" xml:id="l46">Quelque dévote rapsodie ;</l>
@@ -152,25 +152,25 @@
             <l n="58" xml:id="l58">Et suivre tous les goûts du monde ;</l>
             <l n="59" xml:id="l59">Tout change de rôle à présent.</l>
           </sp>
-          <sp xml:id="I01-20" who="LABBESSE">
+          <sp who="LABBESSE" xml:id="I01-20">
             <l n="60" xml:id="l60">Fuyons, fuyons, mes soeurs, et ne l’écoutons pas.</l>
           </sp>
-          <sp xml:id="I01-21" who="PETRONILLE">
-            <l n="61" xml:id="l61" part="I">Monstre !</l>
+          <sp who="PETRONILLE" xml:id="I01-21">
+            <l n="61" part="I" xml:id="l61">Monstre !</l>
           </sp>
-          <sp xml:id="I01-22" who="EUDALIE">
+          <sp who="EUDALIE" xml:id="I01-22">
             <l part="M">Faussaires.</l>
           </sp>
-          <sp xml:id="I01-23" who="APPOLINE">
+          <sp who="APPOLINE" xml:id="I01-23">
             <l part="F">Apostats.</l>
           </sp>
-          <sp xml:id="I01-24" who="AGNES">
-            <l n="62" xml:id="l62" part="I">Vous voyez.</l>
+          <sp who="AGNES" xml:id="I01-24">
+            <l n="62" part="I" xml:id="l62">Vous voyez.</l>
           </sp>
-          <sp xml:id="I01-25" who="THEOTIME">
+          <sp who="THEOTIME" xml:id="I01-25">
             <l part="M">Attendons.</l>
           </sp>
-          <sp xml:id="I01-26" who="PETRONILLE">
+          <sp who="PETRONILLE" xml:id="I01-26">
             <l part="F">Pouvez-vous à votre âge</l>
             <l n="63" xml:id="l63">Vous laissez entraîner aux mondaines erreurs ?</l>
             <l n="64" xml:id="l64">Tandis que les plus jeunes coeurs,</l>
@@ -180,39 +180,39 @@
             <l n="68" xml:id="l68">Il n’est ni pervers, ni volage ;</l>
             <l n="69" xml:id="l69">Cependant il n’a que vingt ans.</l>
           </sp>
-          <sp xml:id="I01-27" who="GABRIEL">
+          <sp who="GABRIEL" xml:id="I01-27">
             <l n="70" xml:id="l70">C’est qu’il lui manque un peu d’usage.</l>
-            <l n="71" xml:id="l71" part="I">Cela viendra.</l>
+            <l n="71" part="I" xml:id="l71">Cela viendra.</l>
           </sp>
-          <sp xml:id="I01-28" who="LABBESSE">
+          <sp who="LABBESSE" xml:id="I01-28">
             <l part="F">Sortez, méchants.</l>
           </sp>
-          <sp xml:id="I01-29" who="THEOTIME">
+          <sp who="THEOTIME" xml:id="I01-29">
             <l n="72" xml:id="l72">Lorsqu’elles vantent ma sagesse,</l>
             <l n="73" xml:id="l73">Elles ne savent pas ce que je sens pour vous ;</l>
             <l n="74" xml:id="l74">Et je suis plus faible qu’eux tous,</l>
             <l n="75" xml:id="l75">Si l’amour est une faiblesse.</l>
           </sp>
-          <sp xml:id="I01-30" who="GABRIEL">
+          <sp who="GABRIEL" xml:id="I01-30">
             <l n="76" xml:id="l76">Pour porter un bon jugement,</l>
             <l n="77" xml:id="l77">Gardons de nous fier à la seule apparence.</l>
             <l n="78" xml:id="l78">Pouvez-vous vous vanter de notre résistance</l>
             <l n="79" xml:id="l79">Qu’on ne tentera que faiblement ?</l>
             <l n="80" xml:id="l80">Sous une heure au plus tard, monsieur le commissaire</l>
             <l n="81" xml:id="l81">Doit arriver dans le couvent,</l>
-            <l n="82" xml:id="l82" part="I">Et nous verrons.</l>
+            <l n="82" part="I" xml:id="l82">Et nous verrons.</l>
           </sp>
-          <sp xml:id="I01-31" who="SERAPHIN">
+          <sp who="SERAPHIN" xml:id="I01-31">
             <l part="F">Pour moi j’espère</l>
             <l n="83" xml:id="l83">Que l’on va voir ici beaucoup de changement ;</l>
             <l n="84" xml:id="l84">Et je crois que le plus grondeuses</l>
             <l n="85" xml:id="l85">Ne voudront pas, à m’imiter,</l>
             <l n="86" xml:id="l86">Se montrer les plus paresseuses.</l>
           </sp>
-          <sp xml:id="I01-32" who="PETRONILLE">
+          <sp who="PETRONILLE" xml:id="I01-32">
             <l n="87" xml:id="l87">Quel blasphème, grand Dieux !</l>
           </sp>
-          <sp xml:id="I01-33" who="GABRIEL">
+          <sp who="GABRIEL" xml:id="I01-33">
             <l part="F">J’ose aussi me flatter</l>
             <l n="88" xml:id="l88">Que ces dames vont adopter</l>
             <l n="89" xml:id="l89">Un habit à la fois plus frais, et plus commode,</l>
@@ -221,19 +221,19 @@
             <l n="92" xml:id="l92">Leur envoyer bientôt, des chapeaux à la mode.</l>
           </sp>
         </div2>
-        <div2 xml:id="I02" type="scene" n="2">
+        <div2 n="2" type="scene" xml:id="I02">
           <head>SCÈNE II. Les Mêmes, hors Gabriel et Séraphin.<listPerson type="configuration" xml:id="conf2"/></head>
-          <sp xml:id="I02-1" who="PETRONILLE">
-            <l n="93" xml:id="l93" part="I">Des chapeaux, malheureux !</l>
+          <sp who="PETRONILLE" xml:id="I02-1">
+            <l n="93" part="I" xml:id="l93">Des chapeaux, malheureux !</l>
           </sp>
-          <sp xml:id="I02-2" who="APPOLINE">
+          <sp who="APPOLINE" xml:id="I02-2">
             <l part="F">Ah ! Quels horribles mots !</l>
-            <l n="94" xml:id="l94" part="I">Ma mère qu’a-t-il dit ?</l>
+            <l n="94" part="I" xml:id="l94">Ma mère qu’a-t-il dit ?</l>
           </sp>
-          <sp xml:id="I02-3" who="PETRONILLE">
+          <sp who="PETRONILLE" xml:id="I02-3">
             <l part="F">Il a dit : des chapeaux.</l>
           </sp>
-          <sp xml:id="I02-4" who="LABBESSE">
+          <sp who="LABBESSE" xml:id="I02-4">
             <l n="95" xml:id="l95">Venez, entourez-moi, mères obéissantes :</l>
             <l n="96" xml:id="l96">J’entends autour de nous, colombes gémissantes,</l>
             <l n="97" xml:id="l97">Voler les féroces vautours.</l>
@@ -241,60 +241,60 @@
             <l n="99" xml:id="l99">Et dans le paix promise aux âmes innocentes,</l>
             <l n="100" xml:id="l100">Nous verrons s’écouler les derniers de nos jours.</l>
           </sp>
-          <sp xml:id="I02-5" who="AGNES">
-            <l n="101" xml:id="l101" part="I">Soupçonnez-vous encore ?</l>
+          <sp who="AGNES" xml:id="I02-5">
+            <l n="101" part="I" xml:id="l101">Soupçonnez-vous encore ?</l>
           </sp>
-          <sp xml:id="I02-6" who="THEOTIME">
+          <sp who="THEOTIME" xml:id="I02-6">
             <l part="F">Attendons votre père.</l>
           </sp>
-          <sp xml:id="I02-7" who="AGNES">
-            <l n="102" xml:id="l102" part="I">Mon père !</l>
+          <sp who="AGNES" xml:id="I02-7">
+            <l n="102" part="I" xml:id="l102">Mon père !</l>
           </sp>
-          <sp xml:id="I02-8" who="THEOTIME">
+          <sp who="THEOTIME" xml:id="I02-8">
             <l part="F">Oui c’est lui qui doit venir;</l>
-            <l n="103" xml:id="l103" part="I">Son district l’a nommé.</l>
+            <l n="103" part="I" xml:id="l103">Son district l’a nommé.</l>
           </sp>
         </div2>
-        <div2 xml:id="I03" type="scene" n="3">
+        <div2 n="3" type="scene" xml:id="I03">
           <head>SCÈNE III. Les mêmes, Nicolas.<listPerson type="configuration" xml:id="conf3"/></head>
-          <sp xml:id="I03-1" who="LABBESSE">
+          <sp who="LABBESSE" xml:id="I03-1">
             <l part="F">Parle, que viens-tu faire,</l>
-            <l n="104" xml:id="l104" part="I">Nicolas ?</l>
+            <l n="104" part="I" xml:id="l104">Nicolas ?</l>
           </sp>
-          <sp xml:id="I03-2" who="NICOLAS">
+          <sp who="NICOLAS" xml:id="I03-2">
             <l part="F">Je viens avertir</l>
             <l n="105" xml:id="l105">Qu’il faut ici qu’on déménage ;</l>
             <l n="106" xml:id="l106">Qu’on va bientôt ouvrir la cage,</l>
             <l n="107" xml:id="l107">Et que les oiseaux vont partir.</l>
           </sp>
-          <sp xml:id="I03-3" who="LABBESSE">
-            <l n="108" xml:id="l108" part="I">Comment ?</l>
+          <sp who="LABBESSE" xml:id="I03-3">
+            <l n="108" part="I" xml:id="l108">Comment ?</l>
           </sp>
-          <sp xml:id="I03-4" who="NICOLAS">
+          <sp who="NICOLAS" xml:id="I03-4">
             <l part="F">Ce n’est plus un mystère.</l>
           </sp>
-          <sp xml:id="I03-5" who="PETRONILLE">
-            <l n="109" xml:id="l109" part="I">Quoi donc ?</l>
+          <sp who="PETRONILLE" xml:id="I03-5">
+            <l n="109" part="I" xml:id="l109">Quoi donc ?</l>
           </sp>
-          <sp xml:id="I03-6" who="NICOLAS">
+          <sp who="NICOLAS" xml:id="I03-6">
             <l part="F">Voici le commissaire.</l>
           </sp>
-          <sp xml:id="I03-7" who="EUDALIE">
+          <sp who="EUDALIE" xml:id="I03-7">
             <l n="110" xml:id="l110">Ceci commence à me tenter.</l>
           </sp>
-          <sp xml:id="I03-8" who="LABBESSE">
+          <sp who="LABBESSE" xml:id="I03-8">
             <l n="111" xml:id="l111">Il connaîtra les coeurs qui l’on ose insulter</l>
             <l n="112" xml:id="l112">Par une injuste prévoyance ;</l>
             <l n="113" xml:id="l113">Nous ne mentirons pas à notre conscience ;</l>
             <l n="114" xml:id="l114">Nous saurons résister à tout.</l>
           </sp>
-          <sp xml:id="I03-9" who="AGNES">
-            <l n="115" xml:id="l115" part="I">Vous voyez, Théotime.</l>
+          <sp who="AGNES" xml:id="I03-9">
+            <l n="115" part="I" xml:id="l115">Vous voyez, Théotime.</l>
           </sp>
-          <sp xml:id="I03-10" who="THEOTIME">
+          <sp who="THEOTIME" xml:id="I03-10">
             <l part="F">Écoutons jusqu’au bout.</l>
           </sp>
-          <sp xml:id="I03-11" who="NICOLAS">
+          <sp who="NICOLAS" xml:id="I03-11">
             <l n="116" xml:id="l116">Quant à moi, je serai plus sage ;</l>
             <l n="117" xml:id="l117">Je suis encore chez vous engagé pour deux ans.</l>
             <l n="118" xml:id="l118">Mais le couvent bine tôt sera désert, je gage ;</l>
@@ -302,7 +302,7 @@
             <l n="120" xml:id="l120">Je renonce à tous les couvents ;</l>
             <l n="121" xml:id="l121">Je retourne à mes champs, et vais dans mon village.</l>
           </sp>
-          <sp xml:id="I03-12" who="PETRONILLE">
+          <sp who="PETRONILLE" xml:id="I03-12">
             <l n="122" xml:id="l122">Est-ce ainsi, Nicolas, que vous devez payer</l>
             <l n="123" xml:id="l123">Les soins qu’ont eu pour vous nos mères,</l>
             <l n="124" xml:id="l124">Et leurs attentions si fines et si chère ?</l>
@@ -311,7 +311,7 @@
             <l n="127" xml:id="l127">Hélas ! Faut-il qu’un jardiniers</l>
             <l n="128" xml:id="l128">Connaisse ainsi l’ingratitude ?</l>
           </sp>
-          <sp xml:id="I03-13" who="NICOLAS">
+          <sp who="NICOLAS" xml:id="I03-13">
             <l n="129" xml:id="l129">Les douceurs et les agréments</l>
             <l n="130" xml:id="l130">Qu’on fit goûter à ma jeunesse,</l>
             <l n="131" xml:id="l131">Ma rendent plus cruels les mauvais traitements</l>
@@ -348,22 +348,22 @@
             <l n="162" xml:id="l162">Que moi quand j’ai tout arrangé ;</l>
             <l n="163" xml:id="l163">Mai j’aperçois le commissaire.</l>
           </sp>
-          <sp xml:id="I03-14" who="EUDALIE">
-            <l n="164" xml:id="l164" part="I">Bon !</l>
+          <sp who="EUDALIE" xml:id="I03-14">
+            <l n="164" part="I" xml:id="l164">Bon !</l>
           </sp>
-          <sp xml:id="I03-15" who="PETRONILLE">
+          <sp who="PETRONILLE" xml:id="I03-15">
             <l part="F">Répondons avec vigueur.</l>
           </sp>
-          <sp xml:id="I03-16" who="APPOLINE">
-            <l n="165" xml:id="l165" part="I">Hélas !</l>
+          <sp who="APPOLINE" xml:id="I03-16">
+            <l n="165" part="I" xml:id="l165">Hélas !</l>
           </sp>
-          <sp xml:id="I03-17" who="LABBESSE">
+          <sp who="LABBESSE" xml:id="I03-17">
             <l part="F">Du courage, ma soeur.</l>
           </sp>
         </div2>
-        <div2 xml:id="I04" type="scene" n="4">
+        <div2 n="4" type="scene" xml:id="I04">
           <head>SCÈNE IV. Les mêmes, Monsieur Dorval, La greffier.<listPerson type="configuration" xml:id="conf4"/></head>
-          <sp xml:id="I04-1" who="DORVAL">
+          <sp who="DORVAL" xml:id="I04-1">
             <l n="166" xml:id="l166">Je viens remplir un ministère,</l>
             <l n="167" xml:id="l167">Qui peut-être agréable, et qui ne peut déplaire.</l>
             <l n="168" xml:id="l168">Dans cet asile solitaire,</l>
@@ -377,7 +377,7 @@
             <l n="176" xml:id="l176">Leur fera toucher tous les ans</l>
             <l n="177" xml:id="l177">Une pension viagère.</l>
           </sp>
-          <sp xml:id="I04-2" who="PETRONILLE">
+          <sp who="PETRONILLE" xml:id="I04-2">
             <l n="178" xml:id="l178">Je chéris la retraite et j’aime ce couvent,</l>
             <l n="179" xml:id="l179">Où dans un saint recueillement,</l>
             <l n="180" xml:id="l180">J’ai vu mes premières années</l>
@@ -391,50 +391,50 @@
             <l n="188" xml:id="l188">C’est mon premier devoir, et pour cette raison,</l>
             <l n="189" xml:id="l189">Je vais dans ma famille, et prends la pension.</l>
           </sp>
-          <sp xml:id="I04-3" who="LABBESSE">
-            <l n="190" xml:id="l190" part="I">Soeur Pétronile.</l>
+          <sp who="LABBESSE" xml:id="I04-3">
+            <l n="190" part="I" xml:id="l190">Soeur Pétronile.</l>
           </sp>
-          <sp xml:id="I04-4" who="LATOURRIERE">
+          <sp who="LATOURRIERE" xml:id="I04-4">
             <l part="M">Ô ciel !</l>
           </sp>
-          <sp xml:id="I04-5" who="EUDALIE">
+          <sp who="EUDALIE" xml:id="I04-5">
             <l part="F">Oh ! Qui l’aurait pu croire !</l>
             <l n="191" xml:id="l191">Dès que ma dignité se trouve anéantie,</l>
             <l n="192" xml:id="l192">Au monde, que je hais je me sens convertie :</l>
             <l n="193" xml:id="l193">Le désir des honneurs fit ma vocation ;</l>
             <l n="194" xml:id="l194">Puisque je perds ma croix, je prends la pension.</l>
           </sp>
-          <sp xml:id="I04-6" who="LATOURRIERE">
+          <sp who="LATOURRIERE" xml:id="I04-6">
             <l n="195" xml:id="l195">Je verrai finir ma carrière,</l>
             <l n="196" xml:id="l196">Dans ces lieux où j’ai vu le jour ;</l>
             <l n="197" xml:id="l197">Je ne suis que simple tourrière,</l>
             <l n="198" xml:id="l198">Mais je suis fidèle à mon tour.</l>
           </sp>
-          <sp xml:id="I04-7" who="DORVAL">
+          <sp who="DORVAL" xml:id="I04-7">
             <l n="199" xml:id="l199">Mon enfant, la constance est toujours très louable ;</l>
             <l n="200" xml:id="l200">Mais vous n’avez point fait de voeux ;</l>
             <l n="201" xml:id="l201">On détruit ce couvent ; vous semblez estimable,</l>
             <l n="202" xml:id="l202">Je puis vous procurer, chez l’un de mes neveux,</l>
             <l n="203" xml:id="l203">Un sort beaucoup plus agréable.</l>
           </sp>
-          <sp xml:id="I04-8" who="LATOURRIERE">
+          <sp who="LATOURRIERE" xml:id="I04-8">
             <l n="204" xml:id="l204">Non, c’est mon dernier mot ; il me faut un couvent.</l>
             <l n="205" xml:id="l205">Je m’ennuierais ailleurs indubitablement ;</l>
             <l n="206" xml:id="l206">Et si de ces lieux l’on me chasse,</l>
             <l n="207" xml:id="l207">Puis-je ailleurs trouver une place</l>
             <l n="208" xml:id="l208">Qui soit digne de mon talent ?</l>
           </sp>
-          <sp xml:id="I04-9" who="DORVAL">
+          <sp who="DORVAL" xml:id="I04-9">
             <l n="209" xml:id="l209">Quel est l’art principal où votre esprit s’applique ?</l>
           </sp>
-          <sp xml:id="I04-10" who="LATOURRIERE">
+          <sp who="LATOURRIERE" xml:id="I04-10">
             <l n="210" xml:id="l210">Monsieur, c’est à la politique.</l>
           </sp>
-          <sp xml:id="I04-11" who="DORVAL">
+          <sp who="DORVAL" xml:id="I04-11">
             <l n="211" xml:id="l211">Soit ; le ministre est mon parent,</l>
-            <l n="212" xml:id="l212" part="I">Je vous place chez lui.</l>
+            <l n="212" part="I" xml:id="l212">Je vous place chez lui.</l>
           </sp>
-          <sp xml:id="I04-12" who="LATOURRIERE">
+          <sp who="LATOURRIERE" xml:id="I04-12">
             <l part="F">Bon ! C’est un ignorant.</l>
             <l n="213" xml:id="l213">Et dans la politique il me faudrait l’instruire :</l>
             <l n="214" xml:id="l214">Quand on servit dans un couvent,</l>
@@ -457,10 +457,10 @@
             <l n="231" xml:id="l231">La politique nécessaire</l>
             <l n="232" xml:id="l232">À qui sut régner dans un tour.</l>
           </sp>
-          <sp xml:id="I04-13" who="DORVAL">
+          <sp who="DORVAL" xml:id="I04-13">
             <l n="233" xml:id="l233">Suivez un conseil salutaire.</l>
           </sp>
-          <sp xml:id="I04-14" who="LATOURRIERE">
+          <sp who="LATOURRIERE" xml:id="I04-14">
             <l n="234" xml:id="l234">Non, non, on ne me séduit pas,</l>
             <l n="235" xml:id="l235">Je sais quel est mon poste, et j’y cours de ce pas ;</l>
             <l n="236" xml:id="l236">J’embrasserai mon tour à mon heure dernière :</l>
@@ -471,102 +471,102 @@
             <l n="241" xml:id="l241">Que la noblesse et le clergé.</l>
           </sp>
         </div2>
-        <div2 xml:id="I05" type="scene" n="5">
+        <div2 n="5" type="scene" xml:id="I05">
           <head>SCÈNE V. Les mêmes, hors la Tourrière. <listPerson type="configuration" xml:id="conf5"/></head>
-          <sp xml:id="I05-1" who="DORVAL">
+          <sp who="DORVAL" xml:id="I05-1">
             <l n="242" xml:id="l242">Nous la ferons changer de résolutions.</l>
             <l n="243" xml:id="l243">Du reste, on est d’accord, personne ne résiste.</l>
             <l n="244" xml:id="l244">De ces dames, greffier, vous prendrez tous les noms,</l>
             <l n="245" xml:id="l245">Et vous les mettrez sur la liste</l>
             <l n="246" xml:id="l246">Qui renferme les pensions.</l>
           </sp>
-          <sp xml:id="I05-2" who="NICOLAS">
+          <sp who="NICOLAS" xml:id="I05-2">
             <l n="247" xml:id="l247">Monsieur le commissaire, à quoi monte la mienne ?</l>
           </sp>
-          <sp xml:id="I05-3" who="DORVAL">
-            <l n="248" xml:id="l248" part="I">Écoute : il me souvient...</l>
+          <sp who="DORVAL" xml:id="I05-3">
+            <l n="248" part="I" xml:id="l248">Écoute : il me souvient...</l>
           </sp>
-          <sp xml:id="I05-4" who="NICOLAS">
+          <sp who="NICOLAS" xml:id="I05-4">
             <l part="F">Il faut qu’on s’en souvienne.</l>
           </sp>
-          <sp xml:id="I05-5" who="DORVAL">
+          <sp who="DORVAL" xml:id="I05-5">
             <l n="249" xml:id="l249">Que les jardiniers n’en ont point.</l>
           </sp>
-          <sp xml:id="I05-6" who="NICOLAS">
+          <sp who="NICOLAS" xml:id="I05-6">
             <l n="250" xml:id="l250">J’ai trente ans cultivé la terre ;</l>
             <l n="251" xml:id="l251">Les Dames ont passé trente ans à ne rien faire ;</l>
             <l n="252" xml:id="l252">On leur assure un sort, je reste sans salaire ;</l>
             <l n="253" xml:id="l253">Ma foi la nation est injuste en ce point.</l>
           </sp>
-          <sp xml:id="I05-7" who="EUDALIE">
+          <sp who="EUDALIE" xml:id="I05-7">
             <l n="254" xml:id="l254">Si je suis étourdie, au moins j’ai l’âme bonne ;</l>
             <l n="255" xml:id="l255">Mon cher Nicolas, je te donne</l>
             <l n="256" xml:id="l256">L’argent de mon premier quartier.</l>
           </sp>
-          <sp xml:id="I05-8" who="LABBESSE">
-            <l n="257" xml:id="l257" part="I">Il n’est plus bon à rien.</l>
+          <sp who="LABBESSE" xml:id="I05-8">
+            <l n="257" part="I" xml:id="l257">Il n’est plus bon à rien.</l>
           </sp>
-          <sp xml:id="I05-9" who="EUDALIE">
+          <sp who="EUDALIE" xml:id="I05-9">
             <l part="F">Eh ! C’est ce qui m’engage.</l>
           </sp>
-          <sp xml:id="I05-10" who="LABBESSE">
+          <sp who="LABBESSE" xml:id="I05-10">
             <l n="258" xml:id="l258">Je veux de mon argent, faire un plus noble usage,</l>
             <l n="259" xml:id="l259">Pour mon neveu le chevalier.</l>
-            <l n="260" xml:id="l260" part="I">Il sera colonel.</l>
+            <l n="260" part="I" xml:id="l260">Il sera colonel.</l>
           </sp>
-          <sp xml:id="I05-11" who="NICOLAS">
+          <sp who="NICOLAS" xml:id="I05-11">
             <l part="F">Ce titre qui vous flatte,</l>
             <l n="261" xml:id="l261">Pour moi vous rend injuste, et vous fait oublier</l>
             <l n="262" xml:id="l262">Les services constants d’un pauvre jardinier.</l>
             <l n="263" xml:id="l263">Jeunesse est généreuse, et vieillesse est ingrate.</l>
           </sp>
         </div2>
-        <div2 xml:id="I06" type="scene" n="6">
+        <div2 n="6" type="scene" xml:id="I06">
           <head>SCÈNE VI. Les mêmes, hors Nicolas.<listPerson type="configuration" xml:id="conf6"/></head>
-          <sp xml:id="I06-1" who="DORVAL">
+          <sp who="DORVAL" xml:id="I06-1">
             <l n="264" xml:id="l264">De tous les meubles du couvent</l>
             <l n="265" xml:id="l265">Je vais commencer l’inventaire.</l>
           </sp>
-          <sp xml:id="I06-2" who="EUDALIE">
+          <sp who="EUDALIE" xml:id="I06-2">
             <l n="266" xml:id="l266">Moi, je vais faite aussi mon paquet promptement</l>
           </sp>
-          <sp xml:id="I06-3" who="DORVAL">
+          <sp who="DORVAL" xml:id="I06-3">
             <l n="267" xml:id="l267"> J’attends ici ma femme, elle m’est nécessaire</l>
             <l n="268" xml:id="l268">Pour estimer quelques objets</l>
             <l n="269" xml:id="l269">Auxquels je ne me connais guère.</l>
           </sp>
-          <sp xml:id="I06-4" who="PETRONILLE">
+          <sp who="PETRONILLE" xml:id="I06-4">
             <l n="270" xml:id="l270">Mais avant de quitter ce couvent pour jamais,</l>
             <l n="271" xml:id="l271">Il est décent de voir, je pense,</l>
             <l n="272" xml:id="l272">Notre père Honorin.</l>
           </sp>
-          <sp xml:id="I06-5" who="APPOLINE">
+          <sp who="APPOLINE" xml:id="I06-5">
             <l n="273" xml:id="l273">Oh ! Combien je l’aimais !</l>
           </sp>
-          <sp xml:id="I06-6" who="PETRONILLE">
+          <sp who="PETRONILLE" xml:id="I06-6">
             <l n="274" xml:id="l274">Il dirigeait ma conscience.</l>
           </sp>
-          <sp xml:id="I06-7" who="EUDALIE">
+          <sp who="EUDALIE" xml:id="I06-7">
             <l n="275" xml:id="l275">Allons, dépêchons-nous, car je perds patience.</l>
           </sp>
         </div2>
-        <div2 xml:id="I07" type="scene" n="7">
+        <div2 n="7" type="scene" xml:id="I07">
           <head>SCÈNE VII. Agnès, Dorval, Théotime. <listPerson type="configuration" xml:id="conf7"/></head>
-          <sp xml:id="I07-1" who="DORVAL">
-            <l n="276" xml:id="l276" part="I">Quel est cet Honorin ?</l>
+          <sp who="DORVAL" xml:id="I07-1">
+            <l n="276" part="I" xml:id="l276">Quel est cet Honorin ?</l>
           </sp>
-          <sp xml:id="I07-2" who="THEOTIME">
+          <sp who="THEOTIME" xml:id="I07-2">
             <l part="F">Un prêtre respecté,</l>
             <l n="277" xml:id="l277">Qui, dans cette maison a trente ans habité.</l>
             <l n="278" xml:id="l278">Sévère pour lui-même, indulgent pour les autres.</l>
           </sp>
-          <sp xml:id="I07-3" who="DORVAL">
+          <sp who="DORVAL" xml:id="I07-3">
             <l n="279" xml:id="l279"> Je le vois ; du couvent c’était un des apôtres ?</l>
           </sp>
-          <sp xml:id="I07-4" who="AGNES">
-            <l n="280" xml:id="l280" part="I">À peu près.</l>
+          <sp who="AGNES" xml:id="I07-4">
+            <l n="280" part="I" xml:id="l280">À peu près.</l>
           </sp>
-          <sp xml:id="I07-5" who="DORVAL">
+          <sp who="DORVAL" xml:id="I07-5">
             <l part="F">Chère Agnès, réparons nos malheurs.</l>
             <l n="281" xml:id="l281">Une mère cruelle, en dépit de vos pleurs,</l>
             <l n="282" xml:id="l282">Vous immola jadis à l’orgueil de vos soeurs ;</l>
@@ -577,83 +577,83 @@
             <l n="287" xml:id="l287">Ma tendre amitié vous délivre,</l>
             <l n="288" xml:id="l288">Dès ce soir, vous pourrez me suivre.</l>
           </sp>
-          <sp xml:id="I07-6" who="THEOTIME">
-            <l n="289" xml:id="l289" part="I">Je vous perds, c’en est fait.</l>
+          <sp who="THEOTIME" xml:id="I07-6">
+            <l n="289" part="I" xml:id="l289">Je vous perds, c’en est fait.</l>
           </sp>
-          <sp xml:id="I07-7" who="AGNES">
+          <sp who="AGNES" xml:id="I07-7">
             <l part="F">Mon père, le couvent....</l>
           </sp>
-          <sp xml:id="I07-8" who="DORVAL">
+          <sp who="DORVAL" xml:id="I07-8">
             <l n="290" xml:id="l290">Qui peut vous arrêter ? Vous n’êtes que novice,</l>
             <l n="291" xml:id="l291">Vous n’avez point fait de serment.</l>
           </sp>
-          <sp xml:id="I07-9" who="THEOTIME">
-            <l n="292" xml:id="l292" part="I">Quel nouveau malheur !</l>
+          <sp who="THEOTIME" xml:id="I07-9">
+            <l n="292" part="I" xml:id="l292">Quel nouveau malheur !</l>
           </sp>
-          <sp xml:id="I07-10" who="AGNES">
+          <sp who="AGNES" xml:id="I07-10">
             <l part="F">Quel supplice !</l>
           </sp>
-          <sp xml:id="I07-11" who="DORVAL">
+          <sp who="DORVAL" xml:id="I07-11">
             <l n="293" xml:id="l293">Quel est donc ce religieux,</l>
             <l n="294" xml:id="l294">Qui sur vous, tout à l’heure, avait toujours les yeux ?</l>
           </sp>
-          <sp xml:id="I07-12" who="AGNES">
+          <sp who="AGNES" xml:id="I07-12">
             <l n="295" xml:id="l295">C’est un jeune homme que j’estime.</l>
           </sp>
-          <sp xml:id="I07-13" who="DORVAL">
-            <l n="296" xml:id="l296" part="I">Comment l’appelez-vous ?</l>
+          <sp who="DORVAL" xml:id="I07-13">
+            <l n="296" part="I" xml:id="l296">Comment l’appelez-vous ?</l>
           </sp>
-          <sp xml:id="I07-14" who="AGNES">
+          <sp who="AGNES" xml:id="I07-14">
             <l part="F">Le père Théotime.</l>
           </sp>
-          <sp xml:id="I07-15" who="DORVAL">
-            <l n="297" xml:id="l297" part="I">Vous le voyez beaucoup ?</l>
+          <sp who="DORVAL" xml:id="I07-15">
+            <l n="297" part="I" xml:id="l297">Vous le voyez beaucoup ?</l>
           </sp>
-          <sp xml:id="I07-16" who="AGNES">
+          <sp who="AGNES" xml:id="I07-16">
             <l part="F">Mon père, très souvent.</l>
             <l n="298" xml:id="l298">Car Monsieur cultive un talent,</l>
             <l n="299" xml:id="l299">Auquel depuis six mois volontiers je m’applique.</l>
             <l n="300" xml:id="l300">Je me découvre assurément.</l>
           </sp>
-          <sp xml:id="I07-17" who="DORVAL">
-            <l n="301" xml:id="l301" part="I">Et ce talent ?</l>
+          <sp who="DORVAL" xml:id="I07-17">
+            <l n="301" part="I" xml:id="l301">Et ce talent ?</l>
           </sp>
-          <sp xml:id="I07-18" who="AGNES">
+          <sp who="AGNES" xml:id="I07-18">
             <l part="F">Mon père, il m’apprend la musique.</l>
           </sp>
-          <sp xml:id="I07-19" who="DORVAL">
+          <sp who="DORVAL" xml:id="I07-19">
             <l n="302" xml:id="l302">Il a l’air fort intéressant.</l>
             <l n="303" xml:id="l303">Et je crois qu’il chante à merveille.</l>
           </sp>
-          <sp xml:id="I07-20" who="AGNES">
+          <sp who="AGNES" xml:id="I07-20">
             <l n="304" xml:id="l304">Sa voix, je l’avouerai, plaît fort à mon oreille.</l>
           </sp>
-          <sp xml:id="I07-21" who="DORVAL">
+          <sp who="DORVAL" xml:id="I07-21">
             <l n="305" xml:id="l305">Ce que vous dites là, me fait naître un désir,</l>
           </sp>
-          <sp xml:id="I07-22" who="AGNES">
-            <l n="306" xml:id="l306" part="I">Et ce désir...</l>
+          <sp who="AGNES" xml:id="I07-22">
+            <l n="306" part="I" xml:id="l306">Et ce désir...</l>
           </sp>
-          <sp xml:id="I07-23" who="DORVAL">
+          <sp who="DORVAL" xml:id="I07-23">
             <l part="F">Est de l’entendre.</l>
           </sp>
-          <sp xml:id="I07-24" who="AGNES">
+          <sp who="AGNES" xml:id="I07-24">
             <l n="307" xml:id="l307">Qui ? Lui ? Pour vous faire plaisir</l>
             <l n="308" xml:id="l308">Il est prêt à tout entreprendre.</l>
           </sp>
-          <sp xml:id="I07-25" who="THEOTIME">
-            <l n="309" xml:id="l309" part="I">Je ne chante pas bien.</l>
+          <sp who="THEOTIME" xml:id="I07-25">
+            <l n="309" part="I" xml:id="l309">Je ne chante pas bien.</l>
           </sp>
-          <sp xml:id="I07-26" who="AGNES">
+          <sp who="AGNES" xml:id="I07-26">
             <l part="F">Mais comme vous pourrez.</l>
           </sp>
-          <sp xml:id="I07-27" who="THEOTIME">
-            <l n="310" xml:id="l310" part="I">Je n’ai point de chansons.</l>
+          <sp who="THEOTIME" xml:id="I07-27">
+            <l n="310" part="I" xml:id="l310">Je n’ai point de chansons.</l>
           </sp>
-          <sp xml:id="I07-28" who="AGNES">
+          <sp who="AGNES" xml:id="I07-28">
             <l part="F">Eh bien ! Vous en ferez.</l>
           </sp>
-          <sp xml:id="I07-29" who="THEOTIME">
+          <sp who="THEOTIME" xml:id="I07-29">
             <l n="311" xml:id="l311">Quand par un oncle surprise</l>
             <l n="312" xml:id="l312">Dans les bras de son amant,</l>
             <l n="313" xml:id="l313">La trop sensible Héloïse</l>
@@ -663,21 +663,21 @@
             <l n="317" xml:id="l317">N’est-ce pas déjà mourir,</l>
             <l n="318" xml:id="l318">Que de perdre ce qu’on aime ?</l>
           </sp>
-          <sp xml:id="I07-30" who="DORVAL">
+          <sp who="DORVAL" xml:id="I07-30">
             <l n="319" xml:id="l319">J’aime beaucoup cette romance.</l>
           </sp>
-          <sp xml:id="I07-31" who="THEOTIME">
+          <sp who="THEOTIME" xml:id="I07-31">
             <l n="320" xml:id="l320">Voici le couplet qui commence :</l>
-            <l n="321" xml:id="l321" part="I">Agnès en sait la suite.</l>
+            <l n="321" part="I" xml:id="l321">Agnès en sait la suite.</l>
           </sp>
-          <sp xml:id="I07-32" who="AGNES">
+          <sp who="AGNES" xml:id="I07-32">
             <l part="F">Quoi ?...</l>
-            <l n="322" xml:id="l322" part="I">Je n’en sais pas un mot.</l>
+            <l n="322" part="I" xml:id="l322">Je n’en sais pas un mot.</l>
           </sp>
-          <sp xml:id="I07-33" who="THEOTIME">
+          <sp who="THEOTIME" xml:id="I07-33">
             <l part="F">Vous ferez comme moi.</l>
           </sp>
-          <sp xml:id="I07-34" who="AGNES">
+          <sp who="AGNES" xml:id="I07-34">
             <l n="323" xml:id="l323">Héloïse est plus à plaindre :</l>
             <l n="324" xml:id="l324">Non, jamais son tendre amant,</l>
             <l n="325" xml:id="l325">Sans l’outrager ne peut craindre</l>
@@ -687,10 +687,10 @@
             <l n="329" xml:id="l329">Héloïse peut mourir,</l>
             <l n="330" xml:id="l330">Mais ne peut être parjure.</l>
           </sp>
-          <sp xml:id="I07-35" who="DORVAL">
+          <sp who="DORVAL" xml:id="I07-35">
             <l n="331" xml:id="l331">Cette musique me plaît fort,</l>
             <l n="332" xml:id="l332">Vous chantez bien ensemble, et vos voix sont d’accord.</l>
-            <l n="333" xml:id="l333" part="I">Je vous suis obligé...</l>
+            <l n="333" part="I" xml:id="l333">Je vous suis obligé...</l>
             <l part="F">Je suis charmé, ma fille,</l>
             <l n="334" xml:id="l334">De vous voir ce nouveau talent ;</l>
             <l n="335" xml:id="l335">Sans doute il charmera Monsieur de Vintimille,</l>
@@ -698,57 +698,57 @@
             <l n="337" xml:id="l337">Et qui doit, en vous épousant,</l>
             <l n="338" xml:id="l338">Entrer bientôt dans ma famille.</l>
           </sp>
-          <sp xml:id="I07-36" who="AGNES">
+          <sp who="AGNES" xml:id="I07-36">
             <l n="339" xml:id="l339">Non, je serai fidèle, et mon coeur l’a juré.</l>
           </sp>
-          <sp xml:id="I07-37" who="THEOTIME">
+          <sp who="THEOTIME" xml:id="I07-37">
             <l n="340" xml:id="l340">C’en est trop, chère Agnès, je pars désespéré.</l>
           </sp>
         </div2>
-        <div2 xml:id="I08" type="scene" n="8">
+        <div2 n="8" type="scene" xml:id="I08">
           <head>SCÈNE VIII. Dorval, Agnès. <listPerson type="configuration" xml:id="conf8"/></head>
-          <sp xml:id="I08-1" who="DORVAL">
+          <sp who="DORVAL" xml:id="I08-1">
             <l n="341" xml:id="l341">Comment ! Vous changez de visage,</l>
             <l n="342" xml:id="l342">Agnès, je vois vos pleurs couler</l>
             <l n="343" xml:id="l343">Alors que je viens vous parler</l>
             <l n="344" xml:id="l344">Du projet d’un bon mariage ;</l>
             <l n="345" xml:id="l345">Vraiment, cela n’est pas naturel à votre âge.</l>
           </sp>
-          <sp xml:id="I08-2" who="AGNES">
+          <sp who="AGNES" xml:id="I08-2">
             <l n="346" xml:id="l346">Pardonnez au trouble où je suis ;</l>
             <l n="347" xml:id="l347">Oui, j’ai peine à quitter une maison si chère,</l>
             <l n="348" xml:id="l348">Pour entrer dans le monde où je suis étrangère ;</l>
             <l n="349" xml:id="l349">Et je vais loin de vous rêver à mes ennuis.</l>
           </sp>
         </div2>
-        <div2 xml:id="I09" type="scene" n="9">
+        <div2 n="9" type="scene" xml:id="I09">
           <head>SCÈNE IX. <listPerson type="configuration" xml:id="conf9"/></head>
-          <sp xml:id="I09-1" who="DORVAL">
+          <sp who="DORVAL" xml:id="I09-1">
             <l n="350" xml:id="l350">Ma fille, en vérité m’étonne.</l>
             <l n="351" xml:id="l351">Redouter un mari, regretter le couvent !</l>
             <l n="352" xml:id="l352">Plus j’y pense, plus je soupçonne...</l>
             <l n="353" xml:id="l353">Mais on est injuste souvent A force d’être pénétrant.</l>
           </sp>
         </div2>
-        <div2 xml:id="I10" type="scene" n="10">
+        <div2 n="10" type="scene" xml:id="I10">
           <head>SCÈNE X. Dorval, Lafleur. <listPerson type="configuration" xml:id="conf10"/></head>
-          <sp xml:id="I10-1" who="LAFLEUR">
+          <sp who="LAFLEUR" xml:id="I10-1">
             <l n="354" xml:id="l354">Je suis chargé de vous remettre</l>
             <l n="355" xml:id="l355">Ce paquet, avec cette lettre.</l>
           </sp>
-          <sp xml:id="I10-2" who="DORVAL">
-            <l n="356" xml:id="l356" part="I">De quelle part ?</l>
+          <sp who="DORVAL" xml:id="I10-2">
+            <l n="356" part="I" xml:id="l356">De quelle part ?</l>
           </sp>
-          <sp xml:id="I10-3" who="LAFLEUR">
+          <sp who="LAFLEUR" xml:id="I10-3">
             <l part="F">C’est du père Honorin.</l>
           </sp>
-          <sp xml:id="I10-4" who="DORVAL">
+          <sp who="DORVAL" xml:id="I10-4">
             <l n="357" xml:id="l357">Pose ici le paquet. (Ah ! C’est de notre saint.)</l>
           </sp>
         </div2>
-        <div2 xml:id="I11" type="scene" n="11">
+        <div2 n="11" type="scene" xml:id="I11">
           <head>SCÈNE XI. <listPerson type="configuration" xml:id="conf11"/></head>
-          <sp xml:id="I11-1" who="DORVAL">
+          <sp who="DORVAL" xml:id="I11-1">
             <p>"Après de mûres réflexions, j’accepte la liberté que j’avais refusée d’abord. Quand vous recevrez cette lettre, je serai déjà parti. Je laisse dans le couvent mes habits de religieux qui ne sont plus à mon usage. "</p>
             <l n="358" xml:id="l358">Que ces nouvelles curieuses</l>
             <l n="359" xml:id="l359">Vont donner de surprises à nos religieuses !</l>
@@ -770,34 +770,34 @@
             <l n="375" xml:id="l375">Cela sera charmant. On vient. Bon ! c’est ma femme.</l>
           </sp>
         </div2>
-        <div2 xml:id="I12" type="scene" n="12">
+        <div2 n="12" type="scene" xml:id="I12">
           <head>SCÈNE XII. Monsieur Dorval, Madame Dorval.<listPerson type="configuration" xml:id="conf12"/></head>
-          <sp xml:id="I12-1" who="MADAMEDORVAL">
+          <sp who="MADAMEDORVAL" xml:id="I12-1">
             <l n="376" xml:id="l376">Mon père, avec respect je viens vous consulter.</l>
           </sp>
-          <sp xml:id="I12-2" who="DORVAL">
-            <l n="377" xml:id="l377" part="I">Sur quoi ?</l>
+          <sp who="DORVAL" xml:id="I12-2">
+            <l n="377" part="I" xml:id="l377">Sur quoi ?</l>
           </sp>
-          <sp xml:id="I12-3" who="MADAMEDORVAL">
+          <sp who="MADAMEDORVAL" xml:id="I12-3">
             <l part="F">C’est sur une entreprise</l>
             <l n="378" xml:id="l378">Par qui je craindrais d’attenter</l>
             <l n="379" xml:id="l379">Aux propriétés de l’église.</l>
             <l n="380" xml:id="l380">Mon mari veut que du couvent</l>
             <l n="381" xml:id="l381">Je fasse avec lui l’inventaire,</l>
-            <l n="382" xml:id="l382" part="I">N’est-ce pas un péché ?</l>
+            <l n="382" part="I" xml:id="l382">N’est-ce pas un péché ?</l>
           </sp>
-          <sp xml:id="I12-4" who="DORVAL">
+          <sp who="DORVAL" xml:id="I12-4">
             <l part="F">Non pas, assurément,</l>
             <l n="383" xml:id="l383">Votre mari, d’ailleurs, est un homme prudent ;</l>
             <l n="384" xml:id="l384">En suivant ses conseils, vous ne pouvez mieux faire.</l>
           </sp>
-          <sp xml:id="I12-5" who="MADAMEDORVAL">
-            <l n="385" xml:id="l385" part="I">Vous le croyez bien sage ?</l>
+          <sp who="MADAMEDORVAL" xml:id="I12-5">
+            <l n="385" part="I" xml:id="l385">Vous le croyez bien sage ?</l>
           </sp>
-          <sp xml:id="I12-6" who="DORVAL">
+          <sp who="DORVAL" xml:id="I12-6">
             <l part="F">Assurément.</l>
           </sp>
-          <sp xml:id="I12-7" who="MADAMEDORVAL">
+          <sp who="MADAMEDORVAL" xml:id="I12-7">
             <l n="386" xml:id="l386">En croyez-vous la renommée ?</l>
             <l n="387" xml:id="l387">Elle flatte ou médit, trompe en exagérant,</l>
             <l n="388" xml:id="l388">Et dit juste très rarement.</l>
@@ -825,129 +825,129 @@
             <l n="410" xml:id="l410">Dans son district il fait beaucoup de bruit,</l>
             <l n="411" xml:id="l411">Il y pérore jour et nuit ;</l>
             <l n="412" xml:id="l412">Et pendant ce temps-là néglige ses affaires</l>
-            <l n="413" xml:id="l413" part="I">Il est dupe.</l>
+            <l n="413" part="I" xml:id="l413">Il est dupe.</l>
           </sp>
-          <sp xml:id="I12-8" who="DORVAL">
+          <sp who="DORVAL" xml:id="I12-8">
             <l part="F">Bonne leçon !</l>
-            <l n="414" xml:id="l414" part="I">Vous ne l’aimez donc pas ?</l>
+            <l n="414" part="I" xml:id="l414">Vous ne l’aimez donc pas ?</l>
           </sp>
-          <sp xml:id="I12-9" who="MADAMEDORVAL">
+          <sp who="MADAMEDORVAL" xml:id="I12-9">
             <l part="F">Pardonnez-moi, je l’aime,</l>
             <l n="415" xml:id="l415">Il est juste, honnête, et si bon !</l>
             <l n="416" xml:id="l416">Dans moi, sa confiance en tout point est extrême.</l>
           </sp>
-          <sp xml:id="I12-10" who="DORVAL">
-            <l n="417" xml:id="l417" part="I">Vous n’en abusez pas ?</l>
+          <sp who="DORVAL" xml:id="I12-10">
+            <l n="417" part="I" xml:id="l417">Vous n’en abusez pas ?</l>
           </sp>
-          <sp xml:id="I12-11" who="MADAMEDORVAL">
+          <sp who="MADAMEDORVAL" xml:id="I12-11">
             <l part="F">Moi, non.</l>
             <l n="418" xml:id="l418">Quoique je sois vive et jolie,</l>
             <l n="419" xml:id="l419">Mon coeur resta toujours exempt de passions ;</l>
             <l n="420" xml:id="l420">C’est à trois inclinations</l>
             <l n="421" xml:id="l421">Que se borne en effet le roman de ma vie.</l>
           </sp>
-          <sp xml:id="I12-12" who="DORVAL">
-            <l n="422" xml:id="l422" part="I">Trois !</l>
+          <sp who="DORVAL" xml:id="I12-12">
+            <l n="422" part="I" xml:id="l422">Trois !</l>
           </sp>
-          <sp xml:id="I12-13" who="MADAMEDORVAL">
+          <sp who="MADAMEDORVAL" xml:id="I12-13">
             <l part="F">Vous trouvez que c’est bien peu.</l>
           </sp>
-          <sp xml:id="I12-14" who="DORVAL">
+          <sp who="DORVAL" xml:id="I12-14">
             <l n="423" xml:id="l423">Bien peu ! La scélérate ! Ah ! Cachons notre jeu.</l>
             <l n="424" xml:id="l424">Il n’est pas temps encor de montrer qui nous sommes.</l>
           </sp>
-          <sp xml:id="I12-15" who="MADAMEDORVAL">
+          <sp who="MADAMEDORVAL" xml:id="I12-15">
             <l n="425" xml:id="l425">D’abord, mon premier goût fut pour les gentilshommes,</l>
             <l n="426" xml:id="l426">Celui que je choisis fut un brave guerrier,</l>
             <l n="427" xml:id="l427">Et jamais on ne vit plus aimable officier.</l>
           </sp>
-          <sp xml:id="I12-16" who="DORVAL">
-            <l n="428" xml:id="l428" part="I">Et le second ?...</l>
+          <sp who="DORVAL" xml:id="I12-16">
+            <l n="428" part="I" xml:id="l428">Et le second ?...</l>
           </sp>
-          <sp xml:id="I12-17" who="MADAMEDORVAL">
+          <sp who="MADAMEDORVAL" xml:id="I12-17">
             <l part="F">Suivant un état pacifique,</l>
             <l n="429" xml:id="l429">Faisait des règlements, tantôt bien, tantôt mal ;</l>
             <l n="430" xml:id="l430">C’était ce qu’on appelle en bonne politique,</l>
             <l n="431" xml:id="l431">Un conseiller municipal.</l>
           </sp>
-          <sp xml:id="I12-18" who="DORVAL">
-            <l n="432" xml:id="l432" part="I">Reste un troisième.</l>
+          <sp who="DORVAL" xml:id="I12-18">
+            <l n="432" part="I" xml:id="l432">Reste un troisième.</l>
           </sp>
-          <sp xml:id="I12-19" who="MADAMEDORVAL">
+          <sp who="MADAMEDORVAL" xml:id="I12-19">
             <l part="M">Oui.</l>
           </sp>
-          <sp xml:id="I12-20" who="DORVAL">
+          <sp who="DORVAL" xml:id="I12-20">
             <l part="F">La confidence est rare</l>
-            <l n="433" xml:id="l433" part="I">Pour un mari.</l>
+            <l n="433" part="I" xml:id="l433">Pour un mari.</l>
           </sp>
-          <sp xml:id="I12-21" who="MADAMEDORVAL">
+          <sp who="MADAMEDORVAL" xml:id="I12-21">
             <l part="F">Mon choix vous paraîtra bizarre ;</l>
             <l n="434" xml:id="l434">Mais l’amour est aveugle, et tel est mon destin,</l>
-            <l n="435" xml:id="l435" part="I">Que j’adore à présent...</l>
+            <l n="435" part="I" xml:id="l435">Que j’adore à présent...</l>
           </sp>
-          <sp xml:id="I12-22" who="DORVAL">
+          <sp who="DORVAL" xml:id="I12-22">
             <l part="M">Qui donc ?</l>
           </sp>
-          <sp xml:id="I12-23" who="MADAMEDORVAL">
+          <sp who="MADAMEDORVAL" xml:id="I12-23">
             <l part="F">Un Bernardin.</l>
           </sp>
-          <sp xml:id="I12-24" who="DORVAL">
+          <sp who="DORVAL" xml:id="I12-24">
             <l n="436" xml:id="l436">C’est pousser trop loin l’insolence ;</l>
             <l n="437" xml:id="l437">Ma colère est plus forte,</l>
             <l n="438" xml:id="l438">Et je perds patience.</l>
             <l n="439" xml:id="l439">Me reconnaissez-vous ?</l>
           </sp>
-          <sp xml:id="I12-25" who="MADAMEDORVAL">
+          <sp who="MADAMEDORVAL" xml:id="I12-25">
             <l n="440" xml:id="l440">Vous êtes mon mari.</l>
           </sp>
-          <sp xml:id="I12-26" who="DORVAL">
-            <l n="441" xml:id="l441" part="I">Vous ne rougissez pas ?</l>
+          <sp who="DORVAL" xml:id="I12-26">
+            <l n="441" part="I" xml:id="l441">Vous ne rougissez pas ?</l>
           </sp>
-          <sp xml:id="I12-27" who="MADAMEDORVAL">
+          <sp who="MADAMEDORVAL" xml:id="I12-27">
             <l part="F">Je veux faire un pari.</l>
           </sp>
-          <sp xml:id="I12-28" who="DORVAL">
-            <l n="442" xml:id="l442" part="I">Comment ? Un pari ?</l>
+          <sp who="DORVAL" xml:id="I12-28">
+            <l n="442" part="I" xml:id="l442">Comment ? Un pari ?</l>
           </sp>
-          <sp xml:id="I12-29" who="MADAMEDORVAL">
+          <sp who="MADAMEDORVAL" xml:id="I12-29">
             <l part="F">Je suis sûre</l>
             <l n="443" xml:id="l443">Monsieur, que par cette aventure,</l>
             <l n="444" xml:id="l444">Vous croyez m’embarrasser fort.</l>
           </sp>
-          <sp xml:id="I12-30" who="DORVAL">
-            <l n="445" xml:id="l445" part="I">Sans doute.</l>
+          <sp who="DORVAL" xml:id="I12-30">
+            <l n="445" part="I" xml:id="l445">Sans doute.</l>
           </sp>
-          <sp xml:id="I12-31" who="MADAMEDORVAL">
+          <sp who="MADAMEDORVAL" xml:id="I12-31">
             <l part="F">Et la vérité pure,</l>
             <l n="446" xml:id="l446">C’est que je suis sans aucun tort.</l>
           </sp>
-          <sp xml:id="I12-32" who="DORVAL">
+          <sp who="DORVAL" xml:id="I12-32">
             <l n="447" xml:id="l447">Cela, Madame, est un peu fort.</l>
             <l n="448" xml:id="l448">Vous avez, dites-vous, aimé dans votre vie</l>
             <l n="449" xml:id="l449">Un conseiller municipal,</l>
-            <l n="450" xml:id="l450" part="I">Un militaire, un moine.</l>
+            <l n="450" part="I" xml:id="l450">Un militaire, un moine.</l>
           </sp>
-          <sp xml:id="I12-33" who="MADAMEDORVAL">
+          <sp who="MADAMEDORVAL" xml:id="I12-33">
             <l part="F">Et pourquoi, je vous prie,</l>
             <l n="451" xml:id="l451">Vous dirais-je que non ? Je n’y vois pas de mal.</l>
           </sp>
-          <sp xml:id="I12-34" who="DORVAL">
+          <sp who="DORVAL" xml:id="I12-34">
             <l n="452" xml:id="l452">Cela passe la raillerie.</l>
           </sp>
-          <sp xml:id="I12-35" who="MADAMEDORVAL">
-            <l n="453" xml:id="l453" part="I">Quoi, Monsieur, seriez-vous jaloux ?</l>
+          <sp who="MADAMEDORVAL" xml:id="I12-35">
+            <l n="453" part="I" xml:id="l453">Quoi, Monsieur, seriez-vous jaloux ?</l>
           </sp>
-          <sp xml:id="I12-36" who="DORVAL">
+          <sp who="DORVAL" xml:id="I12-36">
             <l part="F">Madame.....</l>
           </sp>
-          <sp xml:id="I12-37" who="MADAMEDORVAL">
+          <sp who="MADAMEDORVAL" xml:id="I12-37">
             <l n="454" xml:id="l454">Écoutez-moi, sans vous mettre en colère ;</l>
             <l n="455" xml:id="l455">Quand je vous épousai, vous étiez militaire.</l>
           </sp>
-          <sp xml:id="I12-38" who="DORVAL">
-            <l n="456" xml:id="l456" part="I">J’en conviens.</l>
+          <sp who="DORVAL" xml:id="I12-38">
+            <l n="456" part="I" xml:id="l456">J’en conviens.</l>
           </sp>
-          <sp xml:id="I12-39" who="MADAMEDORVAL">
+          <sp who="MADAMEDORVAL" xml:id="I12-39">
             <l part="F">Et voilà comment</l>
             <l n="457" xml:id="l457">un officier fut mon premier amant.</l>
             <l n="458" xml:id="l458">Pour le bien, pour la paix, pour la chose publique,</l>
@@ -959,18 +959,18 @@
             <l n="464" xml:id="l464">J’adore un moine maintenant ;</l>
             <l n="465" xml:id="l465">Voilà tout le noeud de l’affaire.</l>
           </sp>
-          <sp xml:id="I12-40" who="DORVAL">
+          <sp who="DORVAL" xml:id="I12-40">
             <l n="466" xml:id="l466">Pour moi la vérité n’est pas encor trop claire ;</l>
             <l n="467" xml:id="l467">Cependant il faut croire, ou bien faire semblant.</l>
           </sp>
-          <sp xml:id="I12-41" who="MADAMEDORVAL">
+          <sp who="MADAMEDORVAL" xml:id="I12-41">
             <l n="468" xml:id="l468">Comptez sur ma vertu : je fais tout pour vous plaire ;</l>
             <l n="469" xml:id="l469">Et je cours estimer les meubles du couvent.</l>
           </sp>
         </div2>
-        <div2 xml:id="I13" type="scene" n="13">
+        <div2 n="13" type="scene" xml:id="I13">
           <head>SCÈNE XIII. <listPerson type="configuration" xml:id="conf13"/></head>
-          <sp xml:id="I13-1" who="DORVAL">
+          <sp who="DORVAL" xml:id="I13-1">
             <l n="470" xml:id="l470">Me voici bien payé ; les époux curieux</l>
             <l n="471" xml:id="l471">Doivent toujours s’attendre à des choses pareilles.</l>
             <l n="472" xml:id="l472">Un mari doit fermer les yeux....</l>
@@ -1004,45 +1004,45 @@
             <l n="489" xml:id="l489">Ce jeune Théotime est un homme d’honneur.</l>
           </sp>
         </div2>
-        <div2 xml:id="I14" type="scene" n="14">
+        <div2 n="14" type="scene" xml:id="I14">
           <head>SCÈNE XIV. Tous les Acteurs ; hors Séraphin, Gabriel, Nicolas et la Tourrière. <listPerson type="configuration" xml:id="conf14"/></head>
-          <sp xml:id="I14-1" who="MADAMEDORVAL">
+          <sp who="MADAMEDORVAL" xml:id="I14-1">
             <l n="490" xml:id="l490">Le voici ce saint personnage,</l>
             <l n="491" xml:id="l491">À ses rares vertus, accourez rendre hommage.</l>
           </sp>
-          <sp xml:id="I14-2" who="PETRONILLE">
+          <sp who="PETRONILLE" xml:id="I14-2">
             <l n="492" xml:id="l492">Avant de vous quitter, apprenez mon secret,</l>
             <l n="493" xml:id="l493">À cette confidence une heure peut suffire,</l>
             <l n="494" xml:id="l494">Quand on sort du couvent, ou n’en saurait trop dire.</l>
           </sp>
-          <sp xml:id="I14-3" who="APPOLINE">
+          <sp who="APPOLINE" xml:id="I14-3">
             <l n="495" xml:id="l495">Un mot, et j’aurai bientôt fait.</l>
           </sp>
-          <sp xml:id="I14-4" who="PETRONILLE">
-            <l n="496" xml:id="l496" part="I">Je passe la première.</l>
+          <sp who="PETRONILLE" xml:id="I14-4">
+            <l n="496" part="I" xml:id="l496">Je passe la première.</l>
           </sp>
-          <sp xml:id="I14-5" who="EUDALIE">
+          <sp who="EUDALIE" xml:id="I14-5">
             <l part="F">Ah ! Je suis si pressée.</l>
           </sp>
-          <sp xml:id="I14-6" who="APPOLINE">
+          <sp who="APPOLINE" xml:id="I14-6">
             <l n="497" xml:id="l497">D’attendre si longtemps je suis déjà lassée.</l>
           </sp>
-          <sp xml:id="I14-7" who="EUDALIE">
+          <sp who="EUDALIE" xml:id="I14-7">
             <l n="498" xml:id="l498">Ah ! Mes soeurs, que de temps perdu !</l>
           </sp>
-          <sp xml:id="I14-8" who="DORVAL">
+          <sp who="DORVAL" xml:id="I14-8">
             <l n="499" xml:id="l499">Je quitte cet habit, j’en ai trop entendu.</l>
             <l n="500" xml:id="l500">Plus que vous ne croyez, j’ai votre confidence,</l>
             <l n="501" xml:id="l501">Ce que vous me diriez, je le connais d’avance.</l>
           </sp>
-          <sp xml:id="I14-9" who="EUDALIE">
-            <l n="502" xml:id="l502" part="I">Ah ! C’est Monsieur Dorval.</l>
+          <sp who="EUDALIE" xml:id="I14-9">
+            <l n="502" part="I" xml:id="l502">Ah ! C’est Monsieur Dorval.</l>
           </sp>
-          <sp xml:id="I14-10" who="MADAMEDORVAL">
+          <sp who="MADAMEDORVAL" xml:id="I14-10">
             <l part="F">Allez, c’est un malin,</l>
             <l n="503" xml:id="l503">Qui surprend nos secrets sous l’habit d’Honorin.</l>
           </sp>
-          <sp xml:id="I14-11" who="DORVAL">
+          <sp who="DORVAL" xml:id="I14-11">
             <l n="504" xml:id="l504">Il faut bien qu’on me le pardonne.</l>
             <l n="505" xml:id="l505">J’avais voulu surprendre et c’est moi qu’on surprit.</l>
             <l n="506" xml:id="l506">Pour avoir un moment endossé cet habit,</l>
@@ -1052,68 +1052,68 @@
             <l n="510" xml:id="l510">Et pourraient fournir tous les ans</l>
             <l n="511" xml:id="l511">Un plaisant recueil d’anecdotes.</l>
           </sp>
-          <sp xml:id="I14-12" who="EUDALIE">
-            <l n="512" xml:id="l512" part="I">Ce capuchon, Monsieur ?...</l>
+          <sp who="EUDALIE" xml:id="I14-12">
+            <l n="512" part="I" xml:id="l512">Ce capuchon, Monsieur ?...</l>
           </sp>
-          <sp xml:id="I14-13" who="DORVAL">
+          <sp who="DORVAL" xml:id="I14-13">
             <l part="F">Oui ; d’abord il m’apprit</l>
             <l n="513" xml:id="l513">Que ma femme.... est femme d’esprit.</l>
           </sp>
-          <sp xml:id="I14-14" who="APPOLINE">
-            <l n="514" xml:id="l514" part="I">Vous le saviez d’avance.</l>
+          <sp who="APPOLINE" xml:id="I14-14">
+            <l n="514" part="I" xml:id="l514">Vous le saviez d’avance.</l>
           </sp>
-          <sp xml:id="I14-15" who="MADAMEDORVAL">
+          <sp who="MADAMEDORVAL" xml:id="I14-15">
             <l part="F">Et ce ne n’est pas un crime.</l>
           </sp>
-          <sp xml:id="I14-16" who="DORVAL">
-            <l n="515" xml:id="l515" part="I">Et que ma fille...</l>
+          <sp who="DORVAL" xml:id="I14-16">
+            <l n="515" part="I" xml:id="l515">Et que ma fille...</l>
           </sp>
-          <sp xml:id="I14-17" who="LABBESSE">
+          <sp who="LABBESSE" xml:id="I14-17">
             <l part="F">Ici tout le monde l’estime.</l>
           </sp>
-          <sp xml:id="I14-18" who="DORVAL">
+          <sp who="DORVAL" xml:id="I14-18">
             <l n="516" xml:id="l516">Aime fort tendrement le père Théotime.</l>
           </sp>
         </div2>
-        <div2 xml:id="I15" type="scene" n="15">
+        <div2 n="15" type="scene" xml:id="I15">
           <head>SCÈNE XV. Les Mêmes, La Tourrière, Théotime, Nicolas. <listPerson type="configuration" xml:id="conf15"/></head>
-          <sp xml:id="I15-1" who="LATOURRIERE">
+          <sp who="LATOURRIERE" xml:id="I15-1">
             <l n="517" xml:id="l517">Je ramène un transfuge : il fuyait du couvent,</l>
             <l n="518" xml:id="l518">Et je ne l’ai saisi qu’à son corps défendant.</l>
           </sp>
-          <sp xml:id="I15-2" who="MADAMEDORVAL">
-            <l n="519" xml:id="l519" part="I">Enfin, vous l’aimez donc ?</l>
+          <sp who="MADAMEDORVAL" xml:id="I15-2">
+            <l n="519" part="I" xml:id="l519">Enfin, vous l’aimez donc ?</l>
           </sp>
-          <sp xml:id="I15-3" who="AGNES">
+          <sp who="AGNES" xml:id="I15-3">
             <l part="F">Plus qu’on ne saurait dire.</l>
             <l n="520" xml:id="l520">C’est dans la solitude et le désoeuvrement</l>
             <l n="521" xml:id="l521">Qu’avec plus de pouvoir l’amour tient son empire.</l>
           </sp>
-          <sp xml:id="I15-4" who="DORVAL">
+          <sp who="DORVAL" xml:id="I15-4">
             <l n="522" xml:id="l522">L’avis est fort bon à présent.</l>
             <l n="523" xml:id="l523">Faites donc élever vos filles au couvent.</l>
           </sp>
-          <sp xml:id="I15-5" who="LABBESSE">
+          <sp who="LABBESSE" xml:id="I15-5">
             <l n="524" xml:id="l524">Hélas ! Que dira-t-on ?</l>
           </sp>
-          <sp xml:id="I15-6" who="MADAMEDORVAL">
+          <sp who="MADAMEDORVAL" xml:id="I15-6">
             <l n="525" xml:id="l525">Eh bien ! Qu’allez-vous faire ?</l>
           </sp>
-          <sp xml:id="I15-7" who="DORVAL">
+          <sp who="DORVAL" xml:id="I15-7">
             <l n="526" xml:id="l526">Théotime est honnête, et moi je suis bon père.</l>
             <l n="527" xml:id="l527">Il est aimé d’Agnès, je lui donne sa main.</l>
           </sp>
-          <sp xml:id="I15-8" who="AGNES">
+          <sp who="AGNES" xml:id="I15-8">
             <l n="528" xml:id="l528">Mon père à vos genoux...</l>
           </sp>
-          <sp xml:id="I15-9" who="THEOTIME">
+          <sp who="THEOTIME" xml:id="I15-9">
             <l n="529" xml:id="l529">Jour heureux !... sort propice !</l>
           </sp>
-          <sp xml:id="I15-10" who="MADAMEDORVAL">
+          <sp who="MADAMEDORVAL" xml:id="I15-10">
             <l n="530" xml:id="l530">Il sera très plaisant de voir une novice</l>
             <l n="531" xml:id="l531">Épouser un ex-bernardin.</l>
           </sp>
-          <sp xml:id="I15-11" who="LABBESSE">
+          <sp who="LABBESSE" xml:id="I15-11">
             <l n="532" xml:id="l532">Si je me détermine à profiter enfin</l>
             <l n="533" xml:id="l533">De cette liberté que le décret nous laisse,</l>
             <l n="534" xml:id="l534">À m’avoir un mari, travaillez sourdement ;</l>
@@ -1124,40 +1124,40 @@
             <l n="539" xml:id="l539">Pour une ci-devant abbesse.</l>
             <l n="540" xml:id="l540">Je quitte le couvent avant la fin du jour.</l>
           </sp>
-          <sp xml:id="I15-12" who="APPOLINE">
+          <sp who="APPOLINE" xml:id="I15-12">
             <l n="541" xml:id="l541">Je vais enfin revoir mon père.</l>
           </sp>
-          <sp xml:id="I15-13" who="PETRONILLE">
+          <sp who="PETRONILLE" xml:id="I15-13">
             <l n="542" xml:id="l542">Je cours dans les bras de ma mère.</l>
           </sp>
-          <sp xml:id="I15-14" who="EUDALIE">
-            <l n="543" xml:id="l543" part="I"> Je vais, je ne sais où.</l>
+          <sp who="EUDALIE" xml:id="I15-14">
+            <l n="543" part="I" xml:id="l543"> Je vais, je ne sais où.</l>
           </sp>
-          <sp xml:id="I15-15" who="LATOURRIERE">
+          <sp who="LATOURRIERE" xml:id="I15-15">
             <l part="F">Je vais chercher un tour.</l>
           </sp>
         </div2>
-        <div2 xml:id="I16" type="scene" n="16">
+        <div2 n="16" type="scene" xml:id="I16">
           <head>SCÈNE XVI. Tous les acteurs, hors la Fleur.<listPerson type="configuration" xml:id="conf16"/></head>
-          <sp xml:id="I16-1" who="GABRIEL">
+          <sp who="GABRIEL" xml:id="I16-1">
             <l n="544" xml:id="l544">Mesdames, vous voyez si je m’étais trompé.</l>
           </sp>
-          <sp xml:id="I16-2" who="SERAPHIN">
+          <sp who="SERAPHIN" xml:id="I16-2">
             <l n="545" xml:id="l545">De vous je me suis occupé ;</l>
             <l n="546" xml:id="l546">Je viens vous apporter un charmant vaudeville,</l>
             <l n="547" xml:id="l547">Que depuis ce matin l’on chante par la ville.</l>
           </sp>
-          <sp xml:id="I16-3" who="PETRONILLE">
+          <sp who="PETRONILLE" xml:id="I16-3">
             <l n="548" xml:id="l548">Je vais donc essayer mon talent pour le chant.</l>
           </sp>
-          <sp xml:id="I16-4" who="EUDALIE">
+          <sp who="EUDALIE" xml:id="I16-4">
             <l n="549" xml:id="l549">Un vaudeville, ah c’est plaisant !</l>
             <l n="550" xml:id="l550">Pour moi j’aime le chant presque autant que la danse.</l>
           </sp>
-          <sp xml:id="I16-5" who="PETRONILLE">
+          <sp who="PETRONILLE" xml:id="I16-5">
             <l n="551" xml:id="l551">Par Madame l’abbesse il faut que l’on commence.</l>
           </sp>
-          <sp xml:id="I16-6" who="LABBESSE">
+          <sp who="LABBESSE" xml:id="I16-6">
             <l n="552" xml:id="l552">Je perds le titre d’abbesse ;</l>
             <l n="553" xml:id="l553">C’est un fâcheux accident.</l>
             <l n="554" xml:id="l554">Quoi ! L’on veut de sa noblesse</l>
@@ -1167,7 +1167,7 @@
             <l n="558" xml:id="l558">Il n’est point de sacrifice</l>
             <l n="559" xml:id="l559">Qu’on ne fasse à la liberté.</l>
           </sp>
-          <sp xml:id="I16-7" who="LATOURRIERE">
+          <sp who="LATOURRIERE" xml:id="I16-7">
             <l n="560" xml:id="l560">Que si j’étais jeune et belle,</l>
             <l n="561" xml:id="l561">Et faite encore pour l’amour,</l>
             <l n="562" xml:id="l562">Je pourrais être infidèle,</l>
@@ -1177,7 +1177,7 @@
             <l n="566" xml:id="l566">Mais hélas ! Dans la vieillesse,</l>
             <l n="567" xml:id="l567">Que faire de la liberté ?</l>
           </sp>
-          <sp xml:id="I16-8" who="AGNES">
+          <sp who="AGNES" xml:id="I16-8">
             <l n="568" xml:id="l568">Si je sors du monastère,</l>
             <l n="569" xml:id="l569">L’hymen m’enchaîne à jamais :</l>
             <l n="570" xml:id="l570">Le lien que l’on préfère</l>
@@ -1187,7 +1187,7 @@
             <l n="574" xml:id="l574">C’est pour l’engager encore,</l>
             <l n="575" xml:id="l575">Que je reprends, ma liberté.</l>
           </sp>
-          <sp xml:id="I16-9" who="EUDALIE">
+          <sp who="EUDALIE" xml:id="I16-9">
             <l n="576" xml:id="l576">Ce qui chez vous est fort sage,</l>
             <l n="577" xml:id="l577">Chez moi serait imprudent.</l>
             <l n="578" xml:id="l578">Je vais faire un autre usage</l>
@@ -1197,7 +1197,7 @@
             <l n="582" xml:id="l582">Souvent quitter et reprendre</l>
             <l n="583" xml:id="l583">Tous les droits de sa liberté.</l>
           </sp>
-          <sp xml:id="I16-10" who="THEOTIME">
+          <sp who="THEOTIME" xml:id="I16-10">
             <l n="584" xml:id="l584">L’Hymen n’est point une chaîne</l>
             <l n="585" xml:id="l585">Lorsqu’il unit deux amants,</l>
             <l n="586" xml:id="l586">Et je vous soumets sans peine</l>
@@ -1207,10 +1207,8 @@
             <l n="590" xml:id="l590">Obéir à ce qu’on aime</l>
             <l n="591" xml:id="l591">Vaut bien mieux que la liberté.</l>
           </sp>
-          <sp xml:id="I16-11" who="MADAMEDORVAL"><l n="592" xml:id="l592">On dit souvent que les belles</l><l n="593" xml:id="l593">Tyrannisent leurs amants ;</l><l n="594" xml:id="l594">Mais pour les amants fidèles</l><l n="595" xml:id="l595">Ce sont de bien chers tyrans ;</l>
-******** fèxe
-	<l n="596" xml:id="l596">Et de ce fèxe équitable</l><l n="597" xml:id="l597">Reconnaissez la bonté,</l><l n="598" xml:id="l598">Quand l’amant n’est plus aimable</l><l n="599" xml:id="l599">On lui donne sa liberté.</l></sp>
-          <sp xml:id="I16-12" who="PETRONILLE">
+          <sp who="MADAMEDORVAL" xml:id="I16-11"><l n="592" xml:id="l592">On dit souvent que les belles</l><l n="593" xml:id="l593">Tyrannisent leurs amants ;</l><l n="594" xml:id="l594">Mais pour les amants fidèles</l><l n="595" xml:id="l595">Ce sont de bien chers tyrans ;</l> ******** fèxe <l n="596" xml:id="l596">Et de ce fèxe équitable</l><l n="597" xml:id="l597">Reconnaissez la bonté,</l><l n="598" xml:id="l598">Quand l’amant n’est plus aimable</l><l n="599" xml:id="l599">On lui donne sa liberté.</l></sp>
+          <sp who="PETRONILLE" xml:id="I16-12">
             <l n="600" xml:id="l600">Je vais rentrer dans le monde</l>
             <l n="601" xml:id="l601">Où m’appellent mes désirs ;</l>
             <l n="602" xml:id="l602">Je vois partout qu’on le fronde,</l>
@@ -1220,7 +1218,7 @@
             <l n="606" xml:id="l606">C’est sans trop savoir l’usage</l>
             <l n="607" xml:id="l607">Qu’il fera de sa liberté.</l>
           </sp>
-          <sp xml:id="I16-13" who="SERAPHIN">
+          <sp who="SERAPHIN" xml:id="I16-13">
             <l n="608" xml:id="l608">Si nous sortons d’esclavage,</l>
             <l n="609" xml:id="l609">Mes amis de ce bienfait,</l>
             <l n="610" xml:id="l610">Aux femmes rendons hommage,</l>

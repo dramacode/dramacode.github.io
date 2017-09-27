@@ -1699,7 +1699,7 @@
           </sp>
           <sp xml:id="II08-29" who="MADIAN">
             <l n="841" xml:id="l841">Au vieux Montezinos, au grand Archélaüs, </l>
-            <l n="842 part='i'" xml:id="l842 part='i'">Que dirai-je, Seigneur ? </l>
+            <l n="842" part="I" xml:id="l842">Que dirai-je, Seigneur ? </l>
           </sp>
           <sp xml:id="II08-30" who="DONQUICHOT">
             <l part="F">Que Don Guichot confus </l>

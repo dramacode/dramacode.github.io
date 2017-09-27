@@ -32,7 +32,7 @@ Combattons ce géant pendant qu'il est endormi.
 Allons, allons, debout : depuis deux cents ans de sommeil n'êtes-vous pas lasse de dormir ?
 On ne saurait tirer une femme du lit.
 
--*who_bradamnte
+-*who_bradamante
 Où suis-je ?
 
 -*who_roger

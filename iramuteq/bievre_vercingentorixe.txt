@@ -113,7 +113,7 @@ Qu'on apporte en ces lieux ma table alphabétique.
 
 **** *book_ *id_I03 *act_I *date_(non
 
--*who_soldat
+-*who_unsoldat
 Seigneur, je voudrais bien vous celer et brider
 Que...
 

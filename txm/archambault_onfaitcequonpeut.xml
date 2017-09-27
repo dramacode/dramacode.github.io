@@ -4,7 +4,7 @@
       <titleStmt>
         <title>On fait ce qu’on peut</title>
         <title type="sub">, non pas ce qu’on veut, comé‰die proverbe.</title>
-        <author born="1742" born_location="Paris" death="1812" death_location="Paris" academie="">
+        <author academie="" born="1742" born_location="Paris" death="1812" death_location="Paris">
           <surname>Dorvigny</surname>
           <forename> Louis François Archambault dit</forename>
         </author>
@@ -40,11 +40,11 @@
   </teiHeader>
   <text>
     <body>
-      <div1 xml:id="I" type="act" n="1">
+      <div1 n="1" type="act" xml:id="I">
         <head/>
-        <div2 xml:id="I01" type="scene" n="1">
+        <div2 n="1" type="scene" xml:id="I01">
           <head>SCÈNE PREMIÈRE.<listPerson type="configuration" xml:id="conf1"/></head>
-          <sp xml:id="I01-1" who="FRANVILLE">
+          <sp who="FRANVILLE" xml:id="I01-1">
             <p>
               <s>Parbleu ! </s>
               <s>C’est une cruelle chose qu’une entreprise nouvelle, où diable avais-je l’esprit quand j’ai imaginé de me mettre à la tête d’un Spectacle ! </s>
@@ -104,25 +104,25 @@
             </p>
           </sp>
         </div2>
-        <div2 xml:id="I02" type="scene" n="2">
+        <div2 n="2" type="scene" xml:id="I02">
           <head>SCÈNE II. Franville, Le Souffleur.<listPerson type="configuration" xml:id="conf2"/></head>
-          <sp xml:id="I02-1" who="LESOUFLEUR">
+          <sp who="LESOUFLEUR" xml:id="I02-1">
             <p>
               <s>Monsieur, je suis bien votre serviteur, j’ai l’honneur de vous saluer, je vous souhaite bien le bonjour, Monsieur.</s>
             </p>
           </sp>
-          <sp xml:id="I02-2" who="FRANVILLE">
+          <sp who="FRANVILLE" xml:id="I02-2">
             <p>
               <s>Et moi pareillement, Monsieur, qu’y a-t-il pour votre service, Monsieur?</s>
             </p>
           </sp>
-          <sp xml:id="I02-3" who="LESOUFLEUR">
+          <sp who="LESOUFLEUR" xml:id="I02-3">
             <p>
               <s>Monsieur, je n’ai qu’un mot à vous dire, Monsieur, qu’un mot... </s>
               <s>Si c’était un effet de votre complaisance de vouloir bien m’interrompre sans m’écouter, ça sera fait toute de suite ; Monsieur, ça sera fait tout de suite, je n’ai qu’un mot.</s>
             </p>
           </sp>
-          <sp xml:id="I02-4" who="FRANVILLE">
+          <sp who="FRANVILLE" xml:id="I02-4">
             <p>
               <s>Eh bien, Monsieur ! </s>
               <s>Tout de suite, dites-le ce mot, Monsieur, dites-le.</s>
@@ -131,121 +131,121 @@
               <s>C’est un original dont il faut que je m’amuse.</s>
             </p>
           </sp>
-          <sp xml:id="I02-5" who="LESOUFLEUR">
+          <sp who="LESOUFLEUR" xml:id="I02-5">
             <p>
               <s>Monsieur, j’ai entendu dire que...</s>
             </p>
           </sp>
-          <sp xml:id="I02-6" who="FRANVILLE">
+          <sp who="FRANVILLE" xml:id="I02-6">
             <p>
               <s>Est-il possible, Monsieur ? </s>
-              <s>Comment, vous avez entendu dire que...  </s>
+              <s>Comment, vous avez entendu dire que... </s>
             </p>
           </sp>
-          <sp xml:id="I02-7" who="LESOUFLEUR">
+          <sp who="LESOUFLEUR" xml:id="I02-7">
             <p>
               <s>Oui, Monsieur, c’est par voix indirecte ; il m’est revenu que...</s>
             </p>
           </sp>
-          <sp xml:id="I02-8" who="FRANVILLE">
+          <sp who="FRANVILLE" xml:id="I02-8">
             <p>
               <s>Comment, Monsieur, cela vous est revenu !</s>
             </p>
           </sp>
-          <sp xml:id="I02-9" who="LESOUFLEUR">
+          <sp who="LESOUFLEUR" xml:id="I02-9">
             <p>
               <s>Assurément, Monsieur, je n’en impose pas, il court un bruit que...</s>
             </p>
           </sp>
-          <sp xml:id="I02-10" who="FRANVILLE">
+          <sp who="FRANVILLE" xml:id="I02-10">
             <p>
               <s>Comment donc ; mais ce bruit là est inquiétant au moins !... </s>
               <s>Et vous dites, Monsieur, que...</s>
             </p>
           </sp>
-          <sp xml:id="I02-11" who="LESOUFLEUR">
+          <sp who="LESOUFLEUR" xml:id="I02-11">
             <p>
               <s>Eh ! </s>
               <s>Bien ; mais, Monsieur, je dis qu’on dit que vous avez dit que vous faisiez une troupe de Comédie.</s>
             </p>
           </sp>
-          <sp xml:id="I02-12" who="FRANVILLE">
+          <sp who="FRANVILLE" xml:id="I02-12">
             <p>
               <s>On dit cela, Monsieur ?</s>
             </p>
           </sp>
-          <sp xml:id="I02-13" who="LESOUFLEUR">
+          <sp who="LESOUFLEUR" xml:id="I02-13">
             <p>
               <s>Oui, Monsieur... </s>
               <s>Et comme je me trouve sans place, moi, pour le moment, ce qui ne prouve rien, voyez-vous, parce que tous les jours vous sentez bien, on est dans le cas de...</s>
             </p>
           </sp>
-          <sp xml:id="I02-14" who="FRANVILLE">
+          <sp who="FRANVILLE" xml:id="I02-14">
             <p>
               <s>Assurément.</s>
             </p>
           </sp>
-          <sp xml:id="I02-15" who="LESOUFLEUR">
+          <sp who="LESOUFLEUR" xml:id="I02-15">
             <p>
               <s>Eh bien, Monsieur je viens vous proposer mes talents.</s>
             </p>
           </sp>
-          <sp xml:id="I02-16" who="FRANVILLE">
+          <sp who="FRANVILLE" xml:id="I02-16">
             <p>
               <s>Vos talents, Monsieur ! </s>
               <s>Cela n’est pas de refus ; dans quel genre sont-ils ?</s>
             </p>
           </sp>
-          <sp xml:id="I02-17" who="LESOUFLEUR">
+          <sp who="LESOUFLEUR" xml:id="I02-17">
             <p>
               <s>Mais, Monsieur, en tout genre ; pour ce qui est en fait de Tragédie, de Comédie, et même d’Opera, Monsieur.</s>
             </p>
           </sp>
-          <sp xml:id="I02-18" who="FRANVILLE">
+          <sp who="FRANVILLE" xml:id="I02-18">
             <p>
               <s>Comment, Monsieur, est-ce que vous chantez ?</s>
             </p>
           </sp>
-          <sp xml:id="I02-19" who="LESOUFLEUR">
+          <sp who="LESOUFLEUR" xml:id="I02-19">
             <p>
               <s>Non, Monsieur ; au contraire je ne chante pas. </s>
               <s>Je chanterais bien, si je voulais ; mais je vous conviendrai d’une chose, je n’ai pas d’oreille.</s>
             </p>
           </sp>
-          <sp xml:id="I02-20" who="FRANVILLE">
+          <sp who="FRANVILLE" xml:id="I02-20">
             <p>
               <s>Pas d’oreille ! </s>
               <s>Ah ! </s>
               <s>Cela vous plaît à dire.</s>
             </p>
           </sp>
-          <sp xml:id="I02-21" who="LESOUFLEUR">
+          <sp who="LESOUFLEUR" xml:id="I02-21">
             <p>
               <s>Oh ! </s>
               <s>Monsieur ; c’est une politesse de votre part ; mais je ne veux pas vous tromper.</s>
             </p>
           </sp>
-          <sp xml:id="I02-22" who="FRANVILLE">
+          <sp who="FRANVILLE" xml:id="I02-22">
             <p>
               <s>C’est bien honnête. </s>
               <s>Monsieur est pour les Tragédies, apparemment. </s>
               <s>Monsieur déclame.</s>
             </p>
           </sp>
-          <sp xml:id="I02-23" who="LESOUFLEUR">
+          <sp who="LESOUFLEUR" xml:id="I02-23">
             <p>
               <s>Déclame : non. </s>
               <s>Je l’aimerais assez, la Tragédie ; mais je vous avouerai encore une autre chose, j’ai la voix fausse dans le haut.</s>
             </p>
           </sp>
-          <sp xml:id="I02-24" who="FRANVILLE">
+          <sp who="FRANVILLE" xml:id="I02-24">
             <p>
               <s>Ah ! </s>
               <s>C’est dommage... </s>
               <s>Vous êtes obligé comme cela de vous borner à la Comédie.</s>
             </p>
           </sp>
-          <sp xml:id="I02-25" who="LESOUFLEUR">
+          <sp who="LESOUFLEUR" xml:id="I02-25">
             <p>
               <s>La Comédie, moi ! </s>
               <s>Ah ! </s>
@@ -253,37 +253,37 @@
               <s>Belle bagatelle : je m’amuse bien à cela, ma foi.</s>
             </p>
           </sp>
-          <sp xml:id="I02-26" who="FRANVILLE">
+          <sp who="FRANVILLE" xml:id="I02-26">
             <p>
               <s>Comment ? </s>
               <s>Vous ne chantez, ni ne déclamez, ni ne jouez la Comédie ! </s>
               <s>Que diable faites-vous donc dans les pièces ?</s>
             </p>
           </sp>
-          <sp xml:id="I02-27" who="LESOUFLEUR">
+          <sp who="LESOUFLEUR" xml:id="I02-27">
             <p>
               <s>Ah ! </s>
               <s>Ce que j’y fais ? </s>
               <s>Je les souffle, Monsieur, je les soufFle.</s>
             </p>
           </sp>
-          <sp xml:id="I02-28" who="FRANVILLE">
+          <sp who="FRANVILLE" xml:id="I02-28">
             <p>
               <s>Ah ! </s>
               <s>Vous les soufflez.</s>
             </p>
           </sp>
-          <sp xml:id="I02-29" who="LESOUFLEUR">
+          <sp who="LESOUFLEUR" xml:id="I02-29">
             <p>
               <s>Oui, Monsieur, je les souffle ; et bien même, je m’en vante encor, et on ne peut pas m’ôter ça, voyez vous ?</s>
             </p>
           </sp>
-          <sp xml:id="I02-30" who="FRANVILLE">
+          <sp who="FRANVILLE" xml:id="I02-30">
             <p>
               <s>Je vous en fais mon compliment, Monsieur ; vous pouvez ne m’être pas inutile ; mais je serais charmé de vous connaître un peu.</s>
             </p>
           </sp>
-          <sp xml:id="I02-31" who="LESOUFLEUR">
+          <sp who="LESOUFLEUR" xml:id="I02-31">
             <p>
               <s>Me connaître ! </s>
               <s>Ah parbleu, c’est bien aisé. Il n’y a pas grand chose à vous dire pour ça. </s>
@@ -292,47 +292,47 @@
               <s>Mais qu’est-ce que cela vous fait, que ma taille soit élégante ou non, avantageuse ou raccourcie, tout ça est égal, pourvu que j’atteigne à la trappe ; c’est tout ce qu’il faut, n’est-il pas vrai ?</s>
             </p>
           </sp>
-          <sp xml:id="I02-32" who="FRANVILLE">
+          <sp who="FRANVILLE" xml:id="I02-32">
             <p>
               <s>Oui, c’est la mesure tout juste.</s>
             </p>
           </sp>
-          <sp xml:id="I02-33" who="LESOUFLEUR">
+          <sp who="LESOUFLEUR" xml:id="I02-33">
             <p>
               <s>Pour mes jambes, je n’ai rien à vous en dire non plus ; que vous importe en effet, qu’elles soient droites ou cagneuses, arquées ou bancales. </s>
               <s>Toute la besogne d’un souffleur se fait assis.</s>
             </p>
           </sp>
-          <sp xml:id="I02-34" who="FRANVILLE">
+          <sp who="FRANVILLE" xml:id="I02-34">
             <p>
               <s>Vous avez raison.</s>
             </p>
           </sp>
-          <sp xml:id="I02-35" who="LESOUFLEUR">
+          <sp who="LESOUFLEUR" xml:id="I02-35">
             <p>
               <s>Je ne sais pas, Monsieur, si vous trouvez ma figure bien revenante ?</s>
             </p>
           </sp>
-          <sp xml:id="I02-36" who="FRANVILLE">
+          <sp who="FRANVILLE" xml:id="I02-36">
             <p>
               <s>Mais elle n’est pas mal.</s>
             </p>
           </sp>
-          <sp xml:id="I02-37" who="LESOUFLEUR">
+          <sp who="LESOUFLEUR" xml:id="I02-37">
             <p>
-              <s>Eh bien, tout ça ne fait encore rien à la chose.  </s>
+              <s>Eh bien, tout ça ne fait encore rien à la chose. </s>
               <s>Quand je serai là, moi.</s>
             </p>
             <p>
               <s>Le Public ne verra mon visage que par derrière.</s>
             </p>
           </sp>
-          <sp xml:id="I02-38" who="FRANVILLE">
+          <sp who="FRANVILLE" xml:id="I02-38">
             <p>
               <s>Il n’y perdra pas.</s>
             </p>
           </sp>
-          <sp xml:id="I02-39" who="LESOUFLEUR">
+          <sp who="LESOUFLEUR" xml:id="I02-39">
             <p>
               <s>Toute l’explication que j’ai à vous donner se réduit donc à trois points. </s>
               <s>L’intelligence, l’oeil et la voix... </s>
@@ -343,25 +343,25 @@
               <s>Et de mes deux yeux, tandis que l’un ne perd pas de vue le livre, l’autre continuellement fixé sur l’acteur, observe son maintien, devine son embarras, et prévient son silence.</s>
             </p>
           </sp>
-          <sp xml:id="I02-40" who="FRANVILLE">
+          <sp who="FRANVILLE" xml:id="I02-40">
             <p>
               <s>Le beau portait ! </s>
               <s>Il me semble voir un colimaçon à la découverte, un oeil à droite et l’autre à gauche.</s>
             </p>
           </sp>
-          <sp xml:id="I02-41" who="LESOUFLEUR">
+          <sp who="LESOUFLEUR" xml:id="I02-41">
             <p>
               <s>Pour la voix, comme je vous dis, je ne l’ai pas imposante dans le haut ; mais elle est moelleuse dans le médium, et par le mécanisme adroit de l’articulation, faisant une porte-voix de mes lèvres, personne ne parle bas plus intelligiblement que moi. </s>
               <s>Souvent même dans ces moments où la scène se passe au fond du Théâtre, l’Acteur emporté par la passion, ou trop éloigné de moi pour m’entendre, a reconnu son vers au seul mouvement de mes lèvres.</s>
             </p>
           </sp>
-          <sp xml:id="I02-42" who="FRANVILLE">
+          <sp who="FRANVILLE" xml:id="I02-42">
             <p>
               <s>Tubleu ! </s>
               <s>C’est tirer le talent à l’alambic.</s>
             </p>
           </sp>
-          <sp xml:id="I02-43" who="LESOUFLEUR">
+          <sp who="LESOUFLEUR" xml:id="I02-43">
             <p>
               <s>Il y aurait encor un détail à vous faire sur la main. </s>
               <s>Le souffleur, ordinairement, copie les répertoires ; est-il vrai ? </s>
@@ -371,31 +371,31 @@
               <s>Vous ne voyez que de la commune au moins, l’écriture de tous les jours, mais nous avons la moulée pour les grandes occasions, et le trait pour les coups d’éclat ; à présent, Monsieur, décidez-vous.</s>
             </p>
           </sp>
-          <sp xml:id="I02-44" who="FRANVILLE">
+          <sp who="FRANVILLE" xml:id="I02-44">
             <p>
               <s>Monsieur, si vos talents répondent à l’idée que vous m’en donnez, je serai charmé de vous avoir ; mais permettez-moi de vous essayer auparavant : sitôt que ma troupe sera assemblée nous commencerons des répétitions, et là vous serez à même de vous faire connaître. </s>
               <s>Voici un billet d’entrée avec lequel les portes du théâtre vous seront ouvertes.</s>
             </p>
           </sp>
-          <sp xml:id="I02-45" who="LESOUFLEUR">
+          <sp who="LESOUFLEUR" xml:id="I02-45">
             <p>
               <s>Eh ! </s>
               <s>Bien ; je ne manquerai pas de m’y présenter, en attendant, je suis bien votre serviteur, Monsieur ; j’ai l’honneur de vous saluer, je vous souhaite bien le bonjour, Monsieur.</s>
             </p>
           </sp>
         </div2>
-        <div2 xml:id="I03" type="scene" n="3">
+        <div2 n="3" type="scene" xml:id="I03">
           <head>SCÉNE III.<listPerson type="configuration" xml:id="conf3"/></head>
-          <sp xml:id="I03-1" who="FRANVILLE">
+          <sp who="FRANVILLE" xml:id="I03-1">
             <p>
               <s>Voilà un plaisant Monsieur ! </s>
               <s>S’il souffle comme il parle, cela doit être intéressant ; voyons mes autres lettres.</s>
             </p>
           </sp>
         </div2>
-        <div2 xml:id="I04" type="scene" n="4">
+        <div2 n="4" type="scene" xml:id="I04">
           <head>SCÉˆNE IV. FRANVILLE, assis, LE VALET Allemand.<listPerson type="configuration" xml:id="conf4"/></head>
-          <sp xml:id="I04-1" who="LEVALET">
+          <sp who="LEVALET" xml:id="I04-1">
             <p>
               <s>Voyons s’il me reconnaîtra... </s>
               <s>Ah ! </s>
@@ -403,27 +403,27 @@
               <s>Oh bien, je vais de mon côté essayer un peu votre patience.</s>
             </p>
           </sp>
-          <sp xml:id="I04-2" who="FRANVILLE">
+          <sp who="FRANVILLE" xml:id="I04-2">
             <p>
               <s>Qui est là ?</s>
             </p>
           </sp>
-          <sp xml:id="I04-3" who="LEVALET">
+          <sp who="LEVALET" xml:id="I04-3">
             <p>
               <s>Serfiteur, Monsir.</s>
             </p>
           </sp>
-          <sp xml:id="I04-4" who="FRANVILLE">
+          <sp who="FRANVILLE" xml:id="I04-4">
             <p>
               <s>Que demandez-vous, l’ami ?</s>
             </p>
           </sp>
-          <sp xml:id="I04-5" who="LEVALET">
+          <sp who="LEVALET" xml:id="I04-5">
             <p>
               <s>Monsir, l’y être un petit lettre.</s>
             </p>
           </sp>
-          <sp xml:id="I04-6" who="FRANVILLE">
+          <sp who="FRANVILLE" xml:id="I04-6">
             <p>
               <s>Donnez.</s>
             </p>
@@ -439,73 +439,73 @@
               <s>Mon ami, dites à votre maître que s’il veut me faire le plaisir de me venir voir, nous nous arrangerons ensemble.</s>
             </p>
           </sp>
-          <sp xml:id="I04-7" who="FRANVILLE">
+          <sp who="FRANVILLE" xml:id="I04-7">
             <p>
               <s>Entendez-vous, mon enfant ?</s>
             </p>
           </sp>
-          <sp xml:id="I04-8" who="LEVALET">
+          <sp who="LEVALET" xml:id="I04-8">
             <p>
               <s>Monsir, il parle pour moi ?</s>
             </p>
           </sp>
-          <sp xml:id="I04-9" who="FRANVILLE">
+          <sp who="FRANVILLE" xml:id="I04-9">
             <p>
               <s>Oui, je vous prie de dire à celui qui vous envoie qu’il vienne me voir... </s>
               <s>Mais dites-moi que fait-il ce Monsieur là ?</s>
             </p>
           </sp>
-          <sp xml:id="I04-10" who="LEVALET">
+          <sp who="LEVALET" xml:id="I04-10">
             <p>
               <s>Monsir, javre apporté un lettre, chattendre un réponse.</s>
             </p>
           </sp>
-          <sp xml:id="I04-11" who="FRANVILLE">
+          <sp who="FRANVILLE" xml:id="I04-11">
             <p>
               <s>Eh ! </s>
               <s>Bien, je vous l’ai faite.</s>
             </p>
           </sp>
-          <sp xml:id="I04-12" who="LEVALET">
+          <sp who="LEVALET" xml:id="I04-12">
             <p>
               <s>Monsir, ché temante pardone, che n’ententre pas.</s>
             </p>
           </sp>
-          <sp xml:id="I04-13" who="FRANVILLE">
+          <sp who="FRANVILLE" xml:id="I04-13">
             <p>
               <s>Je vous demande à présent qui est celui qui vous envoie ; ce qu’il fait ?</s>
             </p>
           </sp>
-          <sp xml:id="I04-14" who="LEVALET">
+          <sp who="LEVALET" xml:id="I04-14">
             <p>
               <s>Monsir, excusez-moi, ché n’ententre pas.</s>
             </p>
           </sp>
-          <sp xml:id="I04-15" who="FRANVILLE">
+          <sp who="FRANVILLE" xml:id="I04-15">
             <p>
               <s>Vous n’entendez-pas. </s>
               <s>Cela est pourtant clair ; je ne saurais m’expliquer mieux... </s>
               <s>Je vous demande quel est son état, sa profession.</s>
             </p>
           </sp>
-          <sp xml:id="I04-16" who="LEVALET">
+          <sp who="LEVALET" xml:id="I04-16">
             <p>
               <s>É‰crire, Monsir, écrire.</s>
             </p>
           </sp>
-          <sp xml:id="I04-17" who="FRANVILLE">
+          <sp who="FRANVILLE" xml:id="I04-17">
             <p>
               <s>Ah ! Il écrit... </s>
               <s>Est-ce un homme de lettres ? </s>
               <s>Est-ce un commis, un secrétaire.</s>
             </p>
           </sp>
-          <sp xml:id="I04-18" who="LEVALET">
+          <sp who="LEVALET" xml:id="I04-18">
             <p>
               <s>É‰crire, Monsir, écrire.</s>
             </p>
           </sp>
-          <sp xml:id="I04-19" who="FRANVILLE">
+          <sp who="FRANVILLE" xml:id="I04-19">
             <p>
               <s>Eh non, ce n’est plus cela que je vous demande ;</s>
             </p>
@@ -516,23 +516,23 @@
               <s>Allez dire à votre maître qu’il vienne me voir, nous causerons ensemble.</s>
             </p>
           </sp>
-          <sp xml:id="I04-20" who="LEVALET">
+          <sp who="LEVALET" xml:id="I04-20">
             <p>
               <s>Mais, Monsir, est-ce que fous n’ententre pas aussi, chattendre ein réponse depuis trois heures.</s>
             </p>
           </sp>
-          <sp xml:id="I04-21" who="FRANVILLE">
+          <sp who="FRANVILLE" xml:id="I04-21">
             <p>
               <s>Mais, morbleu, est-ce que vous êtes ivre ? </s>
               <s>Voilà vingt fois que je vous la répète.</s>
             </p>
           </sp>
-          <sp xml:id="I04-22" who="LEVALET">
+          <sp who="LEVALET" xml:id="I04-22">
             <p>
               <s>É‰crire fous, Monsir.</s>
             </p>
           </sp>
-          <sp xml:id="I04-23" who="FRANVILLE">
+          <sp who="FRANVILLE" xml:id="I04-23">
             <p>
               <s>Mais, je n’ai rien à lui écrire, dites-lui cela.</s>
             </p>
@@ -542,25 +542,25 @@
               <s>Vous êtes familier l’ami.</s>
             </p>
           </sp>
-          <sp xml:id="I04-24" who="LEVALET">
+          <sp who="LEVALET" xml:id="I04-24">
             <p>
               <s>É‰crire fous, encore ein coup, écrire, ché n’entendre pas.</s>
             </p>
           </sp>
-          <sp xml:id="I04-25" who="FRANVILLE">
+          <sp who="FRANVILLE" xml:id="I04-25">
             <p>
               <s>Où diable a-t-on déterré un pareil commissionnaire ? </s>
               <s>Comment vous ne comprenez-pas ce que je vous dis ?</s>
             </p>
           </sp>
-          <sp xml:id="I04-26" who="LEVALET">
+          <sp who="LEVALET" xml:id="I04-26">
             <p>
               <s>Tarteifle ! </s>
               <s>Fous l’y être fou donc ? </s>
               <s>Quand je dire ché n’ententre pas ; ententre-fous, ou n’ententre pas encore, écrire.</s>
             </p>
           </sp>
-          <sp xml:id="I04-27" who="FRANVILLE">
+          <sp who="FRANVILLE" xml:id="I04-27">
             <p>
               <s>Peste soit de l’animal ! </s>
               <s>Je crois, Dieu me pardonne, qu’il est sourd.</s>
@@ -569,14 +569,14 @@
               <s>Est-ce que vous êtes sourd ?</s>
             </p>
           </sp>
-          <sp xml:id="I04-28" who="LEVALET">
+          <sp who="LEVALET" xml:id="I04-28">
             <p>
               <s>Ah gouth ! </s>
               <s>Ah gouth ! </s>
               <s>La sourd.</s>
             </p>
           </sp>
-          <sp xml:id="I04-29" who="FRANVILLE">
+          <sp who="FRANVILLE" xml:id="I04-29">
             <p>
               <s>Le diable l’emporte ! </s>
               <s>Il y a deux heures que je me casse la tête là bien à propos ! </s>
@@ -586,22 +586,22 @@
               <s>Attendez un instant.</s>
             </p>
           </sp>
-          <sp xml:id="I04-30" who="LEVALET">
+          <sp who="LEVALET" xml:id="I04-30">
             <p>
               <s>Ya, ya, écrire fous, écrire.</s>
             </p>
           </sp>
-          <sp xml:id="I04-31" who="FRANVILLE">
+          <sp who="FRANVILLE" xml:id="I04-31">
             <p>
               <s>Allez, Monsieur écrire, allez.</s>
             </p>
           </sp>
-          <sp xml:id="I04-32" who="LEVALET">
+          <sp who="LEVALET" xml:id="I04-32">
             <p>
               <s>Monsir.</s>
             </p>
           </sp>
-          <sp xml:id="I04-33" who="FRANVILLE">
+          <sp who="FRANVILLE" xml:id="I04-33">
             <p>
               <s>Eh bien ! </s>
               <s>Quoi ? </s>
@@ -609,113 +609,113 @@
               <s>Encore écrire?</s>
             </p>
           </sp>
-          <sp xml:id="I04-34" who="LEVALET">
+          <sp who="LEVALET" xml:id="I04-34">
             <p>
               <s>Fous faire la Comédie.</s>
             </p>
           </sp>
-          <sp xml:id="I04-35" who="FRANVILLE">
+          <sp who="FRANVILLE" xml:id="I04-35">
             <p>
               <s>Que veut-il dire ?</s>
             </p>
           </sp>
-          <sp xml:id="I04-36" who="LEVALET">
+          <sp who="LEVALET" xml:id="I04-36">
             <p>
               <s>Ché aussi capable pour faire. </s>
               <s>Quand fous il donne moi beaucoup l’archent, ché vas chouer pon, beaucoup, pon.</s>
             </p>
           </sp>
-          <sp xml:id="I04-37" who="FRANVILLE">
+          <sp who="FRANVILLE" xml:id="I04-37">
             <p>
               <s>Comment ! </s>
               <s>Mais je crois qu’il parle de jouer la comédie.</s>
             </p>
           </sp>
-          <sp xml:id="I04-38" who="LEVALET">
+          <sp who="LEVALET" xml:id="I04-38">
             <p>
               <s>É‰crire fous, ché n’entens pas.</s>
             </p>
           </sp>
-          <sp xml:id="I04-39" who="FRANVILLE">
+          <sp who="FRANVILLE" xml:id="I04-39">
             <p>
               <s>Va-t-en au diable avec tes écritures.</s>
             </p>
           </sp>
-          <sp xml:id="I04-40" who="LEVALET">
+          <sp who="LEVALET" xml:id="I04-40">
             <p>
               <s>Monsir, je sonne fort pien du cor.</s>
             </p>
           </sp>
-          <sp xml:id="I04-41" who="FRANVILLE">
+          <sp who="FRANVILLE" xml:id="I04-41">
             <p>
               <s>Va-t-en, va-t-en.</s>
             </p>
           </sp>
-          <sp xml:id="I04-42" who="LEVALET">
+          <sp who="LEVALET" xml:id="I04-42">
             <p>
               <s>Je connais fort peaucoup la flÉ»te.</s>
             </p>
           </sp>
-          <sp xml:id="I04-43" who="FRANVILLE">
+          <sp who="FRANVILLE" xml:id="I04-43">
             <p>
               <s>Eh morbleu, t’en iras-tu ?</s>
             </p>
           </sp>
-          <sp xml:id="I04-44" who="LEVALET">
+          <sp who="LEVALET" xml:id="I04-44">
             <p>
               <s>É‰crire, Monsir, écrire.</s>
             </p>
           </sp>
-          <sp xml:id="I04-45" who="FRANVILLE">
+          <sp who="FRANVILLE" xml:id="I04-45">
             <p>
               <s>Oui, oui, je vais t’écrire la porte sur le nez.</s>
             </p>
           </sp>
         </div2>
-        <div2 xml:id="I05" type="scene" n="5">
+        <div2 n="5" type="scene" xml:id="I05">
           <head>SCÉˆNE V.<listPerson type="configuration" xml:id="conf5"/></head>
-          <sp xml:id="I05-1" who="FRANVILLE">
+          <sp who="FRANVILLE" xml:id="I05-1">
             <p>
-              <s>Parbleu, voila une belle acquisition à faire, et une jolie conversation que je viens d’avoir !  </s>
+              <s>Parbleu, voila une belle acquisition à faire, et une jolie conversation que je viens d’avoir ! </s>
               <s>Mais je ne reviens pas de ma simplicité. </s>
               <s>Voilà deux heures que je ne m’aperçois pas que cet animal est sourd, et je veux lui faire entendre raison ; si je juge du Maître par le Valet, cela ne m’en donne pas grande idée.</s>
             </p>
           </sp>
         </div2>
-        <div2 xml:id="I06" type="scene" n="">
+        <div2 type="scene" xml:id="I06">
           <head>SCÉˆNE VI. FRANVILLE, LE BEAU LÉANDRE.<listPerson type="configuration" xml:id="conf6"/></head>
-          <sp xml:id="I06-1" who="LEANDRE">
+          <sp who="LEANDRE" xml:id="I06-1">
             <p>
               <s>Monsieur, c’est pour avoir l’honneur de vous souhaiter le bonjour.</s>
             </p>
           </sp>
-          <sp xml:id="I06-2" who="FRANVILLE">
+          <sp who="FRANVILLE" xml:id="I06-2">
             <p>
               <s>Je vous salue, Monsieur, peut-on savoir ce qui vous amène.</s>
             </p>
           </sp>
-          <sp xml:id="I06-3" who="LEANDRE">
+          <sp who="LEANDRE" xml:id="I06-3">
             <p>
               <s>Monsieur, je suis tun jeune homme dont auquel vous pouvez faire tout ce qui dépendra de moi.</s>
             </p>
           </sp>
-          <sp xml:id="I06-4" who="FRANVILLE">
+          <sp who="FRANVILLE" xml:id="I06-4">
             <p>
               <s>Je ne comprends pas trop ce que vous me faites l’honneur de me dire.</s>
             </p>
           </sp>
-          <sp xml:id="I06-5" who="LEANDRE">
+          <sp who="LEANDRE" xml:id="I06-5">
             <p>
               <s>Je vais tentrer zavec vous ten pourparler, Monsieur. </s>
               <s>J’ai t’eu une inducation proportionnée ta ma naissance, qu’est très honnête, étant le fils d’un père qu’est zun bourgeois t’honoré dans Paris ; mais, comme vous savez, Monsieur, un jeune homme ne peut pas demeurer comme un cul de plomb zen une boutique, c’est ce qui fait que je me suis t’informé de vous, comme par lequel nous pouvons faire un arrangement zensemble.</s>
             </p>
           </sp>
-          <sp xml:id="I06-6" who="FRANVILLE">
+          <sp who="FRANVILLE" xml:id="I06-6">
             <p>
               <s>Mais quelle serait votre intention ? </s>
             </p>
           </sp>
-          <sp xml:id="I06-7" who="LEANDRE">
+          <sp who="LEANDRE" xml:id="I06-7">
             <p>
               <s>Monsieur, mon intention ça dépend de vous. </s>
               <s>Je n’ai pas d’intention moi... </s>
@@ -723,118 +723,117 @@
               <s>J’en ai bien tune, mais elle est subordonnée za la vôtre.</s>
             </p>
           </sp>
-          <sp xml:id="I06-8" who="FRANVILLE">
+          <sp who="FRANVILLE" xml:id="I06-8">
             <p>
               <s>Est ce que vous auriez envie de jouer la Comédie ?</s>
             </p>
           </sp>
-          <sp xml:id="I06-9" who="LEANDRE">
+          <sp who="LEANDRE" xml:id="I06-9">
             <p>
               <s>Monsieur, c’est positivement zen cette qualité que je viens ta vous.</s>
             </p>
           </sp>
-          <sp xml:id="I06-10" who="FRANVILLE">
+          <sp who="FRANVILLE" xml:id="I06-10">
             <p>
-              <s>Monsieur, la Comédie est un art bien difficile.
-</s>
+              <s>Monsieur, la Comédie est un art bien difficile. </s>
             </p>
           </sp>
-          <sp xml:id="I06-11" who="LEANDRE">
+          <sp who="LEANDRE" xml:id="I06-11">
             <p>
               <s>Je n’en ignore pas, la Comédie c’est une chose très-difficile. </s>
               <s>Quand je dis difficile, c’est-à-dire, il n’y a rien de si aisé, il ne faut que de l’interligence pour ça.</s>
             </p>
           </sp>
-          <sp xml:id="I06-12" who="FRANVILLE">
+          <sp who="FRANVILLE" xml:id="I06-12">
             <p>
               <s>De l’interligence, oh ! </s>
               <s>Il me paraît que vous n’en manquez pas ; avez-vous déjà joué quelque fois ?</s>
             </p>
           </sp>
-          <sp xml:id="I06-13" who="LEANDRE">
+          <sp who="LEANDRE" xml:id="I06-13">
             <p>
               <s>Non, Monsieur, jamais... </s>
               <s>Quand je dis jamais ; c’est-à-dire, si fait... Je me suis essayé devant zune glace qui est dans la chambre de mon père.</s>
             </p>
           </sp>
-          <sp xml:id="I06-14" who="FRANVILLE">
+          <sp who="FRANVILLE" xml:id="I06-14">
             <p>
               <s>La peste, vous êtes fort avancé ! </s>
               <s>Vous savez sans doute des rôles. </s>
             </p>
           </sp>
-          <sp xml:id="I06-15" who="LEANDRE">
+          <sp who="LEANDRE" xml:id="I06-15">
             <p>
               <s>Oh ! </s>
               <s>Pour ça, oui, beaucoup... </s>
               <s>Quand je dis beaucoup, c’est-à-dire, non, je n’en sais pas, mais c’est égal, il ne faut que de la mémoire pour ça.</s>
             </p>
           </sp>
-          <sp xml:id="I06-16" who="FRANVILLE">
+          <sp who="FRANVILLE" xml:id="I06-16">
             <p>
               <s>Oh bien ! </s>
               <s>Moi, je vous conseille de ne pas prendre cet état là. </s>
             </p>
           </sp>
-          <sp xml:id="I06-17" who="LEANDRE">
+          <sp who="LEANDRE" xml:id="I06-17">
             <p>
               <s>À cause de pourquoi t’est-ce ?</s>
             </p>
           </sp>
-          <sp xml:id="I06-18" who="FRANVILLE">
+          <sp who="FRANVILLE" xml:id="I06-18">
             <p>
               <s>Mais pour bien des raisons.</s>
             </p>
           </sp>
-          <sp xml:id="I06-19" who="LEANDRE">
+          <sp who="LEANDRE" xml:id="I06-19">
             <p>
               <s>Encore, dites-moi zen tune, Monsieur.</s>
             </p>
           </sp>
-          <sp xml:id="I06-20" who="FRANVILLE">
+          <sp who="FRANVILLE" xml:id="I06-20">
             <p>
               <s>Eh ! Mais, par exemple, en voilà tune très forte.</s>
             </p>
           </sp>
-          <sp xml:id="I06-21" who="LEANDRE">
+          <sp who="LEANDRE" xml:id="I06-21">
             <p>
               <s>Zen quoi donc, Monsieur ?</s>
             </p>
           </sp>
-          <sp xml:id="I06-22" who="FRANVILLE">
+          <sp who="FRANVILLE" xml:id="I06-22">
             <p>
               <s>Eh ! Parbleu, zen tout... </s>
               <s>La première chose que l’on exige au théâtre, c’est de parler correctement le Français et franchement vous me paraissez avoir un certain accent.</s>
             </p>
           </sp>
-          <sp xml:id="I06-23" who="LEANDRE">
+          <sp who="LEANDRE" xml:id="I06-23">
             <p>
               <s>C’est zun rien ça, Monsieur, je m’en vas vous dire d’où c’que ç’a provient ; j’ai tun peu fréquenté sur le Boulevard du Temple, où ce que j’ai entendu jouer la parade avec attention, et j’en ai contracté zune habitude d’appuyer p’t’être un peu trop d’sus la prononciation. Mais avec un peu de négligence, Monsieur, je me remettrai zau niveau de tout le monde.</s>
             </p>
           </sp>
-          <sp xml:id="I06-24" who="FRANVILLE">
+          <sp who="FRANVILLE" xml:id="I06-24">
             <p>
               <s>C’est plus difficile que vous ne pensez, d’ailleurs vous ne savez aucune rôle, et vous ne pourriez pas m’être utile.</s>
             </p>
           </sp>
-          <sp xml:id="I06-25" who="LEANDRE">
+          <sp who="LEANDRE" xml:id="I06-25">
             <p>
               <s>Monsieur, pardon, excuse. </s>
               <s>Quand je dis je ne sais taucun rôle, c’est-à-dire si fait, j’en sais bien, mais ce sont des petites comédies toutes entières, et si vous voulez je vas tavoir l’honneur de vous en jouer tune à moi tout seul.</s>
             </p>
           </sp>
-          <sp xml:id="I06-26" who="FRANVILLE">
+          <sp who="FRANVILLE" xml:id="I06-26">
             <p>
               <s>À vous tout seul ! </s>
               <s>Cela doit être curieux.</s>
             </p>
           </sp>
-          <sp xml:id="I06-27" who="LEANDRE">
+          <sp who="LEANDRE" xml:id="I06-27">
             <p>
               <s>Monsieur, je m’en fais fort.</s>
             </p>
           </sp>
-          <sp xml:id="I06-28" who="FRANVILLE">
+          <sp who="FRANVILLE" xml:id="I06-28">
             <p>
               <s>Il n’est qu’onze heures ; je n’ai rien à faire jusqu’à midi, amusons-nous de son extravagance.</s>
             </p>
@@ -842,7 +841,7 @@
               <s>Allons, Monsieur, je vous écoute.</s>
             </p>
           </sp>
-          <sp xml:id="I06-29" who="LEANDRE">
+          <sp who="LEANDRE" xml:id="I06-29">
             <p>
               <s>Eh bien ! </s>
               <s>Monsieur, voilà que je m’y mets, zil est bon de vous figurer qu’il y a tune prison dessus l’théâtre, voilà justement zune table et des chaises... </s>
@@ -852,116 +851,116 @@
               <s>Ici, je prends une grosse voix pour faire le soldat, parce que c’est le zéros de la pièce.</s>
             </p>
           </sp>
-          <sp xml:id="I06-30" who="FRANVILLE">
+          <sp who="FRANVILLE" xml:id="I06-30">
             <p>
               <s>C’est bien pensé.</s>
             </p>
           </sp>
-          <sp xml:id="I06-31" who="LEANDRE">
-            <l n="1" xml:id="l1">Enfin je suis ten cage ! Ô perfide maîtresse ! </l>
-            <l n="2" xml:id="l2">C’est pour votre inutile et cruelle Duchesse</l>
-            <l n="3" xml:id="l3">Que votre amant, bientôt, perdra le goÉ»t du pain !</l>
+          <sp who="LEANDRE" xml:id="I06-31">
+            <l>Enfin je suis ten cage ! Ô perfide maîtresse ! </l>
+            <l>C’est pour votre inutile et cruelle Duchesse</l>
+            <l>Que votre amant, bientôt, perdra le goÉ»t du pain !</l>
             <p>
               <s>À présent, Monsieur, la fille entre dans la prison. </s>
               <s>Le monologue devient à deux. </s>
               <s>Elle s’écrie.</s>
             </p>
-            <l n="4" xml:id="l4">Ah ! Cher zamant, hélas !</l>
+            <l>Ah ! Cher zamant, hélas !</l>
             <p>
               <s>Vous voyez, Monsieur, que je prends ma voix dans le clair. </s>
               <s>C’est pour imiter la fille.</s>
             </p>
           </sp>
-          <sp xml:id="I06-32" who="FRANVILLE">
+          <sp who="FRANVILLE" xml:id="I06-32">
             <p>
               <s>C’est fort bien, Monsieur.</s>
             </p>
           </sp>
-          <sp xml:id="I06-33" who="LEANDRE">
+          <sp who="LEANDRE" xml:id="I06-33">
             <p>
               <s>Le Soldat lui répond d’un air sévère.</s>
             </p>
-            <l n="5" xml:id="l5">Que cherchez-vous tici ?</l>
-            <l n="6" xml:id="l6">Venez-vous près de moi faire le bon apôtre ?</l>
-            <l n="7" xml:id="l7">Allez, jamais mon oeil ne reverra le vôtre.</l>
+            <l>Que cherchez-vous tici ?</l>
+            <l>Venez-vous près de moi faire le bon apôtre ?</l>
+            <l>Allez, jamais mon oeil ne reverra le vôtre.</l>
             <p>
               <s>La fille lui dit zà ça.</s>
             </p>
-            <l n="8" xml:id="l8">Mon ami, c’est mon ch’pere.</l>
+            <l>Mon ami, c’est mon ch’pere.</l>
             <p>
               <s>Mais le Soldat lui répond tout net.</s>
             </p>
-            <l n="9" xml:id="l9">Votre ch’pere est un sot, et vous tune... Suffit.</l>
+            <l>Votre ch’pere est un sot, et vous tune... Suffit.</l>
             <p>
               <s>La fille qui commence à se piquer, lui dit.</s>
             </p>
-            <l n="10" xml:id="l10">Mais calmez-vous tun peu,</l>
-            <l n="11" xml:id="l11">Je ne suis point mariée, et ce n’était qu’un jeu.</l>
+            <l>Mais calmez-vous tun peu,</l>
+            <l>Je ne suis point mariée, et ce n’était qu’un jeu.</l>
             <p>
               <s>Le soldat tombe des nues.</s>
             </p>
-            <l n="12" xml:id="l12">Qu’un jeu ? Ah ! Malheureux !</l>
+            <l>Qu’un jeu ? Ah ! Malheureux !</l>
             <p>
               <s>Il se jette la tête et les deux mains sur la table en appuyant bien fort, pus il fait du bruit en cognant, et pus le coup de théâtre est frappant.</s>
             </p>
           </sp>
-          <sp xml:id="I06-34" who="FRANVILLE">
+          <sp who="FRANVILLE" xml:id="I06-34">
             <p>
               <s>Je le crois.</s>
             </p>
           </sp>
-          <sp xml:id="I06-35" who="LEANDRE">
+          <sp who="LEANDRE" xml:id="I06-35">
             <p>
               <s>Ici, Monsieur, le père entre, le monologue continue toujours, mais il devient à trois personnes.</s>
             </p>
           </sp>
-          <sp xml:id="I06-36" who="FRANVILLE">
+          <sp who="FRANVILLE" xml:id="I06-36">
             <p>
               <s>Fort bien.</s>
             </p>
           </sp>
-          <sp xml:id="I06-37" who="LEANDRE">
+          <sp who="LEANDRE" xml:id="I06-37">
             <p>
               <s>Je prends une voix cassée pour le père, parce que c’est z’un invalide...</s>
             </p>
-            <l n="13" xml:id="l13">Mon ami, pour te voir j’ai dans le voisinage</l>
-            <l n="14" xml:id="l14">Visith les bouchons, couru tout le village.</l>
-            <l n="15" xml:id="l15">Enfin je viens tici sans trop savoir pourquoi ;</l>
-            <l n="16" xml:id="l16">Mais je suis enchanté d’abord que je t’y vois.</l>
+            <l>Mon ami, pour te voir j’ai dans le voisinage</l>
+            <l>Visith les bouchons, couru tout le village.</l>
+            <l>Enfin je viens tici sans trop savoir pourquoi ;</l>
+            <l>Mais je suis enchanté d’abord que je t’y vois.</l>
             <p>
               <s>Pas du tout, Monsieur, v’là que pour découvrir le pot au noir, la fille qui était sortie, rentre en criant :</s>
             </p>
-            <l n="17" xml:id="l17">Ah ! ciel ! Tout est pérdu ! Papa, c’est pour quatre heures.</l>
+            <l>Ah ! ciel ! Tout est pérdu ! Papa, c’est pour quatre heures.</l>
             <p>
               <s>Le père demande.</s>
             </p>
-            <l n="18" xml:id="l18">Eh quoi, qu’a-t-il donc fait ?</l>
+            <l>Eh quoi, qu’a-t-il donc fait ?</l>
             <p>
               <s>La tante qui est venu là aussi, répond :</s>
             </p>
-            <l n="19" xml:id="l19">C’est qu’il a désalté.</l>
+            <l>C’est qu’il a désalté.</l>
             <p>
               <s>La père qu’est pus suté qu’eux tous, dit:</s>
             </p>
-            <l n="20" xml:id="l20">Si j’avais le nez fin, je m’en serais douté.</l>
+            <l>Si j’avais le nez fin, je m’en serais douté.</l>
             <p>
               <s>Sa tante qui fond en larmes, lui dit:</s>
             </p>
-            <l n="21" xml:id="l21">Pour la dernière fois, embrasse donc ta tante,</l>
-            <l n="22" xml:id="l22">Mon enfant (Elle tombe sur lui.)</l>
-            <l n="23" xml:id="l23">Le Père.- Mon ami. (Il tombe sur lui.)</l>
-            <l n="24" xml:id="l24">La Fille.- Cher zamant. (Elle tombe sur lui.) </l>
-            <l n="25" xml:id="l25">Le Soldat.- Chere zamante. (Iltombe sur elle.)</l>
+            <l>Pour la dernière fois, embrasse donc ta tante,</l>
+            <l>Mon enfant (Elle tombe sur lui.)</l>
+            <l>Le Père.- Mon ami. (Il tombe sur lui.)</l>
+            <l>La Fille.- Cher zamant. (Elle tombe sur lui.) </l>
+            <l>Le Soldat.- Chere zamante. (Iltombe sur elle.)</l>
             <p>
-              <s>Et les voilà tous quatre en attitude dans les bras des uns des autres, ce qui forme un tableau superbe; alors les grenadiers paraissent, et l’on entend, poun, poun,	poun.</s>
+              <s>Et les voilà tous quatre en attitude dans les bras des uns des autres, ce qui forme un tableau superbe; alors les grenadiers paraissent, et l’on entend, poun, poun, poun.</s>
             </p>
           </sp>
-          <sp xml:id="I06-38" who="FRANVILLE">
+          <sp who="FRANVILLE" xml:id="I06-38">
             <p>
               <s>Qu’est-ce que cela ?</s>
             </p>
           </sp>
-          <sp xml:id="I06-39" who="LEANDRE">
+          <sp who="LEANDRE" xml:id="I06-39">
             <p>
               <s>Cà, Monsieur ? </s>
               <s>C’est l’intérêt de la pièce ! </s>
@@ -969,44 +968,44 @@
               <s>Poun. </s>
               <s>Au second coup, l’amant revient à lui, et dit za la fille :</s>
             </p>
-            <l n="26" xml:id="l26">Adieu, séparons nous, car voici le moment</l>
-            <l n="27" xml:id="l27">Qui doit de cette pièce hâter le dénouement;</l>
-            <l n="28" xml:id="l28">Reçois cette embrassade, et s’il faut que je meure,</l>
-            <l n="29" xml:id="l29">Crois-moi, mourir n’est rien, c’est notre dernière heure.</l>
+            <l>Adieu, séparons nous, car voici le moment</l>
+            <l>Qui doit de cette pièce hâter le dénouement;</l>
+            <l>Reçois cette embrassade, et s’il faut que je meure,</l>
+            <l>Crois-moi, mourir n’est rien, c’est notre dernière heure.</l>
             <p>
               <s>Là-dessus la fille s’évanouit comme de raison, ainsi que tout le monde ; alors les grenadiers emmènent le soldat, il monte l’escalier de bois en se retournant trois fois, joignant les mains au ciel, comme pour dire, tout est dit. </s>
               <s>Il s’en va avec un grand courage... </s>
               <s>Sitôt qu’il est parti, l’invalide se relève, et dit aux autres :</s>
             </p>
-            <l n="30" xml:id="l30">Désévanouissons-nous et courons sur la place,</l>
-            <l n="31" xml:id="l31">Car je viens de rêver qu’il obtiendrait sa grâce.</l>
+            <l>Désévanouissons-nous et courons sur la place,</l>
+            <l>Car je viens de rêver qu’il obtiendrait sa grâce.</l>
             <p>
               <s>Et ils partent. Tout de suite la toile se lève ; le soldat vient d’avoir sa grâce ; il est entouré du peuple ; la fille les pousse à droite et à gauche ; où est-il, où sont-ils ?</s>
             </p>
-            <l n="32" xml:id="l32">Ah ! Rangez-vous, rendez-moi mon amant,</l>
-            <l n="33" xml:id="l33">Que je l’embrasse en cet heureux moment.</l>
+            <l>Ah ! Rangez-vous, rendez-moi mon amant,</l>
+            <l>Que je l’embrasse en cet heureux moment.</l>
             <p>
               <s>Ici, Monsieur, v’là le coup de théâtre, le soldat la reçoit dans ses bras, et leur dit à tous avec dignité.</s>
             </p>
-            <l n="34" xml:id="l34">Vous m’aviez fait zun tour qui passait raillerie,</l>
-            <l n="35" xml:id="l35">Et moi j’avais mal pris votre plaisanterie,</l>
-            <l n="36" xml:id="l36">Ça prouve, mes enfants, que dans ce jeu fatal</l>
-            <l n="37" xml:id="l37">Nous avons t’eu tous plus de peur que de mal.</l>
+            <l>Vous m’aviez fait zun tour qui passait raillerie,</l>
+            <l>Et moi j’avais mal pris votre plaisanterie,</l>
+            <l>Ça prouve, mes enfants, que dans ce jeu fatal</l>
+            <l>Nous avons t’eu tous plus de peur que de mal.</l>
             <p>
               <s>Voilà, Monsieur, de quoi zy retourne, et la pièce est finie.</s>
             </p>
           </sp>
-          <sp xml:id="I06-40" who="FRANVILLE">
+          <sp who="FRANVILLE" xml:id="I06-40">
             <p>
               <s>Monsieur, je vous fais mon compliment, et voici une scène qui me donne de vous la meilleure idée.</s>
             </p>
           </sp>
-          <sp xml:id="I06-41" who="LEANDRE">
+          <sp who="LEANDRE" xml:id="I06-41">
             <p>
               <s>Eh ben, Monsieur, nous n’avons qu’à faire un petit arrangement zensemble.</s>
             </p>
           </sp>
-          <sp xml:id="I06-42" who="FRANVILLE">
+          <sp who="FRANVILLE" xml:id="I06-42">
             <p>
               <s>Je veux m’en amuser encore.</s>
             </p>
@@ -1015,55 +1014,55 @@
               <s>J’attends mon associé, et si vous voulez me faire le plaisir de rester à dîner avec nous, nous parlerons d’affaires ; il sera charmé de vous entendre.</s>
             </p>
           </sp>
-          <sp xml:id="I06-43" who="LEANDRE">
+          <sp who="LEANDRE" xml:id="I06-43">
             <p>
               <s>Eh ! </s>
               <s>Ben, Monsieur, avec plaisir, j’ai z’une petite affaire ici près, j’y vas faire un petit tour et je reviendrai.</s>
             </p>
           </sp>
-          <sp xml:id="I06-44" who="FRANVILLE">
+          <sp who="FRANVILLE" xml:id="I06-44">
             <p>
               <s>Oh ! </s>
               <s>Non, je vous en prie, ne sortez pas, nous allons nous mettre à table ; en attendant, voici un cabinet qui donne sur la rue, entrez-y pour vous dissiper ; si vous voulez lire, il y a des comédies.</s>
             </p>
           </sp>
-          <sp xml:id="I06-45" who="LEANDRE">
+          <sp who="LEANDRE" xml:id="I06-45">
             <p>
               <s>Ah ! </s>
               <s>Volontiers, Monsieur : je suis taffectionné à la lecture.</s>
             </p>
           </sp>
-          <sp xml:id="I06-46" who="FRANVILLE">
+          <sp who="FRANVILLE" xml:id="I06-46">
             <p>
               <s>La bibliothèque est à droite ; voyez-vous ?</s>
             </p>
           </sp>
-          <sp xml:id="I06-47" who="LEANDRE">
+          <sp who="LEANDRE" xml:id="I06-47">
             <p>
               <s>Oui, Monsieur, j’ai tun livre en main.</s>
             </p>
           </sp>
-          <sp xml:id="I06-48" who="FRANVILLE">
+          <sp who="FRANVILLE" xml:id="I06-48">
             <p>
               <s>Si vous voulez répéter quelques scènes, il y a une glace aussi. </s>
             </p>
           </sp>
-          <sp xml:id="I06-49" who="LEANDRE">
+          <sp who="LEANDRE" xml:id="I06-49">
             <p>
               <s>Oui, Monsieur, j’en ai déjà t’eu l’intention.</s>
             </p>
           </sp>
-          <sp xml:id="I06-50" who="FRANVILLE">
+          <sp who="FRANVILLE" xml:id="I06-50">
             <p>
               <s>Si cependant vous aviez quelques besoins dehors, il y a une porte qui s’ouvre sur la rue.</s>
             </p>
           </sp>
-          <sp xml:id="I06-51" who="LEANDRE">
+          <sp who="LEANDRE" xml:id="I06-51">
             <p>
               <s>Je vous remercie, Monsieur : me voilà t’avec un livre, et je vous prie de ne plus penser z’à moi.</s>
             </p>
           </sp>
-          <sp xml:id="I06-52" who="FRANVILLE">
+          <sp who="FRANVILLE" xml:id="I06-52">
             <p>
               <s>Bon, bon, amusez-vous... </s>
               <s>Nous allons bien rire à ses dépens... </s>
@@ -1072,82 +1071,82 @@
             </p>
           </sp>
         </div2>
-        <div2 xml:id="I07" type="scene" n="7">
+        <div2 n="7" type="scene" xml:id="I07">
           <head>SCÈNE VII. Monsieur POINTU, FRANVILLE.<listPerson type="configuration" xml:id="conf7"/></head>
-          <sp xml:id="I07-1" who="POINTU">
+          <sp who="POINTU" xml:id="I07-1">
             <p>
               <s>Votre serviteur de tout mon coeur.</s>
             </p>
           </sp>
-          <sp xml:id="I07-2" who="FRANVILLE">
+          <sp who="FRANVILLE" xml:id="I07-2">
             <p>
               <s>Quelle diable de visite est cela ? </s>
               <s>Que voulez-vous, Monsieur ?</s>
             </p>
           </sp>
-          <sp xml:id="I07-3" who="POINTU">
+          <sp who="POINTU" xml:id="I07-3">
             <p>
               <s>Mon cher Monsieur, vous voyez un homme accablé d’affliction.</s>
             </p>
           </sp>
-          <sp xml:id="I07-4" who="FRANVILLE">
+          <sp who="FRANVILLE" xml:id="I07-4">
             <p>
               <s>Il y paraît.</s>
             </p>
           </sp>
-          <sp xml:id="I07-5" who="POINTU">
+          <sp who="POINTU" xml:id="I07-5">
             <p>
               <s>Il m’est impossible de porter.</s>
             </p>
           </sp>
-          <sp xml:id="I07-6" who="FRANVILLE">
+          <sp who="FRANVILLE" xml:id="I07-6">
             <p>
               <s>Tout le vin qu’il a bu.</s>
             </p>
           </sp>
-          <sp xml:id="I07-7" who="POINTU">
+          <sp who="POINTU" xml:id="I07-7">
             <p>
               <s>De porter le quart de mes chagrins... </s>
-              <s>J’ai perdu...  </s>
+              <s>J’ai perdu... </s>
             </p>
           </sp>
-          <sp xml:id="I07-8" who="FRANVILLE">
+          <sp who="FRANVILLE" xml:id="I07-8">
             <p>
               <s>La raison.</s>
             </p>
           </sp>
-          <sp xml:id="I07-9" who="POINTU">
+          <sp who="POINTU" xml:id="I07-9">
             <p>
-              <s>J’ai perdu la gaieté...   et je succombe sous le poids de...</s>
+              <s>J’ai perdu la gaieté... et je succombe sous le poids de...</s>
             </p>
           </sp>
-          <sp xml:id="I07-10" who="FRANVILLE">
+          <sp who="FRANVILLE" xml:id="I07-10">
             <p>
               <s>Sous le poids de l’ivrognerie.</s>
             </p>
           </sp>
-          <sp xml:id="I07-11" who="POINTU">
+          <sp who="POINTU" xml:id="I07-11">
             <p>
               <s>Sous le poids de ma douleur.</s>
             </p>
           </sp>
-          <sp xml:id="I07-12" who="FRANVILLE">
+          <sp who="FRANVILLE" xml:id="I07-12">
             <p>
               <s>Qu’avez-vous donc, Monsieur ?</s>
             </p>
           </sp>
-          <sp xml:id="I07-13" who="POINTU">
+          <sp who="POINTU" xml:id="I07-13">
             <p>
               <s>Monsieur, j’ai des chagrins domestiques. </s>
               <s>J’ai une servante qui me vole.</s>
             </p>
           </sp>
-          <sp xml:id="I07-14" who="FRANVILLE">
+          <sp who="FRANVILLE" xml:id="I07-14">
             <p>
               <s>Il faut la mettre à la porte.</s>
             </p>
           </sp>
-          <sp xml:id="I07-15" who="POINTU">
+          <sp who="POINTU" xml:id="I07-15">
             <p>
               <s>Ce n’est rien que cela, Monsieur ; j’ai une femme qui est mon tourment ; quand elle était jeune elle me faisait...</s>
             </p>
@@ -1162,110 +1161,110 @@
               <s>Je ne peux pas avaler un verre de vin qu’elle ne s’en aperçoive aussitôt.</s>
             </p>
           </sp>
-          <sp xml:id="I07-16" who="FRANVILLE">
+          <sp who="FRANVILLE" xml:id="I07-16">
             <p>
               <s>Elle est donc bien maligne ?</s>
             </p>
           </sp>
-          <sp xml:id="I07-17" who="POINTU">
+          <sp who="POINTU" xml:id="I07-17">
             <p>
               <s>Oh ! </s>
               <s>C’est un démon... </s>
               <s>Tenez, Monsieur, par exemple, aujourd’hui, on ne se douterait pas que j’aie bu. </s>
               <s>Eh bien ! </s>
               <s>Croiriez vous, je n’ose pas rentrer à la maison. </s>
-              <s>Sitôt qu’elle va me sentir seulement, elle va me faire un sabbat d’enragé, et cependant je n’ai pas l’haleine chargée du tout...  </s>
+              <s>Sitôt qu’elle va me sentir seulement, elle va me faire un sabbat d’enragé, et cependant je n’ai pas l’haleine chargée du tout... </s>
               <s>Tenez, voyez plutôt.</s>
             </p>
           </sp>
-          <sp xml:id="I07-18" who="FRANVILLE">
+          <sp who="FRANVILLE" xml:id="I07-18">
             <p>
               <s>Pouah ! </s>
               <s>Retirez vous donc, Monsieur.</s>
             </p>
           </sp>
-          <sp xml:id="I07-19" who="POINTU">
+          <sp who="POINTU" xml:id="I07-19">
             <p>
               <s>Non, c’est pour vous faire sentir...</s>
             </p>
           </sp>
-          <sp xml:id="I07-20" who="FRANVILLE">
+          <sp who="FRANVILLE" xml:id="I07-20">
             <p>
               <s>Oh ! </s>
               <s>Parbleu, je le sens de reste.</s>
             </p>
           </sp>
-          <sp xml:id="I07-21" who="POINTU">
+          <sp who="POINTU" xml:id="I07-21">
             <p>
               <s>Ce n’est rien que tout cela, Monsieur, ça n’attaque que le tempérament ça... </s>
               <s>Mais ce que je vas vous dire attaque l’honneur.</s>
             </p>
           </sp>
-          <sp xml:id="I07-22" who="FRANVILLE">
+          <sp who="FRANVILLE" xml:id="I07-22">
             <p>
               <s>Ceci devient sérieux, Monsieur, il y a de l’indiscrétion à conter ainsi des affaires de cette conséquence à des gens qu’on ne connaît pas, et je vous prie de me dispenser de vous écouter.</s>
             </p>
           </sp>
-          <sp xml:id="I07-23" who="POINTU">
+          <sp who="POINTU" xml:id="I07-23">
             <p>
               <s>Pardonnez-moi, Monsieur, la chose peut vous regarder, et je vous prie en grâce de m’entendre.</s>
             </p>
           </sp>
-          <sp xml:id="I07-24" who="FRANVILLE">
+          <sp who="FRANVILLE" xml:id="I07-24">
             <p>
               <s>Eh bien ! </s>
               <s>Monsieur, parlez donc.</s>
             </p>
           </sp>
-          <sp xml:id="I07-25" who="POINTU">
+          <sp who="POINTU" xml:id="I07-25">
             <p>
               <s>Primo d’abord, Monsieur, il vous faut savoir que je suis Bourgeois de Paris, établi depuis trente ans à la Butte Saint-Roch ; j’ai passé tous les grades de ma profession, et maintenant je suis Syndic de ma Communauté ; voilà qui met une famille dans une belle passe. </s>
               <s>Eh bien ! </s>
               <s>Monsieur, j’ai un fils qui est un mauvais sujet, un vaurien, Monsieur.</s>
             </p>
           </sp>
-          <sp xml:id="I07-26" who="FRANVILLE">
+          <sp who="FRANVILLE" xml:id="I07-26">
             <p>
               <s>Voilà qui est fâcheux.</s>
             </p>
           </sp>
-          <sp xml:id="I07-27" who="POINTU">
+          <sp who="POINTU" xml:id="I07-27">
             <p>
               <s>Croiriez-vous, Monsieur, que ce misérable-là, qui est en état d’aller à tout, n’a jamais voulu apprendre de métier. </s>
               <s>Il s’est mis dans la tête d’étudier pour jouer la parade ; il va par les rues avec un habit tout galonné, et il se fait appeler le beau Léandre, plutôt que de se nommer comme son père Eustache Pointu. </s>
               <s>Çà ne crie-t-il pas vengeance?</s>
             </p>
           </sp>
-          <sp xml:id="I07-28" who="FRANVILLE">
+          <sp who="FRANVILLE" xml:id="I07-28">
             <p>
               <s>Il a tort. </s>
               <s>Comment, Monsieur, vous êtes le père d’un jeune-homme qui porte un habit...</s>
             </p>
           </sp>
-          <sp xml:id="I07-29" who="POINTU">
+          <sp who="POINTU" xml:id="I07-29">
             <p>
               <s>Oui, mon cher Monsieur, je suis son propre père.</s>
             </p>
           </sp>
-          <sp xml:id="I07-30" who="FRANVILLE">
+          <sp who="FRANVILLE" xml:id="I07-30">
             <p>
               <s>Effectivement, je vous regardais, et je vous trouvais un air de ressemblance.</s>
             </p>
           </sp>
-          <sp xml:id="I07-31" who="POINTU">
+          <sp who="POINTU" xml:id="I07-31">
             <p>
               <s>C’est bien naturel... </s>
-              <s>  Tenez, mon cher ami, dans tout ça je vous regarde comme mon sauveur. </s>
+              <s> Tenez, mon cher ami, dans tout ça je vous regarde comme mon sauveur. </s>
               <s>J’ai dans la tête un projet pour punir ce coquin-là, pour me venger de sa mère, et pour me contenter moi sans qu’on ait rien à me reprocher.</s>
             </p>
           </sp>
-          <sp xml:id="I07-32" who="FRANVILLE">
+          <sp who="FRANVILLE" xml:id="I07-32">
             <p>
               <s>Eh ! </s>
               <s>Comment cela ?</s>
             </p>
           </sp>
-          <sp xml:id="I07-33" who="POINTU">
+          <sp who="POINTU" xml:id="I07-33">
             <p>
               <s>Mon ami, mon fils veut se déshonorer, je l’abandonne à son malheureux sort ; ma femme me dit tous les jours de quitter la maison, je n’y remettrai pas le pied. </s>
               <s>Vous êtes Directeur de Comédie, vous ? </s>
@@ -1273,7 +1272,7 @@
               <s>Vous n’avez qu’à m’engager.</s>
             </p>
           </sp>
-          <sp xml:id="I07-34" who="FRANVILLE">
+          <sp who="FRANVILLE" xml:id="I07-34">
             <p>
               <s>Vous engager ! </s>
               <s>Ah ! </s>
@@ -1281,224 +1280,224 @@
               <s>Pour jouer les ivrognes donc ?</s>
             </p>
           </sp>
-          <sp xml:id="I07-35" who="POINTU">
+          <sp who="POINTU" xml:id="I07-35">
             <p>
               <s>Pourquoi pas ? </s>
               <s>C’est un excellent marché pour vous. </s>
               <s>J’ai du naturel d’abord ; je n’aurai pas d’étude à faire, et je vous promets d’être toujours dans le caractère de mon rôle, qu’en dites-vous, mon cher ami, répondez-moi.</s>
             </p>
           </sp>
-          <sp xml:id="I07-36" who="FRANVILLE">
+          <sp who="FRANVILLE" xml:id="I07-36">
             <p>
               <s>Il me vient une idée. </s>
               <s>Je veux le mettre tête à tête avec son fils, et jouir un peu de leur surprise.</s>
             </p>
           </sp>
-          <sp xml:id="I07-37" who="POINTU">
+          <sp who="POINTU" xml:id="I07-37">
             <p>
               <s>Eh bien ! </s>
               <s>Mon ami, répondez donc.</s>
             </p>
           </sp>
-          <sp xml:id="I07-38" who="FRANVILLE">
+          <sp who="FRANVILLE" xml:id="I07-38">
             <p>
               <s>Monsieur, nous pourrons nous accorder, mais j’attends ici quelqu’un, faites-moi l’amitié de rester à dîner avec moi. </s>
               <s>Passez un instant dans ce cabinet, je vais vous y rejoindre ; et nous parlerons à notre aise.</s>
             </p>
           </sp>
-          <sp xml:id="I07-39" who="POINTU">
+          <sp who="POINTU" xml:id="I07-39">
             <p>
               <s>Eh bien ! </s>
               <s>Mon ami, ne vous gênez-pas. </s>
               <s>Je vais vous attendre.</s>
             </p>
           </sp>
-          <sp xml:id="I07-40" who="FRANVILLE">
+          <sp who="FRANVILLE" xml:id="I07-40">
             <p>
               <s>Il ne s’attend pas à la rencontre : écoutons. </s>
             </p>
           </sp>
         </div2>
-        <div2 xml:id="I08" type="scene" n="7">
+        <div2 n="7" type="scene" xml:id="I08">
           <head>SCÈNE VII.<listPerson type="configuration" xml:id="conf8"/></head>
-          <sp xml:id="I08-1" who="ENDEDANS">
+          <sp who="ENDEDANS" xml:id="I08-1">
             <p>
               <s>Eh ! </s>
               <s>Quoi, c’est vous, mon père... </s>
-              <s>  Comment, coquin, te voilà ici... </s>
-              <s>  Est-ce que vous connaissez Monsieur le Directeur ?... </s>
-              <s>  Misérable ! </s>
+              <s> Comment, coquin, te voilà ici... </s>
+              <s> Est-ce que vous connaissez Monsieur le Directeur ?... </s>
+              <s> Misérable ! </s>
               <s>N’as tu pas de honte ?... </s>
-              <s>  Mais mon pere... </s>
-              <s>  Tais-toi, tu es un gueux, un mauvais sujet.</s>
+              <s> Mais mon pere... </s>
+              <s> Tais-toi, tu es un gueux, un mauvais sujet.</s>
             </p>
           </sp>
-          <sp xml:id="I08-2" who="FRANVILLE">
+          <sp who="FRANVILLE" xml:id="I08-2">
             <p>
               <s>Je rirais bien s’il allait lui donner une petite correction paternelle.</s>
             </p>
           </sp>
-          <sp xml:id="I08-3" who="ENDEDANS">
+          <sp who="ENDEDANS" xml:id="I08-3">
             <p>
               <s>Mais, mon père, quand zon a tune inclination... </s>
               <s>Coquin, si tu me parles encore de cela je te déshérite.</s>
             </p>
           </sp>
-          <sp xml:id="I08-4" who="FRANVILLE">
+          <sp who="FRANVILLE" xml:id="I08-4">
             <p>
               <s>Ah ! </s>
               <s>Parbleu, je serais curieux de savoir lequel est le plus sou des deux. </s>
               <s>Si le fils savait la proposition que le père m’a faite, cela lui fournirait la réplique... </s>
-              <s>  Si mon Associé pouvait venir ! </s>
+              <s> Si mon Associé pouvait venir ! </s>
               <s>Mais, quelle est cette Dame ?</s>
             </p>
           </sp>
         </div2>
-        <div2 xml:id="I09" type="scene" n="8">
+        <div2 n="8" type="scene" xml:id="I09">
           <head>SCÈNE VIII. MADAME POINTU, begue, FRANVILLE.<listPerson type="configuration" xml:id="conf9"/></head>
-          <sp xml:id="I09-1" who="FRANVILLE">
+          <sp who="FRANVILLE" xml:id="I09-1">
             <p>
               <s>Madame, puis-je vous être bon à quelque chose ?</s>
             </p>
           </sp>
-          <sp xml:id="I09-2" who="MadamePOINTU">
+          <sp who="MADAMEPOINTU" xml:id="I09-2">
             <p>
               <s>Né, né, né, n’êtes-vous pas Mon, monsieur F. F. Fr. Franville ?</s>
             </p>
           </sp>
-          <sp xml:id="I09-3" who="FRANVILLE">
+          <sp who="FRANVILLE" xml:id="I09-3">
             <p>
               <s>Franville, Madame, pour vous obéir.</s>
             </p>
           </sp>
-          <sp xml:id="I09-4" who="MADAMEPOINTU">
+          <sp who="MADAMEPOINTU" xml:id="I09-4">
             <p>
               <s>Fr, Fr, Franville, oui, ju, ju, justement ; j’en, j’en, j’embrasse vos genoux.</s>
             </p>
           </sp>
-          <sp xml:id="I09-5" who="FRANVILLE">
+          <sp who="FRANVILLE" xml:id="I09-5">
             <p>
               <s>Eh ! </s>
               <s>Madame, que faites-vous?</s>
             </p>
           </sp>
-          <sp xml:id="I09-6" who="MADAMEPOINTU">
+          <sp who="MADAMEPOINTU" xml:id="I09-6">
             <p>
               <s>Je me fi, fie à vos bontés.</s>
             </p>
           </sp>
-          <sp xml:id="I09-7" who="FRANVILLE">
+          <sp who="FRANVILLE" xml:id="I09-7">
             <p>
               <s>Que voulez-vous, Madame?</s>
             </p>
           </sp>
-          <sp xml:id="I09-8" who="MADAMEPOINTU">
+          <sp who="MADAMEPOINTU" xml:id="I09-8">
             <p>
               <s>Je veux vous faire pi, pi, pi, pitié.</s>
             </p>
           </sp>
-          <sp xml:id="I09-9" who="FRANVILLE">
+          <sp who="FRANVILLE" xml:id="I09-9">
             <p>
               <s>Mais, levez-vous, Madame, et parlez.</s>
             </p>
           </sp>
-          <sp xml:id="I09-10" who="MADAMEPOINTU">
+          <sp who="MADAMEPOINTU" xml:id="I09-10">
             <p>
               <s>Non, il faut que je me soulage en pleurant à vos pieds. </s>
               <s>Ah, ah, ah, ah.</s>
             </p>
           </sp>
-          <sp xml:id="I09-11" who="FRANVILLE">
+          <sp who="FRANVILLE" xml:id="I09-11">
             <p>
               <s>Ah ! </s>
               <s>Voilà un autre genre de folie.</s>
             </p>
           </sp>
-          <sp xml:id="I09-12" who="MADAMEPOINTU">
+          <sp who="MADAMEPOINTU" xml:id="I09-12">
             <p>
               <s>Ah ! </s>
               <s>Monsieur, je suis pleine de ca, ca, calamités et de cha, chagrins.</s>
             </p>
           </sp>
-          <sp xml:id="I09-13" who="FRANVILLE">
+          <sp who="FRANVILLE" xml:id="I09-13">
             <p>
               <s>Eh ! </s>
               <s>Que puis-je faire pour vous ?</s>
             </p>
           </sp>
-          <sp xml:id="I09-14" who="MADAMEPOINTU">
+          <sp who="MADAMEPOINTU" xml:id="I09-14">
             <p>
               <s>Ah ! </s>
               <s>Monsieur, vous avez des pou pouvoirs suffisants pour essuyer mes mes larmes.</s>
             </p>
           </sp>
-          <sp xml:id="I09-15" who="FRANVILLE">
+          <sp who="FRANVILLE" xml:id="I09-15">
             <p>
               <s>Eh, comment, Madame.</s>
             </p>
           </sp>
-          <sp xml:id="I09-16" who="MADAMEPOINTU">
+          <sp who="MADAMEPOINTU" xml:id="I09-16">
             <p>
               <s>En faisant ca cas de mes prières, il faut me rendre le congé de mon fils.</s>
             </p>
           </sp>
-          <sp xml:id="I09-17" who="FRANVILLE">
+          <sp who="FRANVILLE" xml:id="I09-17">
             <p>
               <s>De votre fils ?</s>
             </p>
           </sp>
-          <sp xml:id="I09-18" who="MADAMEPOINTU">
+          <sp who="MADAMEPOINTU" xml:id="I09-18">
             <p>
               <s>Oui, vous êtes son ca ca capitaine.</s>
             </p>
           </sp>
-          <sp xml:id="I09-19" who="FRANVILLE">
+          <sp who="FRANVILLE" xml:id="I09-19">
             <p>
               <s>Moi, Madame ?</s>
             </p>
           </sp>
-          <sp xml:id="I09-20" who="MADAMEPOINTU">
+          <sp who="MADAMEPOINTU" xml:id="I09-20">
             <p>
               <s>Oui, Monsieur, vous f... f... faites semblant de ne pas m’entendre, mais je sais tout. </s>
               <s>Voilà la lettre que vous venez de lui écrire.</s>
             </p>
           </sp>
-          <sp xml:id="I09-21" who="FRANVILLE">
+          <sp who="FRANVILLE" xml:id="I09-21">
             <p>
               <s>« Monsieur, je ne puis terminer avec vous sans  vous connaître, ainsi faites-moi l’amitié de passer chez moi demain, et si vous pouvez me convenir, je vous ferai votre engagement...  » </s>
               <s>Mais c’est la lettre que j’ai donnée à ce valet Allemand, à ce sourd.</s>
             </p>
           </sp>
-          <sp xml:id="I09-22" who="MADAMEPOINTU">
+          <sp who="MADAMEPOINTU" xml:id="I09-22">
             <p>
               <s>Oui Monsieur c’est pour mon fils.</s>
             </p>
           </sp>
-          <sp xml:id="I09-23" who="FRANVILLE">
+          <sp who="FRANVILLE" xml:id="I09-23">
             <p>
               <s>Ah ! </s>
               <s>Je soupçonne quelque chose. </s>
               <s>Votre fils, n’est-ce pas un jeune homme qui porte un habit couleur de rose, galonné en argent ?</s>
             </p>
           </sp>
-          <sp xml:id="I09-24" who="MADAMEPOINTU">
+          <sp who="MADAMEPOINTU" xml:id="I09-24">
             <p>
               <s>Justement, Monsieur, un gen gen gentil garçon, qui me ressemble un peu.</s>
             </p>
           </sp>
-          <sp xml:id="I09-25" who="FRANVILLE">
+          <sp who="FRANVILLE" xml:id="I09-25">
             <p>
               <s>C’est cela. </s>
               <s>Et n’avez vous pas un mari qui...</s>
             </p>
           </sp>
-          <sp xml:id="I09-26" who="MADAMEPOINTU">
+          <sp who="MADAMEPOINTU" xml:id="I09-26">
             <p>
               <s>Ah ! </s>
               <s>Monsieur, mon mari est un co co coquin, qui boit toute la journée, et qui tous les soirs fait ca ca carillon dans la maison.</s>
             </p>
           </sp>
-          <sp xml:id="I09-27" who="FRANVILLE">
+          <sp who="FRANVILLE" xml:id="I09-27">
             <p>
               <s>Ah ! </s>
               <s>Parbleu ! </s>
@@ -1506,121 +1505,121 @@
               <s>Vous êtes donc Madame Pointu ?</s>
             </p>
           </sp>
-          <sp xml:id="I09-28" who="MADAMEPOINTU">
+          <sp who="MADAMEPOINTU" xml:id="I09-28">
             <p>
               <s>Hélas oui, Monsieur, depuis que Monsieur Pointu m’a fait prendre ce vilain nom là.</s>
             </p>
           </sp>
-          <sp xml:id="I09-29" who="FRANVILLE">
+          <sp who="FRANVILLE" xml:id="I09-29">
             <p>
               <s>Écoutez, Madame, êtes-vous curieuse de voir tout-à-l’heure Monsieur Pointu le père, et Monsieur Pointu le fils ?</s>
             </p>
           </sp>
-          <sp xml:id="I09-30" who="MADAMEPOINTU">
+          <sp who="MADAMEPOINTU" xml:id="I09-30">
             <p>
               <s>Ah ! </s>
               <s>Monsieur, je leur arracherais les yeux.</s>
             </p>
           </sp>
-          <sp xml:id="I09-31" who="FRANVILLE">
+          <sp who="FRANVILLE" xml:id="I09-31">
             <p>
               <s>Eh bien, Madame, donnez-vous la peine d’entrer dans ce cabinet, vous ne tarderez pas à les voir.</s>
             </p>
           </sp>
-          <sp xml:id="I09-32" who="MADAMEPOINTU">
+          <sp who="MADAMEPOINTU" xml:id="I09-32">
             <p>
               <s>De de tout mon coeur. </s>
               <s>Mais êtes-vous sûr qu’ils ne tarderont pas ? </s>
               <s>Il y a quelqu’un de mes parents qui m’attend à la porte en ca ca carosse.</s>
             </p>
           </sp>
-          <sp xml:id="I09-33" who="FRANVILLE">
+          <sp who="FRANVILLE" xml:id="I09-33">
             <p>
               <s>Vous allez les voir à l’instant, entrez seulement.</s>
             </p>
           </sp>
         </div2>
-        <div2 xml:id="I10" type="scene" n="9">
+        <div2 n="9" type="scene" xml:id="I10">
           <head>SCÉˆNE IX.<listPerson type="configuration" xml:id="conf10"/></head>
-          <sp xml:id="I10-1" who="MADAMEPOINTU">
+          <sp who="MADAMEPOINTU" xml:id="I10-1">
             <p>
               <s>Comment ! Ca ca canailles, vous voilà donc !</s>
             </p>
           </sp>
-          <sp xml:id="I10-2" who="POINTU">
+          <sp who="POINTU" xml:id="I10-2">
             <p>
               <s>Allons, Madame Pointu, de la douceur, qu’est-ce que vous venez faire ici ?</s>
             </p>
           </sp>
-          <sp xml:id="I10-3" who="LEANDRE">
+          <sp who="LEANDRE" xml:id="I10-3">
             <p>
               <s>Comment, ma mère, vous venez tici toute seule.</s>
             </p>
           </sp>
-          <sp xml:id="I10-4" who="FRANVILLE">
+          <sp who="FRANVILLE" xml:id="I10-4">
             <p>
               <s>Je crois que l’entrevue va devenir piquante, il n’y manque plus que le valet Allemand.</s>
             </p>
           </sp>
-          <sp xml:id="I10-5" who="POINTU">
+          <sp who="POINTU" xml:id="I10-5">
             <p>
               <s>Ah ! </s>
               <s>Monsieur le vaurien, je te ferai engager à Saint-Lazare.</s>
             </p>
           </sp>
-          <sp xml:id="I10-6" who="MADAMEPOINTU">
+          <sp who="MADAMEPOINTU" xml:id="I10-6">
             <p>
               <s>Et toi vilain ivrogne...</s>
             </p>
           </sp>
-          <sp xml:id="I10-7" who="POINTU">
+          <sp who="POINTU" xml:id="I10-7">
             <p>
               <s>Parbleu, ma femme, il faut que vous ayez bien peu de raison ! À peine si j’ai mouillé mes lèvres d’aujourd’hui.</s>
             </p>
           </sp>
-          <sp xml:id="I10-8" who="LEANDRE">
+          <sp who="LEANDRE" xml:id="I10-8">
             <p>
               <s>Mais mon père après tout...</s>
             </p>
           </sp>
-          <sp xml:id="I10-9" who="POINTU">
+          <sp who="POINTU" xml:id="I10-9">
             <p>
               <s>Taisez-vous, vous êtes un drôle.</s>
             </p>
           </sp>
-          <sp xml:id="I10-10" who="LEANDRE">
+          <sp who="LEANDRE" xml:id="I10-10">
             <p>
               <s>Mais ma mère...</s>
             </p>
           </sp>
-          <sp xml:id="I10-11" who="MADAMEPOINTU">
+          <sp who="MADAMEPOINTU" xml:id="I10-11">
             <p>
               <s>Ah ! </s>
               <s>Co co coquin, tu me perds le respect ? </s>
               <s>Attends, attends.</s>
             </p>
           </sp>
-          <sp xml:id="I10-12" who="LEANDRE">
+          <sp who="LEANDRE" xml:id="I10-12">
             <p>
               <s>Ahi, ahi, ahi...</s>
             </p>
           </sp>
-          <sp xml:id="I10-13" who="POINTU">
+          <sp who="POINTU" xml:id="I10-13">
             <p>
               <s>Allons, ma femme, ça passe raillerie... </s>
             </p>
           </sp>
-          <sp xml:id="I10-14" who="MADAMEPOINTU">
+          <sp who="MADAMEPOINTU" xml:id="I10-14">
             <p>
               <s>Tiens, tiens, tu en auras... </s>
             </p>
           </sp>
-          <sp xml:id="I10-15" who="LEANDRE">
+          <sp who="LEANDRE" xml:id="I10-15">
             <p>
               <s>Ahi, ahi !...</s>
             </p>
           </sp>
-          <sp xml:id="I10-16" who="FRANVILLE">
+          <sp who="FRANVILLE" xml:id="I10-16">
             <p>
               <s>Ah, ah, ah, ah, ah. </s>
               <s>Parbleu, voilà une excellente matinée pour moi. </s>
@@ -1629,72 +1628,72 @@
             </p>
           </sp>
         </div2>
-        <div2 xml:id="I11" type="scene" n="10">
+        <div2 n="10" type="scene" xml:id="I11">
           <head>SCÈˆNE X. Franville, L’Abbé.<listPerson type="configuration" xml:id="conf11"/></head>
-          <sp xml:id="I11-1" who="LABBE">
+          <sp who="LABBE" xml:id="I11-1">
             <p>
               <s>Monsieur, je vous baise les mains.</s>
             </p>
           </sp>
-          <sp xml:id="I11-2" who="FRANVILLE">
+          <sp who="FRANVILLE" xml:id="I11-2">
             <p>
               <s>Monsieur, qui a-t-il pour votre service ? </s>
             </p>
           </sp>
-          <sp xml:id="I11-3" who="LABBE">
+          <sp who="LABBE" xml:id="I11-3">
             <p>
               <s>Monsieur, je suis venu avec une de mes parentes qui avait à vous parler pour affaire, et je l’attends à la porte depuis assez longtemps.</s>
             </p>
           </sp>
-          <sp xml:id="I11-4" who="FRANVILLE">
+          <sp who="FRANVILLE" xml:id="I11-4">
             <p>
               <s>Ah ! </s>
               <s>Vous demandez Madame Pointu, sans doute ?</s>
             </p>
           </sp>
-          <sp xml:id="I11-5" who="LABBE">
+          <sp who="LABBE" xml:id="I11-5">
             <p>
               <s>Oui, Monsieur, elle m’a dit que vous aviez engagé son fils, et je viens joindre mes prières aux siennes, pour obtenir de vous son congé.</s>
             </p>
           </sp>
-          <sp xml:id="I11-6" who="FRANVILLE">
+          <sp who="FRANVILLE" xml:id="I11-6">
             <p>
               <s>Monsieur, Madame Pointu s’est trompée, je ne suis point militaire, je suis Directeur de Comédie, et Monsieur son fils n’est point engagé.</s>
             </p>
           </sp>
-          <sp xml:id="I11-7" who="LABBE">
+          <sp who="LABBE" xml:id="I11-7">
             <p>
               <s>Ah ! </s>
               <s>Monsieur est Directeur de Comédie ?</s>
             </p>
           </sp>
-          <sp xml:id="I11-8" who="FRANVILLE">
+          <sp who="FRANVILLE" xml:id="I11-8">
             <p>
               <s>Oui, Monsieur.</s>
             </p>
           </sp>
-          <sp xml:id="I11-9" who="LABBE">
+          <sp who="LABBE" xml:id="I11-9">
             <p>
               <s>C’est une belle chose que la Comédie, et pour laquelle il faut bien des talents. </s>
               <s>Par exemple, Monsieur, c’est un de mes goûts dominants.</s>
             </p>
           </sp>
-          <sp xml:id="I11-10" who="FRANVILLE">
+          <sp who="FRANVILLE" xml:id="I11-10">
             <p>
               <s>Comment, Monsieur, vous aimez la Comédie ?</s>
             </p>
           </sp>
-          <sp xml:id="I11-11" who="LABBE">
+          <sp who="LABBE" xml:id="I11-11">
             <p>
               <s>Oui, Monsieur, je l’idolâtre, et depuis très longtemps j’en ai fait une étude particulière.</s>
             </p>
           </sp>
-          <sp xml:id="I11-12" who="FRANVILLE">
+          <sp who="FRANVILLE" xml:id="I11-12">
             <p>
               <s>Dans quel genre, Monsieur, est-ce pour la jouer vous-même, ou pour composer des pièces ?</s>
             </p>
           </sp>
-          <sp xml:id="I11-13" who="LABBE">
+          <sp who="LABBE" xml:id="I11-13">
             <p>
               <s>Monsieur, j’aurais beaucoup aimé à la jouer moi-même, mais j’ai les passions si fortes et la poitrine si délicate, qu’elle n’aurait jamais pu suffire à la vivacité de mes expressions. </s>
               <s>J’aurais pu de même m’adonner à la composition, mais malheureusement je viens trop tard. </s>
@@ -1702,55 +1701,55 @@
               <s>Nos esprits étant formés sur le même modèle, je ressemblerais nécessairement.</s>
             </p>
           </sp>
-          <sp xml:id="I11-14" who="FRANVILLE">
+          <sp who="FRANVILLE" xml:id="I11-14">
             <p>
               <s>Voilà qui est fâcheux, le public y perd beaucoup.</s>
             </p>
           </sp>
-          <sp xml:id="I11-15" who="LABBE">
+          <sp who="LABBE" xml:id="I11-15">
             <p>
               <s>Sans doute. </s>
               <s>Mais pour le dédommager et pour avoir en même-temps le mérite de la nouveauté, j’ai donné dans un genre sur lequel personne n’a encore travaillé.</s>
             </p>
           </sp>
-          <sp xml:id="I11-16" who="FRANVILLE">
+          <sp who="FRANVILLE" xml:id="I11-16">
             <p>
               <s>Lequel donc, Monsieur !</s>
             </p>
           </sp>
-          <sp xml:id="I11-17" who="LABBE">
+          <sp who="LABBE" xml:id="I11-17">
             <p>
               <s>C’est celui des spectacles à la muette, c’est pour pouvoir exprimer toutes les passions sans paroles. </s>
               <s>Oui, Monsieur, après de longues recherches sur le jeu des meilleurs acteurs de la capitale et des provinces, je viens de composer un traité complet sur la pantomime, et je vais le proposer par souscription à tous les directeurs.</s>
             </p>
           </sp>
-          <sp xml:id="I11-18" who="FRANVILLE">
+          <sp who="FRANVILLE" xml:id="I11-18">
             <p>
               <s>Cela doit faire un ouvrage fort curieux.</s>
             </p>
           </sp>
-          <sp xml:id="I11-19" who="LABBE">
+          <sp who="LABBE" xml:id="I11-19">
             <p>
               <s>Je vous en réponds ; si vous voulez, je vous en réserverai quelques exemplaires.</s>
             </p>
           </sp>
-          <sp xml:id="I11-20" who="FRANVILLE">
+          <sp who="FRANVILLE" xml:id="I11-20">
             <p>
               <s>Vous me ferez le plus grand plaisir, et si je ne craignais d’abuser de votre complaisance, je vous prierais de m’en donner d’avance une petite idée.</s>
             </p>
           </sp>
-          <sp xml:id="I11-21" who="LABBE">
+          <sp who="LABBE" xml:id="I11-21">
             <p>
               <s>Très volontiers, Monsieur ; nous n’aurions pas le temps d’entrer dans le détail des préceptes, mais je vais vous donner quelques exemples qui vous rendront les effets plus sensibles. </s>
               <s>Souvenez-vous qu’il n’y a pas de paroles dans ce spectacle là, et qu’il faut y suppléer par les attitudes.</s>
             </p>
           </sp>
-          <sp xml:id="I11-22" who="FRANVILLE">
+          <sp who="FRANVILLE" xml:id="I11-22">
             <p>
               <s>J’y suis, Monsieur, j’y suis.</s>
             </p>
           </sp>
-          <sp xml:id="I11-23" who="LABBE">
+          <sp who="LABBE" xml:id="I11-23">
             <p>
               <s>Figurez-vous donc, Monsieur, deux armées en présence, les deux chefs en tête de leurs troupes, et exprimez-moi le premier mouvement d’indignation qui se passe entre eux. </s>
               <s>C’est le défi d’Achille, Monsieur ; voyez-le. </s>
@@ -1772,90 +1771,90 @@
             <p>
               <s>« Renversez-vous et ployez sur la partie gauche, tendez les deux mains en avant, et restez la bouche ouverte. »</s>
             </p>
-            <l n="1" xml:id="l1">« Eh ! Quoi, c’est vous. »</l>
+            <l>« Eh ! Quoi, c’est vous. »</l>
             <p>
               <s>L’autre qui le reconnaît alors, lui pardonne sa victoire, et exprime l’amour, la tendresse qui étouffe la rancune ; et le voici.</s>
             </p>
             <p>
               <s>« Portez les deux mains sur votre coeur, haussez les épaules, balancez vivement la tête, élancez-vous en l’air en détachant les mains, et restez sur la pointe du pied.</s>
             </p>
-            <l n="2" xml:id="l2">« Ah ! Trop cher ennemi, je vous pardonne tout. »</l>
+            <l>« Ah ! Trop cher ennemi, je vous pardonne tout. »</l>
             <p>
               <s>Alors les deux armées se mettent à danser pour célébrer la fête. </s>
               <s>Voilà le ballet. </s>
               <s>Les deux chefs s’embrassent, et cette pantomime là, par exemple, tout le monde la sait.</s>
             </p>
           </sp>
-          <sp xml:id="I11-24" who="FRANVILLE">
+          <sp who="FRANVILLE" xml:id="I11-24">
             <p>
               <s>C’est superbe, Monsieur, je sens toute l’utilité d’un travail aussi précieux... </s>
-              <s>Mais pardon, cela vous fatigue trop, et...  </s>
+              <s>Mais pardon, cela vous fatigue trop, et... </s>
             </p>
           </sp>
-          <sp xml:id="I11-25" who="LABBE">
+          <sp who="LABBE" xml:id="I11-25">
             <p>
               <s>Non, au contraire... </s>
               <s>Tenez, un exemple dans le grand tragique.</s>
             </p>
-            <l n="3" xml:id="l3">« Sous mes pas chancelants je sens trembler la terre !</l>
-            <l n="4" xml:id="l4">J’entends partir la foudre et gronder le tonnerre !</l>
-            <l n="5" xml:id="l5">Un serpent venimeux me déchire le coeur !</l>
-            <l n="6" xml:id="l6">Dieux ! Quels affreux tourments ! Je succombe, je meurs. »</l>
+            <l>« Sous mes pas chancelants je sens trembler la terre !</l>
+            <l>J’entends partir la foudre et gronder le tonnerre !</l>
+            <l>Un serpent venimeux me déchire le coeur !</l>
+            <l>Dieux ! Quels affreux tourments ! Je succombe, je meurs. »</l>
             <p>
               <s>Et en voici d’un genre plus tranquille... </s>
               <s>Si vous aviez à jouer la Tragédie de Mithridate en Pantomime, comment vous y prendriez-vous.</s>
             </p>
           </sp>
-          <sp xml:id="I11-26" who="FRANVILLE">
+          <sp who="FRANVILLE" xml:id="I11-26">
             <p>
               <s>Mais je serais fort embarrassé, et vous ?</s>
             </p>
           </sp>
-          <sp xml:id="I11-27" who="LABBE">
+          <sp who="LABBE" xml:id="I11-27">
             <p>
               <s>Moi, Monsieur, point du tout.. </s>
               <s>Tenez, écoutez le commencement. </s>
               <s>C’est Zipharès qui parle à son confident, lorsqu’il croit Mithridate mort ; il lui dit : </s>
             </p>
-            <l n="7" xml:id="l7">Ainsi ce Roi qui seul et pendant quarante ans</l>
-            <l n="8" xml:id="l8">Lassa tout ce que Rome eut de chefs importants,</l>
-            <l n="9" xml:id="l9">Et qui dans l’Orient balançant la fortune,</l>
-            <l n="10" xml:id="l10">Vengeait de tous les Rois la querelle commune,</l>
-            <l n="11" xml:id="l11">Meurt et laisse après lui pour venger son trépas</l>
-            <l n="12" xml:id="l12">Deux fils infortunés qui ne s’accordent pas.</l>
-            <l n="13" xml:id="l13">Croyez-vous que ce petit traité l’à aura quelque succès.</l>
+            <l>Ainsi ce Roi qui seul et pendant quarante ans</l>
+            <l>Lassa tout ce que Rome eut de chefs importants,</l>
+            <l>Et qui dans l’Orient balançant la fortune,</l>
+            <l>Vengeait de tous les Rois la querelle commune,</l>
+            <l>Meurt et laisse après lui pour venger son trépas</l>
+            <l>Deux fils infortunés qui ne s’accordent pas.</l>
+            <l>Croyez-vous que ce petit traité l’à aura quelque succès.</l>
           </sp>
-          <sp xml:id="I11-28" who="FRANVILLE">
+          <sp who="FRANVILLE" xml:id="I11-28">
             <p>
               <s>Comment, Monsieur, je vous garantis que cet ouvrage vous fera le plus grand honneur, quant à moi, j’en retiens plusieurs exemplaires, et j’en veux fournir à chaque Comédien que j’engagerai ; mais il est tard, faites-moi l’amitié de dîner avec moi, nous parlerons plus amplement de votre ouvrage.</s>
             </p>
           </sp>
-          <sp xml:id="I11-29" who="LABBE">
+          <sp who="LABBE" xml:id="I11-29">
             <p>
               <s>Vous êtes bien honnête, Monsieur, mais ma tante.</s>
             </p>
           </sp>
-          <sp xml:id="I11-30" who="FRANVILLE">
+          <sp who="FRANVILLE" xml:id="I11-30">
             <p>
               <s>Ah ! </s>
               <s>Madame votre tante, je n’y pensais plus, c’est le plaisir que j’ai à vous entendre qui me la fait oublier, donnez-vous la peine d’entrer dans ce cabinet, vous allez y trouver compagnie. </s>
               <s>Je vais vous y rejoindre.</s>
             </p>
           </sp>
-          <sp xml:id="I11-31" who="LABBE">
+          <sp who="LABBE" xml:id="I11-31">
             <p>
               <s>Ma tante y est donc, Monsieur ?</s>
             </p>
           </sp>
-          <sp xml:id="I11-32" who="FRANVILLE">
+          <sp who="FRANVILLE" xml:id="I11-32">
             <p>
               <s>Oui, Monsieur, et d’autres personnes de votre connAissance.</s>
             </p>
           </sp>
         </div2>
-        <div2 xml:id="I12" type="scene" n="11">
+        <div2 n="11" type="scene" xml:id="I12">
           <head>SCÈˆNE XI.<listPerson type="configuration" xml:id="conf12"/></head>
-          <sp xml:id="I12-1" who="FRANVILLE">
+          <sp who="FRANVILLE" xml:id="I12-1">
             <p>
               <s>Ah ! </s>
               <s>Parbleu, nous allons faire un petit dîner de famille qui j’espère sera réjouissant. </s>
@@ -1863,30 +1862,30 @@
             </p>
           </sp>
         </div2>
-        <div2 xml:id="I13" type="scene" n="12">
+        <div2 n="12" type="scene" xml:id="I13">
           <head>SCÈNE XII. Franville, Un Fiacre.<listPerson type="configuration" xml:id="conf13"/></head>
-          <sp xml:id="I13-1" who="LEFIACRE">
+          <sp who="LEFIACRE" xml:id="I13-1">
             <p>
               <s>Parlez donc, Monsieur, est-ce qu’on se gobarge de moi donc, de me faire rester comme une enseigne par le temps qu’il fait ?</s>
             </p>
           </sp>
-          <sp xml:id="I13-2" who="FRANVILLE">
+          <sp who="FRANVILLE" xml:id="I13-2">
             <p>
               <s>Que demandez-vous, mon ami ?</s>
             </p>
           </sp>
-          <sp xml:id="I13-3" who="LEFIACRE">
+          <sp who="LEFIACRE" xml:id="I13-3">
             <p>
               <s>Par la ventregué ! </s>
               <s>Je demande une vieille béquillarde avec un farluquet d’Abbé qui m’avont planté là comme pour raverdir.</s>
             </p>
           </sp>
-          <sp xml:id="I13-4" who="FRANVILLE">
+          <sp who="FRANVILLE" xml:id="I13-4">
             <p>
               <s>Il faut attendre un instant, mon enfant.</s>
             </p>
           </sp>
-          <sp xml:id="I13-5" who="LEFIACRE">
+          <sp who="LEFIACRE" xml:id="I13-5">
             <p>
               <s>Ah ! </s>
               <s>Jarnonbille ! </s>
@@ -1895,25 +1894,25 @@
               <s>Faut-il pas que ces pauvres animaux mangent ?</s>
             </p>
           </sp>
-          <sp xml:id="I13-6" who="FRANVILLE">
+          <sp who="FRANVILLE" xml:id="I13-6">
             <p>
               <s>Vous avez raison, mon ami, je vais vous faire parler à Monsieur l’Abbé.</s>
             </p>
           </sp>
-          <sp xml:id="I13-7" who="LEFIACRE">
+          <sp who="LEFIACRE" xml:id="I13-7">
             <p>
               <s>Ah ! </s>
               <s>Morgué, parler, je n’ons pas besoin de parlemantage. C’est de l’argent qu’il me faut.</s>
             </p>
           </sp>
-          <sp xml:id="I13-8" who="LEFIACRE">
+          <sp who="LEFIACRE" xml:id="I13-8">
             <p>
               <s>Oui, cherche ; vas, tu les trouveras... </s>
               <s>Ah ! </s>
               <s>Monsieur le Directeur, vous voulez essayer les gens.</s>
             </p>
           </sp>
-          <sp xml:id="I13-9" who="FRANVILLE">
+          <sp who="FRANVILLE" xml:id="I13-9">
             <p>
               <s>Ah ! </s>
               <s>Morbleu, il n’y a plus personne, ils sont sortis par derrière. </s>
@@ -1923,96 +1922,96 @@
               <s>Ce drôle là est à courir depuis le matin.</s>
             </p>
           </sp>
-          <sp xml:id="I13-10" who="LEFIACRE">
+          <sp who="LEFIACRE" xml:id="I13-10">
             <p>
               <s>Eh ! Ben, Monsieur, où est-ce qu’est donc l’Abbé ?</s>
             </p>
           </sp>
-          <sp xml:id="I13-11" who="FRANVILLE">
+          <sp who="FRANVILLE" xml:id="I13-11">
             <p>
               <s>Ma foi, mon ami, je n’en sais rien.</s>
             </p>
           </sp>
-          <sp xml:id="I13-12" who="LEFIACRE">
+          <sp who="LEFIACRE" xml:id="I13-12">
             <p>
               <s>Comment, morgué, vous ne savez pas ? </s>
               <s>Et ste Vieille, sans dents, est-ce qu’alle est fondue aussi ?</s>
             </p>
           </sp>
-          <sp xml:id="I13-13" who="FRANVILLE">
+          <sp who="FRANVILLE" xml:id="I13-13">
             <p>
               <s>Ils étaient dans ce cabinet qui donne sur la rue ; ils s’en seront allez pendant que vous êtes entré.</s>
             </p>
           </sp>
-          <sp xml:id="I13-14" who="LEFIACRE">
+          <sp who="LEFIACRE" xml:id="I13-14">
             <p>
               <s>Ah ! </s>
               <s>Ventregué, je ne donnons pas dans ce godan là, vous les avez caché quelque part ; mais sarpejeu je serons payé, où j’allons faire un beau sabat !</s>
             </p>
           </sp>
-          <sp xml:id="I13-15" who="FRANVILLE">
+          <sp who="FRANVILLE" xml:id="I13-15">
             <p>
               <s>Que veut dire ce drôle là ? </s>
               <s>Je les ai fait cacher ! </s>
               <s>Allons, va attendre ton monde à la porte, et ne fais pas l’insolent.</s>
             </p>
           </sp>
-          <sp xml:id="I13-16" who="LEFIACRE">
+          <sp who="LEFIACRE" xml:id="I13-16">
             <p>
               <s>Allons donc, note bourgeois ; ne faites donc pas comme ça le gausseur ; mettez la main à la poche, croyez-moi, c’est vote plus court.</s>
             </p>
           </sp>
-          <sp xml:id="I13-17" who="FRANVILLE">
+          <sp who="FRANVILLE" xml:id="I13-17">
             <p>
               <s>Allons, sors d’ici, tout à l’heure.</s>
             </p>
           </sp>
-          <sp xml:id="I13-18" who="LEFIACRE">
+          <sp who="LEFIACRE" xml:id="I13-18">
             <p>
               <s>Qu’appellez-vous, sors d’ici ! </s>
               <s>Je ne démare pas que je n’ayons de l’argent déjà primo.</s>
             </p>
           </sp>
-          <sp xml:id="I13-19" who="FRANVILLE">
+          <sp who="FRANVILLE" xml:id="I13-19">
             <p>
               <s>Et moi je te conseille de t’en aller au plus vite, sinon je vais te faire étriller.</s>
             </p>
           </sp>
-          <sp xml:id="I13-20" who="LEFIACRE">
+          <sp who="LEFIACRE" xml:id="I13-20">
             <p>
               <s>Oui, Monsieur le Directeur ; vous prenez le mors aux dents ; ah ! </s>
               <s>Ben, je vas vous faire cabrer, moi.</s>
             </p>
           </sp>
-          <sp xml:id="I13-21" who="FRANVILLE">
+          <sp who="FRANVILLE" xml:id="I13-21">
             <p>
               <s>La Pierre ! </s>
               <s>Oh la Pierre !</s>
             </p>
           </sp>
-          <sp xml:id="I13-22" who="LEFIACRE">
+          <sp who="LEFIACRE" xml:id="I13-22">
             <p>
               <s>Ah ! </s>
               <s>Palsangué, je me ris de la Pierre et de la butte comme de Colin Tampon ; mais morgué, j’allons voir si vous vous rirez du Commissaire, vous, Monsieur le débaucheur ; j’allons voir çà.</s>
             </p>
           </sp>
-          <sp xml:id="I13-23" who="FRANVILLE">
+          <sp who="FRANVILLE" xml:id="I13-23">
             <p>
               <s>Oui, oui, sors d’ici, toujours.</s>
             </p>
           </sp>
-          <sp xml:id="I13-24" who="LEFIACRE">
+          <sp who="LEFIACRE" xml:id="I13-24">
             <p>
               <s>Ah ! </s>
               <s>Ventrebleu, ne nous poussez pas, car je sommes rétifs, je vous en avertis, et je pourrions vous lâcher une ruade en manière de salut.</s>
             </p>
           </sp>
-          <sp xml:id="I13-25" who="FRANVILLE">
+          <sp who="FRANVILLE" xml:id="I13-25">
             <p>
               <s>La Pierre, viendras-tu donc, maraud ?</s>
             </p>
           </sp>
-          <sp xml:id="I13-26" who="LEFIACRE">
+          <sp who="LEFIACRE" xml:id="I13-26">
             <p>
               <s>Eh ! </s>
               <s>Donc ! </s>
@@ -2023,9 +2022,9 @@
             </p>
           </sp>
         </div2>
-        <div2 xml:id="I14" type="scene" n="13">
+        <div2 n="13" type="scene" xml:id="I14">
           <head>SCÈNE XIII.<listPerson type="configuration" xml:id="conf14"/></head>
-          <sp xml:id="I14-1" who="FRANVILLE">
+          <sp who="FRANVILLE" xml:id="I14-1">
             <p>
               <s>Au diable soit le maudit homme ! </s>
               <s>Et ce coquin de La Pierre, tenez, qui me laisse seul ici depuis ce matin, pour me faire une commission. </s>
@@ -2034,60 +2033,60 @@
             </p>
           </sp>
         </div2>
-        <div2 xml:id="I15" type="scene" n="14">
-          <head>SCÈˆNE XIV ET DERNIÈRE. Franville, Un Commissaire, en robe.<listPerson type="configuration" xml:id="conf15"/></head>
-          <sp xml:id="I15-1" who="LECOMMISSAIRE">
+        <div2 n="14" type="scene" xml:id="I15">
+          <head>SCÈNE XIV ET DERNIÈRE. Franville, Un Commissaire, en robe.<listPerson type="configuration" xml:id="conf15"/></head>
+          <sp who="LECOMMISSAIRE" xml:id="I15-1">
             <p>
               <s>Qu’est-ce que c’est donc, Monsieur, qu’est-ce que c’est donc ? </s>
               <s>L’on me fait des plaintes contre vous.</s>
             </p>
           </sp>
-          <sp xml:id="I15-2" who="FRANVILLE">
+          <sp who="FRANVILLE" xml:id="I15-2">
             <p>
               <s>Contre moi, Monsieur, à quel sujet, s’il vous plaît ?</s>
             </p>
           </sp>
-          <sp xml:id="I15-3" who="LECOMMISSAIRE">
+          <sp who="LECOMMISSAIRE" xml:id="I15-3">
             <p>
               <s>À quel sujet ! </s>
               <s>Mais à plusieurs sujets, Monsieur, l’accusation est grave.</s>
             </p>
           </sp>
-          <sp xml:id="I15-4" who="FRANVILLE">
+          <sp who="FRANVILLE" xml:id="I15-4">
             <p>
               <s>Quoi, Monsieur, vous écoutez un coquin de fiacre !</s>
             </p>
           </sp>
-          <sp xml:id="I15-5" who="LECOMMISSAIRE">
+          <sp who="LECOMMISSAIRE" xml:id="I15-5">
             <p>
               <s>Non, non, Monsieur ; je n’écoute point un coquin de fiacre, il s’est bien venu plaindre à mo i; mais ce n’est pas là-dessus que je vous interpelle de répondre, Monsieur. </s>
               <s>Il s’agit d’une affaire de plus grande importance.</s>
             </p>
           </sp>
-          <sp xml:id="I15-6" who="FRANVILLE">
+          <sp who="FRANVILLE" xml:id="I15-6">
             <p>
               <s>Mais, Monsieur, je ne crois pas...</s>
             </p>
           </sp>
-          <sp xml:id="I15-7" who="LECOMMISSAIRE">
+          <sp who="LECOMMISSAIRE" xml:id="I15-7">
             <p>
               <s>Silence, Monsieur, laissez-moi parler ! </s>
               <s>Vous ne croyez pas... </s>
               <s>Vous débauchez des jeunes gens, et j’ai reçu des plaintes contre vous de toute une famille.</s>
             </p>
           </sp>
-          <sp xml:id="I15-8" who="FRANVILLE">
+          <sp who="FRANVILLE" xml:id="I15-8">
             <p>
               <s>De toute une famille.</s>
             </p>
           </sp>
-          <sp xml:id="I15-9" who="LECOMMISSAIRE">
+          <sp who="LECOMMISSAIRE" xml:id="I15-9">
             <p>
               <s>Oui, Monsieur, de toute une famille. </s>
               <s>C’est au sujet du nommé Eustache Pointu ; vous remettez-vous cela, Monsieur.</s>
             </p>
           </sp>
-          <sp xml:id="I15-10" who="FRANVILLE">
+          <sp who="FRANVILLE" xml:id="I15-10">
             <p>
               <s>Eh ! </s>
               <s>Monsieur, l’on vous a trompé. </s>
@@ -2095,64 +2094,64 @@
               <s>Son père est un ivrogne, sa mère une ridicule, et Monsieur l’Abbé, leur digne cousin, est un fou fieffé.</s>
             </p>
           </sp>
-          <sp xml:id="I15-11" who="LECOMMISSAIRE">
+          <sp who="LECOMMISSAIRE" xml:id="I15-11">
             <p>
               <s>Monsieur, Monsieur; ne dites pas de mal de cette famille là, je vous prie.</s>
             </p>
           </sp>
-          <sp xml:id="I15-12" who="FRANVILLE">
+          <sp who="FRANVILLE" xml:id="I15-12">
             <p>
               <s>Est-ce que vous y prenez intérêt, Monsieur ?</s>
             </p>
           </sp>
-          <sp xml:id="I15-13" who="LECOMMISSAIRE">
+          <sp who="LECOMMISSAIRE" xml:id="I15-13">
             <p>
               <s>Oui, Monsieur, beaucoup, excessivement, Monsieur.</s>
             </p>
           </sp>
-          <sp xml:id="I15-14" who="FRANVILLE">
+          <sp who="FRANVILLE" xml:id="I15-14">
             <p>
               <s>Mais, Monsieur le Commissaire, ne seriez-vous pas un peu parent ? </s>
               <s>Je vous trouve un certain air de ressemblance.</s>
             </p>
           </sp>
-          <sp xml:id="I15-15" who="LECOMMISSAIRE">
+          <sp who="LECOMMISSAIRE" xml:id="I15-15">
             <p>
               <s>Trouvez-vous cela, Monsieur ?</s>
             </p>
           </sp>
-          <sp xml:id="I15-16" who="FRANVILLE">
+          <sp who="FRANVILLE" xml:id="I15-16">
             <p>
               <s>Ma foi, Monsieur, l’on ne peut d’avantage... </s>
               <s>Je ne sais si je vois trouble aujourd’hui, ou si j’ai l’oeil ensorcelé mais tous ceux que j’ai vu ce matin m’ont paru se ressembler... </s>
               <s>Il n’y a pas jusqu’à ce maudit Fiacre à qui j’ai trouvé un air de... </s>
             </p>
           </sp>
-          <sp xml:id="I15-17" who="LECOMMISSAIRE">
+          <sp who="LECOMMISSAIRE" xml:id="I15-17">
             <p>
               <s>Monsieur, Monsieur, tout cela est bon pour la plaisanterie. </s>
               <s>Mais l’affaire est grave. </s>
               <s>Je vous en avertis, la famille instruit contre vous, et je vous conseille d’arranger cela.</s>
             </p>
           </sp>
-          <sp xml:id="I15-18" who="FRANVILLE">
+          <sp who="FRANVILLE" xml:id="I15-18">
             <p>
               <s>Mais ; Monsieur, je n’ai aucun tort, il m’est aisé de vous en convaincre ; ils sont tous venus me voir ce matin les uns après les autres, et je n’ai pris avec eux d’autre arrangement que de les inviter à dîner.</s>
             </p>
           </sp>
-          <sp xml:id="I15-19" who="LECOMMISSAIRE">
+          <sp who="LECOMMISSAIRE" xml:id="I15-19">
             <p>
               <s>Eh bien ! </s>
               <s>Monsieur, pour vous donner les moyens de prouver votre innocence, je vais rester aussi et nous dînerons tous ensemble.</s>
             </p>
           </sp>
-          <sp xml:id="I15-20" who="FRANVILLE">
+          <sp who="FRANVILLE" xml:id="I15-20">
             <p>
               <s>Ah ! </s>
               <s>Monsieur, de tout mon coeur, mais où les prendre actuellement ?</s>
             </p>
           </sp>
-          <sp xml:id="I15-21" who="LECOMMISSAIRE">
+          <sp who="LECOMMISSAIRE" xml:id="I15-21">
             <p>
               <s>Oh ! </s>
               <s>Oh ! </s>
@@ -2160,12 +2159,12 @@
               <s>Préparez-vous seulement à soutenir la confrontation.</s>
             </p>
           </sp>
-          <sp xml:id="I15-22" who="FRANVILLE">
+          <sp who="FRANVILLE" xml:id="I15-22">
             <p>
               <s>Ma foi, Monsieur, quand on voudra, je suis tout prêt.</s>
             </p>
           </sp>
-          <sp xml:id="I15-23" who="LECOMMISSAIRE">
+          <sp who="LECOMMISSAIRE" xml:id="I15-23">
             <p>
               <s>Eh ! </s>
               <s>Bien, Monsieur, attention : vous voyez d’abord le Commissaire. </s>
@@ -2192,31 +2191,31 @@
               <s>Je viens, Monsieur, vous représenter le billet d’entrée que vous m’avez fourni pour savoir, Monsieur, si vous aviez besoin de mon petit service.</s>
             </p>
           </sp>
-          <sp xml:id="I15-24" who="FRANVILLE">
+          <sp who="FRANVILLE" xml:id="I15-24">
             <p>
               <s>Comment, Monsieur, c’est vous qui m’avez ainsi promené toute la matinée. </s>
               <s>J’en suis enchanté ! </s>
               <s>J’ai pensé vingt fois me douter de la plaisanterie.</s>
             </p>
           </sp>
-          <sp xml:id="I15-25" who="LEJEUNEHOMME">
+          <sp who="LEJEUNEHOMME" xml:id="I15-25">
             <p>
               <s>Pardon, Monsieur. </s>
               <s>Mais l’extrême envie que j’ai de jouer la Comédie m’ayant déterminé à m’adresser à vous, j’ai voulu, comme je vous l’annonçais dans ma lettre, vous mettre à même de m’essayer avant de conclure ; en conséquence je suis venu, avec ma provision d’habits dans une voiture m’établir à votre porte. </s>
               <s>Je me suis présenté et vous m’avez facilité vous-même mes travestissements, en me logeant dans ce cabinet qui s’ouvre sur la rue ; je suis revenu alternativement sous différentes formes, c’est maintenant à vous de juger sous laquelle je pourrai vous convenir.</s>
             </p>
           </sp>
-          <sp xml:id="I15-26" who="FRANVILLE">
+          <sp who="FRANVILLE" xml:id="I15-26">
             <p>
               <s>Monsieur, je suis charmé de vous connaître, allons d’abord nous mettre à table, nous terminerons notre affaire ensuite, et j’espère que nous aurons sujet d’être contents tous deux.</s>
             </p>
           </sp>
-          <sp xml:id="I15-27" who="LEJEUNEHOMME">
+          <sp who="LEJEUNEHOMME" xml:id="I15-27">
             <p>
               <s>Monsieur, si le talent chez moi ne répond pas à la bonne volonté, souvenez-vous toujours du Proverbe.</s>
             </p>
-            <l n="14" xml:id="l14">ON FAIT CE QU’ON PEUT,</l>
-            <l n="15" xml:id="l15">ET NON CE QU’ON VEUT.  </l>
+            <l>ON FAIT CE QU’ON PEUT,</l>
+            <l>ET NON CE QU’ON VEUT. </l>
           </sp>
         </div2>
       </div1>
