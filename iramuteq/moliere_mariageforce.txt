@@ -1,51 +1,53 @@
 
 
-**** *book_ *id_I01 *act_I *date_1664
+**** *book_ *id_I01 *act_I *date_1664 *creator_moliere
+
+
 
 -*who_sganarelle
 Je suis de retour dans un moment.
-Que l'on ait bien soin du logis, et que tout aille comme il faut.
-Si l'on m'apporte de l'argent, que l'on me vienne quérir vite chez le Seigneur Géronimo ; et si l'on vient m'en demander, qu'on dise que je suis sorti, et que je ne dois revenir de toute la journée.
+Que l'on ait bien soin du Logis ; et que tout aille comme il faut.
+Si l'on m'apporte de l'argent, que l'on me vienne quérir vite chez le Seigneur Géronimo ; et si l'on vient m'en demander, qu'on dise que je suis sorti, et que je ne dois revenir de toute la journée.
 
 -*who_geronimo
-Voilà un ordre fort prudent.
+Voilà un Ordre fort prudent.
 
 -*who_sganarelle
-Ah !
-Seigneur Géronimo, je vous trouve à propos, et j'allais chez vous vous chercher.
+Ah !
+Seigneur Géronimo, je vous trouve à propos ; et j'allais chez vous vous chercher.
 
 -*who_geronimo
-Et pour quel sujet, s'il vous plaît ?
+Et pour quel sujet, s'il vous plaît ?
 
 -*who_sganarelle
-Pour vous communiquer une affaire que j'ai en tête ; et vous prier de m'en dire votre avis.
+Pour vous communiquer une Affaire, que j'ai en tête ; et vous prier de m'en dire votre avis.
 
 -*who_geronimo
 Très volontiers.
-Je suis bien aise de cette rencontre ; et nous pouvons parler ici en toute liberté.
+Je suis bien aise de cette rencontre ; et nous pouvons parler ici en toute liberté.
 
 -*who_sganarelle
 Mettez donc dessus, s'il vous plaît.
-Il s'agit d'une chose de conséquence, que l'on m'a proposée ; et il est bon de ne rien faire, sans le conseil de ses amis.
+Il s'agit d'une chose de conséquence, que l'on m'a proposée ; et il est bon de ne rien faire, sans le conseil de ses Amis.
 
 -*who_geronimo
 Je vous suis obligé, de m'avoir choisi pour cela.
 Vous n'avez qu'à me dire ce que c'est.
 
 -*who_sganarelle
-Mais auparavant je vous conjure de ne me point flatter du tout ; et de me dire nettement votre pensée.
+Mais auparavant, je vous conjure de ne me point flatter du tout ; et de me dire nettement votre pensée.
 
 -*who_geronimo
 Je le ferai, puisque vous le voulez.
 
 -*who_sganarelle
-Je ne vois rien de plus condamnable qu'un ami, qui ne nous parle pas franchement.
+Je ne vois rien de plus condamnable qu'un Ami, qui ne nous parle pas franchement.
 
 -*who_geronimo
 Vous avez raison.
 
 -*who_sganarelle
-Et dans ce siècle, on trouve peu d'amis sincères.
+Et dans ce Siècle, on trouve peu d'Amis sincères.
 
 -*who_geronimo
 Cela est vrai.
@@ -60,70 +62,71 @@ Je vous le promets.
 Jurez-en votre foi.
 
 -*who_geronimo
-Oui, foi d'ami.
-Dites-moi seulement votre affaire.
+Oui, foi d'Ami.
+Dites-moi seulement votre Affaire.
 
 -*who_sganarelle
 C'est que je veux savoir de vous, si je ferai bien de me marier.
 
 -*who_geronimo
-Qui, vous ?
+Qui, vous ?
 
 -*who_sganarelle
-Oui, moi-même en propre personne.
-Quel est votre avis là-dessus ?
+Oui, moi-même en propre Personne.
+Quel est votre avis là-dessus ?
 
 -*who_geronimo
 Je vous prie auparavant, de me dire une chose.
 
 -*who_sganarelle
-Et quoi ?
+Et quoi ?
 
 -*who_geronimo
-Quel âge pouvez-vous bien avoir maintenant ?
+Quel âge pouvez-vous bien avoir maintenant ?
 
 -*who_sganarelle
-Moi ?
+Moi ?
 
 -*who_geronimo
 Oui.
 
 -*who_sganarelle
-Ma foi, je ne sais ; mais je me porte bien.
+Ma foi, je ne sais ; mais je me porte bien.
 
 -*who_geronimo
-Quoi ! vous ne savez pas, à peu près votre âge ?
+Quoi !
+Vous ne savez pas à peu près, votre âge ?
 
 -*who_sganarelle
 Non.
-Est-ce qu'on songe à cela ?
+Est-ce qu'on songe à cela ?
 
 -*who_geronimo
-Hé, dites-moi un peu, s'il vous plaît : combien aviez-vous d'années lorsque nous fîmes connaissance ?
+Hé, dites-moi un peu, s'il vous plaît : Combien aviez-vous d'années, lorsque nous fîmes connaissance ?
 
 -*who_sganarelle
 Ma foi, je n'avais que vingt ans alors.
 
 -*who_geronimo
-Combien fûmes-nous ensemble à Rome ?
+Combien fûmes-nous ensemble à Rome ?
 
 -*who_sganarelle
 Huit ans.
 
 -*who_geronimo
-Quel temps avez-vous demeuré en Angleterre ?
+Quel temps avez-vous demeuré en Angleterre ?
 
 -*who_sganarelle
 Sept ans.
 
 -*who_geronimo
-Et en Hollande, où vous fûtes ensuite ?
+Et en Hollande, où vous fûtes ensuite ?
 
 -*who_sganarelle
-Cinq ans et demi.
+Cinq ans, et demi.
 
 -*who_geronimo
-Combien y a-t-il que vous êtes revenu ici ?
+Combien y a-t-il, que vous êtes revenu ici ?
 
 -*who_sganarelle
 Je revins en cinquante-six.
@@ -132,235 +135,228 @@ Je revins en cinquante-six.
 De cinquante-six, à soixante-huit, il y a douze ans, ce me semble.
 Cinq ans en Hollande, font dix-sept.
 Sept ans en Angleterre, font vingt-quatre.
-Huit dans notre séjour à Rome font trente-deux : et vingt que vous aviez lorsque nous nous connûmes, cela fait justement cinquante-deux.
-Si bien, Seigneur Sganarelle, que sur votre propre confession, vous êtes environ à votre cinquante-deuxième ou cinquante-troisième année.
+Huit dans notre séjour à Rome, font trente-deux : Et vingt que vous aviez lorsque nous nous connûmes, cela fait justement cinquante-deux.
+Si bien, Seigneur Sganarelle, que sur votre propre confession, vous êtes, environ, à votre cinquante-deuxième, ou cinquante-troisième année.
 
 -*who_sganarelle
-Qui, moi ?
+Qui, moi ?
 Cela ne se peut pas.
 
 -*who_geronimo
 Mon Dieu, le calcul est juste.
-Et là-dessus je vous dirai franchement et en ami, comme vous m'avez fait promettre de vous parler, que le mariage n'est guère votre fait.
-C'est une chose à laquelle il faut que les jeunes gens pensent bien mûrement avant que de la faire : mais les gens de votre âge n'y doivent point penser du tout.
-Et si l'on dit que la plus grande de toutes les folies est celle de se marier, je ne vois rien de plus mal à propos que de la faire, cette folie, dans la saison où nous devons être plus sages.
+Et là-dessus je vous dirai franchement, et en Ami, comme vous m'avez fait promettre de vous parler, que le Mariage n'est guère votre fait.
+C'est une chose à laquelle il faut que les jeunes Gens pensent bien mûrement avant que de la faire : mais les Gens de votre âge n'y doivent point penser du tout.
+Et si l'on dit, que la plus grande de toutes les folies, est celle de se marier, je ne vois rien de plus mal à propos, que de la faire, cette folie, dans la Saison où nous devons être plus sages.
 Enfin je vous en dis nettement ma pensée.
-Je ne vous conseille point de songer au mariage ; et je vous trouverais le plus ridicule du monde, si ayant été libre jusqu'à cette heure, vous alliez vous charger maintenant de la plus pesante des chaînes.
+Je ne vous conseille point de songer au Mariage ; et je vous trouverais le plus ridicule du Monde, si ayant été libre jusqu'à cette heure, vous alliez vous charger maintenant de la plus pesante des chaînes.
 
 -*who_sganarelle
-Et moi, je vous dis que je suis résolu de me marier ; et que je ne serai point ridicule en épousant la fille, que je recherche.
+Et moi, je vous dis que je suis résolu de me marier ; et que je ne serai point ridicule en épousant la Fille, que je recherche.
 
 -*who_geronimo
-Ah !
-C'est une autre chose.
+Ah ! c'est une autre chose.
 Vous ne m'aviez pas dit cela.
 
 -*who_sganarelle
-C'est une fille, qui me plaît ; et que j'aime de tout mon coeur.
+C'est une Fille, qui me plaît ; et que j'aime de tout mon cœur.
 
 -*who_geronimo
-Vous l'aimez de tout votre coeur ?
+Vous l'aimez de tout votre cœur ?
 
 -*who_sganarelle
-Sans doute ; et je l'ai demandée à son père.
+Sans doute ; et je l'ai demandée à son Père.
 
 -*who_geronimo
-Vous l'avez demandée ?
+Vous l'avez demandée ?
 
 -*who_sganarelle
-Oui.
-C'est un mariage qui se doit conclure ce soir, et j'ai donné parole.
+Oui, c'est un Mariage, qui se doit conclure ce soir ; et j'ai donné parole.
 
 -*who_geronimo
-Oh !
-Mariez-vous donc.
+Oh ! mariez-vous donc.
 Je ne dis plus mot.
 
 -*who_sganarelle
-Je quitterais le dessein que j'ai fait ?
-Vous semble-t-il, Seigneur Géronimo, que je ne sois plus propre à songer à une femme ?
-Ne parlons point de l'âge que je puis avoir ; mais regardons seulement les choses.
-Y a-t-il homme de trente ans, qui paraisse plus frais, et plus vigoureux, que vous me voyez ?
-N'ai-je pas tous les mouvements de mon corps aussi bons que jamais ?
-Et voit-on que j'aie besoin de carrosse, ou de chaise pour cheminer ?
-N'ai-je pas encore toutes mes dents les meilleures du monde ?
-Ne fais-je pas vigoureusement mes quatre repas par jour ?
-Et peut-on voir un estomac qui ait plus de force que le mien ?
+Je quitterais le dessein que j'ai fait ?
+Vous semble-t-il, Seigneur Géronimo, que je ne sois plus propre à songer à une Femme ?
+Ne parlons point de l'âge que je puis avoir ; mais regardons seulement les choses.
+Y a-t-il Homme de trente ans, qui paraisse plus frais, et plus vigoureux, que vous me voyez ?
+N'ai-je pas tous les mouvements de mon Corps aussi bons que jamais ?
+Et voit-on que j'aie besoin de Carrosse, ou de Chaise, pour cheminer ?
+N'ai-je pas encore toutes mes dents les meilleures du monde ?
+Ne fais-je pas vigoureusement mes quatre Repas par jour ?
+Et peut-on voir un Estomac qui ait plus de force que le mien ?
 Hem, hem, hem.
-Eh !
-Qu'en dites-vous ?
+Eh ?
+Qu'en dites-vous ?
 
 -*who_geronimo
-Vous avez raison : je m'étais trompé.
+Vous avez raison : je m'étais trompé.
 Vous ferez bien de vous marier.
 
 -*who_sganarelle
-J'y ai répugné autrefois : mais j'ai maintenant de puissantes raisons pour cela.
-Outre la joie que j'aurai de posséder une belle femme, qui me fera mille caresses ; qui me dorlotera, et me viendra frotter, lorsque je serai las : outre cette joie, dis-je, je considère, qu'en demeurant comme je suis, je laisse périr dans le monde la race des Sganarelles ; et qu'en me mariant, je pourrai me voir revivre en d'autres moi-mêmes ; que j'aurai le plaisir de voir des Créatures, qui seront sorties de moi ; de petites figures qui me ressembleront comme deux gouttes d'eau ; qui se joueront continuellement dans la maison ; qui m'appelleront leur papa quand je reviendrai de la ville, et me diront de petites folies les plus agréables du monde.
+J'y ai répugné autrefois : mais j'ai maintenant de puissantes raisons pour cela.
+Outre la joie que j'aurai de posséder une belle Femme, qui me fera mille caresses ; qui me dorlotera, et me viendra frotter, lorsque je serai las : outre cette joie, dis-je, je considère, qu'en demeurant comme je suis, je laisse périr dans le Monde la race des Sganarelles ; et qu'en me mariant, je pourrai me voir revivre en d'autres moi-mêmes ; que j'aurai le plaisir de voir des Créatures, qui seront sorties de moi ; de petites Figures qui me ressembleront comme deux gouttes d'eau ; qui se joueront continuellement dans la Maison ; qui m'appelleront leur Papa, quand je reviendrai de la Ville, et me diront de petites folies les plus agréables du Monde.
 Tenez, il me semble déjà que j'y suis, et que j'en vois une demi-douzaine autour de moi.
 
 -*who_geronimo
-Il n'y a rien de plus agréable que cela ; et je vous conseille de vous marier, le plus vite que vous pourrez.
+Il n'y a rien de plus agréable que cela ; et je vous conseille de vous marier, le plus vite que vous pourrez.
 
 -*who_sganarelle
-Tout de bon ; vous me le conseillez ?
+Tout de bon ; vous me le conseillez ?
 
 -*who_geronimo
 Assurément.
 Vous ne sauriez mieux faire.
 
 -*who_sganarelle
-Vraiment, je suis ravi que vous me donniez ce conseil en véritable ami.
+Vraiment, je suis ravi que vous me donniez ce conseil en véritable Ami.
 
 -*who_geronimo
-Hé !
-Quelle est la personne, s'il vous plaît, avec qui vous vous allez marier ?
+Hé ! quelle est la Personne, s'il vous plaît, avec qui vous vous allez marier ?
 
 -*who_sganarelle
 Dorimène.
 
 -*who_geronimo
-Cette jeune Dorimène, si galante et si bien parée ?
+Cette jeune Dorimène, si galante, et si bien parée ?
 
 -*who_sganarelle
 Oui.
 
 -*who_geronimo
-Fille du seigneur Alcantor ?
+Fille du Seigneur Alcantor ?
 
 -*who_sganarelle
 Justement.
 
 -*who_geronimo
-Et soeur d'un certain Alcidas, qui se mêle de porter l'épée ?
+Et Sœur d'un certain Alcidas, qui se mêle de porter l'Épée ?
 
 -*who_sganarelle
 C'est cela.
 
 -*who_geronimo
-Vertu de ma vie !
+Vertu de ma vie !
 
 -*who_sganarelle
-Qu'en dites-vous ?
+Qu'en dites-vous ?
 
 -*who_geronimo
-Bon parti !
+Bon Parti !
 Mariez-vous promptement.
 
 -*who_sganarelle
-N'ai-je pas raison, d'avoir fait ce choix ?
+N'ai-je pas raison, d'avoir fait ce choix ?
 
 -*who_geronimo
 Sans doute.
-Ah !
-Que vous serez bien marié !
+Ah ! que vous serez bien marié !
 Dépêchez-vous de l'être.
 
 -*who_sganarelle
 Vous me comblez de joie, de me dire cela.
-Je vous remercie de votre conseil ; et je vous invite ce soir à mes noces.
+Je vous remercie de votre conseil ; et je vous invite ce soir à mes Noces.
 
 -*who_geronimo
-Je n'y manquerai pas ; et je veux y aller en masque, afin de les mieux honorer.
+Je n'y manquerai pas ; et je veux y aller en Masque, afin de les mieux honorer.
 
 -*who_sganarelle
 Serviteur.
 
 -*who_geronimo
-La jeune Dorimène, fille du seigneur Alcantor, avec le seigneur Sganarelle, qui n'a que cinquante-trois ans ?
-Ô le beau mariage !
-Ô le beau mariage!
+La jeune Dorimène, Fille du Seigneur Alcantor, avec le Seigneur Sganarelle, qui n'a que cinquante-trois ans ? ô le beau Mariage ! ô le beau Mariage !
 
 -*who_sganarelle
-Ce mariage doit être heureux ; car il donne de la joie à tout le monde ; et je fais rire tous ceux à qui j'en parle.
-Me voilà maintenant le plus content des hommes.
+Ce Mariage doit être heureux ; car il donne de la joie à tout le monde ; et je fais rire tous ceux à qui j'en parle.
+Me voilà maintenant le plus content des Hommes.
 
-**** *book_ *id_I02 *act_I *date_1664
+**** *book_ *id_I02 *act_I *date_1664 *creator_moliere
+
+
 
 -*who_dorimene
-Allons, petit garçon, qu'on tienne bien ma queue ; et qu'on ne s'amuse pas à badiner.
+Allons, petit Garçon, qu'on tienne bien ma Queue : et qu'on ne s'amuse pas à badiner.
 
 -*who_sganarelle
-Voici ma maîtresse, qui vient.
-Ah !
-Qu'elle est agréable !
-Quel air !
-Et quelle taille !
-Peut-il y avoir un homme qui n'ait, en la voyant, des démangeaisons de se marier ?
-Où allez-vous, belle mignonne, chère épouse future de votre époux futur ?
+Voici ma Maîtresse, qui vient.
+Ah ! qu'elle est agréable ! quel air ! et quelle taille !
+Peut-il y avoir un Homme, qui n'ait, en la voyant, des démangeaisons, de se marier ?
+Où allez-vous, belle Mignonne, chère Épouse future de votre Époux futur ?
 
 -*who_dorimene
-Je vais faire quelques emplettes.
+Je vais faire quelques Emplettes.
 
 -*who_sganarelle
-Hé bien, ma belle, c'est maintenant que nous allons être heureux l'un, et l'autre.
-Vous ne serez plus en droit de me rien refuser ; et je pourrai faire avec vous tout ce qu'il me plaira, sans que personne s'en scandalise.
-Vous allez être à moi depuis la tête jusqu'aux pieds ; et je serai maître de tout : de vos petits yeux éveillés, de votre petit nez fripon ; de vos lèvres appétissantes ; de vos oreilles amoureuses ; de votre petit menton joli ; de vos petits tétons rondelets ; de votre...
-Enfin, toute votre personne sera à ma discrétion ; et je serai à même, pour vous caresser, comme je voudrai.
-N'êtes-vous pas bien aise de ce mariage, mon aimable Pouponne ?
+Hé bien, ma Belle, c'est maintenant que nous allons être heureux l'un, et l'autre.
+Vous ne serez plus en droit de me rien refuser ; et je pourrai faire avec vous tout ce qu'il me plaira, sans que personne s'en scandalise.
+Vous allez être à moi depuis la tête jusqu'aux pieds ; et je serai Maître de tout : De vos petits yeux éveillés ; de votre petit nez fripon ; de vos lèvres appétissantes ; de vos oreilles amoureuses ; de votre petit menton joli ; de vos petits tétons rondelets ; de votre...
+Enfin toute votre Personne sera à ma discrétion ; et je serai à même, pour vous caresser, comme je voudrai.
+N'êtes-vous pas bien aise de ce Mariage, mon aimable Pouponne ?
 
 -*who_dorimene
-Tout à fait aise, je vous jure : car enfin la sévérité de mon père m'a tenue jusques ici dans une sujétion la plus fâcheuse du monde.
-Il y a je ne sais combien que j'enrage du peu de liberté, qu'il me donne ; et j'ai cent fois souhaité qu'il me mariât, pour sortir promptement de la contrainte, où j'étais avec lui, et me voir en état de faire ce que je voudrai.
+Tout à fait aise, je vous jure : car enfin la sévérité de mon père m'a tenue jusques ici dans une sujétion la plus fâcheuse du Monde.
+Il y a je ne sais combien que j'enrage du peu de liberté, qu'il me donne ; et j'ai cent fois souhaité qu'il me mariât, pour sortir promptement de la contrainte, où j'étais avec lui, et me voir en état de faire ce que je voudrai.
 Dieu merci, vous êtes venu heureusement pour cela, et je me prépare désormais à me donner du divertissement, et à réparer comme il faut le temps que j'ai perdu.
-Comme vous êtes un fort galant homme, et que vous savez comme il faut vivre ; je crois que nous ferons le meilleur ménage du monde ensemble, et que vous ne serez point de ces maris incommodes, qui veulent que leurs femmes vivent comme des loups-garous.
-Je vous avoue que je ne m'accommoderais pas de cela, et que la solitude me désespère.
-J'aime le jeu ; les visites ; les assemblées ; les cadeaux, et les promenades ; en un mot, toutes les choses de plaisir ; et vous devez être ravi, d'avoir une femme de mon humeur.
-Nous n'aurons jamais aucun démêlé ensemble ; et je ne vous contraindrai point dans vos actions ; comme j'espère que de votre côté vous ne me contraindrez point dans les miennes : car pour moi, je tiens qu'il faut avoir une complaisance mutuelle ; et qu'on ne se doit point marier, pour se faire enrager l'un l'autre.
-Enfin nous vivrons, étant mariés, comme deux personnes qui savent leur monde.
-Aucun soupçon jaloux ne nous troublera la cervelle ; et c'est assez que vous serez assuré de ma fidélité, comme je serai persuadée de la vôtre.
-Mais qu'avez-vous ?
+Comme vous êtes un fort galant Homme, et que vous savez comme il faut vivre ; je crois que nous ferons le meilleur ménage du Monde ensemble, et que vous ne serez point de ces Maris incommodes, qui veulent que leurs Femmes vivent comme des Loups-garous.
+Je vous avoue que je ne m'accommoderais pas de cela ; et que la Solitude me désespère.
+J'aime le Jeu ; les Visites ; les Assemblées ; les Cadeaux, et les Promenades ; en un mot toutes les choses de plaisir ; et vous devez être ravi, d'avoir une femme de mon humeur.
+Nous n'aurons jamais aucun démêlé ensemble ; et je ne vous contraindrai point dans vos actions ; comme j'espère que de votre côté vous ne me contraindrez point dans les miennes : car pour moi, je tiens qu'il faut avoir une complaisance mutuelle ; et qu'on ne se doit point marier, pour se faire enrager l'un l'autre.
+Enfin nous vivrons, étant mariés, comme deux Personnes qui savent leur monde.
+Aucun soupçon jaloux ne nous troublera la cervelle ; et c'est assez que vous serez assuré de ma fidélité, comme je serai persuadée de la vôtre.
+Mais qu'avez-vous ?
 Je vous vois tout changé de visage.
 
 -*who_sganarelle
 Ce sont quelques vapeurs, qui me viennent de monter à la tête.
 
 -*who_dorimene
-C'est un mal aujourd'hui, qui attaque beaucoup de gens : mais notre mariage vous dissipera tout cela.
-Adieu, il me tarde déjà que je n'aie des habits raisonnables, pour quitter vite ces guenilles.
-Je m'en vais de ce pas achever d'acheter toutes les choses qu'il me faut ; et je vous enverrai les marchands.
+C'est un mal aujourd'hui qui attaque beaucoup de Gens : mais notre Mariage vous dissipera tout cela.
+Adieu, il me tarde déjà que je n'aie des Habits raisonnables, pour quitter vite ces guenilles.
+Je m'en vais de ce pas achever d'acheter toutes les choses qu'il me faut ; et je vous enverrai les marchands.
 
-**** *book_ *id_I03 *act_I *date_1664
+**** *book_ *id_I03 *act_I *date_1664 *creator_moliere
+
+
 
 -*who_geronimo
-Ah !
-Seigneur Sganarelle, je suis ravi de vous trouver encore ici ; et j'ai rencontré un orfèvre, qui sur le bruit que vous cherchiez quelque beau diamant en bague, pour faire un présent à votre épouse, m'a fort prié de vous venir parler pour lui ; et de vous dire qu'il en a un à vendre, le plus parfait du monde.
+Ah !
+Seigneur Sganarelle, je suis ravi de vous trouver encore ici ; et j'ai rencontré un Orfèvre, qui sur le bruit que vous cherchez quelque beau Diamant en Bague, pour faire un Présent à votre Épouse, m'a fort prié de vous venir parler pour lui ; et de vous dire qu'il en a un à vendre, le plus parfait du Monde.
 
 -*who_sganarelle
 Mon Dieu, cela n'est pas pressé.
 
 -*who_geronimo
-Comment !
-Que veut dire cela ?
-Où est l'ardeur que vous montriez tout à l'heure ?
+Comment ! que veut dire cela ? où est l'ardeur que vous montriez tout à l'heure ?
 
 -*who_sganarelle
 Il m'est venu, depuis un moment, de petits scrupules sur le mariage.
-Avant que de passer plus avant, je voudrais bien agiter à fond cette matière ; et que l'on m'expliquât un songe que j'ai fait cette nuit, et qui vient tout à l'heure de me revenir dans l'esprit.
-Vous savez que les songes sont comme des miroirs, où l'on découvre quelquefois tout ce qui nous doit arriver.
-Il me semblait que j'étais dans un vaisseau, sur une mer bien agitée ; et que...
+Avant que de passer plus avant, je voudrais bien agiter à fond cette matière ; et que l'on m'expliquât un Songe que j'ai fait cette Nuit, et qui vient tout à l'heure de me revenir dans l'esprit.
+Vous savez que les Songes sont comme des Miroirs, où l'on découvre quelquefois tout ce qui nous doit arriver.
+Il me semblait que j'étais dans un Vaisseau, sur une Mer bien agitée ; et que...
 
 -*who_geronimo
-Seigneur Sganarelle, j'ai maintenant quelque petite affaire qui m'empêche de vous ouïr.
-Je n'entends rien du tout aux songes ; et quant au raisonnement du mariage, vous avez deux savants ; deux philosophes vos voisins, qui sont gens à vous débiter tout ce qu'on peut dire sur ce sujet.
-Comme ils sont de sectes différentes, vous pouvez examiner leurs diverses opinions là-dessus.
-Pour moi, je me contente de ce que je vous ai dit tantôt ; et demeure votre serviteur.
+Seigneur Sganarelle, j'ai maintenant quelque petite affaire, qui m'empêche de vous ouïr.
+Je n'entends rien du tout aux Songes ; et quant au raisonnement du mariage, vous avez deux Savants ; deux Philosophes vos voisins, qui sont Gens à vous débiter tout ce qu'on peut dire sur ce sujet.
+Comme ils sont de Sectes différentes, vous pouvez examiner leurs diverses opinions là-dessus.
+Pour moi, je me contente de ce que je vous ai dit tantôt, et demeure votre Serviteur.
 
 -*who_sganarelle
 Il a raison.
-Il faut que je consulte un peu ces gens-là sur l'incertitude où je suis.
+Il faut que je consulte un peu ces Gens-là sur l'incertitude où je suis.
 
-**** *book_ *id_I04 *act_I *date_1664
+**** *book_ *id_I04 *act_I *date_1664 *creator_moliere
+
+
 
 -*who_pancrace
-Allez, vous êtes un impertinent, mon ami, un homme bannissable de la République des Lettres.
+Allez, vous êtes un impertinent, mon Ami ; un Homme bannissable de la République des Lettres.
 
 -*who_sganarelle
-Ah !
-Bon, en voici un fort à propos.
+Ah ! bon, en voici un fort à propos.
 
 -*who_pancrace
-Oui, je te soutiendrai par vives raisons, que tu es un ignorant, ignorantissime, ignorantifiant et ignorantifié par tous les cas, et modes imaginables.
+Oui, je te soutiendrai par vives raisons, que tu es un ignorant, ignorantissime, ignorantifiant, et ignorantifié par tous les cas, et modes imaginables.
 
 -*who_sganarelle
 Il a pris querelle contre quelqu'un.
@@ -374,14 +370,14 @@ La colère l'empêche de me voir.
 Seigneur...
 
 -*who_pancrace
-C'est une proposition condamnable dans toutes les Terres de la Philosophie.
+C'est une Proposition condamnable dans toutes les Terres de la Philosophie.
 
 -*who_sganarelle
 Il faut qu'on l'ait fort irrité.
 Je...
 
 -*who_pancrace
-Toto coelo, tota via aberras.
+Toto Cœlo, tota via aberras.
 
 -*who_sganarelle
 Je baise les mains à Monsieur le Docteur.
@@ -393,60 +389,59 @@ Serviteur.
 Peut-on...
 
 -*who_pancrace
-Sais-tu bien ce que tu as fait ?
-Un syllogisme in balordo.
+Sais-tu bien ce que tu as fait ? un Syllogisme in balordo.
 
 -*who_sganarelle
 Je vous...
 
 -*who_pancrace
-La majeure en est inepte, la mineure impertinente et la conclusion ridicule.
+La Majeure en est inepte, la Mineure impertinente, et la Conclusion ridicule.
 
 -*who_sganarelle
 Je...
 
 -*who_pancrace
-Je crèverais plutôt que d'avouer ce que tu dis ; et je soutiendrai mon opinion jusqu'à la dernière goutte de mon encre.
+Je crèverais plutôt que d'avouer ce que tu dis ; et je soutiendrai mon opinion jusqu'à la dernière goutte de mon Encre.
 
 -*who_sganarelle
 Puis-je...
 
 -*who_pancrace
-Oui, je défendrai cette proposition, pugnis et calcibus, unguibus et rostro.
+Oui, je défendrai cette Proposition, pugnis et calcibus, unguibus et rostro.
 
 -*who_sganarelle
-Seigneur Aristote, peut-on savoir ce qui vous met si fort en colère ?
+Seigneur Aristote, peut-on savoir ce qui vous met si fort en colère ?
 
 -*who_pancrace
-Un sujet le plus juste du monde.
+Un sujet le plus juste du Monde.
 
 -*who_sganarelle
-Et quoi encore ?
+Et quoi encore ?
 
 -*who_pancrace
-Un ignorant m'a voulu soutenir une proposition erronée ; une proposition épouvantable, effroyable, exécrable.
+Un Ignorant m'a voulu soutenir une Proposition erronée ; une Proposition épouvantable, effroyable, exécrable.
 
 -*who_sganarelle
-Puis-je demander ce que c'est ?
+Puis-je demander ce que c'est ?
 
 -*who_pancrace
-Ah !
-Seigneur Sganarelle, tout est renversé aujourd'hui ; et le monde est tombé dans une corruption générale.
-Une licence épouvantable règne partout ; et les magistrats, qui sont établis, pour maintenir l'ordre dans cet État, devraient rougir de honte, en souffrant un scandale aussi intolérable, que celui dont je veux parler.
+Ah !
+Seigneur Sganarelle, tout est renversé aujourd'hui ; et le Monde est tombé dans une corruption générale.
+Une licence épouvantable règne partout ; et les Magistrats, qui sont établis, pour maintenir l'ordre dans cet État, devraient rougir de honte, en souffrant un scandale aussi intolérable, que celui dont je veux parler.
 
 -*who_sganarelle
-Quoi donc ?
+Quoi donc ?
 
 -*who_pancrace
-N'est-ce pas une chose horrible ; une chose qui crie vengeance au Ciel, que d'endurer qu'on dise publiquement la forme d'un chapeau ?
+N'est-ce pas une chose horrible ; une chose qui crie vengeance au Ciel, que d'endurer qu'on dise publiquement la forme d'un Chapeau !
 
 -*who_sganarelle
-Comment ?
+Comment ?
 
 -*who_pancrace
-Je soutiens qu'il faut dire la figure d'un chapeau, et non pas la forme.
-D'autant qu'il y a cette différence entre la forme, et la figure ; que la forme est la disposition extérieure des corps qui sont animés, et la figure, la disposition extérieure des corps qui sont inanimés : et puisque le chapeau est un corps inanimé, il faut dire la figure d'un chapeau, et non pas la forme.
-Oui, ignorant que vous êtes, c'est comme il faut parler ; et ce sont les termes exprès d'Aristote dans le chapitre de la Qualité.
+Je soutiens qu'il faut dire la Figure d'un Chapeau, et non pas la Forme.
+D'autant qu'il y a cette différence entre la Forme, et la Figure ; que la Forme est la disposition extérieure des corps qui sont animés ; et la Figure, la disposition extérieure des corps qui sont inanimés : et puisque le Chapeau est un Corps inanimé, il faut dire la Figure d'un Chapeau, et non pas la Forme.
+Oui, Ignorant que vous êtes, c'est comme il faut parler ; et ce sont les termes exprès d'Aristote dans le Chapitre De la Qualité.
 
 -*who_sganarelle
 Je pensais que tout fût perdu.
@@ -457,302 +452,295 @@ Je...
 Je suis dans une colère, que je ne me sens pas.
 
 -*who_sganarelle
-Laissez la forme, et le chapeau en paix ; j'ai quelque chose à vous communiquer.
+Laissez la Forme, et le Chapeau en paix ; j'ai quelque chose à vous communiquer.
 Je...
 
 -*who_pancrace
-Impertinent fieffé !
+Impertinent fieffé.
 
 -*who_sganarelle
 De grâce, remettez-vous.
 Je...
 
 -*who_pancrace
-Ignorant !
+Ignorant.
 
 -*who_sganarelle
-Eh !
-Mon Dieu ?
+Eh ! mon Dieu.
 Je...
 
 -*who_pancrace
-Me vouloir soutenir une proposition de la sorte !
+Me vouloir soutenir une Proposition de la sorte ?
 
 -*who_sganarelle
 Il a tort.
 Je...
 
 -*who_pancrace
-Une proposition condamnée par Aristote !
+Une Proposition condamnée par Aristote ?
 
 -*who_sganarelle
 Cela est vrai.
 Je...
 
 -*who_pancrace
-En termes exprès ?
+En termes exprès ?
 
 -*who_sganarelle
 Vous avez raison.
-Oui, vous êtes un sot et un impudent, de vouloir disputer contre un docteur, qui sait lire, et écrire.
+Oui, vous êtes un Sot, et un Impudent, de vouloir disputer contre un Docteur, qui sait lire, et écrire.
 Voilà qui est fait, je vous prie de m'écouter.
-Je viens vous consulter sur une affaire qui m'embarrasse.
-J'ai dessein de prendre une femme, pour me tenir compagnie dans mon ménage.
-La personne est belle, et bien faite ; elle me plaît beaucoup, et est ravie de m'épouser.
-Son père me l'a accordée ; mais je crains un peu ce que vous savez, la disgrâce dont on ne plaint personne ; et je voudrais bien vous prier, comme philosophe, de me dire votre sentiment.
-Eh !
-Quel est votre avis là-dessus ?
+Je viens vous consulter sur une Affaire qui m'embarrasse.
+J'ai dessein de prendre une Femme, pour me tenir compagnie dans mon Ménage.
+La Personne est belle, et bien faite : elle me plaît beaucoup, et est ravie de m'épouser.
+Son Père me l'a accordée ; mais je crains un peu ce que vous savez, la disgrâce dont on ne plaint Personne ; et je voudrais bien vous prier, comme Philosophe, de me dire votre sentiment.
+Eh ! quel est votre avis là-dessus ?
 
 -*who_pancrace
-Plutôt que d'accorder qu'il faille dire la forme d'un chapeau, j'accorderais que datur vacuum in rerum natura, et que je ne suis qu'une bête.
+Plutôt que d'accorder qu'il faille dire la Forme d'un Chapeau, j'accorderais que datur vacuum in rerum natura, et que je ne suis qu'une bête.
 
 -*who_sganarelle
-La peste soit de l'homme.
-Eh !
-Monsieur le Docteur, écoutez un peu les gens.
-On vous parle une heure durant ; et vous ne répondez point à ce qu'on vous dit.
+La peste soit de l'Homme.
+Eh !
+Monsieur le Docteur, écoutez un peu les Gens.
+On vous parle une heure durant ; et vous ne répondez point à ce qu'on vous dit.
 
 -*who_pancrace
 Je vous demande pardon.
 Une juste colère m'occupe l'esprit.
 
 -*who_sganarelle
-Eh !
-Laissez tout cela ; et prenez la peine de m'écouter.
+Eh ! laissez tout cela ; et prenez la peine de m'écouter.
 
 -*who_pancrace
 Soit.
-Que voulez-vous me dire ?
+Que voulez-vous me dire ?
 
 -*who_sganarelle
 Je veux vous parler de quelque chose.
 
 -*who_pancrace
-Et de quelle langue voulez-vous vous servir avec moi ?
+Et de quelle Langue voulez-vous vous servir avec moi ?
 
 -*who_sganarelle
-De quelle langue ?
+De quelle langue ?
 
 -*who_pancrace
 Oui.
 
 -*who_sganarelle
-Parbleu !
-De la langue que j'ai dans la bouche ; je crois que je n'irai pas emprunter celle de mon voisin.
+Parbleu, de la langue que j'ai dans la bouche ; je crois que je n'irai pas emprunter celle de mon Voisin.
 
 -*who_pancrace
-Je vous dis de quel idiome ; de quel langage.
+Je vous dis de quel Idiome ; de quel Langage.
 
 -*who_sganarelle
-Ah !
-C'est une autre affaire.
+Ah ! c'est une autre affaire.
 
 -*who_pancrace
-Voulez-vous me parler italien ?
+Voulez-vous me parler Italien ?
 
 -*who_sganarelle
 Non.
 
 -*who_pancrace
-Espagnol ?
+Espagnol ?
 
 -*who_sganarelle
 Non.
 
 -*who_pancrace
-Allemand ?
+Allemand ?
 
 -*who_sganarelle
 Non.
 
 -*who_pancrace
-Anglais ?
+Anglais ?
 
 -*who_sganarelle
 Non.
 
 -*who_pancrace
-Latin ?
+Latin ?
 
 -*who_sganarelle
 Non.
 
 -*who_pancrace
-Grec ?
+Grec ?
 
 -*who_sganarelle
 Non.
 
 -*who_pancrace
-Hébreu ?
+Hébreu ?
 
 -*who_sganarelle
 Non.
 
 -*who_pancrace
-Syriaque ?
+Syriaque ?
 
 -*who_sganarelle
 Non.
 
 -*who_pancrace
-Turc ?
+Turc ?
 
 -*who_sganarelle
 Non.
 
 -*who_pancrace
-Arabe ?
+Arabe ?
 
 -*who_sganarelle
 Non, non, Français.
 
 -*who_pancrace
-Ah Français.
+Ah Français !
 
 -*who_sganarelle
 Fort bien.
 
 -*who_pancrace
-Passez donc de l'autre côté ; car cette oreille-ci est destinée pour les langues scientifiques et étrangères ; et l'autre est pour la maternelle.
+Passez donc de l'autre côté : car cette oreille-ci est destinée pour les Langues scientifiques, et étrangères, et l'autre est pour la maternelle.
 
 -*who_sganarelle
-Il faut bien des cérémonies avec ces sortes de gens-ci !
+Il faut bien des cérémonies avec ces sortes de Gens-ci !
 
 -*who_pancrace
-Que voulez-vous ?
+Que voulez-vous ?
 
 -*who_sganarelle
 Vous consulter sur une petite difficulté.
 
 -*who_pancrace
-Sur une difficulté de philosophie, sans doute ?
+Sur une difficulté de Philosophie, sans doute ?
 
 -*who_sganarelle
 Pardonnez-moi.
 Je...
 
 -*who_pancrace
-Vous voulez peut-être savoir, si la substance, et l'accident, sont termes synonymes, ou équivoques, à l'égard de l'Être ?
+Vous voulez peut-être savoir, si la substance, et l'accident, sont termes synonymes, ou équivoques, à l'égard de l'Être ?
 
 -*who_sganarelle
 Point du tout.
 Je...
 
 -*who_pancrace
-Si la logique est un art ou une science ?
+Si la logique est un Art, ou une Science ?
 
 -*who_sganarelle
 Ce n'est pas cela.
 Je...
 
 -*who_pancrace
-Si elle a pour objet les trois opérations de l'esprit, ou la troisième seulement ?
+Si elle a pour objet les trois opérations de l'Esprit, ou la troisième seulement ?
 
 -*who_sganarelle
 Non.
 Je...
 
 -*who_pancrace
-S'il y a dix catégories, ou s'il n'y en a qu'une ?
+S'il y a dix Catégories, ou s'il n'y en a qu'une ?
 
 -*who_sganarelle
 Point.
 Je...
 
 -*who_pancrace
-Si la conclusion est de l'essence du syllogisme ?
+Si la Conclusion est de l'essence du Syllogisme ?
 
 -*who_sganarelle
 Nenni.
 Je...
 
 -*who_pancrace
-Si l'essence du bien est mise dans l'appétibilité, ou dans la convenance ?
+Si l'essence du Bien est mise dans l'appétibilité, ou dans la convenance ?
 
 -*who_sganarelle
 Non.
 Je...
 
 -*who_pancrace
-Si le bien se réciproque avec la fin ?
+Si le Bien se réciproque avec la fin ?
 
 -*who_sganarelle
-Eh !
-Non.
+Eh ! non.
 Je...
 
 -*who_pancrace
-Si la fin nous peut émouvoir par son être réel, ou par son être intentionnel ?
+Si la Fin nous peut émouvoir par son Être réel, ou par son Être intentionnel ?
 
 -*who_sganarelle
 Non, non, non, non, non, de par tous les diables, non.
 
 -*who_pancrace
-Expliquez donc votre pensée, car je ne puis pas la deviner.
+Expliquez donc votre pensée : car je ne puis pas la deviner.
 
 -*who_sganarelle
-Je vous la veux expliquer aussi ; mais il faut m'écouter.
+Je vous la veux expliquer aussi : mais il faut m'écouter.
 
 -*who_sganarelle
-L'affaire que j'ai à vous dire, c'est que j'ai envie de me marier avec une fille, qui est jeune, et belle.
-Je l'aime fort, et l'ai demandée à son père ; mais comme j'appréhende...
+L'affaire que j'ai à vous dire, c'est que j'ai envie de me marier avec une Fille, qui est jeune, et belle.
+Je l'aime fort, et l'ai demandée à son Père : mais comme j'appréhende...
 
 -*who_pancrace
-La parole a été donnée à l'homme, pour expliquer sa pensée ; et tout ainsi que les pensées sont les portraits des choses, de même nos paroles sont-elles les portraits de nos pensées ; mais ces portraits diffèrent des autres portraits, en ce que les autres portraits sont distingués partout de leurs originaux, et que la parole enferme en soi son original, puisqu'elle n'est autre chose que la pensée, expliquée par un signe extérieur : d'où vient que ceux qui pensent bien, sont aussi ceux qui parlent le mieux.
-Expliquez-moi donc votre pensée par la parole, qui est le plus intelligible de tous les signes.
+La Parole a été donnée à l'Homme, pour expliquer sa Pensée ; et tout ainsi que les Pensées sont les Portraits des Choses, de même nos Paroles sont-elles les portraits de nos Pensées : mais ces Portraits diffèrent des autres Portraits, en ce que les autres portraits sont distingués partout de leurs Originaux, et que la Parole enferme en soi son Original, puisqu'elle n'est autre chose que la Pensée, expliquée par un Signe extérieur : d'où vient que ceux qui pensent bien, sont aussi ceux qui parlent le mieux.
+Expliquez-moi donc votre Pensée par la Parole, qui est le plus intelligible de tous les signes.
 
 -*who_sganarelle
-Au diable les savants, qui ne veulent point écouter les gens.
-On me l'avait bien dit, que son maître Aristote n'était rien qu'un bavard.
+Au Diable les Savants, qui ne veulent point écouter les Gens.
+On me l'avait bien dit, que son Maître Aristote n'était qu'un Bavard.
 Il faut que j'aille trouver l'autre ; il est plus posé, et plus raisonnable.
 Holà.
 
-**** *book_ *id_I05 *act_I *date_1664
+**** *book_ *id_I05 *act_I *date_1664 *creator_moliere
+
+
 
 -*who_marphurius
-Que voulez-vous de moi, Seigneur Sganarelle ?
+Que voulez-vous de moi, Seigneur Sganarelle ?
 
 -*who_sganarelle
-Seigneur Docteur, j'aurais besoin de votre conseil sur une petite affaire dont il s'agit ; et je suis venu ici pour cela.
-Ah !
-Voilà qui va bien.
-Il écoute le monde celui-ci.
+Seigneur Docteur, j'aurais besoin de votre Conseil sur une petite Affaire dont il s'agit ; et je suis venu ici pour cela.
+Ah ! voilà qui va bien.
+Il écoute le monde, celui-ci.
 
 -*who_marphurius
 Seigneur Sganarelle, changez, s'il vous plaît, cette façon de parler.
-Notre philosophie ordonne de ne point énoncer de proposition décisive ; de parler de tout avec incertitude ; de suspendre toujours son jugement : et par cette raison vous ne devez pas dire, je suis venu ; mais il me semble que je suis venu.
+Notre Philosophie ordonne de ne point énoncer de Proposition décisive ; de parler de tout avec incertitude ; de suspendre toujours son jugement : et par cette raison vous ne devez pas dire Je suis venu ; mais Il me semble que je suis venu.
 
 -*who_sganarelle
-Il me semble !
+Il me semble !
 
 -*who_marphurius
 Oui.
 
 -*who_sganarelle
-Parbleu ! il faut bien qu'il me le semble, puisque cela est.
+Parbleu, il faut bien qu'il me le semble, puisque cela est.
 
 -*who_marphurius
-Ce n'est pas une conséquence ; et il peut vous sembler, sans que la chose soit véritable.
+Ce n'est pas une conséquence ; et il peut vous sembler, sans que la chose soit véritable.
 
 -*who_sganarelle
-Comment, il n'est pas vrai que je suis venu ?
+Comment, il n'est pas vrai que je suis venu ?
 
 -*who_marphurius
-Cela est incertain ; et nous devons douter de tout.
+Cela est incertain ; et nous devons douter de tout.
 
 -*who_sganarelle
-Quoi !
-Je ne suis pas ici ; et vous ne me parlez pas ?
+Quoi ? je ne suis pas ici ; et vous ne me parlez pas ?
 
 -*who_marphurius
-Il m'apparaît que vous êtes là, et il me semble que je vous parle : mais il n'est pas assuré que cela soit.
+Il m'apparaît que vous êtes là, et il me semble que je vous parle : mais il n'est pas assuré que cela soit.
 
 -*who_sganarelle
-Eh !
-Que diable, vous vous moquez.
-Me voilà, et vous voilà bien nettement ; et il n'y a point de me semble à tout cela.
-Laissons ces subtilités, je vous prie, et parlons de mon affaire.
+Eh ! que Diable, vous vous moquez.
+Me voilà, et vous voilà bien nettement ; et il n'y a point de me semble à tout cela.
+Laissons ces subtilités je vous prie ; et parlons de mon Affaire.
 Je viens vous dire que j'ai envie de me marier.
 
 -*who_marphurius
@@ -765,28 +753,26 @@ Je vous le dis.
 Il se peut faire.
 
 -*who_sganarelle
-La fille, que je veux prendre, est fort jeune, et fort belle.
+La Fille, que je veux prendre, est fort jeune, et fort belle.
 
 -*who_marphurius
 Il n'est pas impossible.
 
 -*who_sganarelle
-Ferai-je bien, ou mal, de l'épouser ?
+Ferai-je bien, ou mal, de l'épouser ?
 
 -*who_marphurius
-L'un ou l'autre.
+L'un, ou l'autre.
 
 -*who_sganarelle
-Ah !
-Ah !
-Voici une autre musique.
-Je vous demande, si je ferai bien d'épouser la fille dont je vous parle.
+Ah ! ah ! voici une autre Musique.
+Je vous demande, si je ferai bien d'épouser la Fille dont je vous parle.
 
 -*who_marphurius
 Selon la rencontre.
 
 -*who_sganarelle
-Ferai-je mal ?
+Ferai-je mal ?
 
 -*who_marphurius
 Par aventure.
@@ -798,82 +784,79 @@ De grâce, répondez-moi, comme il faut.
 C'est mon dessein.
 
 -*who_sganarelle
-J'ai une grande inclination pour la fille.
+J'ai une grande inclination pour la Fille.
 
 -*who_marphurius
 Cela peut être.
 
 -*who_sganarelle
-Le père me l'a accordée.
+Le Père me l'a accordée.
 
 -*who_marphurius
 Il se pourrait.
 
 -*who_sganarelle
-Mais en l'épousant, je crains d'être cocu.
+Mais en l'épousant, je crains d'être Cocu.
 
 -*who_marphurius
 La chose est faisable.
 
 -*who_sganarelle
-Qu'en pensez-vous ?
+Qu'en pensez-vous ?
 
 -*who_marphurius
 Il n'y a pas d'impossibilité.
 
 -*who_sganarelle
-Mais que feriez-vous, si vous étiez en ma place ?
+Mais que feriez-vous, si vous étiez en ma place ?
 
 -*who_marphurius
 Je ne sais.
 
 -*who_sganarelle
-Que me conseillez-vous de faire ?
+Que me conseillez-vous de faire ?
 
 -*who_marphurius
 Ce qui vous plaira.
 
 -*who_sganarelle
-J'enrage.
+J'enrage !
 
 -*who_marphurius
 Je m'en lave les mains.
 
 -*who_sganarelle
-Au diable soit le vieux rêveur.
+Au Diable soit le vieux rêveur.
 
 -*who_marphurius
 Il en sera ce qui pourra.
 
 -*who_sganarelle
-La peste du bourreau.
-Je te ferai changer de note, chien de philosophe enragé.
+La peste du Bourreau.
+Je te ferai changer de note, chien de Philosophe enragé.
 
 -*who_marphurius
 Ah, ah, ah.
 
 -*who_sganarelle
-Te voilà payé de ton galimatias, et me voilà content.
+Te voilà payé de ton galimatias ; et me voilà content.
 
 -*who_marphurius
-Comment ?
-Quelle insolence !
-M'outrager de la sorte !
-Avoir eu l'audace de battre un philosophe comme moi !
+Comment ? quelle insolence ! m'outrager de la sorte !
+Avoir eu l'audace de battre un philosophe comme moi !
 
 -*who_sganarelle
 Corrigez, s'il vous plaît, cette manière de parler.
-Il faut douter de toutes choses, et vous ne devez pas dire que je vous ai battu ; mais qu'il vous semble que je vous ai battu.
+Il faut douter de toutes choses ; et vous ne devez pas dire que je vous ai battu ; mais qu'il vous semble que je vous ai battu.
 
 -*who_marphurius
-Ah !
-Je m'en vais faire ma plainte, au commissaire du quartier, des coups que j'ai reçus.
+Ah ! je m'en vais faire ma plainte, au Commissaire du Quartier, des coups que j'ai reçus.
 
 -*who_sganarelle
 Je m'en lave les mains.
 
 -*who_marphurius
-J'en ai les marques sur ma personne.
+J'en ai les marques sur ma Personne.
 
 -*who_sganarelle
 Il se peut faire.
@@ -885,13 +868,13 @@ C'est toi, qui m'as traité ainsi.
 Il n'y a pas d'impossibilité.
 
 -*who_marphurius
-J'aurai un décret contre toi.
+J'aurai un Décret contre toi.
 
 -*who_sganarelle
 Je n'en sais rien.
 
 -*who_marphurius
-Et tu seras condamné en justice.
+Et tu seras condamné en Justice.
 
 -*who_sganarelle
 Il en sera ce qui pourra.
@@ -900,170 +883,171 @@ Il en sera ce qui pourra.
 Laisse-moi faire.
 
 -*who_sganarelle
-Comment, on ne saurait tirer une parole positive de ce chien d'homme-là !
-Et l'on est aussi savant à la fin qu'au commencement !
-Que dois-je faire dans l'incertitude des suites de mon mariage ?
-Jamais homme ne fut plus embarrassé que je suis.
-Ah !
-Voici des Égyptiennes.
-Il faut que je me fasse dire par elles ma bonne aventure.
+Comment ? on ne saurait tirer une Parole positive de ce chien d'Homme-là ! et l'on est aussi savant à la fin, qu'au commencement !
+Que dois-je faire dans l'incertitude des suites de mon Mariage ?
+Jamais Homme ne fut plus embarrassé que je suis.
+Ah ! voici des Égyptiennes.
+Il faut que je me fasse dire par elles ma bonne Aventure.
 
-**** *book_ *id_I06 *act_I *date_1664
+**** *book_ *id_I06 *act_I *date_1664 *creator_moliere
+
+
 
 -*who_sganarelle
 Elles sont gaillardes.
-Écoutez, vous autres, y a-t-il moyen de me dire ma bonne fortune ?
+Écoutez, vous autres, y a-t-il moyen de me dire ma bonne fortune ?
 
--*who_premiereegyptienne
+-*who_egyptienne1
 Oui, mon bon Monsieur, nous voici deux qui te la diront.
 
--*who_deuxiemeegyptienne
-Tu n'as seulement qu'à nous donner ta main, avec la croix dedans ; et nous te dirons quelque chose pour ton bon profit.
+-*who_egyptienne2
+Tu n'as seulement qu'à nous donner ta main, avec la Croix dedans ; et nous te dirons quelque chose pour ton bon profit.
 
 -*who_sganarelle
 Tenez, les voilà toutes deux, avec ce que vous demandez.
 
--*who_premiereegyptienne
+-*who_egyptienne1
 Tu as une bonne physionomie, mon bon Monsieur, une bonne physionomie.
 
--*who_deuxiemeegyptienne
+-*who_egyptienne2
 Oui, bonne physionomie.
-Physionomie d'un homme qui sera un jour quelque chose.
+Physionomie d'un Homme qui sera un jour quelque chose.
 
--*who_premiereegyptienne
-Tu seras marié avant qu'il soit peu, mon bon Monsieur ; tu seras marié avant qu'il soit peu.
+-*who_egyptienne1
+Tu seras marié avant qu'il soit peu, mon bon Monsieur ; tu seras marié avant qu'il soit peu.
 
--*who_deuxiemeegyptienne
-Tu épouseras une femme gentille ; une femme gentille.
+-*who_egyptienne2
+Tu épouseras une Femme gentille ; une Femme gentille.
 
--*who_premiereegyptienne
-Oui, une femme qui sera chérie, et aimée de tout le monde.
+-*who_egyptienne1
+Oui, une Femme qui sera chérie, et aimée de tout le Monde.
 
--*who_deuxiemeegyptienne
-Une femme qui te fera beaucoup d'amis, mon bon Monsieur ; qui te fera beaucoup d'amis.
+-*who_egyptienne2
+Une Femme qui te fera beaucoup d'Amis, mon bon Monsieur ; qui te fera beaucoup d'Amis.
 
--*who_premiereegyptienne
+-*who_egyptienne1
 Une femme qui fera venir l'abondance chez toi.
 
--*who_deuxiemeegyptienne
+-*who_egyptienne2
 Une femme qui te donnera une grande réputation.
 
--*who_premiereegyptienne
-Tu seras considéré par elle, mon bon Monsieur ; tu seras considéré par elle.
+-*who_egyptienne1
+Tu seras considéré par elle, mon bon Monsieur ; tu seras considéré par elle.
 
 -*who_sganarelle
-Voilà qui est bien : mais, dites-moi un peu, suis-je menacé d'être cocu ?
+Voilà qui est bien : mais, dites-moi un peu, suis-je menacé d'être Cocu ?
 
--*who_deuxiemeegyptienne
-Cocu ?
+-*who_egyptienne2
+Cocu !
 
 -*who_sganarelle
 Oui.
 
--*who_premiereegyptienne
-Cocu ?
+-*who_egyptienne1
+Cocu ?
 
 -*who_sganarelle
-Oui, si je suis menacé d'être cocu ?
+Oui, si je suis menacé d'être Cocu ?
 
--*who_lesdeuxegyptiennes
+-*who_egyptienne1_egyptienne2
 La, la, la, la...
 
 -*who_sganarelle
-Que diable, ce n'est pas là me répondre.
+Que Diable, ce n'est pas là me répondre.
 Venez çà.
-Je vous demande à toutes deux, si je serai cocu.
+Je vous demande à toutes deux, si je serai Cocu ?
 
--*who_deuxiemeegyptienne
-Cocu, vous ?
-
--*who_sganarelle
-Oui, si je serai cocu ?
-
--*who_premiereegyptienne
-Vous, cocu ?
+-*who_egyptienne2
+Cocu, vous ?
 
 -*who_sganarelle
-Oui, si je le serai, ou non ?
+Oui, si je serai cocu ?
 
--*who_lesdeuxegyptiennes
+-*who_egyptienne1
+Vous, Cocu ?
+
+-*who_sganarelle
+Oui, si je le serai, ou non ?
+
+-*who_egyptienne1_egyptienne2
 La, la, la, la...
 
 -*who_sganarelle
-Peste soit des carognes, qui me laissent dans l'inquiétude !
-Il faut absolument que je sache la destinée de mon mariage : et pour cela, je veux aller trouver ce grand magicien, dont tout le monde parle tant, et qui par son art admirable, fait voir tout ce que l'on souhaite.
-Ma foi, je crois que je n'ai que faire d'aller au magicien, et voici qui me montre tout ce que je puis demander.
+Peste soit des Carognes, qui me laissent dans l'inquiétude !
+Il faut absolument que je sache la destinée de mon Mariage : et pour cela, je veux aller trouver ce grand Magicien, dont tout le monde parle tant, et qui par son art admirable fait voir tout ce que l'on souhaite.
+Ma foi, je crois que je n'ai que faire d'aller au Magicien, et voici qui me montre tout ce que je puis demander.
 
-**** *book_ *id_I07 *act_I *date_1664
+**** *book_ *id_I07 *act_I *date_1664 *creator_moliere
+
+
 
 -*who_lycaste
-Quoi, Belle Dorimène, c'est sans raillerie que vous parlez ?
+Quoi ? belle Dorimène, c'est sans raillerie que vous parlez ?
 
 -*who_dorimene
 Sans raillerie.
 
 -*who_lycaste
-Vous vous mariez tout de bon ?
+Vous vous mariez tout de bon ?
 
 -*who_dorimene
 Tout de bon.
 
 -*who_lycaste
-Et vos noces se feront dès ce soir ?
+Et vos Noces se feront dès ce soir ?
 
 -*who_dorimene
 Dès ce soir.
 
 -*who_lycaste
-Et vous pouvez, cruelle que vous êtes, oublier de la sorte l'amour que j'ai pour vous ; et les obligeantes paroles que vous m'aviez données ?
+Et vous pouvez, Cruelle que vous êtes, oublier de la sorte l'amour que j'ai pour vous ; et les obligeantes paroles que vous m'aviez données ?
 
 -*who_dorimene
-Moi ?
-Point du tout.
-Je vous considère toujours de même ; et ce mariage ne doit point vous inquiéter.
-C'est un homme que je n'épouse point par amour ; et sa seule richesse me fait résoudre à l'accepter.
+Moi, point du tout.
+Je vous considère toujours de même ; et ce Mariage ne doit point vous inquiéter.
+C'est un Homme que je n'épouse point par amour ; et sa seule richesse me fait résoudre à l'accepter.
 Je n'ai point de bien.
-Vous n'en avez point aussi ; et vous savez que sans cela on passe mal le temps au monde ; qu'à quelque prix que ce soit, il faut tâcher d'en avoir.
-J'ai embrassé cette occasion-ci de me mettre à mon aise ; et je l'ai fait sur l'espérance de me voir bientôt délivrée du barbon que je prends.
-C'est un homme qui mourra avant qu'il soit peu ; et qui n'a tout au plus que six mois dans le ventre.
-Je vous le garantis défunt dans le temps que je dis ; et je n'aurai pas longuement à demander pour moi au Ciel l'heureux état de veuve.
-Ah !
-Nous parlions de vous, et nous en disions tout le bien qu'on en saurait dire.
+Vous n'en avez point aussi ; et vous savez que sans cela on passe mal le temps au Monde ; et qu'à quelque prix que ce soit, il faut tâcher d'en avoir.
+J'ai embrassé cette occasion-ci de me mettre à mon aise ; et je l'ai fait sur l'espérance de me voir bientôt délivrée du Barbon, que je prends.
+C'est un Homme qui mourra avant qu'il soit peu ; et qui n'a tout au plus que six mois dans le ventre.
+Je vous le garantis défunt dans le temps que je dis ; et je n'aurai pas longuement à demander pour moi au Ciel, l'heureux état de Veuve.
+Ah ! nous parlions de vous, et nous en disions tout le bien qu'on en saurait dire.
 
 -*who_lycaste
-Est-ce là, Monsieur... ?
+Est-ce là Monsieur... ?
 
 -*who_dorimene
-Oui, c'est Monsieur, qui me prend pour femme.
+Oui, c'est Monsieur, qui me prend pour Femme.
 
 -*who_lycaste
-Agréez, Monsieur, que je vous félicite de votre mariage, et vous présente en même temps mes très humbles services.
-Je vous assure que vous épousez là une très honnête personne.
+Agréez, Monsieur, que je vous félicite de votre Mariage, et vous présente en même temps mes très humbles services.
+Je vous assure que vous épousez là une très honnête Personne.
 Et vous, Mademoiselle, je me réjouis avec vous aussi de l'heureux choix que vous avez fait.
-Vous ne pouviez pas mieux trouver ; et Monsieur a toute la mine d'être un fort bon mari.
+Vous ne pouviez pas mieux trouver ; et Monsieur a toute la mine d'être un fort bon Mari.
 Oui, Monsieur, je veux faire amitié avec vous ; et lier ensemble un petit commerce de visites et de divertissements.
 
 -*who_dorimene
 C'est trop d'honneur que vous nous faites à tous deux.
-Mais allons, le temps me presse ; et nous aurons tout le loisir de nous entretenir ensemble.
+Mais allons, le temps me presse ; et nous aurons tout le loisir de nous entretenir ensemble.
 
 -*who_sganarelle
-Me voilà tout à fait dégoûté de mon mariage ; et je crois que je ne ferai pas mal de m'aller dégager de ma parole.
-Il m'en a coûté quelque argent : mais il vaut mieux encore perdre cela que de m'exposer à quelque chose de pis.
+Me voilà tout à fait dégoûté de mon Mariage ; et je crois que je ne ferai pas mal de m'aller dégager de ma Parole.
+Il m'en a coûté quelque argent : mais il vaut mieux encore perdre cela, que de m'exposer à quelque chose de pis.
 Tâchons adroitement de nous débarrasser de cette affaire.
 Holà.
 
-**** *book_ *id_I08 *act_I *date_1664
+**** *book_ *id_I08 *act_I *date_1664 *creator_moliere
+
+
 
 -*who_alcantor
-Ah !
-Mon gendre, soyez le bienvenu.
+Ah ! mon Gendre, soyez le bienvenu !
 
 -*who_sganarelle
 Monsieur, votre serviteur.
 
 -*who_alcantor
-Vous venez pour conclure le mariage ?
+Vous venez pour conclure le Mariage ?
 
 -*who_sganarelle
 Excusez-moi.
@@ -1072,214 +1056,215 @@ Excusez-moi.
 Je vous promets que j'en ai autant d'impatience que vous.
 
 -*who_sganarelle
-Je viens ici pour autre sujet.
+Je viens ici pour un autre sujet.
 
 -*who_alcantor
-J'ai donné ordre à toutes les choses nécessaires pour cette fête.
+J'ai donné ordre à toutes les choses nécessaires pour cette Fête.
 
 -*who_sganarelle
 Il n'est pas question de cela.
 
 -*who_alcantor
-Les violons sont retenus ; le festin est commandé ; et ma fille est parée pour vous recevoir.
+Les Violons sont retenus ; le Festin est commandé ; et ma Fille est parée, pour vous recevoir.
 
 -*who_sganarelle
 Ce n'est pas ce qui m'amène.
 
 -*who_alcantor
-Enfin vous allez être satisfait ; et rien ne peut retarder votre contentement.
+Enfin vous allez être satisfait ; et rien ne peut retarder votre contentement.
 
 -*who_sganarelle
 Mon Dieu, c'est autre chose.
 
 -*who_alcantor
-Allons, entrez donc, mon gendre.
+Allons, entrez donc, mon Gendre.
 
 -*who_sganarelle
 J'ai un petit mot à vous dire.
 
 -*who_alcantor
-Ah !
-Mon Dieu, ne faisons point de cérémonie : entrez vite, s'il vous plaît.
+Ah ! mon Dieu, ne faisons point de cérémonie : entrez vite, s'il vous plaît.
 
 -*who_sganarelle
 Non, vous dis-je.
 Je vous veux parler auparavant.
 
 -*who_alcantor
-Vous voulez me dire quelque chose ?
+Vous voulez me dire quelque chose ?
 
 -*who_sganarelle
 Oui.
 
 -*who_alcantor
-Et quoi ?
+Et quoi ?
 
 -*who_sganarelle
-Seigneur Alcantor, j'ai demandé votre fille en mariage, il est vrai ; et vous me l'avez accordée : mais je me trouve un peu avancé en âge pour elle ; et je considère que je ne suis point du tout son fait.
+Seigneur Alcantor, j'ai demandé votre fille en mariage, il est vrai ; et vous me l'avez accordée : mais je me trouve un peu avancé en âge pour elle ; et je considère que je ne suis point du tout son fait.
 
 -*who_alcantor
 Pardonnez-moi.
-Ma fille vous trouve bien comme vous êtes ; et je suis sûr qu'elle vivra fort contente avec vous.
+Ma Fille vous trouve bien, comme vous êtes ; et je suis sûr qu'elle vivra fort contente avec vous.
 
 -*who_sganarelle
-Point ; j'ai parfois des bizarreries épouvantables ; et elle aurait trop à souffrir de ma mauvaise humeur.
+Point ; j'ai parfois des bizarreries épouvantables ; et elle aurait trop à souffrir de ma mauvaise humeur.
 
 -*who_alcantor
-Ma fille a de la complaisance ; et vous verrez qu'elle s'accommodera entièrement à vous.
+Ma Fille a de la complaisance ; et vous verrez qu'elle s'accommodera entièrement à vous.
 
 -*who_sganarelle
-J'ai quelques infirmités sur mon corps, qui pourraient la dégoûter.
+J'ai quelques infirmités sur mon Corps, qui pourraient la dégoûter.
 
 -*who_alcantor
 Cela n'est rien.
-Une honnête femme ne se dégoûte jamais de son mari.
+Une honnête Femme ne se dégoûte jamais de son Mari.
 
 -*who_sganarelle
 Enfin voulez-vous que je vous dise, je ne vous conseille pas de me la donner.
 
 -*who_alcantor
-Vous moquez-vous ?
-J'aimerais mieux mourir que d'avoir manqué à ma parole.
+Vous moquez-vous ?
+J'aimerais mieux mourir, que d'avoir manqué à ma parole.
 
 -*who_sganarelle
 Mon Dieu, je vous en dispense, et je...
 
 -*who_alcantor
 Point du tout.
-Je vous l'ai promise ; et vous l'aurez en dépit de tous ceux qui y prétendent.
+Je vous l'ai promise ; et vous l'aurez en dépit de tous ceux qui y prétendent.
 
 -*who_sganarelle
-Que diable !
+Que diable !
 
 -*who_alcantor
-Voyez-vous, j'ai une estime, et une amitié pour vous toute particulière ; et je refuserais ma fille à un Prince pour vous la donner.
+Voyez-vous, j'ai une estime, et une amitié pour vous, toute particulière ; et je refuserais ma Fille à un Prince, pour vous la donner.
 
 -*who_sganarelle
-Seigneur Alcantor, je vous suis obligé de l'honneur que vous me faites ; mais je vous déclare que je ne me veux point marier.
+Seigneur Alcantor, je vous suis obligé de l'honneur que vous me faites ; mais je vous déclare que je ne me veux point marier.
 
 -*who_alcantor
-Qui, vous ?
+Qui, vous ?
 
 -*who_sganarelle
 Oui, moi.
 
 -*who_alcantor
-Et la raison ?
+Et la raison ?
 
 -*who_sganarelle
-La raison ; c'est que je ne me sens point propre pour le mariage ; et que je veux imiter mon père, et tous ceux de ma race, qui ne se sont jamais voulu marier.
+La raison ; c'est que je ne me sens point propre pour le Mariage ; et que je veux imiter mon Père, et tous ceux de ma Race, qui ne se sont jamais voulu marier.
 
 -*who_alcantor
-Écoutez, les volontés sont libres ; et je suis homme à ne contraindre jamais personne.
-Vous vous êtes engagé avec moi, pour épouser ma fille ; et tout est préparé pour cela.
-Mais puisque vous voulez retirer votre parole, je vais voir ce qu'il y a à faire ; et vous aurez bientôt de mes nouvelles.
+Écoutez, les volontés sont libres ; et je suis Homme à ne contraindre jamais Personne.
+Vous vous êtes engagé avec moi, pour épouser ma Fille ; et tout est préparé pour cela.
+Mais puisque vous voulez retirer votre Parole, je vais voir ce qu'il y a à faire ; et vous aurez bientôt de mes nouvelles.
 
 -*who_sganarelle
-Encore est-il plus raisonnable que je ne pensais ; et je croyais avoir bien plus de peine à m'en dégager.
-Ma foi, quand j'y songe, j'ai fait fort sagement, de me tirer de cette affaire ; et j'allais faire un pas, dont je me serais peut-être longtemps repenti.
-Mais voici le fils qui me vient rendre réponse.
+Encore est-il plus raisonnable que je ne pensais ; et je croyais avoir bien plus de peine à m'en dégager.
+Ma foi, quand j'y songe, j'ai fait fort sagement, de me tirer de cette Affaire ; et j'allais faire un pas, dont je me serais peut-être longtemps repenti.
+Mais voici le Fils qui me vient rendre réponse.
 
-**** *book_ *id_I09 *act_I *date_1664
+**** *book_ *id_I09 *act_I *date_1664 *creator_moliere
+
+
 
 -*who_alcidas
 Monsieur, je suis votre serviteur très humble.
 
 -*who_sganarelle
-Monsieur, je suis le vôtre de tout mon coeur.
+Monsieur, je suis le vôtre de tout mon cœur.
 
 -*who_alcidas
-Mon père m'a dit, Monsieur, que vous vous étiez venu dégager de la parole que vous aviez donnée.
+Mon Père, m'a dit, Monsieur, que vous vous étiez venu dégager de la Parole que vous aviez donnée.
 
 -*who_sganarelle
-Oui, Monsieur, c'est avec regret : mais...
+Oui, Monsieur, c'est avec regret : mais...
 
 -*who_alcidas
-Oh !
+Oh !
 Monsieur, il n'y a pas de mal à cela.
 
 -*who_sganarelle
-J'en suis fâché, je vous assure ; et je souhaiterais...
+J'en suis fâché, je vous assure ; et je souhaiterais...
 
 -*who_alcidas
 Cela n'est rien, vous dis-je.
-Monsieur, prenez la peine de choisir de ces deux épées, laquelle vous voulez.
+Monsieur, prenez la peine de choisir de ces deux Épées, laquelle vous voulez.
 
 -*who_sganarelle
-De ces deux épées ?
+De ces deux Épées ?
 
 -*who_alcidas
 Oui, s'il vous plaît.
 
 -*who_sganarelle
-À quoi bon ?
+À quoi bon ?
 
 -*who_alcidas
-Monsieur, comme vous refusez d'épouser ma soeur après la parole donnée ; je crois que vous ne trouverez pas mauvais le petit compliment, que je viens vous faire.
+Monsieur, comme vous refusez d'épouser ma Sœur, après la Parole donnée ; je crois que vous ne trouverez pas mauvais le petit Compliment, que je viens vous faire.
 
 -*who_sganarelle
-Comment ?
+Comment ?
 
 -*who_alcidas
-D'autres gens feraient du bruit, et s'emporteraient contre vous : mais nous sommes personnes à traiter les choses dans la douceur ; et je viens vous dire civilement qu'il faut, si vous le trouvez bon, que nous nous coupions la gorge ensemble.
+D'autres Gens feraient du bruit, et s'emporteraient contre vous : mais nous sommes Personnes à traiter les choses dans la douceur ; et je viens vous dire civilement, qu'il faut, si vous le trouvez bon, que nous nous coupions la gorge ensemble.
 
 -*who_sganarelle
-Voilà un compliment fort mal tourné.
+Voilà un Compliment fort mal tourné.
 
 -*who_alcidas
 Allons, Monsieur, choisissez, je vous prie.
 
 -*who_sganarelle
-Je suis votre valet : je n'ai point de gorge à me couper.
-La vilaine façon de parler que voilà !
+Je suis votre Valet : je n'ai point de gorge à me couper.
+La vilaine façon de parler que voilà !
 
 -*who_alcidas
 Monsieur, il faut que cela soit, s'il vous plaît.
 
 -*who_sganarelle
-Eh !
-Monsieur, rengainez ce compliment, je vous prie.
+Eh !
+Monsieur, rengainez ce Compliment, je vous prie.
 
 -*who_alcidas
 Dépêchons vite, Monsieur.
-J'ai une petite affaire qui m'attend.
+J'ai une petite Affaire qui m'attend.
 
 -*who_sganarelle
 Je ne veux point de cela, vous dis-je.
 
 -*who_alcidas
-Vous ne voulez pas vous battre ?
+Vous ne voulez pas vous battre ?
 
 -*who_sganarelle
 Nenni, ma foi.
 
 -*who_alcidas
-Tout de bon ?
+Tout de bon ?
 
 -*who_sganarelle
 Tout de bon.
 
 -*who_alcidas
-Au moins, Monsieur, vous n'avez pas lieu de vous plaindre ; et vous voyez que je fais les choses dans l'ordre.
-Vous nous manquez de parole, je me veux battre contre vous ; vous refusez de vous battre : je vous donne des coups de bâton, tout cela est dans les formes ; et vous êtes trop honnête homme pour ne pas approuver mon procédé.
+Au moins, Monsieur, vous n'avez pas lieu de vous plaindre ; et vous voyez que je fais les choses dans l'ordre.
+Vous nous manquez de Parole : Je me veux battre contre vous, vous refusez de vous battre : je vous donne des coups de Bâton, tout cela est dans les formes ; et vous êtes trop honnête Homme, pour ne pas approuver mon procédé.
 
 -*who_sganarelle
-Quel diable d'homme est-ce ci ?
+Quel Diable d'Homme est-ce ci ?
 
 -*who_alcidas
 Allons, Monsieur, faites les choses galamment, et sans vous faire tirer l'oreille.
 
 -*who_sganarelle
-Encore ?
+Encore !
 
 -*who_alcidas
-Monsieur, je ne contrains personne ; mais il faut que vous vous battiez, ou que vous épousiez ma soeur.
+Monsieur, je ne contrains Personne ; mais il faut que vous vous battiez, ou que vous épousiez ma Sœur.
 
 -*who_sganarelle
-Monsieur, je ne puis faire ni l'un ni l'autre, je vous assure.
+Monsieur, je ne puis faire ni l'un, ni l'autre, je vous assure.
 
 -*who_alcidas
-Assurément ?
+Assurément ?
 
 -*who_sganarelle
 Assurément.
@@ -1291,24 +1276,25 @@ Avec votre permission donc...
 Ah, ah, ah, ah.
 
 -*who_alcidas
-Monsieur, j'ai tous les regrets du monde d'être obligé d'en user ainsi avec vous ; mais je ne cesserai point, s'il vous plaît, que vous n'ayez promis de vous battre, ou d'épouser ma soeur.
+Monsieur, j'ai tous les regrets du monde d'être obligé d'en user ainsi avec vous ; mais je ne cesserai point, s'il vous plaît, que vous n'ayez promis de vous battre, ou d'épouser ma Sœur.
 
 -*who_sganarelle
-Hé bien, j'épouserai, j'épouserai...
+Hé bien ! j'épouserai, j'épouserai...
 
 -*who_alcidas
-Ah !
-Monsieur, je suis ravi que vous vous mettiez à la raison ; et que les choses se passent doucement : car enfin vous êtes l'homme du monde, que j'estime le plus, je vous jure ; et j'aurais été au désespoir, que vous m'eussiez contraint à vous maltraiter.
-Je vais appeler mon père, pour lui dire que tout est d'accord.
+Ah !
+Monsieur, je suis ravi que vous vous mettiez à la raison ; et que les choses se passent doucement : car enfin vous êtes l'Homme du Monde que j'estime le plus, je vous jure ; et j'aurais été au désespoir que vous m'eussiez contraint à vous maltraiter.
+Je vais appeler mon Père, pour lui dire que tout est d'accord.
 
-**** *book_ *id_I10 *act_I *date_1664
+**** *book_ *id_I10 *act_I *date_1664 *creator_moliere
+
+
 
 -*who_alcidas
-Mon père, voilà Monsieur, qui est tout à fait raisonnable.
-Il a voulu faire les choses de bonne grâce ; et vous pouvez lui donner ma soeur.
+Mon Père, voilà Monsieur, qui est tout à fait raisonnable.
+Il a voulu faire les choses de bonne grâce ; et vous pouvez lui donner ma Sœur.
 
 -*who_alcantor
-Monsieur, voilà sa main ; vous n'avez qu'à donner la vôtre.
-Loué soit le Ciel !
-M'en voilà déchargé, et c'est vous désormais que regarde le soin de sa conduite.
-Allons nous réjouir, et célébrer cet heureux mariage.
+Monsieur, voilà sa main : vous n'avez qu'à donner la vôtre.
+Loué soit le Ciel ! m'en voilà déchargé ; et c'est vous désormais que regarde le soin de sa conduite.
+Allons nous réjouir, et célébrer cet heureux Mariage.

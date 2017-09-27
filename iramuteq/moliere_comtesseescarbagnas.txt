@@ -1,333 +1,314 @@
 
 
-**** *book_ *id_I01 *act_I *date_1671
+**** *book_ *id_I01 *act_I *date_1672 *creator_moliere
 
--*who_levicomte
-Hé quoi ?
-Madame, vous êtes déjà ici ?
+-*who_le_vicomte
+Hé, quoi Madame, vous êtes déjà ici ?
 
 -*who_julie
-Oui, vous en devriez rougir, Cléante, et il n'est guère honnête à un amant de venir le dernier au rendez-vous.
+Oui, vous en devriez rougir, Cléante, et il n'est guère honnête à un Amant de venir le dernier au rendez-vous.
 
--*who_levicomte
-Je serais ici il y a une heure, s'il n'y avait point de fâcheux au monde, et j'ai été arrêté, en chemin, par un vieux importun de qualité, qui m'a demandé tout exprès des nouvelles de la cour, pour trouver moyen de m'en dire des plus extravagantes qu'on puisse débiter ; et c'est là, comme vous savez, le fléau des petites villes, que ces grands nouvellistes qui cherchent partout où répandre les contes qu'ils ramassent.
+-*who_le_vicomte
+Je serais ici il y a une heure, s'il n'y avait point de fâcheux au monde, et j'ai été arrêté en chemin par un vieux importun de qualité, qui m'a demandé tout exprès des nouvelles de la Cour, pour trouver moyen de m'en dire des plus extravagantes qu'on puisse débiter, et c'est là, comme vous savez, le fléau des petites Villes, que ces grands Nouvellistes qui cherchent partout où répandre les contes qu'ils ramassent.
 Celui-ci m'a montré d'abord deux feuilles de papier, pleines jusques aux bords d'un grand fatras de balivernes, qui viennent, m'a-t-il dit, de l'endroit le plus sûr du monde.
-Ensuite, comme d'une chose fort curieuse, il m'a fait, avec grand mystère, une fatigante lecture de toutes les sottises de la Gazette de Hollande, et de là s'est jeté, à corps perdu, dans le raisonnement du Ministère, d'où j'ai cru qu'il ne sortirait point.
+Ensuite, comme d'une chose fort curieuse, il m'a fait, avec grand mystère, une fatigante lecture de toutes les méchantes plaisanteries de la Gazette de Hollande, dont il épouse les intérêts.
+Il tient que la France est battue en ruine par la plume de cet Écrivain, et qu'il ne faut que ce bel esprit pour défaire toutes nos Troupes; et de là s'est jeté à corps perdu dans la raisonnement du Ministère, dont il remarque tous les défauts, et d'où j'ai cru qu'il ne sortirait point.
 À l'entendre parler, il sait les secrets du Cabinet mieux que ceux qui les font.
-La politique de l'État lui laisse voir tous ses desseins, et elle ne fait pas un pas dont il ne pénètre les intentions.
-Il nous apprend les ressorts cachés de tout ce qui se fait, nous découvre les vues de la prudence de nos voisins, et remue, à sa fantaisie, toutes les affaires de l'Europe.
-Ses intelligences même s'étendent jusques en Afrique, et en Asie, et il est informé de tout ce qui s'agite dans le Conseil d'en haut du Prête-Jean et du Grand Mogol.
+La politique de l'État lui laisse voir tous ses desseins, et elle ne fait pas un pas, dont il ne pénètre les intentions.
+Il nous apprend les ressorts cachés de tout ce qui se fait, nous découvre les vues de la prudence de nos voisins, et remue à sa fantaisie toutes les affaires de l'Europe.
+Ses intelligences même s'étendent jusques en Afrique, et en Asie; et il est informé de tout ce qui s'agite dans le Conseil d'en haut, du Prêtre-Jean, et du grand Mogol.
 
 -*who_julie
 Vous parez votre excuse du mieux que vous pouvez, afin de la rendre agréable, et faire qu'elle soit plus aisément reçue.
 
--*who_levicomte
-C'est là, belle Julie, la véritable cause de mon retardement ; et si je voulais y donner une excuse galante, je n'aurais qu'à vous dire que le rendez-vous que vous voulez prendre peut autoriser la paresse dont vous me querellez ; que m'engager à faire l'amant de la maîtresse du logis, c'est me mettre en état de craindre de me trouver ici le premier ; que cette feinte où je me force n'étant que pour vous plaire, j'ai lieu de ne vouloir en souffrir la contrainte que devant les yeux qui s'en divertissent ; que j'évite le tête-à-tête avec cette comtesse ridicule dont vous m'embarrassez ; et, en un mot, que ne venant ici que pour vous, j'ai toutes les raisons du monde d'attendre que vous y soyez.
+-*who_le_vicomte
+C'est là, belle Julie, la véritable cause de mon retardement, et si je voulais y donner une excuse galante, je n'aurais qu'à vous dire, que le rendez-vous que vous voulez prendre peut autoriser la paresse dont vous me querellez.
+Que m'engager à faire l'Amant de la Maîtresse du logis, c'est me mettre en état de craindre de me trouver ici le premier.
+Que cette feinte où je me force n'étant que pour vous plaire, j'ai lieu de ne vouloir en souffrir la contrainte, que devant les yeux qui s'en divertissent.
+Que j'évite le tête-à-tête avec cette Comtesse ridicule, dont vous m'embarrassez, et en un mot que ne venant ici que pour vous, j'ai toutes les raisons du monde d'attendre que vous y soyez.
 
 -*who_julie
-Nous savons bien que vous ne manquerez jamais d'esprit pour donner de belles couleurs aux fautes que vous pourrez faire.
-Cependant, si vous étiez venu une demi-heure plus tôt, nous aurions profité de tous ces moments ; car j'ai trouvé, en arrivant, que la comtesse était sortie, et je ne doute point qu'elle ne soit allée par la ville se faire honneur de la comédie que vous me donnez sous son nom.
+Nous savons bien que vous ne manquerez jamais d'esprit, pour donner de belles couleurs aux fautes que vous pourrez faire.
+Cependant si vous étiez venu une demie-heure plus tôt, nous aurions profité de tous ces moments, car j'ai trouvé en arrivant que la Comtesse était sortie, et je ne doute point qu'elle ne soit allée par la Ville, se faire honneur de la Comédie, que vous me donnez sous son nom.
 
--*who_levicomte
-Mais tout de bon, Madame, quand voulez-vous mettre fin à cette contrainte, et me faire moins acheter le bonheur de vous voir ?
-
--*who_julie
-Quand nos parents pourront être d'accord, ce que je n'ose espérer.
-Vous savez, comme moi, que les démêlés de nos deux familles ne nous permettent point de nous voir autre part, et que mes frères, non plus que votre père, ne sont pas assez raisonnables pour souffrir notre attachement.
-
--*who_levicomte
-Mais pourquoi ne pas mieux jouir du rendez-vous que leur inimitié nous laisse, et me contraindre à perdre en une sotte feinte les moments que j'ai près de vous ?
+-*who_le_vicomte
+Mais tout de bon, Madame, quand voulez-vous mettre fin à cette contrainte, et me faire moins acheter le bonheur de vous voir ?
 
 -*who_julie
-Pour mieux cacher notre amour ; et puis, à vous dire la vérité, cette feinte dont vous parlez m'est une comédie fort agréable, et je ne sais si celle que vous nous donnez aujourd'hui me divertira davantage.
-Notre comtesse d'Escarbagnas, avec son perpétuel entêtement de qualité, est un aussi bon personnage qu'on en puisse mettre sur le théâtre.
-Le petit voyage qu'elle a fait à Paris l'a ramenée dans Angoulême plus achevée qu'elle n'était.
+Quand nos Parents pourront être d'accord, ce que je n'ose espérer.
+Vous savez comme moi que les démêlés de nos deux familles, ne nous permettent point de nous voir autre part, et que mes Frères, non plus que votre Père, ne sont pas assez raisonnables pour souffrir notre attachement.
+
+-*who_le_vicomte
+Mais pourquoi ne pas mieux jouir du rendez-vous que leur inimitié nous laisse, et me contraindre à perdre en une sotte feinte, les moments que j'ai près de vous ?
+
+-*who_julie
+Pour mieux cacher notre amour ; et puis, à vous dire la vérité, cette feinte dont vous parlez m'est une Comédie fort agréable, et je ne sais si celle que vous nous donnez aujourd'hui me divertira davantage.
+Notre Comtesse d'Escarbagnas, avec son perpétuel entêtement de qualité, est un aussi bon personnage qu'on en puisse mettre sur le Théâtre.
+Le petit voyage qu'elle a fait à Paris, l'a ramenée dans Angoulême, plus achevée qu'elle n'était.
 L'approche de l'air de la Cour a donné à son ridicule de nouveaux agréments, et sa sottise tous les jours ne fait que croître et embellir.
 
--*who_levicomte
-Oui ; mais vous ne considérez pas que le jeu qui vous divertit tient mon coeur au supplice, et qu'on n'est point capable de se jouer longtemps, lorsqu'on a dans l'esprit une passion aussi sérieuse que celle que je sens pour vous.
-Il est cruel, belle Julie, que cet amusement dérobe à mon amour un temps qu'il voudrait employer à vous expliquer son ardeur ; et, cette nuit, j'ai fait là-dessus quelques vers, que je ne puis m'empêcher de vous réciter, sans que vous me le demandiez, tant la démangeaison de dire ses ouvrages est un vice attaché à la qualité de poète.
-C'est trop longtemps, Iris, me mettre à la torture :
+-*who_le_vicomte
+Oui, mais vous ne considérez pas que le jeu qui vous divertit tient mon cœur au supplice, et qu'on n'est point capable de se jouer longtemps, lorsqu'on a dans l'esprit une passion aussi sérieuse, que celle que je sens pour vous.
+Il est cruel, belle Julie, que cet amusement dérobe à mon amour un temps qu'il voudrait employer à vous expliquer son ardeur ; et cette nuit j'ai fait là-dessus quelques Vers, que je ne puis m'empêcher de vous réciter, sans que vous me le demandiez, tant la démangeaison de dire ses ouvrages, est un vice attaché à la qualité de Poète.
+C'est trop longtemps, Iris, me mettre à la torture.
 Iris, comme vous le voyez, est mis là pour Julie.
+
 C'est trop longtemps, Iris, me mettre à la torture,
-Et si je suis vos lois, je les blâme tout bas
-De me forcer à taire un tourment que j'endure,
+Et si je suis vos lois, je les blâme tout bas,
+De me forcer à taire un tourment que j'endure
 Pour déclarer un mal que je ne ressens pas.
-Faut-il que vos beaux yeux, à qui je rends les armes,
-Veuillent se divertir de mes tristes soupirs ?
+
+Faut-il que vos beaux yeux à qui je rends les armes,
+Veuillent se divertir de mes tristes soupirs,
 Et n'est-ce pas assez de souffrir pour vos charmes,
-Sans me faire souffrir encor pour vos plaisirs ?
-C'en est trop à la fois que ce double martyre ;
-Et ce qu'il me faut taire, et ce qu'il me faut dire
-Exerce sur mon coeur pareille cruauté.
-L'amour le met en feu, la contrainte le tue ;
+Sans me faire souffrir encor pour vos plaisirs ?
+
+C'en est trop à la fois, que ce double martyre,
+Et ce qu'il me faut taire, et ce qu'il me faut dire,
+Exerce sur mon cœur pareille cruauté.
+
+L'amour le met en feu, la contrainte le tue,
 Et si par la pitié vous n'êtes combattue,
-Je meurs et de la feinte, et de la vérité.
+Je meurs, et de la feinte, et de la vérité.
 
 -*who_julie
-Je vois que vous vous faites là bien plus maltraité que vous n'êtes ; mais c'est une licence que prennent Messieurs les poètes de mentir de gaieté de coeur, et de donner à leurs maîtresses des cruautés qu'elles n'ont pas, pour s'accommoder aux pensées qui leur peuvent venir.
-Cependant je serai bien aise que vous me donniez ces vers par écrit.
+Je vois que vous vous faites là bien plus maltraité que vous n'êtes ; mais c'est une licence que prennent Messieurs les Poètes, de mentir de gaieté de cœur, et de donner à leurs Maîtresses des cruautés qu'elles n'ont pas, pour s'accommoder aux pensées qui leur peuvent venir.
+Cependant je serai bien aise que vous me donniez ces Vers par écrit.
 
--*who_levicomte
-C'est assez de vous les avoir dits, et je dois en demeurer là : il est permis d'être parfois assez fou pour faire des vers, mais non pour vouloir qu'ils soient vus.
+-*who_le_vicomte
+C'est assez de vous les avoir dits, et je dois en demeurer là ; il est permis d'être parfois assez fou pour faire des Vers, mais non pour vouloir qu'ils soient vus.
 
 -*who_julie
-C'est en vain que vous vous retranchez sur une fausse modestie ; on sait dans le monde que vous avez de l'esprit, et je ne vois pas la raison qui vous oblige à cacher les vôtres.
+C'est en vain que vous vous retranchez sur une fausse modestie, on sait dans le monde que vous avez de l'esprit, et je ne vois pas la raison qui vous oblige à cacher les vôtres.
 
--*who_levicomte
-Mon Dieu !
-Madame, marchons là-dessus, s'il vous plaît, avec beaucoup de retenue ; il est dangereux dans le monde de se mêler d'avoir de l'esprit.
+-*who_le_vicomte
+Mon Dieu, Madame, marchons là-dessus, s'il vous plaît, avec beaucoup de retenue ; il est dangereux dans le monde de se mêler d'avoir de l'esprit.
 Il y a là-dedans un certain ridicule qu'il est facile d'attraper, et nous avons de nos amis qui me font craindre leur exemple.
 
 -*who_julie
-Mon Dieu !
-Cléante, vous avez beau dire, je vois, avec tout cela, que vous mourez d'envie de me les donner, et je vous embarrasserais si je faisais semblant de ne m'en pas soucier.
+Mon Dieu, Cléante, vous avez beau dire, je vois avec tout cela que vous mourez d'envie de me les donner, et je vous embarrasserais si je faisais semblant de ne m'en pas soucier.
 
--*who_levicomte
-Moi, Madame ?
-Vous vous moquez, et je ne suis pas si poète que vous pourriez bien croire, pour...
-Mais voici votre Madame la comtesse d'Escarbagnas ; je sors par l'autre porte pour ne la point trouver, et vais disposer tout mon monde au divertissement que je vous ai promis.
+-*who_le_vicomte
+Moi, Madame, vous vous moquez, et je ne suis pas si Poète que vous pourriez bien croire, pour… Mais voici votre Madame la Comtesse d'Escarbagnas, je sors par l'autre porte pour ne la point trouver, et vais disposer tout mon monde au divertissement que je vous ai promis.
 
-**** *book_ *id_I02 *act_I *date_1671
+**** *book_ *id_I02 *act_I *date_1672 *creator_moliere
 
--*who_lacomtesse
-Ah, mon Dieu !
-Madame, vous voilà toute seule ?
-Quelle pitié est-ce là !
-Toute seule ?
-Il me semble que mes gens m'avaient dit que le vicomte était ici.
+-*who_la_comtesse
+Ah ! mon Dieu, Madame, vous voilà toute seule ? quelle pitié est-ce là, toute seule ; il me semble que mes gens m'avaient dit, que le Vicomte était ici ?
 
 -*who_julie
-Il est vrai qu'il y est venu ; mais c'est assez pour lui de savoir que vous n'y étiez pas pour l'obliger à sortir.
+Il est vrai qu'il y est venu, mais c'est assez pour lui de savoir que vous n'y étiez pas pour l'obliger à sortir.
 
--*who_lacomtesse
-Comment, il vous a vue ?
+-*who_la_comtesse
+Comment il vous a vue ?
 
 -*who_julie
 Oui.
 
--*who_lacomtesse
-Et il ne vous a rien dit ?
+-*who_la_comtesse
+Et il ne vous a rien dit ?
 
 -*who_julie
-Non, Madame ; et il a voulu témoigner par là qu'il est tout entier à vos charmes.
+Non, Madame, et il a voulu témoigner par là qu'il est tout entier à vos charmes.
 
--*who_lacomtesse
-Vraiment je le veux quereller de cette action ; quelque amour que l'on ait pour moi, j'aime que ceux qui m'aiment rendent ce qu'ils doivent au sexe ; et je ne suis point de l'humeur de ces femmes injustes qui s'applaudissent des incivilités que leurs amants font aux autres belles.
+-*who_la_comtesse
+Vraiment je le veux quereller de cette action, quelque amour que l'on ait pour moi, j'aime que ceux qui m'aiment, rendent ce qu'ils doivent au Sexe ; et je ne suis point de l'humeur de ces femmes injustes, qui s'applaudissent des incivilités, que leurs Amants font aux autres belles.
 
 -*who_julie
 Il ne faut point, Madame, que vous soyez surprise de son procédé.
-L'amour que vous lui donnez éclate dans toutes ses actions, et l'empêche d'avoir des yeux que pour vous.
+L'amour que vous lui donnez, éclate dans toutes ses actions, et l'empêche d'avoir des yeux que pour vous.
 
--*who_lacomtesse
-Je crois être en état de pouvoir faire naître une passion assez forte, et je me trouve pour cela assez de beauté, de jeunesse, et de qualité, Dieu merci ; mais cela n'empêche pas qu'avec ce que j'inspire, on ne puisse garder de l'honnêteté et de la complaisance pour les autres.
-Que faites-vous donc là, laquais ?
-Est-ce qu'il n'y a pas une antichambre où se tenir, pour venir quand on vous appelle ?
-Cela est étrange, qu'on ne puisse avoir en province un laquais qui sache son monde.
-À qui est-ce donc que je parle ?
-Voulez-vous vous en aller là dehors, petit fripon ?
-Filles, approchez.
+-*who_la_comtesse
+Je crois être en état de pouvoir faire naître une passion assez forte, et je me trouve pour cela assez de beauté, de jeunesse, et de qualité, Dieu merci ; mais cela n'empêche pas, qu'avec ce que j'inspire, on ne puisse garder de l'honnêteté, et de la complaisance pour les autres.
+Que faites-vous donc là, Laquais ? est-ce qu'il n'y a pas une antichambre, où se tenir, pour venir quand on vous appelle ; cela est étrange qu'on ne puisse avoir en Province un Laquais qui sache son monde.
+À qui est-ce donc que je parle, voulez-vous vous en aller là dehors, petit fripon ?
+Filles approchez.
 
 -*who_andree
-Que vous plaît-il, Madame ?
+Que vous plaît-il, Madame ?
 
--*who_lacomtesse
+-*who_la_comtesse
 Ôtez-moi mes coiffes.
-Doucement donc, maladroite, comme vous me saboulez la tête avec vos mains pesantes !
+Doucement donc maladroite, comme vous me saboulez la tête avec vos mains pesantes.
 
 -*who_andree
 Je fais, Madame, le plus doucement que je puis.
 
--*who_lacomtesse
-Oui, mais le plus doucement que vous pouvez est fort rudement pour ma tête, et vous me l'avez déboîtée.
+-*who_la_comtesse
+Oui, mais le plus doucement que vous pouvez, est fort rudement pour ma tête, et vous me l'avez déboîtée.
 Tenez encore ce manchon, ne laissez point traîner tout cela, et portez-le dans ma garde-robe.
-Hé bien, où va-t-elle, ou va-t-elle ?
-Que veut-elle faire, cet oison bridé ?
+Hé bien, où va-t-elle, où va-t-elle, que veut-elle faire, cet oison bridé ?
 
 -*who_andree
 Je veux, Madame, comme vous m'avez dit, porter cela aux garde-robes.
 
--*who_lacomtesse
-Ah, mon Dieu !
-L'impertinente !
+-*who_la_comtesse
+Ah ! mon Dieu, l'impertinente.
 Je vous demande pardon, Madame.
 Je vous ai dit ma garde-robe, grosse bête, c'est-à-dire où sont mes habits.
 
 -*who_andree
-Est-ce, Madame, qu'à la Cour une armoire s'appelle une garde-robe ?
+Est-ce, Madame, qu'à la Cour une armoire s'appelle une garde-robe ?
 
--*who_lacomtesse
+-*who_la_comtesse
 Oui, butorde, on appelle ainsi le lieu où l'on met les habits.
 
 -*who_andree
-Je m'en ressouviendrai, Madame, aussi bien que de votre grenier qu'il faut appeler garde-meuble.
+Je m'en ressouviendrai, Madame, aussi bien que de votre grenier, qu'il faut appeler garde-meuble.
 
--*who_lacomtesse
-Quelle peine il faut prendre pour instruire ces animaux-là !
+-*who_la_comtesse
+Quelle peine il faut prendre pour instruire ces animaux-là !
 
 -*who_julie
 Je les trouve bien heureux, Madame, d'être sous votre discipline.
 
--*who_lacomtesse
-C'est une fille de ma mère nourrice, que j'ai mise à la chambre, et elle est toute neuve encore.
+-*who_la_comtesse
+C'est une fille de ma Mère nourrice, que j'ai mise à la chambre, et elle est toute neuve encore.
 
 -*who_julie
 Cela est d'une belle âme, Madame, et il est glorieux de faire ainsi des créatures.
 
--*who_lacomtesse
+-*who_la_comtesse
 Allons, des sièges.
-Holà !
-Laquais, laquais, laquais.
-En vérité, voilà qui est violent, de ne pouvoir pas avoir un laquais, pour donner des sièges.
-Filles, laquais, laquais, filles, quelqu'un.
+Holà, Laquais, Laquais, Laquais.
+En vérité voilà qui est violent, de ne pouvoir pas avoir un Laquais, pour donner des sièges.
+Filles, Laquais, Laquais, Filles, quelqu'un.
 Je pense que tous mes gens sont morts, et que nous serons contraintes de nous donner des sièges nous-mêmes.
 
 -*who_andree
-Que voulez-vous, Madame ?
+Que voulez-vous, Madame ?
 
--*who_lacomtesse
+-*who_la_comtesse
 Il se faut bien égosiller avec vous autres.
 
 -*who_andree
-J'enfermais votre manchon et vos coiffes dans votre armoi..., dis-je, dans votre garde-robe.
+J'enfermais votre manchon et vos coiffes dans votre armoi…, dis-je, dans votre garde-robe.
 
--*who_lacomtesse
-Appelez-moi ce petit fripon de laquais.
+-*who_la_comtesse
+Appelez-moi ce petit fripon de Laquais.
 
 -*who_andree
-Holà !
-Criquet.
+Holà, Criquet.
 
--*who_lacomtesse
-Laissez là votre Criquet, bouvière, et appelez laquais.
+-*who_la_comtesse
+Laissez là votre Criquet, bouvière, et appelez Laquais.
 
 -*who_andree
 Laquais donc, et non pas Criquet, venez parler à Madame.
-Je pense qu'il est sourd : Criq...
-Laquais, laquais.
+Je pense qu'il est sourd, Criq… Laquais, Laquais.
 
 -*who_criquet
-Plaît-il ?
+Plaît-il ?
 
--*who_lacomtesse
-Où étiez-vous donc, petit coquin ?
+-*who_la_comtesse
+Où étiez-vous donc, petit coquin ?
 
 -*who_criquet
 Dans la rue, Madame.
 
--*who_lacomtesse
-Et pourquoi dans la rue ?
+-*who_la_comtesse
+Et pourquoi dans la rue ?
 
 -*who_criquet
 Vous m'avez dit d'aller là-dehors.
 
--*who_lacomtesse
+-*who_la_comtesse
 Vous êtes un petit impertinent, mon ami, et vous devez savoir que là-dehors, en termes de personnes de qualité, veut dire l'antichambre.
-Andrée, ayez soin tantôt de faire donner le fouet à ce petit fripon-là, par mon écuyer : c'est un petit incorrigible.
+Andrée, ayez soin tantôt de faire donner le fouet à ce petit fripon-là, par mon Écuyer ; c'est un petit incorrigible.
 
 -*who_andree
-Qu'est-ce que c'est, Madame, que votre écuyer ?
-Est-ce maître Charles que vous appelez comme cela ?
+Qu'est-ce que c'est, Madame, que votre Écuyer ? est-ce maître Charles que vous appelez comme cela ?
 
--*who_lacomtesse
-Taisez-vous, sotte que vous êtes : vous ne sauriez ouvrir la bouche que vous ne disiez une impertinence.
-Des sièges.
-Et vous, allumez deux bougies dans mes flambeaux d'argent : il se fait déjà tard.
-Qu'est-ce que c'est donc que vous me regardez toute effarée ?
+-*who_la_comtesse
+Taisez-vous, sotte que vous êtes, vous ne sauriez ouvrir la bouche que vous ne disiez une impertinence.
+Des sièges ; et vous, allumez deux bougies dans mes flambeaux d'argent, il se fait déjà tard.
+Qu'est-ce que c'est donc que vous me regardez toute effarée ?
 
 -*who_andree
-Madame.
+Madame…
 
--*who_lacomtesse
-Hé bien, madame ?
-Qu'y a-t-il ?
+-*who_la_comtesse
+Hé bien, Madame.
+Qu'y a-t-il ?
 
 -*who_andree
-C'est que.
+C'est que…
 
--*who_lacomtesse
-Quoi ?
+-*who_la_comtesse
+Quoi ?
 
 -*who_andree
 C'est que je n'ai point de bougie.
 
--*who_lacomtesse
-Comment, vous n'en avez point ?
+-*who_la_comtesse
+Comment, vous n'en avez point ?
 
 -*who_andree
 Non, Madame, si ce n'est des bougies de suif.
 
--*who_lacomtesse
-La bouvière !
-Et où est donc la cire que je fis acheter ces jours passés ?
+-*who_la_comtesse
+La bouvière.
+Et où est donc la cire que je fis acheter ces jours passés ?
 
 -*who_andree
 Je n'en ai point vu depuis que je suis céans.
 
--*who_lacomtesse
-Ôtez-vous de là, insolente ; je vous renvoierai chez vos parents.
+-*who_la_comtesse
+Ôtez-vous de là, insolente, je vous renvoyerai chez vos parents.
 Apportez-moi un verre d'eau.
-Madame.
+Madame
 
 -*who_julie
 Madame.
 
--*who_lacomtesse
-Ah !
+-*who_la_comtesse
+Ah !
 Madame.
 
 -*who_julie
-Ah !
+Ah !
 Madame.
 
--*who_lacomtesse
-Mon Dieu !
-Madame.
+-*who_la_comtesse
+Mon Dieu, Madame.
 
 -*who_julie
-Mon Dieu !
-Madame.
+Mon Dieu, Madame.
 
--*who_lacomtesse
-Oh !
-Madame.
+-*who_la_comtesse
+Oh, Madame.
 
 -*who_julie
-Oh !
-Madame.
+Oh, Madame.
 
--*who_lacomtesse
-Eh !
-Madame.
+-*who_la_comtesse
+Eh, Madame.
 
 -*who_julie
-Eh !
-Madame.
+Eh, Madame.
 
--*who_lacomtesse
-Hé !
-Allons donc, Madame.
+-*who_la_comtesse
+Hé allons donc, Madame.
 
 -*who_julie
-Hé !
-Allons donc, Madame.
+Hé allons donc, Madame.
 
--*who_lacomtesse
+-*who_la_comtesse
 Je suis chez moi, Madame, nous sommes demeurées d'accord de cela.
-Me prenez-vous pour une provinciale, Madame ?
+Me prenez-vous pour une Provinciale, Madame ?
 
 -*who_julie
-Dieu m'en garde, Madame !
+Dieu m'en garde, Madame.
 
--*who_lacomtesse
+-*who_la_comtesse
 Allez, impertinente, je bois avec une soucoupe.
 Je vous dis que vous m'alliez quérir une soucoupe pour boire.
 
 -*who_andree
-Criquet, qu'est-ce que c'est qu'une soucoupe ?
+Criquet, qu'est-ce que c'est qu'une soucoupe ?
 
 -*who_criquet
-Une soucoupe ?
+Une soucoupe ?
 
 -*who_andree
 Oui.
@@ -335,135 +316,125 @@ Oui.
 -*who_criquet
 Je ne sais.
 
--*who_lacomtesse
-Vous ne vous grouillez pas ?
+-*who_la_comtesse
+Vous ne vous grouillez pas ?
 
 -*who_andree
 Nous ne savons tous deux, Madame, ce que c'est qu'une soucoupe.
 
--*who_lacomtesse
-Apprenez que c'est une assiette sur laquelle on met le verre.
-Vive Paris pour être bien servie !
-On vous entend là au moindre coup d'oeil.
-Hé bien !
-Vous ai-je dit comme cela, tête de boeuf ?
+-*who_la_comtesse
+Apprenez que c'est une assiette, sur laquelle on met le verre.
+Vive Paris pour être bien servie, on vous entend là au moindre coup d'œil.
+Hé bien vous ai-je dit comme cela, tête de bœuf ?
 C'est dessous qu'il faut mettre l'assiette.
 
 -*who_andree
 Cela est bien aisé.
 
--*who_lacomtesse
-Hé bien !
-Ne voilà pas l'étourdie ?
+-*who_la_comtesse
+Hé bien ne voilà pas l'étourdie ?
 En vérité vous me paierez mon verre.
 
 -*who_andree
-Hé bien !
-Oui, Madame, je le paierai.
+Hé bien oui, Madame, je le paierai.
 
--*who_lacomtesse
-Mais voyez cette maladroite, cette bouvière, cette butorde, cette...
+-*who_la_comtesse
+Mais voyez cette maladroite, cette bouvière, cette butorde, cette…
 
 -*who_andree
 Dame, Madame, si je le paye, je ne veux point être querellée.
 
--*who_lacomtesse
+-*who_la_comtesse
 Ôtez-vous de devant mes yeux.
-En vérité, Madame, c'est une chose étrange que les petites villes ; on n'y sait point du tout son monde ; et je viens de faire deux ou trois visites, où ils ont pensé me désespérer par le peu de respect qu'ils rendent à ma qualité.
+En vérité, Madame, c'est une chose étrange que les petites Villes, on n'y sait point du tout son monde ; et je viens de faire deux ou trois visites, où ils ont pensé me désespérer, par le peu de respect qu'ils rendent à ma qualité.
 
 -*who_julie
-Où auraient-ils appris à vivre ?
-Ils n'ont point fait de voyage à Paris.
+Où auraient-ils appris à vivre, ils n'ont point fait de voyage à Paris ?
 
--*who_lacomtesse
-Ils ne laisseraient pas de l'apprendre, s'ils voulaient écouter les personnes ; mais le mal que j'y trouve, c'est qu'ils veulent en savoir autant que moi, qui ai été deux mois à Paris, et vu toute la Cour.
-
--*who_julie
-Les sottes gens que voilà !
-
--*who_lacomtesse
-Ils sont insupportables avec les impertinentes égalités dont ils traitent les gens.
-Car enfin il faut qu'il y ait de la subordination dans les choses ; et ce qui me met hors de moi, c'est qu'un gentilhomme de ville de deux jours, ou de deux cents ans, aura l'effronterie de dire qu'il est aussi bien gentilhomme que feu Monsieur mon mari, qui demeurait à la campagne, qui avait meute de chiens courants, et qui prenait la qualité de comte dans tous les contrats qu'il passait.
+-*who_la_comtesse
+Ils ne laisseraient pas de l'apprendre s'ils voulaient écouter les personnes ; mais le mal que j'y trouve, c'est qu'ils veulent en savoir autant que moi, qui ai été deux mois à Paris, et vu toute la Cour.
 
 -*who_julie
-On sait bien mieux vivre à Paris, dans ces hôtels dont la mémoire doit être si chère.
-Cet hôtel de Mouhy, Madame, cet hôtel de Lyon, cet hôtel de Hollande !
-Les agréables demeures que voilà !
+Les sottes gens que voilà.
 
--*who_lacomtesse
-Il est vrai qu'il y a bien de la différence de ces lieux-là à tout ceci.
+-*who_la_comtesse
+Ils sont insupportables, avec les impertinentes égalités dont ils traitent les gens.
+Car enfin, il faut qu'il y ait de la subordination dans les choses ; et ce qui me met hors de moi, c'est qu'un Gentilhomme de Ville de deux jours, ou de deux cents ans, aura l'effronterie de dire qu'il est aussi bien Gentilhomme, que feu Monsieur mon mari, qui demeurait à la campagne, qui avait meute de chiens courants, et qui prenait la qualité de Comte dans tous les Contrats qu'il passait.
+
+-*who_julie
+On sait bien mieux vivre à Paris dans ces Hôtels, dont la mémoire doit être si chère.
+Cet Hôtel de Mouhy, Madame, cet Hôtel de Lyon, cet Hôtel de Hollande.
+Les agréables demeures que voilà !
+
+-*who_la_comtesse
+Il est vrai qu'il y a bien de la différence de ces lieux-là, à tout ceci.
 On y voit venir du beau monde, qui ne marchande point à vous rendre tous les respects qu'on saurait souhaiter.
-On ne s'en lève pas, si l'on veut, de dessus son siège ; et lorsque l'on veut voir la revue, ou le grand ballet de Psyché, on est servie à point nommé.
+On ne s'en lève pas, si l'on veut, de dessus son siège ; et lorsque l'on veut voir la revue, ou le grand Ballet de Psyché, on est servie à point nommé.
 
 -*who_julie
-Je pense, Madame, que, durant votre séjour à Paris, vous avez fait bien des conquêtes de qualité.
+Je pense, Madame, que durant votre séjour à Paris, vous avez fait bien des conquêtes de qualité.
 
--*who_lacomtesse
-Vous pouvez bien croire, Madame, que tout ce qui s'appelle les galants de la cour n'a pas manqué de venir à ma porte, et de m'en conter ; et je garde dans ma cassette de leurs billets, qui peuvent faire voir quelles propositions j'ai refusées ; il n'est pas nécessaire de vous dire leurs noms : on sait ce qu'on veut dire par les galants de la Cour.
+-*who_la_comtesse
+Vous pouvez bien croire, Madame, que tout ce qui s'appelle les galants de la Cour, n'a pas manqué de venir à ma porte, et de m'en conter, et je garde dans ma cassette de leurs billets, qui peuvent faire voir quelles propositions j'ai refusées ; il n'est pas nécessaire de vous dire leurs noms, on sait ce qu'on veut dire par les galants de la Cour.
 
 -*who_julie
-Je m'étonne, Madame, que de tous ces grands noms, que je devine, vous ayez pu redescendre à un monsieur Tibaudier, le conseiller, et à un monsieur Harpin, le receveur des tailles.
+Je m'étonne, Madame, que de tous ces grands noms que je devine, vous ayez pu redescendre à un Monsieur Tibaudier, le Conseiller, et à un monsieur Harpin, le Receveur des Tailles.
 La chute est grande, je vous l'avoue.
-Car pour Monsieur votre vicomte, quoique vicomte de province, c'est toujours un vicomte, et il peut faire un voyage à Paris, s'il n'en a point fait ; mais un conseiller, et un receveur, sont des amants un peu bien minces, pour une grande comtesse comme vous.
+Car pour Monsieur votre Vicomte, quoique Vicomte de Province, c'est toujours un Vicomte, et il peut faire un voyage à Paris, s'il n'en a point fait ; mais un Conseiller, et un Receveur, sont des Amants un peu bien minces, pour une grande Comtesse comme vous.
 
--*who_lacomtesse
-Ce sont gens qu'on ménage dans les provinces pour le besoin qu'on en peut avoir ; ils servent au moins à remplir les guides de la galanterie, à faire nombre de soupirants ; et il est bon, Madame, de ne pas laisser un amant seul maître du terrain, de peur que, faute de rivaux, son amour ne s'endorme sur trop de confiance.
+-*who_la_comtesse
+Ce sont gens qu'on ménage dans les Provinces pour le besoin qu'on en peut avoir, ils servent au moins à remplir les vides de la galanterie, à faire nombre de soupirants ; et il est bon, Madame, de ne pas laisser un Amant seul maître du terrain, de peur que faute de Rivaux, son amour ne s'endorme sur trop de confiance.
 
 -*who_julie
-Je vous avoue, madame, qu'il y a merveilleusement à profiter de tout ce que vous dites ; c'est une école que votre conversation, et j'y viens tous les jours attraper quelque chose.
+Je vous avoue, Madame, qu'il y a merveilleusement à profiter de tout ce que vous dites, c'est une école que votre conversation, et j'y viens tous les jours attraper quelque chose.
 
-**** *book_ *id_I03 *act_I *date_1671
+**** *book_ *id_I03 *act_I *date_1672 *creator_moliere
 
 -*who_criquet
 Voilà Jeannot de Monsieur le Conseiller qui vous demande, Madame.
 
--*who_lacomtesse
-Hé bien !
-Petit coquin, voilà encore de vos âneries : un laquais qui saurait vivre, aurait été parler tout bas à la demoiselle suivante, qui serait venue dire doucement à l'oreille de sa maîtresse :
-    « Madame, voilà le laquais de Monsieur un tel qui demande à vous dire un mot » ; à quoi la maîtresse aurait répondu :
-    « Faites-le entrer ».
+-*who_la_comtesse
+Hé bien petit coquin, voilà encore de vos âneries, un Laquais qui saurait vivre, aurait été parler tout bas à la Demoiselle suivante, qui serait venue dire doucement à l'oreille de sa Maîtresse : Madame, voilà le Laquais de Monsieur un tel, qui demande à vous dire un mot, à quoi la Maîtresse aurait répondu, faites-le entrer.
 
 -*who_criquet
 Entrez, Jeannot.
 
--*who_lacomtesse
+-*who_la_comtesse
 Autre lourderie.
-Qu'y a-t-il, laquais ?
-Que portes-tu là ?
+Qu'y a-t-il, Laquais ?
+Que portes-tu là ?
 
 -*who_jeannot
-C'est Monsieur le Conseiller, Madame, qui vous souhaite le bonjour, et, auparavant que de venir, vous envoie des poires de son jardin, avec ce petit mot d'écrit.
+C'est Monsieur le Conseiller, Madame, qui vous souhaite le bon jour ; et auparavant que de venir, vous envoie des poires de son jardin, avec ce petit mot d'écrit.
 
--*who_lacomtesse
+-*who_la_comtesse
 C'est du bon-chrétien, qui est fort beau.
 Andrée, faites porter cela à l'office.
-Tiens, mon enfant, voilà pour boire.
+Tiens mon enfant, voilà pour boire.
 
 -*who_jeannot
-Oh non !
-Madame.
+Oh non, Madame.
 
--*who_lacomtesse
+-*who_la_comtesse
 Tiens, te dis-je.
 
 -*who_jeannot
-Mon maître m'a défendu, Madame, de rien prendre de vous.
+Mon Maître m'a défendu, Madame, de rien prendre de vous.
 
--*who_lacomtesse
+-*who_la_comtesse
 Cela ne fait rien.
 
 -*who_jeannot
 Pardonnez-moi, Madame.
 
 -*who_criquet
-Hé !
-Prenez, Jeannot ; si vous n'en voulez pas, vous me le baillerez.
+Hé prenez, Jeannot, si vous n'en voulez pas, vous me le baillerez.
 
--*who_lacomtesse
-Dis à ton maître que je le remercie.
+-*who_la_comtesse
+Dis à ton Maître que je le remercie.
 
 -*who_criquet
-Donne-moi donc cela.
+Donne-moi donc cela ?
 
 -*who_jeannot
 Oui, quelque sot.
@@ -474,405 +445,379 @@ C'est moi qui te l'ai fait prendre.
 -*who_jeannot
 Je l'aurais bien pris sans toi.
 
--*who_lacomtesse
+-*who_la_comtesse
 Ce qui me plaît de ce Monsieur Tibaudier, c'est qu'il sait vivre avec les personnes de ma qualité, et qu'il est fort respectueux.
 
-**** *book_ *id_I04 *act_I *date_1671
+**** *book_ *id_I04 *act_I *date_1672 *creator_moliere
 
--*who_levicomte
-Madame, je viens vous avertir que la comédie sera bientôt prête, et que, dans un quart d'heure, nous pouvons passer dans la salle.
+-*who_le_vicomte
+Madame, je viens vous avertir que la Comédie sera bientôt prête, et que dans un quart d'heure nous pouvons passer dans la Salle.
 
--*who_lacomtesse
-Je ne veux point de cohue, au moins.
+-*who_la_comtesse
+Je ne veux point de cohue au moins.
 Que l'on dise à mon Suisse qu'il ne laisse entrer personne.
 
--*who_levicomte
-En ce cas, Madame, je vous déclare que je renonce à la comédie, et je n'y saurais prendre de plaisir lorsque la compagnie n'est pas nombreuse.
-Croyez-moi, si vous voulez vous bien divertir, qu'on dise à vos gens de laisser entrer toute la ville.
+-*who_le_vicomte
+En ce cas, Madame, je vous déclare que je renonce à la Comédie, et je n'y saurais prendre de plaisir, lorsque la compagnie n'est pas nombreuse.
+Croyez-moi, si vous voulez vous bien divertir, qu'on dise à vos gens de laisser entrer toute la Ville.
 
--*who_lacomtesse
+-*who_la_comtesse
 Laquais, un siège.
 Vous voilà venu à propos pour recevoir un petit sacrifice que je veux bien vous faire.
 Tenez, c'est un billet de Monsieur Tibaudier, qui m'envoie des poires.
 Je vous donne la liberté de le lire tout haut, je ne l'ai point encore vu.
 
--*who_levicomte
+-*who_le_vicomte
 Voici un billet du beau style, Madame, et qui mérite d'être bien écouté.
-Madame, je n'aurais pas pu vous faire le présent que je vous envoie, si je ne recueillais pas plus de fruit de mon jardin, que j'en recueille de mon amour.
+Madame, je n'aurais pas pu vous faire le présent que je vous envoie, si je ne recueillais pas plus de fruit de mon Jardin, que j'en recueille de mon amour.
 
--*who_lacomtesse
+-*who_la_comtesse
 Cela vous marque clairement qu'il ne se passe rien entre nous.
 
--*who_levicomte
-Les poires ne sont pas encore bien mûres, mais elles en cadrent mieux avec la dureté de votre âme, qui, par ses continuels dédains, ne me promet pas poires molles.
-Trouvez bon, Madame, que sans m'engager dans une énumération de vos perfections et charmes, qui me jetterait dans un progrès à l'infini, je conclue ce mot, en vous faisant considérer que je suis d'un aussi franc chrétien que les poires que je vous envoie, puisque je rends le bien pour le mal, c'est-à-dire, Madame, pour m'expliquer plus intelligiblement, puisque je vous présente des poires de bon-chrétien pour des poires d'angoisse, que vos cruautés me font avaler tous les jours.
-Tibaudier, votre esclave indigne.
+-*who_le_vicomte
+Les poires ne sont pas encore bien mûres, mais elles en cadrent mieux, avec la dureté de votre âme, qui par ses continuels dédains, ne me promet pas poires molles.
+Trouvez bon, Madame, que sans m'engager dans une énumération de vos perfections, et charmes, qui me jetterait dans un progrès à l'infini, je conclue ce mot, en vous faisant considérer que je suis d'un aussi franc Chrétien, que les poires que je vous envoie, puisque je rends le bien pour le mal, c'est-à-dire, Madame, pour m'expliquer plus intelligiblement, puisque je vous présente des poires de bon chrétien, pour des poires d'angoisse, que vos cruautés me font avaler tous les jours.
+TIBAUDIER, votre Esclave indigne.
 Voilà, Madame, un billet à garder.
 
--*who_lacomtesse
-Il y a peut-être quelque mot qui n'est pas de l'Académie ; mais j'y remarque un certain respect qui me plaît beaucoup.
+-*who_la_comtesse
+Il y a peut-être quelque mot qui n'est pas de l'Académie ; mais j'y remarque un certain respect qui me plaît beaucoup.
 
 -*who_julie
 Vous avez raison, Madame, et Monsieur le Vicomte dût-il s'en offenser, j'aimerais un homme qui m'écrirait comme cela.
 
-**** *book_ *id_I05 *act_I *date_1671
+**** *book_ *id_I05 *act_I *date_1672 *creator_moliere
 
--*who_lacomtesse
+-*who_la_comtesse
 Approchez, Monsieur Tibaudier, ne craignez point d'entrer.
-Votre billet a été bien reçu, aussi bien que vos poires, et voilà Madame qui parle pour vous contre votre rival.
+Votre billet a été bien reçu, aussi bien que vos poires, et voilà Madame qui parle pour vous, contre votre Rival.
 
--*who_monsieurtibaudier
-Je lui suis bien obligé, Madame, et si elle a jamais quelque procès en notre siège, elle verra que je n'oublierai pas l'honneur qu'elle me fait de se rendre auprès de vos beautés l'avocat de ma flamme.
+-*who_monsieur_tibaudier
+Je lui suis bien obligé, Madame, et si elle a jamais quelque procès en notre Siège, elle verra que je n'oublierai pas l'honneur qu'elle me fait, de se rendre auprès de vos beautés l'Avocat de ma flamme.
 
 -*who_julie
-Vous n'avez pas besoin d'avocat, Monsieur, et votre cause est juste.
+Vous n'avez pas besoin d'Avocat, Monsieur, et votre cause est juste.
 
--*who_monsieurtibaudier
-Ce néanmoins, Madame, bon droit a besoin d'aide, et j'ai sujet d'appréhender de me voir supplanté par un tel rival, et que Madame ne soit circonvenue par la qualité de vicomte.
+-*who_monsieur_tibaudier
+Ce néanmoins, Madame, bon droit a besoin d'aide, et j'ai sujet d'appréhender de me voir supplanté par un tel Rival, et que Madame ne soit circonvenue par la qualité de Vicomte.
 
--*who_levicomte
-J'espérais quelque chose, Monsieur Tibaudier, avant votre billet ; mais il me fait craindre pour mon amour.
+-*who_le_vicomte
+J'espérais quelque chose, Monsieur Tibaudier, avant votre billet, mais il me fait craindre pour mon amour.
 
--*who_monsieurtibaudier
-Voici encore, Madame, deux petits versets, ou couplets, que j'ai composés à votre honneur et gloire.
+-*who_monsieur_tibaudier
+Voici encore, Madame, deux petits Versets, ou couplets, que j'ai composés à votre honneur et gloire.
 
--*who_levicomte
-Ah !
-Je ne pensais pas que Monsieur Tibaudier fût poète, et voilà pour m'achever que ces deux petits versets-là.
+-*who_le_vicomte
+Ah ! je ne pensais pas que Monsieur Tibaudier fût Poète, et voilà pour m'achever, que ces deux petits Versets-là.
 
--*who_lacomtesse
-Il veut dire deux strophes.
+-*who_la_comtesse
+Il veut dire deux Strophes.
 Laquais, donnez un siège à Monsieur Tibaudier.
 Un pliant, petit animal.
 Monsieur Tibaudier, mettez-vous là, et nous lisez vos strophes.
 
--*who_monsieurtibaudier
+-*who_monsieur_tibaudier
+
 Une personne de qualité
-Ravit mon âme ;
+Ravit mon âme,
 Elle a de la beauté,
-J'ai de la flamme ;
+J'ai de la flamme ;
 Mais je la blâme
 D'avoir de la fierté.
 
--*who_levicomte
+-*who_le_vicomte
 Je suis perdu après cela.
 
--*who_lacomtesse
-Le premier vers est beau : Une personne de qualité.
+-*who_la_comtesse
+Le premier Vers est beau, Une personne de qualité.
 
 -*who_julie
 Je crois qu'il est un peu trop long, mais on peut prendre une licence pour dire une belle pensée.
 
--*who_lacomtesse
+-*who_la_comtesse
 Voyons l'autre strophe.
 
--*who_monsieurtibaudier
-Je ne sais pas si vous doutez de mon parfait amour ;
-Mais je sais bien que mon coeur, à toute heure,
+-*who_monsieur_tibaudier
+
+Je ne sais pas si vous doutez de mon parfait amour ;
+Mais je sais bien que mon cœur à toute heure
 Veut quitter sa chagrine demeure,
-Pour aller par respect faire au vôtre sa cour :
+Pour aller par respect faire au vôtre sa Cour :
 Après cela pourtant, sûre de ma tendresse,
 Et de ma foi, dont unique est l'espèce,
-Vous devriez à votre tour,
-Vous contentant d'être comtesse,
-Vous dépouiller, en ma faveur, d'une peau de tigresse,
-Qui couvre vos appas la nuit comme le jour.
+Vous devriez à votre tour
+Vous contentant d'être Comtesse,
+Vous dépouiller en ma faveur, d'une peau de tigresse,
+Qui couvre vos appas, la nuit comme le jour.
 
--*who_levicomte
+-*who_le_vicomte
 Me voilà supplanté, moi, par Monsieur Tibaudier.
 
--*who_lacomtesse
-Ne pensez pas vous moquer : pour des vers faits dans la province, ces vers-là sont fort beaux.
+-*who_la_comtesse
+Ne pensez pas vous moquer, pour des Vers faits dans la Province, ces Vers-là sont fort beaux.
 
--*who_levicomte
-Comment, Madame, me moquer ?
-Quoique son rival, je trouve ces vers admirables, et ne les appelle pas seulement deux strophes, comme vous, mais deux épigrammes, aussi bonnes que toutes celles de Martial.
+-*who_le_vicomte
+Comment, Madame, me moquer ?
+Quoique son Rival, je trouve ces Vers admirables, et ne les appelle pas seulement deux Strophes, comme vous, mais deux Épigrammes, aussi bonnes que toutes celles de Martial.
 
--*who_lacomtesse
-Quoi ?
-Martial fait-il des vers ?
-Je pensais qu'il ne fît que des gants ?
+-*who_la_comtesse
+Quoi, Martial fait-il des Vers, je pensais qu'il ne fît que des gants ?
 
--*who_monsieurtibaudier
-Ce n'est pas ce Martial-là, Madame ; c'est un auteur qui vivait il y a trente ou quarante ans.
+-*who_monsieur_tibaudier
+Ce n'est pas ce Martial-là, Madame, c'est un Auteur qui vivait il y a trente, ou quarante ans.
 
--*who_levicomte
-Monsieur Tibaudier a lu les auteurs, comme vous le voyez.
-Mais allons voir, madame, si ma musique et ma comédie, avec mes entrées de ballet, pourront combattre dans votre esprit les progrès des deux strophes et du billet que nous venons de voir.
+-*who_le_vicomte
+Monsieur Tibaudier a lu les Auteurs, comme vous le voyez.
+Mais allons voir, Madame, si ma Musique et ma Comédie, avec mes entrées de Ballet, pourront combattre dans votre esprit les progrès des deux Strophes, et du billet que nous venons de voir.
 
--*who_lacomtesse
-Il faut que mon fils le Comte soit de la partie ; car il est arrivé ce matin de mon château avec son précepteur, que je vois là-dedans.
+-*who_la_comtesse
+Il faut que mon Fils le Comte soit de la partie, car il est arrivé ce matin de mon Château avec son Précepteur, que je vois là-dedans.
 
-**** *book_ *id_I06 *act_I *date_1671
+**** *book_ *id_I06 *act_I *date_1672 *creator_moliere
 
--*who_lacomtesse
-Holà !
-Monsieur Bobinet, Monsieur Bobinet, approchez-vous du monde.
+-*who_la_comtesse
+Holà, Monsieur Bobinet, Monsieur Bobinet, approchez-vous du monde.
 
--*who_monsieurbobinet
-Je donne le bon vêpre à toute l'honorable compagnie.
-Que désire Madame la comtesse d'Escarbagnas de son très humble serviteur Bobinet ?
+-*who_monsieur_bobinet
+Je donne le bon Vêpres à toute l'honorable compagnie.
+Que désire Madame la Comtesse d'Escarbagnas, de son très humble Serviteur Bobinet ?
 
--*who_lacomtesse
-À quelle heure, monsieur Bobinet, êtes-vous parti d'Escarbagnas, avec mon fils le Comte ?
+-*who_la_comtesse
+À quelle heure, Monsieur Bobinet, êtes-vous parti d'Escarbagnas, avec mon Fils le Comte ?
 
--*who_monsieurbobinet
+-*who_monsieur_bobinet
 À huit heures trois quarts, Madame, comme votre commandement me l'avait ordonné.
 
--*who_lacomtesse
-Comment se portent mes deux autres fils, le Marquis, et le Commandeur ?
+-*who_la_comtesse
+Comment se portent mes deux autres Fils, le Marquis, et le Commandeur ?
 
--*who_monsieurbobinet
-Ils sont, Dieu grâce, madame, en parfaite santé.
+-*who_monsieur_bobinet
+Ils sont, Dieu grâce, Madame, en parfaite santé.
 
--*who_lacomtesse
-Où est le Comte ?
+-*who_la_comtesse
+Où est le Comte ?
 
--*who_monsieurbobinet
+-*who_monsieur_bobinet
 Dans votre belle chambre à alcôve, Madame.
 
--*who_lacomtesse
-Que fait-il, Monsieur Bobinet ?
+-*who_la_comtesse
+Que fait-il, Monsieur Bobinet ?
 
--*who_monsieurbobinet
-Il compose un thème, Madame, que je viens de lui dicter, sur une épître de Cicéron.
+-*who_monsieur_bobinet
+Il compose un Thème, Madame, que je viens de lui dicter, sur une Épître de Cicéron.
 
--*who_lacomtesse
+-*who_la_comtesse
 Faites-le venir, Monsieur Bobinet.
 
--*who_monsieurbobinet
+-*who_monsieur_bobinet
 Soit fait, Madame, ainsi que vous le commandez.
 
--*who_levicomte
+-*who_le_vicomte
 Ce Monsieur Bobinet, Madame, a la mine fort sage, et je crois qu'il a de l'esprit.
 
-**** *book_ *id_I07 *act_I *date_1671
+**** *book_ *id_I07 *act_I *date_1672 *creator_moliere
 
--*who_monsieurbobinet
+-*who_monsieur_bobinet
 Allons, Monsieur le Comte, faites voir que vous profitez des bons documents qu'on vous donne.
 La révérence à toute l'honnête assemblée.
 
--*who_lacomtesse
+-*who_la_comtesse
 Comte, saluez Madame.
-Faites la révérence à Monsieur le Vicomte.
-Saluez Monsieur le Conseiller.
+Faites la révérence à Monsieur le Vicomte, saluez Monsieur le Conseiller.
 
--*who_monsieurtibaudier
-Je suis ravi, Madame, que vous me concédiez la grâce d'embrasser Monsieur le Comte votre fils.
-On ne peut pas aimer le tronc qu'on n'aime aussi les branches.
+-*who_monsieur_tibaudier
+Je suis ravi, Madame, que vous me concédiez la grâce d'embrasser Monsieur le Comte votre Fils.
+On ne peut pas aimer le tronc, qu'on n'aime aussi les branches.
 
--*who_lacomtesse
-Mon Dieu !
-Monsieur Tibaudier, de quelle comparaison vous servez-vous là ?
+-*who_la_comtesse
+Mon Dieu, Monsieur Tibaudier, de quelle comparaison vous servez-vous là ?
 
 -*who_julie
 En vérité, Madame, Monsieur le Comte a tout à fait bon air.
 
--*who_levicomte
-Voilà un jeune gentilhomme qui vient bien dans le monde.
+-*who_le_vicomte
+Voilà un jeune Gentilhomme qui vient bien dans le monde.
 
 -*who_julie
-Qui dirait que Madame eût un si grand enfant ?
+Qui dirait que Madame eût un si grand enfant ?
 
--*who_lacomtesse
-Hélas !
-Quand je le fis, j'étais si jeune, que je me jouais encore avec une poupée.
+-*who_la_comtesse
+Hélas ! quand je le fis, j'étais si jeune que je me jouais encore avec une poupée.
 
 -*who_julie
-C'est Monsieur votre frère, et non pas Monsieur votre fils.
+C'est Monsieur votre frère, et non pas Monsieur votre Fils.
 
--*who_lacomtesse
+-*who_la_comtesse
 Monsieur Bobinet, ayez bien soin au moins de son éducation.
 
--*who_monsieurbobinet
+-*who_monsieur_bobinet
 Madame, je n'oublierai aucune chose pour cultiver cette jeune plante, dont vos bontés m'ont fait l'honneur de me confier la conduite, et je tâcherai de lui inculquer les semences de la vertu.
 
--*who_lacomtesse
+-*who_la_comtesse
 Monsieur Bobinet, faites-lui un peu dire quelque petite galanterie de ce que vous lui apprenez.
 
--*who_monsieurbobinet
+-*who_monsieur_bobinet
 Allons, Monsieur le Comte, récitez votre leçon d'hier au matin.
 
--*who_lecomte
+-*who_le_comte
 Omne viro soli quod convenit esto virile.
-Omne viri.
+Omne viri…
 
--*who_lacomtesse
-Fi !
-Monsieur Bobinet, quelles sottises est-ce que vous lui apprenez là ?
+-*who_la_comtesse
+Fi, Monsieur Bobinet, quelles sottises est-ce que vous lui apprenez là ?
 
--*who_monsieurbobinet
-C'est du latin, Madame, et la première règle de Jean Despautère.
+-*who_monsieur_bobinet
+C'est du Latin, Madame, et la première règle de Jean Despautère.
 
--*who_lacomtesse
-Mon Dieu !
-Ce Jean Despautère-là est un insolent, et je vous prie de lui enseigner du latin plus honnête que celui-là.
+-*who_la_comtesse
+Mon Dieu, ce Jean Despautère-là est un insolent, et je vous prie de lui enseigner du Latin plus honnête que celui-là.
 
--*who_monsieurbobinet
+-*who_monsieur_bobinet
 Si vous voulez, Madame, qu'il achève, la glose expliquera ce que cela veut dire.
 
--*who_lacomtesse
+-*who_la_comtesse
 Non, non, cela s'explique assez.
 
 -*who_criquet
-Les comédiens envoient dire qu'ils sont tout prêts.
+Les Comédiens envoient dire qu'ils sont tout prêts.
 
--*who_lacomtesse
+-*who_la_comtesse
 Allons nous placer.
 Monsieur Tibaudier, prenez Madame.
 
--*who_levicomte
-Il est nécessaire de dire que cette comédie n'a été faite que pour lier ensemble les différents morceaux de musique et de danse dont on a voulu composer ce divertissement, et que...
+-*who_le_vicomte
+Il est nécessaire de dire, que cette Comédie n'a été faite que pour lier ensemble les différents morceaux de Musique, et de danse, dont on a voulu composer ce divertissement, et que…
 
--*who_lacomtesse
-Mon Dieu !
-Voyons l'affaire : on a assez d'esprit pour comprendre les choses.
+-*who_la_comtesse
+Mon Dieu voyons l'affaire, on a assez d'esprit pour comprendre les choses.
 
--*who_levicomte
+-*who_le_vicomte
 Qu'on commence le plus tôt qu'on pourra, et qu'on empêche, s'il se peut, qu'aucun fâcheux ne vienne troubler notre divertissement.
 
-**** *book_ *id_I08 *act_I *date_1671
+**** *book_ *id_I08 *act_I *date_1672 *creator_moliere
 
--*who_monsieurharpin
-Parbleu !
-La chose est belle, et je me réjouis de voir ce que je vois.
+-*who_monsieur_harpin
+Parbleu la chose est belle, et je me réjouis de voir ce que je vois.
 
--*who_lacomtesse
-Holà !
-Monsieur le Receveur, que voulez-vous donc dire avec l'action que vous faites ?
-Vient-on interrompre comme cela une comédie ?
+-*who_la_comtesse
+Holà, Monsieur le Receveur, que voulez-vous donc dire avec l'action que vous faites, vient-on interrompre comme cela une Comédie ?
 
--*who_monsieurharpin
-Morbleu !
-Madame, je suis ravi de cette aventure, et ceci me fait voir ce que je dois croire de vous, et l'assurance qu'il y a au don de votre coeur et aux serments que vous m'avez faits de sa fidélité.
+-*who_monsieur_harpin
+Morbleu, Madame, je suis ravi de cette aventure, et ceci me fait voir ce que je dois croire de vous, et l'assurance qu'il y a au don de votre cœur, et aux serments que vous m'avez faits de sa fidélité.
 
--*who_lacomtesse
-Mais vraiment, on ne vient point ainsi se jeter au travers d'une comédie, et troubler un acteur qui parle.
+-*who_la_comtesse
+Mais vraiment, on ne vient point ainsi se jeter au travers d'une Comédie, et troubler un Acteur qui parle.
 
--*who_monsieurharpin
-Eh têtebleu !
-La véritable comédie qui se fait ici, c'est celle que vous jouez ; et si je vous trouble, c'est de quoi je me soucie peu.
+-*who_monsieur_harpin
+Eh têtebleu la véritable Comédie qui se fait ici, c'est celle que vous jouez, et si je vous trouble, c'est de quoi je me soucie peu.
 
--*who_lacomtesse
-En vérité, vous ne savez ce que vous dites.
+-*who_la_comtesse
+En vérité vous ne savez ce que vous dites.
 
--*who_monsieurharpin
-Si fait morbleu !
-Je le sais bien ; je le sais bien, morbleu !
-Et...
+-*who_monsieur_harpin
+Si fait morbleu je le sais bien, je le sais bien, morbleu, et…
 
--*who_lacomtesse
-Eh fi !
-Monsieur, que cela est vilain de jurer de la sorte !
+-*who_la_comtesse
+Eh fi, Monsieur, que cela est vilain de jurer de la sorte.
 
--*who_monsieurharpin
-Eh ventrebleu !
-S'il y a ici quelque chose de vilain, ce ne sont point mes jurements, ce sont vos actions, et il vaudrait bien mieux que vous jurassiez, vous, la tête, la mort et la sang, que de faire ce que vous faites avec Monsieur le Vicomte.
+-*who_monsieur_harpin
+Eh ventrebleu, s'il y a ici quelque chose de vilain, ce ne sont point mes jurements, ce sont vos actions, et il vaudrait bien mieux que vous jurassiez, vous, la tête, la mort et la sang, que de faire ce que vous faites avec Monsieur le Vicomte.
 
--*who_levicomte
-Je ne sais pas, monsieur le Receveur, de quoi vous vous plaignez, et si...
+-*who_le_vicomte
+Je ne sais pas, Monsieur le Receveur, de quoi vous vous plaignez, et si…
 
--*who_monsieurharpin
-Pour vous, Monsieur, je n'ai rien à vous dire : vous faites bien de pousser votre pointe, cela est naturel, je ne le trouve point étrange, et je vous demande pardon si j'interromps votre comédie ; mais vous ne devez point trouver étrange aussi que je me plaigne de son procédé, et nous avons raison tous deux de faire ce que nous faisons.
+-*who_monsieur_harpin
+Pour vous, Monsieur, je n'ai rien à vous dire, vous faites bien de pousser votre pointe, cela est naturel, je ne le trouve point étrange, et je vous demande pardon si j'interromps votre Comédie ; mais vous ne devez point trouver étrange aussi que je me plaigne de son procédé, et nous avons raison tous deux de faire ce que nous faisons.
 
--*who_levicomte
-Je n'ai rien à dire à cela, et ne sais point les sujets de plaintes que vous pouvez avoir contre Madame la comtesse d'Escarbagnas.
+-*who_le_vicomte
+Je n'ai rien à dire à cela, et ne sais point les sujets de plaintes, que vous pouvez avoir contre Madame la Comtesse d'Escarbagnas.
 
--*who_lacomtesse
+-*who_la_comtesse
 Quand on a des chagrins jaloux, on n'en use point de la sorte, et l'on vient doucement se plaindre à la personne que l'on aime.
 
--*who_monsieurharpin
-Moi, me plaindre doucement ?
+-*who_monsieur_harpin
+Moi me plaindre doucement ?
 
--*who_lacomtesse
+-*who_la_comtesse
 Oui.
-L'on ne vient point crier de dessus un théâtre ce qui se doit dire en particulier.
+L'on ne vient point crier de dessus un Théâtre, ce qui se doit dire en particulier.
 
--*who_monsieurharpin
-J'y viens moi, morbleu !
-Tout exprès, c'est le lieu qu'il me faut, et je souhaiterais que ce fût un théâtre public, pour vous dire avec plus d'éclat toutes vos vérités.
+-*who_monsieur_harpin
+J'y viens moi morbleu tout exprès, c'est le lieu qu'il me faut, et je souhaiterais que ce fût un Théâtre public, pour vous dire avec plus d'éclat toutes vos vérités.
 
--*who_lacomtesse
-Faut-il faire un si grand vacarme pour une comédie que Monsieur le Vicomte me donne ?
-Vous voyez que Monsieur Tibaudier, qui m'aime, en use plus respectueusement que vous.
+-*who_la_comtesse
+Faut-il faire un si grand vacarme pour une Comédie, que Monsieur le Vicomte me donne ? vous voyez que Monsieur Tibaudier qui m'aime en use plus respectueusement que vous.
 
--*who_monsieurharpin
-Monsieur Tibaudier en use comme il lui plaît, je ne sais pas de quelle façon monsieur Tibaudier a été avec vous, mais Monsieur Tibaudier n'est pas un exemple pour moi, et je ne suis point d'humeur à payer les violons pour faire danser les autres.
+-*who_monsieur_harpin
+Monsieur Tibaudier en use comme il lui plaît, je ne sais pas de quelle façon Monsieur Tibaudier a été avec vous, mais Monsieur Tibaudier n'est pas un exemple pour moi, et je ne suis point d'humeur à payer les Violons pour faire danser les autres.
 
--*who_lacomtesse
-Mais vraiment, Monsieur le Receveur, vous ne songez pas à ce que vous dites : on ne traite point de la sorte les femmes de qualité, et ceux qui vous entendent croiraient qu'il y a quelque chose d'étrange entre vous et moi.
+-*who_la_comtesse
+Mais vraiment, Monsieur le Receveur, vous ne songez pas à ce que vous dites, on ne traite point de la sorte les Femmes de qualité, et ceux qui vous entendent croiraient qu'il y a quelque chose d'étrange entre vous et moi.
 
--*who_monsieurharpin
-Hé ventrebleu !
-Madame, quittons la faribole.
+-*who_monsieur_harpin
+Hé ventrebleu, Madame, quittons la faribole.
 
--*who_lacomtesse
-Que voulez-vous donc dire, avec votre "quittons la faribole" ?
+-*who_la_comtesse
+Que voulez-vous donc dire, avec votre quittons la faribole ?
 
--*who_monsieurharpin
-Je veux dire que je ne trouve point étrange que vous vous rendiez au mérite de Monsieur le Vicomte : vous n'êtes pas la première femme qui joue dans le monde de ces sortes de caractères, et qui ait auprès d'elle un Monsieur le Receveur, dont on lui voit trahir et la passion et la bourse, pour le premier venu qui lui donnera dans la vue ; mais ne trouvez point étrange aussi que je ne sois point la dupe d'une infidélité si ordinaire aux coquettes du temps, et que je vienne vous assurer devant bonne compagnie que je romps commerce avec vous, et que Monsieur le Receveur ne sera plus pour vous Monsieur le Donneur.
+-*who_monsieur_harpin
+Je veux dire, que je ne trouve point étrange que vous vous rendiez au mérite de Monsieur le Vicomte, vous n'êtes pas la première Femme qui joue dans le monde de ces sortes de caractères, et qui ait auprès d'elle un Monsieur le Receveur, dont on lui voit trahir, et la passion, et la bourse pour le premier venu qui lui donnera dans la vue ; mais ne trouvez point étrange aussi que je ne sois point la dupe d'une infidélité si ordinaire aux coquettes du temps, et que je vienne vous assurer devant bonne compagnie, que je romps commerce avec vous, et que Monsieur le Receveur ne sera plus pour vous Monsieur le donneur.
 
--*who_lacomtesse
-Cela est merveilleux, comme les amants emportés deviennent à la mode, on ne voit autre chose de tous côtés.
-La, la, Monsieur le Receveur, quittez votre colère, et venez prendre place pour voir la comédie.
+-*who_la_comtesse
+Cela est merveilleux, comme les Amants emportés deviennent à la mode ; on ne voit autre chose de tous côtés.
+Là, là, Monsieur le Receveur, quittez votre colère, et venez prendre place pour voir la Comédie.
 
--*who_monsieurharpin
-Moi, morbleu !
-Prendre place !
-Cherchez vos benêts à vos pieds.
-Je vous laisse, Madame la Comtesse, à Monsieur le Vicomte, et ce sera à lui que j'envoyerai tantôt vos lettres.
-Voilà ma scène faite, voilà mon rôle joué.
+-*who_monsieur_harpin
+Moi, morbleu, prendre place, cherchez vos benêts à vos pieds.
+Je vous laisse, Madame la Comtesse, à Monsieur le Vicomte, et ce sera à lui que j'enverrai tantôt vos lettres.
+Voilà ma Scène faite, voilà mon rôle joué.
 Serviteur à la compagnie.
 
--*who_monsieurtibaudier
-Monsieur le Receveur, nous nous verrons autre part qu'ici ; et je vous ferai voir que je suis au poil et à la plume.
+-*who_monsieur_tibaudier
+Monsieur le Receveur, nous nous verrons autre part qu'ici, et je vous ferai voir, que je suis au poil, et à la plume.
 
--*who_monsieurharpin
+-*who_monsieur_harpin
 Tu as raison, Monsieur Tibaudier.
 
--*who_lacomtesse
+-*who_la_comtesse
 Pour moi, je suis confuse de cette insolence.
 
--*who_levicomte
-Les jaloux, Madame, sont comme ceux qui perdent leur procès : ils ont permission de tout dire.
-Prêtons silence à la comédie.
+-*who_le_vicomte
+Les jaloux, Madame, sont comme ceux qui perdent leur procès, ils ont permission de tout dire.
+Prêtons silence à la Comédie.
 
-**** *book_ *id_I09 *act_I *date_1671
+**** *book_ *id_I09 *act_I *date_1672 *creator_moliere
 
 -*who_jeannot
-Voilà un billet, monsieur, qu'on nous a dit de vous donner vite.
+Voilà un billet, Monsieur, qu'on nous a dit de vous donner vite.
 
--*who_levicomte
+-*who_le_vicomte
 En cas que vous ayez quelque mesure à prendre, je vous envoie promptement un avis.
-La querelle de vos parents et de ceux de Julie vient d'être accommodée, et les conditions de cet accord, c'est le mariage de vous et d'elle.
+La querelle de vos Parents et de ceux de Julie, vient d'être accommodée, et les conditions de cet accord, c'est le Mariage de vous, et d'elle.
 Bonsoir.
-Ma foi !
-Madame, voilà notre comédie achevée aussi.
+Ma foi, Madame, voilà notre Comédie achevée aussi.
 
 -*who_julie
-Ah !
-Cléante, quel bonheur !
-Notre amour eût-il osé espérer un si heureux succès ?
+Ah !
+Cléante quel bonheur ! notre amour eût-il osé espérer un si heureux succès ?
 
--*who_lacomtesse
-Comment donc ?
-Qu'est-ce que cela veut dire ?
+-*who_la_comtesse
+Comment donc, qu'est-ce que cela veut dire ?
 
--*who_levicomte
-Cela veut dire, Madame, que j'épouse Julie ; et, si vous m'en croyez, pour rendre la comédie complète de tout point, vous épouserez Monsieur Tibaudier, et donnerez Mademoiselle Andrée à son laquais, dont il fera son valet de chambre.
+-*who_le_vicomte
+Cela veut dire, Madame, que j'épouse Julie, et si vous m'en croyez, pour rendre la Comédie complète de tout point, vous épouserez Monsieur Tibaudier, et donnerez Mademoiselle Andrée à son laquais, dont il fera son Valet de chambre.
 
--*who_lacomtesse
-Quoi ?
-Jouer de la sorte une personne de ma qualité ?
+-*who_la_comtesse
+Quoi, jouer de la sorte une personne de ma qualité ?
 
--*who_levicomte
-C'est sans vous offenser, Madame, et les comédies veulent de ces sortes de choses.
+-*who_le_vicomte
+C'est sans vous offenser, Madame, et les Comédies veulent de ces sortes de choses.
 
--*who_lacomtesse
-Oui, Monsieur Tibaudier, je vous épouse pour faire enrager tout le monde.
+-*who_la_comtesse
+Oui, Monsieur Tibaudier, je vous épouse, pour faire enrager tout le monde.
 
--*who_monsieurtibaudier
+-*who_monsieur_tibaudier
 Ce m'est bien de l'honneur, Madame.
 
--*who_levicomte
+-*who_le_vicomte
 Souffrez, Madame, qu'en enrageant, nous puissions voir ici le reste du spectacle.

@@ -1,4 +1,4 @@
-<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -32,7 +32,7 @@
         <availability status="restricted">
           <licence target="projet-Molière"/>
         </availability>
-        <idno>http://obvil.paris-sorbonne.fr/corpus/moliere/moliere_amphitryon/</idno>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/moliere/moliere_amphitryon</idno>
         <idno type="tei">http://dramacode.github.io/moliere/moliere_amphitryon.xml</idno>
       </publicationStmt>
       <sourceDesc/>

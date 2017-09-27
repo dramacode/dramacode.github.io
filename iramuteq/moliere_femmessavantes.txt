@@ -1,249 +1,249 @@
 
 
-**** *book_ *id_I01 *act_I *date_1672
+**** *book_ *id_I01 *act_I *date_1672 *creator_moliere
 
 -*who_armande
-Quoi, le beau nom de fille est un titre, ma soeur,
-Dont vous voulez quitter la charmante douceur ?
-Et de vous marier vous osez faire fête ?
-Ce vulgaire dessein vous peut monter en tête ?
+Quoi, le beau nom de Fille est un titre, ma Sœur,
+Dont vous voulez quitter la charmante douceur ?
+Et de vous marier vous osez faire fête ?
+Ce vulgaire dessein vous peut monter en tête ?
 
 -*who_henriette
-Oui, ma soeur.
+Oui, ma sœur.
 
 -*who_armande
-      Ah ce oui se peut-il supporter ?
-Et sans un mal de coeur saurait-on l'écouter ?
+      Ah ce oui se peut-il supporter ?
+Et sans un mal de cœur saurait-on l'écouter ?
 
 -*who_henriette
-Qu'a donc le mariage en soi qui vous oblige,
-Ma soeur... ?
+Qu'a donc le Mariage en soi qui vous oblige,
+Ma Sœur...
 
 -*who_armande
-      Ah mon Dieu, fi !
+      Ah mon Dieu, fi.
 
 -*who_henriette
-      Comment ?
+      Comment ?
 
 -*who_armande
       Ah fi, vous dis-je.
 Ne concevez-vous point ce que, dès qu'on l'entend,
-Un tel mot à l'esprit offre de dégoûtant ?
-De quelle étrange image on est par lui blessée ?
-Sur quelle sale vue il traîne la pensée ?
-N'en frissonnez-vous point ? et pouvez-vous, ma soeur,
-Aux suites de ce mot résoudre votre coeur ?
+Un tel mot à l'Esprit offre de dégoûtant ?
+De quelle étrange image on est par lui blessée ?
+Sur quelle sale vue il traîne la pensée ?
+N'en frissonnez-vous point ? et pouvez-vous, ma Sœur,
+Aux suites de ce mot résoudre votre cœur ?
 
 -*who_henriette
 Les suites de ce mot, quand je les envisage,
-Me font voir un mari, des enfants, un ménage ;
+Me font voir un Mari, des Enfants, un Ménage ;
 Et je ne vois rien là, si j'en puis raisonner,
-Qui blesse la pensée et fasse frissonner.
+Qui blesse la pensée, et fasse frissonner.
 
 -*who_armande
-De tels attachements, ô Ciel ! Sont pour vous plaire ?
+De tels attachements, ô Ciel ! sont pour vous plaire ?
 
 -*who_henriette
 Et qu'est-ce qu'à mon âge on a de mieux à faire,
 Que d'attacher à soi, par le titre d'époux,
-Un homme qui vous aime, et soit aimé de vous ;
-Et de cette union, de tendresse suivie,
-Se faire les douceurs d'une innocente vie ?
-Ce noeud, bien assorti, n'a-t-il pas des appas ?
+Un Homme qui vous aime, et soit aimé de vous ;
+Et de cette union de tendresse suivie,
+Se faire les douceurs d'une innocente vie ?
+Ce nœud bien assorti n'a-t-il pas des appas ?
 
 -*who_armande
-Mon Dieu, que votre esprit est d'un étage bas !
-Que vous jouez au Monde un petit personnage,
-De vous claquemurer aux choses du ménage,
+Mon Dieu, que votre Esprit est d'un étage bas !
+Que vous jouez au Monde un petit Personnage,
+De vous claquemurer aux choses du Ménage,
 Et de n'entrevoir point de plaisirs plus touchants,
-Qu'un idole d'époux, et des marmots d'enfants !
-Laissez aux gens grossiers, aux personnes vulgaires,
+Qu'un idole d'Époux,et des marmots d'Enfants !
+Laissez aux Gens grossiers, aux Personnes vulgaires,
 Les bas amusements de ces sortes d'affaires.
 À de plus hauts objets élevez vos désirs,
 Songez à prendre un goût des plus nobles plaisirs,
 Et traitant de mépris les sens et la matière,
-À l'esprit comme nous donnez-vous toute entière :
-Vous avez notre mère en exemple à vos yeux,
-Que du nom de savante on honore en tous lieux ,
-Tâchez ainsi que moi de vous montrer sa fille,
-Aspirez aux clartés qui sont dans la famille,
+À l'Esprit comme nous donnez-vous toute entière :
+Vous avez notre Mère en exemple à vos yeux,
+Que du nom de Savante on honore en tous lieux,
+Tâchez ainsi que moi de vous montrer sa Fille,
+Aspirez aux Clartés qui sont dans la Famille,
 Et vous rendez sensible aux charmantes douceurs
-Que l'amour de l'étude épanche dans les coeurs :
-Loin d'être aux lois d'un homme en esclave asservie ;
-Mariez-vous, ma soeur, à la philosophie,
-Qui nous monte au-dessus de tout le genre humain,
-Et donne à la raison l'empire souverain,
+Que l'amour de l'Étude épanche dans les cœurs :
+Loin d'être aux lois d'un Homme en Esclave asservie ;
+Mariez-vous, ma Sœur, à la Philosophie,
+Qui nous monte au-dessus de tout le Genre Humain,
+Et donne à la Raison l'empire souverain,
 Soumettant à ses lois la partie animale
-Dont l'appétit grossier aux bêtes nous ravale.
+Dont l'appétit grossier aux Bêtes nous ravale.
 Ce sont là les beaux feux, les doux attachements,
-Qui doivent de la vie occuper les moments ;
-Et les soins où je vois tant de femmes sensibles,
+Qui doivent de la vie occuper les moments ;
+Et les soins où je vois tant de Femmes sensibles,
 Me paraissent aux yeux des pauvretés horribles.
 
 -*who_henriette
-Le Ciel, dont nous voyons que l'ordre est tout puissant,
-Pour différents emplois nous fabrique en naissant ;
-Et tout esprit n'est pas composé d'une étoffe
-Qui se trouve taillée à faire un philosophe.
+Le Ciel, dont nous voyons que l'ordre est tout-puissant,
+Pour différents emplois nous fabrique en naissant ;
+Et tout Esprit n'est pas composé d'une étoffe
+Qui se trouve taillée à faire un Philosophe.
 Si le vôtre est né propre aux élévations
-Où montent des savants les spéculations,
-Le mien est fait, ma soeur, pour aller terre à terre,
+Où montent des Savants les spéculations,
+Le mien est fait, ma Sœur, pour aller terre à terre,
 Et dans les petits soins son faible se resserre.
-Ne troublons point du ciel les justes règlements,
-Et de nos deux instincts suivons les mouvements ;
+Ne troublons point du Ciel les justes règlements,
+Et de nos deux instincts suivons les mouvements ;
 Habitez par l'essor d'un grand et beau génie,
-Les hautes régions de la philosophie,
-Tandis que mon esprit se tenant ici-bas,
-Goûtera de l'hymen les terrestres appas.
-Ainsi, dans nos desseins l'une à l'autre contraire,
-Nous saurons toutes deux imiter notre mère ;
+Les hautes régions de la Philosophie,
+Tandis que mon Esprit se tenant ici-bas,
+Goûtera de l'Hymen les terrestres appas.
+Ainsi dans nos desseins l'une à l'autre contraire,
+Nous saurons toutes deux imiter notre Mère ;
 Vous, du côté de l'âme et des nobles désirs,
-Moi, du côté des sens et des grossiers plaisirs ;
-Vous, aux productions d'esprit et de lumière,
-Moi, dans celles, ma soeur, qui sont de la matière.
+Moi, du côté des sens et des grossiers plaisirs ;
+Vous, aux productions d'Esprit et de lumière,
+Moi, dans celles, ma Sœur, qui sont de la matière.
 
 -*who_armande
-Quand sur une personne on prétend se régler,
-C'est par les beaux côtés qu'il lui faut ressembler ;
+Quand sur une Personne on prétend se régler,
+C'est par les beaux côtés qu'il lui faut ressembler ;
 Et ce n'est point du tout la prendre pour modèle,
-Ma soeur, que de tousser et de cracher comme elle.
+Ma Sœur, que de tousser et de cracher comme elle.
 
 -*who_henriette
 Mais vous ne seriez pas ce dont vous vous vantez,
-Si ma mère n'eût eu que de ces beaux côtés ;
-Et bien vous prend, ma soeur, que son noble génie
-N'ait pas vaqué toujours à la philosophie.
-De grâce, souffrez-moi, par un peu de bonté
-Des bassesses à qui vous devez la clarté ;
+Si ma Mère n'eût eu que de ces beaux côtés ;
+Et bien vous prend, ma Sœur, que son noble génie
+N'ait pas vaqué toujours à la Philosophie.
+De grâce souffrez-moi par un peu de bonté
+Des bassesses à qui vous devez la clarté ;
 Et ne supprimez point, voulant qu'on vous seconde,
-Quelque petit savant qui veut venir au monde.
+Quelque petit Savant qui veut venir au monde.
 
 -*who_armande
-Je vois que votre esprit ne peut être guéri
-Du fol entêtement de vous faire un mari :
-Mais sachons, s'il vous plaît, qui vous songez à prendre ?
+Je vois que votre Esprit ne peut être guéri
+Du fol entêtement de vous faire un Mari :
+Mais sachons, s'il vous plaît, qui vous songez à prendre ?
 Votre visée au moins n'est pas mise à Clitandre.
 
 -*who_henriette
-Et par quelle raison n'y serait-elle pas ?
-Manque-t-il de mérite ? Est-ce un choix qui soit bas ?
+Et par quelle raison n'y serait-elle pas ?
+Manque-t-il de mérite ? est-ce un choix qui soit bas ?
 
 -*who_armande
 Non, mais c'est un dessein qui serait malhonnête,
-Que de vouloir d'un autre enlever la conquête ;
-Et ce n'est pas un fait dans le monde ignoré,
+Que de vouloir d'un autre enlever la conquête ;
+Et ce n'est pas un fait dans le Monde ignoré,
 Que Clitandre ait pour moi hautement soupiré.
 
 -*who_henriette
-Oui, mais tous ces soupirs chez vous sont choses vaines,
-Et vous ne tombez point aux bassesses humaines ;
-Votre esprit à l'hymen renonce pour toujours,
-Et la philosophie a toutes vos amours :
-Ainsi n'ayant au coeur nul dessein pour Clitandre,
-Que vous importe-t-il qu'on y puisse prétendre ?
+Oui,mais tous ces soupirs chez vous sont choses vaines,
+Et vous ne tombez point aux bassesses humaines ;
+Votre esprit à l'Hymen renonce pour toujours,
+Et la Philosophie a toutes vos amours :
+Ainsi n'ayant au cœur nul dessein pour Clitandre,
+Que vous importe-t-il qu'on y puisse prétendre ?
 
 -*who_armande
-Cet empire que tient la raison sur les sens
-Ne fait pas renoncer aux douceurs des encens ;
-Et l'on peut pour époux refuser un mérite
+Cet empire que tient la Raison sur les sens,
+Ne fait pas renoncer aux douceurs des encens ;
+Et l'on peut pour Époux refuser un mérite
 Que pour adorateur on veut bien à sa suite.
 
 -*who_henriette
 Je n'ai pas empêché qu'à vos perfections
-Il n'ait continué ses adorations ;
+Il n'ait continué ses adorations ;
 Et je n'ai fait que prendre, au refus de votre âme,
 Ce qu'est venu m'offrir l'hommage de sa flamme.
 
 -*who_armande
-Mais à l'offre des voeux d'un amant dépité,
-Trouvez-vous, je vous prie, entière sûreté ?
+Mais à l'offre des vœux d'un Amant dépité,
+Trouvez-vous, je vous prie, entière sûreté ?
 Croyez-vous pour vos yeux sa passion bien forte,
-Et qu'en son coeur pour moi toute flamme soit morte ?
+Et qu'en son cœur pour moi toute flamme soit morte ?
 
 -*who_henriette
-Il me le dit, ma soeur, et pour moi je le crois.
+Il me le dit, ma Sœur, et pour moi je le crois.
 
 -*who_armande
-Ne soyez pas, ma soeur, d'une si bonne foi,
+Ne soyez pas, ma Sœur, d'une si bonne foi,
 Et croyez, quand il dit qu'il me quitte et vous aime,
-Qu'il n'y songe pas bien et se trompe lui-même.
+Qu'il n'y songe pas bien, et se trompe lui-même.
 
 -*who_henriette
-Je ne sais ; mais enfin, si c'est votre plaisir,
+Je ne sais ; Mais enfin, si c'est votre plaisir,
 Il nous est bien aisé de nous en éclaircir.
 Je l'aperçois qui vient, et sur cette matière
 Il pourra nous donner une pleine lumière.
 
-**** *book_ *id_I02 *act_I *date_1672
+**** *book_ *id_I02 *act_I *date_1672 *creator_moliere
 
 -*who_henriette
-Pour me tirer d'un doute où me jette ma soeur,
-Entre elle et moi, Clitandre, expliquez votre coeur,
+Pour me tirer d'un doute où me jette ma Sœur,
+Entre elle et moi, Clitandre, expliquez votre cœur,
 Découvrez-en le fond, et nous daignez apprendre
-Qui de nous à vos voeux est en droit de prétendre.
+Qui de nous à vos vœux est en droit de prétendre.
 
 -*who_armande
-Non, non, je ne veux point à votre passion
-Imposer la rigueur d'une explication ;
-Je ménage les gens, et sais comme embarrasse
+Non, non,je ne veux point à votre passion
+Imposer la rigueur d'une explication ;
+Je ménage les Gens, et sais comme embarrasse
 Le contraignant effort de ces aveux en face.
 
 -*who_clitandre
-Non, Madame, mon coeur, qui dissimule peu,
-Ne sent nulle contrainte à faire un libre aveu ;
+Non, Madame, mon cœur qui dissimule peu,
+Ne sent nulle contrainte à faire un libre aveu ;
 Dans aucun embarras un tel pas ne me jette,
 Et j'avouerai tout haut d'une âme franche et nette,
 Que les tendres liens où je suis arrêté,
-Mon amour et mes voeux, sont tout de ce côté.
-Qu'à nulle émotion cet aveu ne vous porte ;
+Mon amour et mes vœux, sont tout de ce côté.
+Qu'à nulle émotion cet aveu ne vous porte ;
 Vous avez bien voulu les choses de la sorte,
 Vos attraits m'avaient pris, et mes tendres soupirs
-Vous ont assez prouvé l'ardeur de mes désirs :
-Mon coeur vous consacrait une flamme immortelle,
-Mais vos yeux n'ont pas cru leur conquête assez belle ;
+Vous ont assez prouvé l'ardeur de mes désirs :
+Mon cœur vous consacrait une flamme immortelle,
+Mais vos yeux n'ont pas cru leur conquête assez belle ;
 J'ai souffert sous leur joug cent mépris différents,
 Ils régnaient sur mon âme en superbes tyrans,
 Et je me suis cherché, lassé de tant de peines,
-Des vainqueurs plus humains, et de moins rudes chaînes :
+Des vainqueurs plus humains, et de moins rudes chaînes :
 Je les ai rencontrés, Madame, dans ces yeux,
-Et leurs traits à jamais me seront précieux ;
+Et leurs traits à jamais me seront précieux ;
 D'un regard pitoyable ils ont séché mes larmes,
-Et n'ont pas dédaigné le rebut de vos charmes ;
+Et n'ont pas dédaigné le rebut de vos charmes ;
 De si rares bontés m'ont si bien su toucher,
-Qu'il n'est rien qui me puisse à mes fers arracher ;
+Qu'il n'est rien qui me puisse à mes fers arracher ;
 Et j'ose maintenant vous conjurer, Madame,
 De ne vouloir tenter nul effort sur ma flamme,
-De ne point essayer à rappeler un coeur
+De ne point essayer à rappeler un cœur
 Résolu de mourir dans cette douce ardeur.
 
 -*who_armande
 Eh qui vous dit, Monsieur, que l'on ait cette envie,
-Et que de vous enfin si fort on se soucie ?
-Je vous trouve plaisant, de vous le figurer ;
+Et que de vous enfin si fort on se soucie ?
+Je vous trouve plaisant, de vous le figurer ;
 Et bien impertinent, de me le déclarer.
 
 -*who_henriette
-Eh doucement, ma soeur. Où donc est la morale
+Eh doucement, ma Sœur. Où donc est la Morale
 Qui sait si bien régir la partie animale,
-Et retenir la bride aux efforts du courroux ?
+Et retenir la bride aux efforts du courroux ?
 
 -*who_armande
 Mais vous qui m'en parlez, où la pratiquez-vous,
 De répondre à l'amour que l'on vous fait paraître,
-Sans le congé de ceux qui vous ont donné l'être ?
+Sans le congé de ceux qui vous ont donné l'être ?
 Sachez que le devoir vous soumet à leurs lois,
 Qu'il ne vous est permis d'aimer que par leur choix,
-Qu'ils ont sur votre coeur l'autorité suprême,
+Qu'ils ont sur votre cœur l'autorité suprême,
 Et qu'il est criminel d'en disposer vous-même.
 
 -*who_henriette
 Je rends grâce aux bontés que vous me faites voir,
-De m'enseigner si bien les choses du devoir ;
-Mon coeur sur vos leçons veut régler sa conduite,
-Et pour vous faire voir, ma soeur, que j'en profite,
+De m'enseigner si bien les choses du devoir ;
+Mon cœur sur vos leçons veut régler sa conduite,
+Et pour vous faire voir, ma Sœur, que j'en profite ;
 Clitandre, prenez soin d'appuyer votre amour
 De l'agrément de ceux dont j'ai reçu le jour,
-Faites-vous sur mes voeux un pouvoir légitime,
+Faites-vous sur mes vœux un pouvoir légitime,
 Et me donnez moyen de vous aimer sans crime.
 
 -*who_clitandre
@@ -251,38 +251,38 @@ J'y vais de tous mes soins travailler hautement,
 Et j'attendais de vous ce doux consentement.
 
 -*who_armande
-Vous triomphez, ma soeur, et faites une mine
-À vous imaginer que cela me chagrine.
+Vous triomphez, ma Sœur, et faites une mine
+Àvous imaginer que cela me chagrine.
 
 -*who_henriette
-Moi, ma soeur, point du tout, je sais que sur vos sens
-Les droits de la raison sont toujours tout puissants,
-Et que par les leçons qu'on prend dans la sagesse,
+Moi, ma Sœur, point du tout ; je sais que sur vos sens
+Les droits de la Raison sont toujours tout-puissants,
+Et que par les leçons qu'on prend dans la Sagesse,
 Vous êtes au-dessus d'une telle faiblesse.
 Loin de vous soupçonner d'aucun chagrin, je crois
 Qu'ici vous daignerez vous employer pour moi,
 Appuyer sa demande, et de votre suffrage
-Presser l'heureux moment de notre mariage.
+Presser l'heureux moment de notre Mariage.
 Je vous en sollicite, et pour y travailler...
 
 -*who_armande
-Votre petit esprit se mêle de railler,
-Et d'un coeur qu'on vous jette on vous voit toute fière.
+Votre petit Esprit se mêle de railler,
+Et d'un cœur qu'on vous jette on vous voit toute fière.
 
 -*who_henriette
-Tout jeté qu'est ce coeur, il ne vous déplaît guère ;
+Tout jeté qu'est ce cœur, il ne vous déplaît guère ;
 Et si vos yeux sur moi le pouvaient ramasser,
 Ils prendraient aisément le soin de se baisser.
 
 -*who_armande
-À répondre à cela je ne daigne descendre,
+Àrépondre à cela je ne daigne descendre,
 Et ce sont sots discours qu'il ne faut pas entendre.
 
 -*who_henriette
 C'est fort bien fait à vous, et vous nous faites voir
 Des modérations qu'on ne peut concevoir.
 
-**** *book_ *id_I03 *act_I *date_1672
+**** *book_ *id_I03 *act_I *date_1672 *creator_moliere
 
 -*who_henriette
 Votre sincère aveu ne l'a pas peu surprise.
@@ -290,159 +290,159 @@ Votre sincère aveu ne l'a pas peu surprise.
 -*who_clitandre
 Elle mérite assez une telle franchise,
 Et toutes les hauteurs de sa folle fierté
-Sont dignes tout au moins de ma sincérité :
-Mais puisqu'il m'est permis, je vais à votre père,
+Sont dignes tout au moins de ma sincérité :
+Mais puisqu'il m'est permis, je vais à votre Père,
 Madame...
 
 -*who_henriette
-      Le plus sûr est de gagner ma mère :
-Mon père est d'une humeur à consentir à tout,
-Mais il met peu de poids aux choses qu'il résout ;
+      Le plus sûr est de gagner ma Mère :
+Mon Père est d'une humeur à consentir à tout,
+Mais il met peu de poids aux choses qu'il résout ;
 Il a reçu du Ciel certaine bonté d'âme,
-Qui le soumet d'abord à ce que veut sa femme ;
+Qui le soumet d'abord à ce que veut sa Femme ;
 C'est elle qui gouverne, et d'un ton absolu
 Elle dicte pour loi ce qu'elle a résolu.
-Je voudrais bien vous voir pour elle, et pour ma tante,
+Je voudrais bien vous voir pour elle, et pour ma Tante,
 Une âme, je l'avoue, un peu plus complaisante,
 Un esprit qui flattant les visions du leur,
 Vous pût de leur estime attirer la chaleur.
 
 -*who_clitandre
-Mon coeur n'a jamais pu, tant il est né sincère,
-Même dans votre soeur flatter leur caractère,
-Et les femmes docteurs ne sont point de mon goût.
+Mon cœur n'a jamais pu, tant il est né sincère,
+Même dans votre Sœur flatter leur caractère,
+Et les Femmes Docteurs ne sont point de mon goût.
 Je consens qu'une femme ait des clartés de tout,
 Mais je ne lui veux point la passion choquante
-De se rendre savante afin d'être savante ;
-Et j'aime que souvent, aux questions qu'on fait,
-Elle sache ignorer les choses qu'elle sait ;
+De se rendre savante afin d'être Savante ;
+Et j'aime que souvent aux questions qu'on fait,
+Elle sache ignorer les choses qu'elle sait ;
 De son étude enfin je veux qu'elle se cache,
 Et qu'elle ait du savoir sans vouloir qu'on le sache,
-Sans citer les auteurs, sans dire de grands mots,
+Sans citer les Auteurs, sans dire de grands mots,
 Et clouer de l'esprit à ses moindres propos.
-Je respecte beaucoup Madame votre mère,
+Je respecte beaucoup Madame votre Mère,
 Mais je ne puis du tout approuver sa chimère,
-Et me rendre l'écho des choses qu'elle dit,
-Aux encens qu'elle donne à son héros d'esprit.
+Et me rendre l'écho des choses qu'elle dit
+Aux encens qu'elle donne à son Héros d'esprit.
 Son Monsieur Trissotin me chagrine, m'assomme,
-Et j'enrage de voir qu'elle estime un tel homme,
-Qu'elle nous mette au rang des grands et beaux esprits
-Un benêt dont partout on siffle les écrits,
-Un pédant dont on voit la plume libérale,
-D'officieux papiers fournir toute la halle.
+Et j'enrage de voir qu'elle estime un tel Homme,
+Qu'elle nous mette au rang des grands et beaux Esprits
+Un Benêt dont partout on siffle les Écrits,
+Un Pédant dont on voit la plume libérale
+D'officieux papiers fournir toute la Halle.
 
 -*who_henriette
-Ses écrits, ses discours, tout m'en semble ennuyeux,
-Et je me trouve assez votre goût et vos yeux :
-Mais comme sur ma mère il a grande puissance,
+Ses Écrits, ses discours, tout m'en semble ennuyeux,
+Et je me trouve assez votre goût et vos yeux :
+Mais comme sur ma Mère il a grande puissance,
 Vous devez vous forcer à quelque complaisance.
-Un amant fait sa cour où s'attache son coeur,
-Il veut de tout le monde y gagner la faveur ;
-Et, pour n'avoir personne à sa flamme contraire,
-Jusqu'au chien du logis il s'efforce de plaire.
+Un Amant fait sa Cour où s'attache son cœur,
+Il veut de tout le Monde y gagner la faveur ;
+Et pour n'avoir personne à sa flamme contraire,
+Jusqu'au Chien du Logis il s'efforce de plaire.
 
 -*who_clitandre
-Oui, vous avez raison ; mais Monsieur Trissotin
-M'inspire au fond de l'âme un dominant chagrin,
+Oui, vous avez raison ; mais Monsieur Trissotin
+M'inspire au fond de l'âme un dominant chagrin.
 Je ne puis consentir, pour gagner ses suffrages,
-À me déshonorer en prisant ses ouvrages ;
+À me déshonorer, en prisant ses Ouvrages ;
 C'est par eux qu'à mes yeux il a d'abord paru,
 Et je le connaissais avant que l'avoir vu.
-Je vis dans le fatras des écrits qu'il nous donne,
-Ce qu'étale en tous lieux sa pédante personne,
-La constante hauteur de sa présomption ;
-Cette intrépidité de bonne opinion ;
+Je vis dans le fatras des Écrits qu'il nous donne,
+Ce qu'étale en tous lieux sa pédante Personne,
+La constante hauteur de sa présomption ;
+Cette intrépidité de bonne opinion ;
 Cet indolent état de confiance extrême,
 Qui le rend en tout temps si content de soi-même,
-Qui fait qu'à son mérite incessamment il rit ;
-Qu'il se sait si bon gré de tout ce qu'il écrit ;
+Qui fait qu'à son mérite incessamment il rit ;
+Qu'il se sait si bon gré de tout ce qu'il écrit ;
 Et qu'il ne voudrait pas changer sa renommée
-Contre tous les honneurs d'un général d'armée.
+Contre tous les honneurs d'un Général d'Armée.
 
 -*who_henriette
 C'est avoir de bons yeux que de voir tout cela.
 
 -*who_clitandre
-Jusques à sa figure encor la chose alla,
-Et je vis par les vers qu'à la tête il nous jette,
-De quel air il fallait que fût fait le poète ;
+Jusques à sa Figure encor la chose alla,
+Et je vis par les Vers qu'à la tête il nous jette,
+De quel air il fallait que fût fait le Poète ;
 Et j'en avais si bien deviné tous les traits,
-Que rencontrant un homme un jour dans le Palais,
+Que rencontrant un Homme un jour dans le Palais,
 Je gageai que c'était Trissotin en personne,
 Et je vis qu'en effet la gageure était bonne.
 
 -*who_henriette
-Quel conte !
+Quel conte !
 
 -*who_clitandre
-      Non, je dis la chose comme elle est :
-Mais je vois votre tante. Agréez, s'il vous plaît,
-Que mon coeur lui déclare ici notre mystère,
-Et gagne sa faveur auprès de votre mère.
+      Non, je dis la chose comme elle est :
+Mais je vois votre Tante. Agréez, s'il vous plaît,
+Que mon cœur lui déclare ici notre mystère,
+Et gagne sa faveur auprès de votre Mère.
 
-**** *book_ *id_I04 *act_I *date_1672
+**** *book_ *id_I04 *act_I *date_1672 *creator_moliere
 
 -*who_clitandre
-Souffrez, pour vous parler, Madame, qu'un amant
+Souffrez, pour vous parler, Madame, qu'un Amant
 Prenne l'occasion de cet heureux moment,
-Et se découvre à vous de la sincère flamme...
+Et se découvre à vous de la sincère flamme…
 
 -*who_belise
-Ah tout beau, gardez-vous de m'ouvrir trop votre âme :
-Si je vous ai su mettre au rang de mes amants,
+Ah tout beau, gardez-vous de m'ouvrir trop votre âme :
+Si je vous ai su mettre au rang de mes Amants,
 Contentez-vous des yeux pour vos seuls truchements,
 Et ne m'expliquez point par un autre langage
-Des désirs qui chez moi passent pour un outrage ;
+Des désirs qui chez moi passent pour un outrage ;
 Aimez-moi, soupirez, brûlez pour mes appas,
-Mais qu'il me soit permis de ne le savoir pas :
+Mais qu'il me soit permis de ne le savoir pas :
 Je puis fermer les yeux sur vos flammes secrètes,
-Tant que vous vous tiendrez aux muets interprètes ;
+Tant que vous vous tiendrez aux muets Interprètes ;
 Mais si la bouche vient à s'en vouloir mêler,
 Pour jamais de ma vue il vous faut exiler.
 
 -*who_clitandre
-Des projets de mon coeur ne prenez point d'alarme ;
+Des projets de mon cœur ne prenez point d'alarme ;
 Henriette, Madame, est l'objet qui me charme,
 Et je viens ardemment conjurer vos bontés
 De seconder l'amour que j'ai pour ses beautés.
 
 -*who_belise
 Ah certes le détour est d'esprit, je l'avoue,
-Ce subtil faux-fuyant mérite qu'on le loue ;
-Et dans tous les romans où j'ai jeté les yeux,
+Ce subtil faux-fuyant mérite qu'on le loue ;
+Et dans tous les Romans où j'ai jeté les yeux,
 Je n'ai rien rencontré de plus ingénieux.
 
 -*who_clitandre
 Ceci n'est point du tout un trait d'esprit, Madame,
 Et c'est un pur aveu de ce que j'ai dans l'âme.
 Les Cieux, par les liens d'une immuable ardeur,
-Aux beautés d'Henriette ont attaché mon coeur ;
+Aux beautés d'Henriette ont attaché mon cœur ;
 Henriette me tient sous son aimable empire,
-Et l'hymen d'Henriette est le bien où j'aspire ;
+Et l'hymen d'Henriette est le bien où j'aspire ;
 Vous y pouvez beaucoup, et tout ce que je veux,
-C'est que vous y daigniez favoriser mes voeux.
+C'est que vous y daigniez favoriser mes vœux.
 
 -*who_belise
 Je vois où doucement veut aller la demande,
-Et je sais sous ce nom ce qu'il faut que j'entende ;
+Et je sais sous ce nom ce qu'il faut que j'entende ;
 La figure est adroite, et pour n'en point sortir,
-Aux choses que mon coeur m'offre à vous repartir,
-Je dirai qu'Henriette à l'hymen est rebelle,
+Aux choses que mon cœur m'offre à vous repartir,
+Je dirai qu'Henriette à l'Hymen est rebelle,
 Et que sans rien prétendre, il faut brûler pour elle.
 
 -*who_clitandre
 Eh, Madame, à quoi bon un pareil embarras,
-Et pourquoi voulez-vous penser ce qui n'est pas ?
+Et pourquoi voulez-vous penser ce qui n'est pas ?
 
 -*who_belise
-Mon Dieu, point de façons ; cessez de vous défendre
-De ce que vos regards m'ont souvent fait entendre ;
+Mon Dieu, point de façons ; cessez de vous défendre
+De ce que vos regards m'ont souvent fait entendre ;
 Il suffit que l'on est contente du détour
 Dont s'est adroitement avisé votre amour,
-Et que, sous la figure où le respect l'engage,
+Et que sous la Figure où le respect l'engage,
 On veut bien se résoudre à souffrir son hommage,
 Pourvu que ses transports par l'honneur éclairés
-N'offrent à mes autels que des voeux épurés.
+N'offrent à mes autels que des vœux épurés.
 
 -*who_clitandre
 Mais...
@@ -466,108 +466,108 @@ Non, non, je ne veux rien entendre davantage.
 
 -*who_clitandre
 Diantre soit de la folle avec ses visions.
-A-t-on rien vu d'égal à ces préventions ?
+A-t-on rien vu d'égal à ces préventions ?
 Allons commettre un autre au soin que l'on me donne,
 Et prenons le secours d'une sage personne.
 
-**** *book_ *id_II01 *act_II *date_1672
+**** *book_ *id_II01 *act_II *date_1672 *creator_moliere
 
 -*who_ariste
-Oui, je vous porterai la réponse au plus tôt ;
+Oui, je vous porterai la réponse au plus tôt ;
 J'appuierai, presserai, ferai tout ce qu'il faut.
-Qu'un amant, pour un mot, a de choses à dire !
-Et qu'impatiemment il veut ce qu'il désire !
+Qu'un Amant, pour un mot, a de choses à dire !
+Et qu'impatiemment il veut ce qu'il désire !
 Jamais...
 
-**** *book_ *id_II02 *act_II *date_1672
+**** *book_ *id_II02 *act_II *date_1672 *creator_moliere
 
 -*who_ariste
-      Ah, Dieu vous gard', mon frère !
+      Ah, Dieu vous gard', mon frère.
 
 -*who_chrysale
-      Et vous aussi,
-Mon frère.
+      Et vous aussi.
+Mon Frère.
 
 -*who_ariste
-      Savez-vous ce qui m'amène ici ?
+      Savez-vous ce qui m'amène ici ?
 
 -*who_chrysale
-Non ; mais, si vous voulez, je suis prêt à l'apprendre.
+Non ; mais, si vous voulez, je suis prêt à l'apprendre.
 
 -*who_ariste
-Depuis assez longtemps vous connaissez Clitandre ?
+Depuis assez longtemps vous connaissez Clitandre ?
 
 -*who_chrysale
 Sans doute, et je le vois qui fréquente chez nous.
 
 -*who_ariste
-En quelle estime est-il, mon frère, auprès de vous ?
+En quelle estime est-il, mon Frère, auprès de vous ?
 
 -*who_chrysale
-D'homme d'honneur, d'esprit, de coeur, et de conduite,
-Et je vois peu de gens qui soient de son mérite.
+D'Homme d'honneur, d'esprit, de cœur, et de conduite,
+Et je vois peu de Gens qui soient de son mérite.
 
 -*who_ariste
 Certain désir qu'il a, conduit ici mes pas,
 Et je me réjouis que vous en fassiez cas.
 
 -*who_chrysale
-Je connus feu son père en mon voyage à Rome.
+Je connus feu son Père en mon voyage à Rome.
 
 -*who_ariste
 Fort bien.
 
 -*who_chrysale
-      C'était, mon frère, un fort bon gentilhomme.
+      C'était, mon Frère, un fort bon Gentilhomme.
 
 -*who_ariste
 On le dit.
 
 -*who_chrysale
       Nous n'avions alors que vingt-huit ans,
-Et nous étions, ma foi, tous deux de verts galants.
+Et nous étions, ma foi, tous deux de Verts-Galants.
 
 -*who_ariste
 Je le crois.
 
 -*who_chrysale
-      Nous donnions chez les dames romaines,
-Et tout le monde là parlait de nos fredaines ;
-Nous faisions des jaloux.
+      Nous donnions chez les Dames Romaines,
+Et tout le Monde là parlait de nos fredaines ;
+Nous faisions des Jaloux.
 
 -*who_ariste
-      Voilà qui va des mieux.
+      Voilà qui va des mieux :
 Mais venons au sujet qui m'amène en ces lieux.
 
-**** *book_ *id_II03 *act_II *date_1672
+**** *book_ *id_II03 *act_II *date_1672 *creator_moliere
 
 -*who_ariste
-Clitandre auprès de vous me fait son interprète,
-Et son coeur est épris des grâces d'Henriette.
+Clitandre auprès de vous me fait son Interprète,
+Et son cœur est épris des grâces d'Henriette.
 
 -*who_chrysale
-Quoi, de ma fille ?
+Quoi, de ma Fille ?
 
 -*who_ariste
       Oui, Clitandre en est charmé,
-Et je ne vis jamais amant plus enflammé.
+Et je ne vis jamais Amant plus enflammé.
 
 -*who_belise
-Non, non, je vous entends, vous ignorez l'histoire,
+Non, non,je vous entends, vous ignorez l'histoire,
 Et l'affaire n'est pas ce que vous pouvez croire.
 
 -*who_ariste
-Comment, ma soeur ?
+Comment, ma Sœur ?
 
 -*who_belise
       Clitandre abuse vos esprits,
-Et c'est d'un autre objet que son coeur est épris.
+Et c'est d'un autre Objet que son cœur est épris.
 
 -*who_ariste
-Vous raillez. Ce n'est pas Henriette qu'il aime ?
+Vous raillez. Ce n'est pas Henriette qu'il aime ?
 
 -*who_belise
-Non ; j'en suis assurée.
+Non, j'en suis assurée.
 
 -*who_ariste
       Il me l'a dit lui-même.
@@ -576,8 +576,8 @@ Non ; j'en suis assurée.
 Eh oui.
 
 -*who_ariste
-      Vous me voyez, ma soeur, chargé par lui
-D'en faire la demande à son père aujourd'hui.
+      Vous me voyez, ma Sœur, chargé par lui
+D'en faire la demande à son Père aujourd'hui.
 
 -*who_belise
 Fort bien.
@@ -589,54 +589,54 @@ De presser les moments d'une telle alliance.
 -*who_belise
 Encor mieux. On ne peut tromper plus galamment.
 Henriette, entre nous, est un amusement,
-Un voile ingénieux, un prétexte, mon frère,
-À couvrir d'autres feux dont je sais le mystère ;
+Un voile ingénieux, un prétexte, mon Frère,
+À couvrir d'autres feux dont je sais le mystère,
 Et je veux bien tous deux vous mettre hors d'erreur.
 
 -*who_ariste
-Mais puisque vous savez tant de choses, ma soeur,
-Dites-nous, s'il vous plaît, cet autre objet qu'il aime ?
+Mais puisque vous savez tant de choses, ma Sœur,
+Dites-nous, s'il vous plaît, cet autre Objet qu'il aime.
 
 -*who_belise
-Vous le voulez savoir ?
+Vous le voulez savoir ?
 
 -*who_ariste
-      Oui. Quoi ?
+      Oui. Quoi ?
 
 -*who_belise
       Moi.
 
 -*who_ariste
-      Vous ?
+      Vous ?
 
 -*who_belise
       Moi-même.
 
 -*who_ariste
-Hay, ma soeur !
+Hay, ma Sœur !
 
 -*who_belise
       Qu'est-ce donc que veut dire ce Hay,
-Et qu'a de surprenant le discours que je fais ?
-On est faite d'un air, je pense, à pouvoir dire
-Qu'on n'a pas pour un coeur soumis à son empire ;
-Et Dorante, Damis, Cléonte et Lycidas
+Et qu'a de surprenant le discours que je fais ?
+On est faite d'un air je pense à pouvoir dire
+Qu'on n'a pas pour un Cœur soumis à son empire ;
+Et Dorante, Damis, Cléonte, et Lycidas,
 Peuvent bien faire voir qu'on a quelques appas.
 
 -*who_ariste
-Ces gens vous aiment ?
+Ces gens vous aiment ?
 
 -*who_belise
       Oui, de toute leur puissance.
 
 -*who_ariste
-Ils vous l'ont dit ?
+Ils vous l'ont dit ?
 
 -*who_belise
-      Aucun n'a pris cette licence ;
+      Aucun n'a pris cette licence ;
 Ils m'ont su révérer si fort jusqu'à ce jour,
-Qu'ils ne m'ont jamais dit un mot de leur amour :
-Mais pour m'offrir leur coeur, et vouer leur service,
+Qu'ils ne m'ont jamais dit un mot de leur amour :
+Mais pour m'offrir leur cœur, et vouer leur service,
 Les muets truchements ont tous fait leur office.
 
 -*who_ariste
@@ -658,30 +658,30 @@ Cléonte et Lycidas ont pris femme tous deux.
 C'est par un désespoir où j'ai réduit leurs feux.
 
 -*who_ariste
-Ma foi, ma chère soeur, vision toute claire.
+Ma foi ! ma chère Sœur, vision toute claire.
 
 -*who_chrysale
 De ces chimères-là vous devez vous défaire.
 
 -*who_belise
-Ah chimères ! Ce sont des chimères, dit-on !
-Chimères, moi ! Vraiment chimères est fort bon !
-Je me réjouis fort de chimères, mes frères,
+Ah chimères ! Ce sont des chimères, dit-on !
+Chimères, moi ! Vraiment chimères est fort bon !
+Je me réjouis fort de chimères, mes Frères,
 Et je ne savais pas que j'eusse des chimères.
 
-**** *book_ *id_II04 *act_II *date_1672
+**** *book_ *id_II04 *act_II *date_1672 *creator_moliere
 
 -*who_chrysale
-Notre soeur est folle oui.
+Notre sœur est folle, oui.
 
 -*who_ariste
       Cela croît tous les jours.
 Mais, encore une fois, reprenons le discours.
-Clitandre vous demande Henriette pour femme,
-Voyez quelle réponse on doit faire à sa flamme ?
+Clitandre vous demande Henriette pour Femme,
+Voyez quelle réponse on doit faire à sa flamme ?
 
 -*who_chrysale
-Faut-il le demander ? J'y consens de bon coeur,
+Faut-il le demander ? J'y consens de bon cœur,
 Et tiens son alliance à singulier honneur.
 
 -*who_ariste
@@ -689,25 +689,25 @@ Vous savez que de bien il n'a pas l'abondance,
 Que...
 
 -*who_chrysale
-      C'est un intérêt qui n'est pas d'importance ;
+      C'est un intérêt qui n'est pas d'importance ;
 Il est riche en vertu, cela vaut des trésors,
-Et puis son père et moi n'étions qu'un en deux corps.
+Et puis son Père et moi n'étions qu'un en deux corps.
 
 -*who_ariste
-Parlons à votre femme, et voyons à la rendre
+Parlons à votre Femme, et voyons à la rendre
 Favorable...
 
 -*who_chrysale
-      Il suffit, je l'accepte pour gendre.
+      Il suffit, je l'accepte pour Gendre.
 
 -*who_ariste
-Oui ; mais pour appuyer votre consentement,
-Mon frère, il n'est pas mal d'avoir son agrément ;
+Oui ; mais pour appuyer votre consentement,
+Mon Frère, il n'est pas mal d'avoir son agrément,
 Allons...
 
 -*who_chrysale
-      Vous moquez-vous ? Il n'est pas nécessaire,
-Je réponds de ma femme, et prends sur moi l'affaire.
+      Vous moquez-vous ? Il n'est pas nécessaire,
+Je réponds de ma Femme, et prends sur moi l'affaire.
 
 -*who_ariste
 Mais...
@@ -721,52 +721,52 @@ Soit. Je vais là-dessus sonder votre Henriette,
 Et reviendrai savoir...
 
 -*who_chrysale
-      C'est une affaire faite,
-Et je vais à ma femme en parler sans délai.
+      C'est une affaire faite.
+Et je vais à ma Femme en parler sans délai.
 
-**** *book_ *id_II05 *act_II *date_1672
+**** *book_ *id_II05 *act_II *date_1672 *creator_moliere
 
 -*who_martine
-Me voilà bien chanceuse ! Hélas l'an dit bien vrai,
-Qui veut noyer son chien l'accuse de la rage,
+Me voilà bien chanceuse ! Hélas l'an dit bien vrai :
+Qui veut noyer son Chien, l'accuse de la rage,
 Et service d'autrui n'est pas un héritage.
 
 -*who_chrysale
-Qu'est-ce donc ? Qu'avez-vous, Martine ?
+Qu'est-ce donc ? Qu'avez-vous, Martine ?
 
 -*who_martine
-      Ce que j'ai ?
+      Ce que j'ai ?
 
 -*who_chrysale
-Oui ?
+Oui ?
 
 -*who_martine
       J'ai que l'an me donne aujourd'hui mon congé,
 Monsieur.
 
 -*who_chrysale
-      Votre congé !
+      Votre congé !
 
 -*who_martine
       Oui, Madame me chasse.
 
 -*who_chrysale
-Je n'entends pas cela. Comment ?
+Je n'entends pas cela. Comment ?
 
 -*who_martine
       On me menace,
 Si je ne sors d'ici, de me bailler cent coups.
 
 -*who_chrysale
-Non, vous demeurerez, je suis content de vous.
+Non, vous demeurerez, je suis content de vous ;
 Ma femme bien souvent a la tête un peu chaude,
 Et je ne veux pas moi...
 
-**** *book_ *id_II06 *act_II *date_1672
+**** *book_ *id_II06 *act_II *date_1672 *creator_moliere
 
 -*who_philaminte
-      Quoi, je vous vois, maraude ?
-Vite, sortez, friponne ; allons, quittez ces lieux,
+      Quoi, je vous vois, Maraude ?
+Vite, sortez, Friponne ; allons, quittez ces lieux,
 Et ne vous présentez jamais devant mes yeux.
 
 -*who_chrysale
@@ -776,7 +776,7 @@ Tout doux.
       Non, c'en est fait.
 
 -*who_chrysale
-      Eh !
+      Eh.
 
 -*who_philaminte
       Je veux qu'elle sorte.
@@ -785,29 +785,29 @@ Tout doux.
 Mais qu'a-t-elle commis, pour vouloir de la sorte...
 
 -*who_philaminte
-Quoi ? vous la soutenez ?
+Quoi, vous la soutenez ?
 
 -*who_chrysale
       En aucune façon.
 
 -*who_philaminte
-Prenez-vous son parti contre moi ?
+Prenez-vous son parti contre moi ?
 
 -*who_chrysale
-      Mon Dieu non ;
+      Mon Dieu non ;
 Je ne fais seulement que demander son crime.
 
 -*who_philaminte
-Suis-je pour la chasser sans cause légitime ?
+Suis-je pour la chasser sans cause légitime ?
 
 -*who_chrysale
-Je ne dis pas cela, mais il faut de nos gens...
+Je ne dis pas cela, mais il faut de nos Gens...
 
 -*who_philaminte
 Non, elle sortira, vous dis-je, de céans.
 
 -*who_chrysale
-Hé bien oui. Vous dit-on quelque chose là-contre ?
+Hé bien oui. Vous dit-on quelque chose là -contre ?
 
 -*who_philaminte
 Je ne veux point d'obstacle aux désirs que je montre.
@@ -816,58 +816,58 @@ Je ne veux point d'obstacle aux désirs que je montre.
 D'accord.
 
 -*who_philaminte
-      Et vous devez en raisonnable époux,
+      Et vous devez en raisonnable Époux,
 Être pour moi contre elle et prendre mon courroux.
 
 -*who_chrysale
-Aussi fais-je. Oui, ma femme avec raison vous chasse,
+Aussi fais-je. Oui, ma Femme avec raison vous chasse,
 Coquine, et votre crime est indigne de grâce.
 
 -*who_martine
-Qu'est-ce donc que j'ai fait ?
+Qu'est-ce donc que j'ai fait ?
 
 -*who_chrysale
-      Ma foi je ne sais pas.
+      Ma foi !Je ne sais pas.
 
 -*who_philaminte
 Elle est d'humeur encore à n'en faire aucun cas.
 
 -*who_chrysale
 A-t-elle, pour donner matière à votre haine,
-Cassé quelque miroir, ou quelque porcelaine ?
+Cassé quelque Miroir, ou quelque Porcelaine ?
 
 -*who_philaminte
 Voudrais-je la chasser, et vous figurez-vous
-Que pour si peu de chose on se mette en courroux ?
+Que pour si peu de chose on se mette en courroux ?
 
 -*who_chrysale
-Qu'est-ce à dire ? L'affaire est donc considérable ?
+Qu'est-ce à dire ? L'affaire est donc considérable ?
 
 -*who_philaminte
-Sans doute. Me voit-on femme déraisonnable ?
+Sans doute. Me voit-on femme déraisonnable ?
 
 -*who_chrysale
 Est-ce qu'elle a laissé, d'un esprit négligent,
-Dérober quelque aiguière ou quelque plat d'argent ?
+Dérober quelque Aiguière, ou quelque Plat d'argent ?
 
 -*who_philaminte
 Cela ne serait rien.
 
 -*who_chrysale
-      Oh, oh ! Peste, la belle !
-Quoi ? L'avez-vous surprise à n'être pas fidèle ?
+      Oh, oh ! Peste, la Belle !
+Quoi ? l'avez-vous surprise à n'être pas fidèle ?
 
 -*who_philaminte
 C'est pis que tout cela.
 
 -*who_chrysale
-      Pis que tout cela ?
+      Pis que tout cela ?
 
 -*who_philaminte
       Pis.
 
 -*who_chrysale
-Comment diantre, friponne ! Euh ? A-t-elle commis...
+Comment diantre, Friponne ! Euh ? a-t-elle commis...
 
 -*who_philaminte
 Elle a, d'une insolence à nulle autre pareille,
@@ -879,16 +879,16 @@ Qu'en termes décisifs condamne Vaugelas.
 Est-ce là...
 
 -*who_philaminte
-      Quoi, toujours, malgré nos remontrances,
-Heurter le fondement de toutes les sciences ;
-La grammaire qui sait régenter jusqu'aux Rois,
-Et les fait la main haute obéir à ses lois ?
+      Quoi, toujours malgré nos remontrances,
+Heurter le fondement de toutes les Sciences ;
+La Grammaire qui sait régenter jusqu'aux Rois,
+Et les fait la main haute obéir à ses lois ?
 
 -*who_chrysale
 Du plus grand des forfaits je la croyais coupable.
 
 -*who_philaminte
-Quoi, vous ne trouvez pas ce crime impardonnable ?
+Quoi, vous ne trouvez pas ce crime impardonnable ?
 
 -*who_chrysale
 Si fait.
@@ -900,17 +900,17 @@ Si fait.
 Je n'ai garde.
 
 -*who_belise
-      Il est vrai que ce sont des pitiés :
+      Il est vrai que ce sont des pitiés,
 Toute construction est par elle détruite,
-Et des lois du langage on l'a cent fois instruite.
+Et des lois du Langage on l'a cent fois instruite.
 
 -*who_martine
-Tout ce que vous prêchez est je crois bel et bon ;
+Tout ce que vous prêchez est je crois bel et bon ;
 Mais je ne saurais, moi, parler votre jargon.
 
 -*who_philaminte
-L'impudente ! Appeler un jargon le langage
-Fondé sur la raison et sur le bel usage !
+L'impudente ! appeler un jargon le langage
+Fondé sur la Raison et sur le bel Usage !
 
 -*who_martine
 Quand on se fait entendre, on parle toujours bien,
@@ -918,13 +918,13 @@ Et tous vos biaux dictons ne servent pas de rien.
 
 -*who_philaminte
 Hé bien, ne voilà pas encore de son style,
-Ne servent pas de rien !
+Ne servent pas de rien !
 
 -*who_belise
-      Ô cervelle indocile !
+      Ô cervelle indocile !
 Faut-il qu'avec les soins qu'on prend incessamment,
-On ne te puisse apprendre à parler congrûment ?
-De pas mis avec rien tu fais la récidive,
+On ne te puisse apprendre à parler congrûment ?
+De pas, mis avec rien, tu fais la récidive,
 Et c'est, comme on t'a dit, trop d'une négative.
 
 -*who_martine
@@ -932,24 +932,24 @@ Mon Dieu, je n'avons pas étugué comme vous,
 Et je parlons tout droit comme on parle cheux nous.
 
 -*who_philaminte
-Ah peut-on y tenir !
+Ah peut-on y tenir !
 
 -*who_belise
-      Quel solécisme horrible !
+      Quel solécisme horrible !
 
 -*who_philaminte
 En voilà pour tuer une oreille sensible.
 
 -*who_belise
 Ton esprit, je l'avoue, est bien matériel.
-Je, n'est qu'un singulier, avons est pluriel.
-Veux-tu toute ta vie offenser la grammaire ?
+Je, n'est qu'un singulier ; avons, est pluriel.
+Veux-tu toute ta vie offenser la Grammaire ?
 
 -*who_martine
-Qui parle d'offenser grand'mère, ni grand-père ?
+Qui parle d'offenser Grand'mère ni Grand-père ?
 
 -*who_philaminte
-Ô Ciel !
+Ô Ciel !
 
 -*who_belise
       Grammaire est prise à contre-sens par toi,
@@ -961,343 +961,342 @@ Qu'il vienne de Chaillot, d'Auteuil, ou de Pontoise,
 Cela ne me fait rien.
 
 -*who_belise
-      Quelle âme villageoise !
-La grammaire, du verbe et du nominatif,
+      Quelle âme villageoise !
+La Grammaire, du verbe et du nominatif,
 Comme de l'adjectif avec le substantif,
 Nous enseigne les lois.
 
 -*who_martine
-      J'ai, Madame, à vous dire
-Que je ne connais point ces gens-là.
+      J'ai, Madame, à vous dire.
+Que je ne connais point ces Gens-là.
 
 -*who_philaminte
-      Quel martyre !
+      Quel martyre !
 
 -*who_belise
 Ce sont les noms des mots, et l'on doit regarder
 En quoi c'est qu'il les faut faire ensemble accorder.
 
 -*who_martine
-Qu'ils s'accordent entr'eux, ou se gourment, qu'importe ?
+Qu'ils s'accordent entr'eux, ou se gourment, qu'importe ?
 
 -*who_philaminte
 Eh, mon Dieu, finissez un discours de la sorte.
-Vous ne voulez pas, vous, me la faire sortir ?
+Vous ne voulez pas, vous, me la faire sortir ?
 
 -*who_chrysale
 Si fait. À son caprice il me faut consentir.
-Va, ne l'irrite point : retire-toi, Martine.
+Va, ne l'irrite point ; retire-toi, Martine.
 
 -*who_philaminte
-Comment ? Vous avez peur d'offenser la coquine ?
-Vous lui parlez d'un ton tout à fait obligeant ?
+Comment ? vous avez peur d'offenser la Coquine ?
+Vous lui parlez d'un ton tout à fait obligeant ?
 
 -*who_chrysale
-Moi ? Point. Allons, sortez.
-      Va-t'en, ma pauvre enfant.
+Moi ? Point. Allons, sortez.Va-t'en, ma pauvre Enfant.
 
-**** *book_ *id_II07 *act_II *date_1672
+**** *book_ *id_II07 *act_II *date_1672 *creator_moliere
 
 -*who_chrysale
 Vous êtes satisfaite, et la voilà partie.
-Mais je n'approuve point une telle sortie ;
+Mais je n'approuve point une telle sortie ;
 C'est une fille propre aux choses qu'elle fait,
 Et vous me la chassez pour un maigre sujet.
 
 -*who_philaminte
 Vous voulez que toujours je l'aie à mon service,
-Pour mettre incessamment mon oreille au supplice ?
+Pour mettre incessamment mon oreille au supplice ?
 Pour rompre toute loi d'usage et de raison,
-Par un barbare amas de vices d'oraison,
+Par un barbare amas de vices d'Oraison,
 De mots estropiés, cousus par intervalles,
-De proverbes traînés dans les ruisseaux des Halles ?
+De Proverbes traînés dans les ruisseaux des Halles ?
 
 -*who_belise
-Il est vrai que l'on sue à souffrir ses discours :
-Elle y met Vaugelas en pièces tous les jours ;
-Et les moindres défauts de ce grossier génie
+Il est vrai que l'on sue à souffrir ses discours.
+Elle y met Vaugelas en pièces tous les jours ;
+Et les moindres défauts de ce grossier génie,
 Sont ou le pléonasme, ou la cacophonie.
 
 -*who_chrysale
 Qu'importe qu'elle manque aux lois de Vaugelas,
-Pourvu qu'à la cuisine elle ne manque pas ?
+Pourvu qu'à la cuisine elle ne manque pas ?
 J'aime bien mieux, pour moi, qu'en épluchant ses herbes,
 Elle accommode mal les noms avec les verbes,
 Et redise cent fois un bas ou méchant mot,
-Que de brûler ma viande, ou saler trop mon pot.
-Je vis de bonne soupe, et non de beau langage.
-Vaugelas n'apprend point à bien faire un potage ;
+Que de brûler ma Viande, ou saler trop mon Pot.
+Je vis de bonne Soupe, et non de beau Langage.
+Vaugelas n'apprend point à bien faire un Potage,
 Et Malherbe et Balzac, si savants en beaux mots,
-En cuisine peut-être auraient été des sots.
+En Cuisine peut-être auraient été des sots.
 
 -*who_philaminte
-Que ce discours grossier terriblement assomme !
-Et quelle indignité pour ce qui s'appelle homme,
+Que ce discours grossier terriblement assomme !
+Et quelle indignité pour ce qui s'appelle Homme,
 D'être baissé sans cesse aux soins matériels,
-Au lieu de se hausser vers les spirituels !
-Le corps, cette guenille, est-il d'une importance,
+Au lieu de se hausser vers les spirituels !
+Le Corps, cette guenille, est-il d'une importance,
 D'un prix à mériter seulement qu'on y pense,
-Et ne devons-nous pas laisser cela bien loin ?
+Et ne devons-nous pas laisser cela bien loin ?
 
 -*who_chrysale
-Oui, mon corps est moi-même, et j'en veux prendre soin.
+Oui, mon Corps est moi-même, et j'en veux prendre soin,
 Guenille si l'on veut, ma guenille m'est chère.
 
 -*who_belise
-Le corps avec l'esprit fait figure, mon frère :
-Mais si vous en croyez tout le monde savant,
-L'esprit doit sur le corps prendre le pas devant ;
+Le Corps avec l'Esprit, fait figure, mon Frère ;
+Mais si vous en croyez tout le Monde savant,
+L'Esprit doit sur le Corps prendre le pas devant ;
 Et notre plus grand soin, notre première instance,
-Doit être à le nourrir du suc de la science.
+Doit être à le nourrir du suc de la Science.
 
 -*who_chrysale
-Ma foi si vous songez à nourrir votre esprit,
+Ma foi si vous songez à nourrir votre Esprit,
 C'est de viande bien creuse, à ce que chacun dit,
 Et vous n'avez nul soin, nulle sollicitude
 Pour...
 
 -*who_philaminte
-      Ah ! Sollicitude à mon oreille est rude,
-Il pue étrangement son ancienneté.
+      Ah sollicitude à mon oreille est rude,
+Il put étrangement son ancienneté.
 
 -*who_belise
-Il est vrai que le mot est bien collet-monté.
+Il est vrai que le mot est bien collet monté.
 
 -*who_chrysale
-Voulez-vous que je dise ? Il faut qu'enfin j'éclate,
+Voulez-vous que je dise ? Il faut qu'enfin j'éclate,
 Que je lève le masque, et décharge ma rate.
-De folles on vous traite, et j'ai fort sur le coeur...
+De folles on vous traite, et j'ai fort sur le cœur...
 
 -*who_philaminte
-Comment donc ?
+Comment donc ?
 
 -*who_chrysale
-      C'est à vous que je parle, ma soeur,
-Le moindre solécisme en parlant vous irrite :
+      C'est à vous que je parle, ma Sœur.
+Le moindre solécisme en parlant vous irrite :
 Mais vous en faites, vous, d'étranges en conduite.
-Vos livres éternels ne me contentent pas,
+Vos Livres éternels ne me contentent pas,
 Et hors un gros Plutarque à mettre mes rabats,
 Vous devriez brûler tout ce meuble inutile,
-Et laisser la science aux docteurs de la ville ;
+Et laisser la science aux docteurs de la ville ;
 M'ôter, pour faire bien, du grenier de céans,
-Cette longue lunette à faire peur aux gens,
-Et cent brimborions dont l'aspect importune ;
+Cette longue Lunette à faire peur aux Gens,
+Et cent brimborions dont l'aspect importune :
 Ne point aller chercher ce qu'on fait dans la Lune,
 Et vous mêler un peu de ce qu'on fait chez vous,
 Où nous voyons aller tout sens dessus dessous.
 Il n'est pas bien honnête, et pour beaucoup de causes,
-Qu'une femme étudie, et sache tant de choses.
-Former aux bonnes moeurs l'esprit de ses enfants,
-Faire aller son ménage, avoir l'oeil sur ses gens,
+Qu'une Femme étudie, et sache tant de choses.
+Former aux bonnes mœurs l'esprit de ses Enfants,
+Faire aller son ménage, avoir l'œil sur ses Gens,
 Et régler la dépense avec économie,
 Doit être son étude et sa philosophie.
-Nos pères sur ce point étaient gens bien sensés,
-Qui disaient qu'une femme en sait toujours assez,
+Nos Pères sur ce point étaient Gens bien sensés,
+Qui disaient qu'une Femme en sait toujours assez,
 Quand la capacité de son esprit se hausse
-À connaître un pourpoint d'avec un haut de chausse.
-Les leurs ne lisaient point, mais elles vivaient bien ;
+À connaître un Pourpoint d'avec un Haut -de -chausse.
+Les leurs ne lisaient point, mais elles vivaient bien ;
 Leurs ménages étaient tout leur docte entretien,
-Et leurs livres un dé, du fil et des aiguilles,
-Dont elles travaillaient au trousseau de leurs filles.
-Les femmes d'à présent sont bien loin de ces moeurs,
-Elles veulent écrire, et devenir auteurs.
-Nulle science n'est pour elles trop profonde,
-Et céans beaucoup plus qu'en aucun lieu du monde.
+Et leurs Livres un Dé, du Fil, et des Aiguilles,
+Dont elles travaillaient au trousseau de leurs Filles.
+Les Femmes d'à présent sont bien loin de ces mœurs,
+Elles veulent écrire, et devenir Auteurs.
+Nulle Science n'est pour elles trop profonde,
+Et céans beaucoup plus qu'en aucun lieu du Monde.
 Les secrets les plus hauts s'y laissent concevoir,
 Et l'on sait tout chez moi, hors ce qu'il faut savoir.
-On y sait comme vont Lune, Étoile Uolaire,
-Vénus, Saturne et Mars, dont je n'ai point affaire ;
-Et, dans ce vain savoir, qu'on va chercher si loin,
-On ne sait comme va mon pot dont j'ai besoin.
-Mes gens à la science aspirent pour vous plaire,
-Et tous ne font rien moins que ce qu'ils ont à faire ;
-Raisonner est l'emploi de toute ma maison,
-Et le raisonnement en bannit la raison ;
-L'un me brûle mon rôt en lisant quelque histoire ;
-L'autre rêve à des vers quand je demande à boire ;
+On y sait comme vont Lune, Étoile Polaire,
+Vénus, Saturne, et Mars, dont je n'ai point affaire ;
+Et dans ce vain savoir, qu'on va chercher si loin,
+On ne sait comme va mon Pot dont j'ai besoin.
+Mes Gens à la Science aspirent pour vous plaire,
+Et tous ne font rien moins que ce qu'ils ont à faire ;
+Raisonner est l'emploi de toute ma Maison,
+Et le raisonnement en bannit la Raison ;
+L'un me brûle mon Rôt en lisant quelque Histoire,
+L'autre rêve à des Vers quand je demande à boire ;
 Enfin je vois par eux votre exemple suivi,
-Et j'ai des serviteurs, et ne suis point servi.
-Une pauvre servante au moins m'était restée,
+Et j'ai des Serviteurs, et ne suis point servi.
+Une pauvre Servante au moins m'était restée,
 Qui de ce mauvais air n'était point infectée,
 Et voilà qu'on la chasse avec un grand fracas,
 À cause qu'elle manque à parler Vaugelas.
-Je vous le dis, ma soeur, tout ce train-là me blesse,
-(Car c'est, comme j'ai dit, à vous que je m'adresse)
-Je n'aime point céans tous vos gens à latin,
+Je vous le dis, ma Sœur, tout ce train-là me blesse,
+(Car c'est, comme j'ai dit, à vous que je m'adresse) ;
+Je n'aime point céans tous vos Gens à Latin,
 Et principalement ce Monsieur Trissotin.
-C'est lui qui dans des vers vous a tympanisées,
+C'est lui qui dans des Vers vous a tympanisées,
 Tous les propos qu'il tient sont des billevesées,
 On cherche ce qu'il dit après qu'il a parlé,
 Et je lui crois, pour moi, le timbre un peu fêlé.
 
 -*who_philaminte
-Quelle bassesse, ô Ciel, et d'âme, et de langage !
+Quelle bassesse, ô Ciel, et d'âme, et de langage !
 
 -*who_belise
-Est-il de petits corps un plus lourd assemblage !
-Un esprit composé d'atomes plus bourgeois !
-Et de ce même sang se peut-il que je sois !
-Je me veux mal de mort d'être de votre race,
+Est-il de petits Corps un plus lourd assemblage !
+Un Esprit composé d'atomes plus Bourgeois !
+Et de ce même sang se peut-il que je sois !
+Je me veux mal -de -mort d'être de votre race,
 Et de confusion j'abandonne la place.
 
-**** *book_ *id_II08 *act_II *date_1672
+**** *book_ *id_II08 *act_II *date_1672 *creator_moliere
 
 -*who_philaminte
-Avez-vous à lâcher encore quelque trait ?
+Avez-vous à lâcher encore quelque trait ?
 
 -*who_chrysale
-Moi ? Non. Ne parlons plus de querelle, c'est fait ;
+Moi ? Non. Ne parlons plus de querelle, c'est fait ;
 Discourons d'autre affaire. À votre fille aînée
-On voit quelque dégoût pour les noeuds d'hyménée ;
+On voit quelque dégoût pour les nœuds d'Hyménée ;
 C'est une philosophe enfin, je n'en dis rien,
 Elle est bien gouvernée, et vous faites fort bien.
 Mais de toute autre humeur se trouve sa cadette,
 Et je crois qu'il est bon de pourvoir Henriette,
-De choisir un mari...
+De choisir un Mari...
 
 -*who_philaminte
       C'est à quoi j'ai songé,
 Et je veux vous ouvrir l'intention que j'ai.
 Ce Monsieur Trissotin dont on nous fait un crime,
 Et qui n'a pas l'honneur d'être dans votre estime,
-Est celui que je prends pour l'époux qu'il lui faut,
-Et je sais mieux que vous juger de ce qu'il vaut ;
+Est celui que je prends pour l'Époux qu'il lui faut,
+Et je sais mieux que vous juger de ce qu'il vaut ;
 La contestation est ici superflue,
 Et de tout point chez moi l'affaire est résolue.
-Au moins ne dites mot du choix de cet époux,
-Je veux à votre fille en parler avant vous.
+Au moins ne dites mot du choix de cet Époux,
+Je veux à votre Fille en parler avant vous.
 J'ai des raisons à faire approuver ma conduite,
 Et je connaîtrai bien si vous l'aurez instruite.
 
-**** *book_ *id_II09 *act_II *date_1672
+**** *book_ *id_II09 *act_II *date_1672 *creator_moliere
 
 -*who_ariste
-Hé bien ? La femme sort, mon frère, et je vois bien
+Hé bien ? la Femme sort, mon Frère, et je vois bien
 Que vous venez d'avoir ensemble un entretien.
 
 -*who_chrysale
 Oui.
 
 -*who_ariste
-      Quel est le succès ? Aurons-nous Henriette ?
-A-t-elle consenti ? L'affaire est-elle faite ?
+      Quel est le succès ? Aurons-nous Henriette ?
+A-t-elle consenti ? l'affaire est-elle faite ?
 
 -*who_chrysale
 Pas tout à fait encor.
 
 -*who_ariste
-      Refuse-t-elle ?
+      Refuse-t-elle ?
 
 -*who_chrysale
       Non.
 
 -*who_ariste
-Est-ce qu'elle balance ?
+Est-ce qu'elle balance ?
 
 -*who_chrysale
       En aucune façon.
 
 -*who_ariste
-      Quoi donc ?
+Quoi donc ?
 
 -*who_chrysale
-C'est que pour gendre elle m'offre un autre homme.
+      C'est que pour Gendre elle m'offre un autre Homme.
 
 -*who_ariste
-Un autre homme pour gendre !
+Un autre Homme pour Gendre !
 
 -*who_chrysale
       Un autre.
 
 -*who_ariste
-      Qui se nomme ?
+      Qui se nomme ?
 
 -*who_chrysale
 Monsieur Trissotin.
 
 -*who_ariste
-      Quoi ? Ce Monsieur Trissotin...
+      Quoi ? ce Monsieur Trissotin...
 
 -*who_chrysale
-Oui, qui parle toujours de vers et de latin.
+Oui, qui parle toujours de Vers et de Latin.
 
 -*who_ariste
-Vous l'avez accepté ?
+Vous l'avez accepté ?
 
 -*who_chrysale
       Moi, point, à Dieu ne plaise.
 
 -*who_ariste
-Qu'avez-vous répondu ?
+Qu'avez-vous répondu ?
 
 -*who_chrysale
-      Rien ; et je suis bien aise
-De n'avoir point parlé, pour ne m'engager pas !
+      Rien ; et je suis bien aise
+De n'avoir point parlé, pour ne m'engager pas !
 
 -*who_ariste
 La raison est fort belle, et c'est faire un grand pas.
-Avez-vous su du moins lui proposer Clitandre ?
+Avez-vous su du moins lui proposer Clitandre ?
 
 -*who_chrysale
-Non : car comme j'ai vu qu'on parlait d'autre gendre,
+Non : car comme j'ai vu qu'on parlait d'autre Gendre,
 J'ai cru qu'il était mieux de ne m'avancer point.
 
 -*who_ariste
-Certes votre prudence est rare au dernier point !
-N'avez-vous point de honte avec votre mollesse ?
-Et se peut-il qu'un homme ait assez de faiblesse
-Pour laisser à sa femme un pouvoir absolu,
-Et n'oser attaquer ce qu'elle a résolu ?
+Certes votre prudence est rare au dernier point !
+N'avez-vous point de honte avec votre mollesse ?
+Et se peut-il qu'un Homme ait assez de faiblesse
+Pour laisser à sa Femme un pouvoir absolu,
+Et n'oser attaquer ce qu'elle a résolu ?
 
 -*who_chrysale
-Mon Dieu, vous en parlez, mon frère, bien à l'aise,
+Mon Dieu, vous en parlez, mon Frère, bien à l'aise,
 Et vous ne savez pas comme le bruit me pèse.
 J'aime fort le repos, la paix, et la douceur,
-Et ma femme est terrible avecque son humeur.
-Du nom de philosophe elle fait grand mystère,
-Mais elle n'en est pas pour cela moins colère ;
-Et sa morale, faite à mépriser le bien,
+Et ma Femme est terrible avecque son humeur.
+Du nom de Philosophe elle fait grand mystère,
+Mais elle n'en est pas pour cela moins colère ;
+Et sa Morale faite à mépriser le bien,
 Sur l'aigreur de sa bile opère comme rien.
 Pour peu que l'on s'oppose à ce que veut sa tête,
 On en a pour huit jours d'effroyable tempête.
 Elle me fait trembler dès qu'elle prend son ton.
-Je ne sais où me mettre, et c'est un vrai dragon ;
-Et cependant, avec toute sa diablerie,
-Il faut que je l'appelle, et « mon coeur », et « ma mie ».
+Je ne sais où me mettre, et c'est un vrai Dragon ;
+Et cependant avec toute sa diablerie,
+Il faut que je l'appelle, et mon cœur, et ma mie.
 
 -*who_ariste
-Allez, c'est se moquer. Votre femme, entre nous,
+Allez, c'est se moquer. Votre Femme, entre nous,
 Est par vos lâchetés souveraine sur vous.
 Son pouvoir n'est fondé que sur votre faiblesse.
-C'est de vous qu'elle prend le titre de maîtresse.
+C'est de vous qu'elle prend le titre de Maîtresse.
 Vous-même à ses hauteurs vous vous abandonnez,
-Et vous faites mener en bête par le nez.
+Et vous faites mener en Bête par le nez.
 Quoi, vous ne pouvez pas, voyant comme on vous nomme,
-Vous résoudre une fois à vouloir être un homme ?
-À faire condescendre une femme à vos voeux,
-Et prendre assez de coeur pour dire un : « Je le veux » ?
-Vous laisserez sans honte immoler votre fille
-Aux folles visions qui tiennent la famille,
-Et de tout votre bien revêtir un nigaud,
-Pour six mots de latin qu'il leur fait sonner haut ?
-Un pédant qu'à tous coups votre femme apostrophe
-Du nom de bel esprit, et de grand philosophe,
-D'homme qu'en vers galants jamais on n'égala,
-Et qui n'est, comme on sait, rien moins que tout cela ?
+Vous résoudre une fois à vouloir être un Homme ?
+À faire condescendre une Femme à vos vœux,
+Et prendre assez de cœur pour dire un : Je le veux ?
+Vous laisserez sans honte immoler votre Fille
+Aux folles visions qui tiennent la Famille,
+Et de tout votre bien revêtir un Nigaud,
+Pour six mots de Latin qu'il leur fait sonner haut ?
+Un Pédant qu'à tous coups votre Femme apostrophe
+Du nom de bel Esprit, et de grand Philosophe,
+D'homme qu'en Vers galants jamais on n'égala,
+Et qui n'est, comme on sait, rien moins que tout cela ?
 Allez, encore un coup, c'est une moquerie,
 Et votre lâcheté mérite qu'on en rie.
 
 -*who_chrysale
 Oui, vous avez raison, et je vois que j'ai tort.
-Allons, il faut enfin montrer un coeur plus fort,
-Mon frère.
+Allons, il faut enfin montrer un cœur plus fort,
+Mon Frère.
 
 -*who_ariste
       C'est bien dit.
 
 -*who_chrysale
       C'est une chose infâme,
-Que d'être si soumis au pouvoir d'une femme.
+Que d'être si soumis au pouvoir d'une Femme.
 
 -*who_ariste
 Fort bien.
@@ -1316,28 +1315,28 @@ Sans doute.
 
 -*who_chrysale
       Et je lui veux faire aujourd'hui connaître
-Que ma fille est ma fille, et que j'en suis le maître,
-Pour lui prendre un mari qui soit selon mes voeux.
+Que ma Fille est ma Fille, et que j'en suis le Maître,
+Pour lui prendre un Mari qui soit selon mes vœux.
 
 -*who_ariste
 Vous voilà raisonnable, et comme je vous veux.
 
 -*who_chrysale
-Vous êtes pour Clitandre, et savez sa demeure ;
-Faites-le-moi venir, mon frère, tout à l'heure.
+Vous êtes pour Clitandre, et savez sa demeure ;
+Faites-le-moi venir, mon Frère, tout à l'heure.
 
 -*who_ariste
 J'y cours tout de ce pas.
 
 -*who_chrysale
       C'est souffrir trop longtemps,
-Et je m'en vais être homme à la barbe des gens.
+Et je m'en vais être Homme à la barbe des Gens.
 
-**** *book_ *id_III01 *act_III *date_1672
+**** *book_ *id_III01 *act_III *date_1672 *creator_moliere
 
 -*who_philaminte
-Ah ! Mettons-nous ici, pour écouter à l'aise
-Ces vers que mot à mot il est besoin qu'on pèse.
+Ah mettons-nous ici pour écouter à l'aise
+Ces Vers que mot à mot il est besoin qu'on pèse.
 
 -*who_armande
 Je brûle de les voir.
@@ -1346,7 +1345,7 @@ Je brûle de les voir.
       Et l'on s'en meurt chez nous.
 
 -*who_philaminte
-Ce sont charmes pour moi que ce qui part de vous.
+Ce sont charmes pour moi, que ce qui part de vous.
 
 -*who_armande
 Ce m'est une douceur à nulle autre pareille.
@@ -1364,32 +1363,32 @@ Dépêchez.
       Faites tôt, et hâtez nos plaisirs.
 
 -*who_philaminte
-À notre impatience offrez votre épigramme.
+À notre impatience offrez votre Épigramme.
 
 -*who_trissotin
-Hélas ! C'est un enfant tout nouveau-né, Madame.
+Hélas, c'est un Enfant tout nouveauné, Madame.
 Son sort assurément a lieu de vous toucher,
-Et c'est dans votre cour, que j'en viens d'accoucher.
+Et c'est dans votre cour que j'en viens d'accoucher.
 
 -*who_philaminte
-Pour me le rendre cher, il suffit de son père.
+Pour me le rendre cher, il suffit de son Père.
 
 -*who_trissotin
-Votre approbation lui peut servir de mère.
+Votre approbation lui peut servir de Mère.
 
 -*who_belise
-Qu'il a d'esprit !
+Qu'il a d'esprit !
 
-**** *book_ *id_III02 *act_III *date_1672
+**** *book_ *id_III02 *act_III *date_1672 *creator_moliere
 
 -*who_philaminte
-      Holà, pourquoi donc fuyez-vous ?
+      Holà, pourquoi donc fuyez-vous ?
 
 -*who_henriette
 C'est de peur de troubler un entretien si doux.
 
 -*who_philaminte
-Approchez, et venez de toutes vos oreilles,
+Approchez, et venez de toutes vos oreilles
 Prendre part au plaisir d'entendre des merveilles.
 
 -*who_henriette
@@ -1397,134 +1396,128 @@ Je sais peu les beautés de tout ce qu'on écrit,
 Et ce n'est pas mon fait que les choses d'esprit.
 
 -*who_philaminte
-Il n'importe ; aussi bien ai-je à vous dire ensuite
+Il n'importe ; aussi bien ai-je à vous dire ensuite
 Un secret dont il faut que vous soyez instruite.
 
 -*who_trissotin
-Les sciences n'ont rien qui vous puisse enflammer,
+Les Sciences n'ont rien qui vous puisse enflammer,
 Et vous ne vous piquez que de savoir charmer.
 
 -*who_henriette
 Aussi peu l'un que l'autre, et je n'ai nulle envie...
 
 -*who_belise
-Ah songeons à l'enfant nouveau-né, je vous prie.
+Ah songeons à l'Enfant nouveauné, je vous prie.
 
 -*who_philaminte
-Allons, petit garçon, vite, de quoi s'asseoir.
-Voyez l'impertinent ! Est ce que l'on doit choir,
-Après avoir appris l'équilibre des choses ?
+Allons, petit Garçon, vite, de quoi s'asseoir.
+Voyez l'impertinent ! Est -ce que l'on doit choir,
+Après avoir appris l'équilibre des choses ?
 
 -*who_belise
 De ta chute, Ignorant, ne vois-tu pas les causes,
 Et qu'elle vient d'avoir du point fixe écarté,
-Ce que nous appelons centre de gravité ?
+Ce que nous appelons centre de gravité ?
 
--*who_lepine
+-*who_l_epine
 Je m'en suis aperçu, Madame, étant par terre.
 
 -*who_philaminte
-Le lourdaud !
+Le Lourdaud !
 
 -*who_trissotin
       Bien lui prend de n'être pas de verre.
 
 -*who_armande
-Ah de l'esprit partout !
+Ah de l'esprit partout !
 
 -*who_belise
       Cela ne tarit pas.
 
 -*who_philaminte
-Servez-nous promptement votre aimable repas.
+Servez-nous promptement votre aimable Repas.
 
 -*who_trissotin
 Pour cette grande faim qu'à mes yeux on expose,
-Un plat seul de huit vers me semble peu de chose,
-Et je pense qu'ici je ne ferai pas mal
-De joindre à l'épigramme, ou bien au madrigal,
-Le ragoût d'un sonnet, qui chez une princesse
+Un Plat seul de huit Vers me semble peu de chose,
+Et je pense qu'ici je ne ferai pas mal,
+De joindre à l'Épigramme, ou bien au Madrigal,
+Le ragoût d'un Sonnet, qui chez une Princesse
 A passé pour avoir quelque délicatesse.
 Il est de sel attique assaisonné partout,
 Et vous le trouverez, je crois, d'assez bon goût.
 
 -*who_armande
-Ah je n'en doute point.
+Ah ! Je n'en doute point.
 
 -*who_philaminte
       Donnons vite audience.
 
 -*who_belise
-Je sens d'aise mon coeur tressaillir par avance.
-J'aime la poésie avec entêtement,
-Et surtout quand les vers sont tournés galamment.
+Je sens d'aise mon cœur tressaillir par avance.
+J'aime la Poésie avec entêtement.
+Et surtout quand les Vers sont tournés galamment.
 
 -*who_philaminte
 Si nous parlons toujours, il ne pourra rien dire.
 
 -*who_trissotin
-So ...
+SO...
 
 -*who_belise
-      Silence, ma nièce.
+      Silence,ma nièce.
 
 -*who_armande
       Ah laissez-le donc lire.
 
 -*who_trissotin
-Sonnet à la Princesse Uranie sur sa fièvre
-
-
+SONNET, À LA PRINCESSE URANIE, sur sa fièvre
 Votre prudence est endormie,
 De traiter magnifiquement,
 Et de loger superbement
-Votre plus cruelle ennemie.
+Votre plus cruelle Ennemie.
 
 -*who_belise
-Ah le joli début !
+Ah le joli début !
 
 -*who_armande
-      Qu'il a le tour galant !
+      Qu'il a le tour galant !
 
 -*who_philaminte
-Lui seul des vers aisés possède le talent !
+Lui seul des Vers aisés possède le talent !
 
 -*who_armande
-À « prudence endormie » il faut rendre les armes.
+À prudence endormie il faut rendre les armes.
 
 -*who_belise
-« Loger son ennemie » est pour moi plein de charmes.
+Loger son Ennemie est pour moi plein de charmes.
 
 -*who_philaminte
-J'aime « superbement et magnifiquement » ;
+J'aime superbement et magnifiquement ;
 Ces deux adverbes joints font admirablement.
 
 -*who_belise
 Prêtons l'oreille au reste.
 
 -*who_trissotin
-
-
 Votre prudence est endormie,
 De traiter magnifiquement,
 Et de loger superbement
-Votre plus cruelle ennemie.
+Votre plus cruelle Ennemie.
 
 -*who_armande
-« Prudence endormie » !
+Prudence endormie !
 
 -*who_belise
-« Loger son ennemie » !
+Loger son ennemie !
 
 -*who_philaminte
-« Superbement et magnifiquement » !
+Superbement, et magnifiquement !
 
 -*who_trissotin
-
-
 Faites-la sortir, quoi qu'on die,
-De votre riche appartement,
-Où cette ingrate insolemment
+De votre riche Appartement,
+Où cette Ingrate insolemment
 Attaque votre belle vie.
 
 -*who_belise
@@ -1534,133 +1527,107 @@ Ah tout doux, laissez-moi, de grâce, respirer.
 Donnez-nous, s'il vous plaît, le loisir d'admirer.
 
 -*who_philaminte
-On se sent à ces vers, jusques au fond de l'âme,
+On se sent à ces Vers, jusques au fond de l'âme,
 Couler je-ne-sais-quoi qui fait que l'on se pâme.
 
 -*who_armande
-
-
 Faites-la sortir, quoi qu'on die,
-De votre riche appartement.
-Que riche « appartement » est là joliment dit !
-Et que la métaphore est mise avec esprit !
+De votre riche Appartement.
+Que riche Appartement est là joliment dit !
+Et que la métaphore est mise avec esprit !
 
 -*who_philaminte
-
-
 Faites-la sortir, quoi qu'on die.
-Ah ! Que ce « quoi qu'on die » est d'un goût admirable !
+Ah ! que ce quoi qu'on die est d'un goût admirable !
 C'est, à mon sentiment, un endroit impayable.
 
 -*who_armande
-De « quoi qu'on die » aussi mon coeur est amoureux.
+De quoi qu'on die aussi mon cœur est amoureux.
 
 -*who_belise
-Je suis de votre avis, « quoi qu'on die » est heureux.
+Je suis de votre avis, quoi qu'on die est heureux.
 
 -*who_armande
 Je voudrais l'avoir fait.
 
 -*who_belise
-      Il vaut toute une pièce.
+      Il vaut toute une Pièce.
 
 -*who_philaminte
-Mais en comprend-on bien, comme moi, la finesse ?
+Mais en comprend-on bien comme moi la finesse ?
 
--*who_armandeetbelise
-Oh, oh !
+-*who_armande_belise
+Oh, oh.
 
 -*who_philaminte
-      « Faites-la sortir, quoi qu'on die. »
-Que de la fièvre, on prenne ici les intérêts,
+      Faites-la sortir, quoi qu'on die.
+Que de la Fièvre on prenne ici les intérêts,
 N'ayez aucun égard, moquez-vous des caquets.
-
-
 Faites-la sortir, quoi qu'on die.
-Quoi qu'on die, quoi qu'on die.
-Ce « quoi qu'on die » en dit beaucoup plus qu'il ne semble.
-Je ne sais pas, pour moi, si chacun me ressemble ;
+Quoi qu'on die ; quoi qu'on die.
+Ce quoi qu'on die en dit beaucoup plus qu'il ne semble.
+Je ne sais pas, pour moi, si chacun me ressemble ;
 Mais j'entends là-dessous un million de mots.
 
 -*who_belise
 Il est vrai qu'il dit plus de choses qu'il n'est gros.
 
 -*who_philaminte
-Mais quand vous avez fait ce charmant « quoi qu'on die »,
-Avez-vous compris, vous, toute son énergie ?
+Mais quand vous avez fait ce charmant quoi qu'on die,
+Avez-vous compris, vous, toute son énergie ?
 Songiez-vous bien vous-même à tout ce qu'il nous dit,
-Et pensiez-vous alors y mettre tant d'esprit ?
+Et pensiez-vous alors y mettre tant d'esprit ?
 
 -*who_trissotin
 Hay, hay.
 
 -*who_armande
-      J'ai fort aussi l'« ingrate » dans la tête,
-Cette ingrate de fièvre, injuste, malhonnête,
-Qui traite mal les gens qui la logent chez eux.
+      J'ai fort aussi l'ingrate dans la tête,
+Cette ingrate de Fièvre, injuste, malhonnête,
+Qui traite mal les Gens, qui la logent chez eux.
 
 -*who_philaminte
-Enfin les quatrains sont admirables tous deux.
-Venons-en promptement aux tiercets, je vous prie.
+Enfin les Quatrains sont admirables tous deux.
+Venons-en promptement aux Tiercets, je vous prie.
 
 -*who_armande
-Ah, s'il vous plaît, encore une fois « quoi qu'on die ».
+Ah, s'il vous plaît, encore une fois quoi qu'on die.
 
 -*who_trissotin
-
-
 Faites-la sortir, quoi qu'on die,
 
 -*who_philaminte
-« Quoi qu'on die » !
+Quoi qu'on die !
 
 -*who_trissotin
-
-
 De votre riche appartement,
 
 -*who_philaminte
-« Riche appartement » !
+Riche appartement !
 
 -*who_trissotin
-
-
-Où cette ingrate insolemment
+Où cette Ingrate insolemment
 
 -*who_philaminte
-« Cette ingratec de fièvre ?
+Cette ingrate de Fièvre !
 
 -*who_trissotin
-
-
 Attaque votre belle vie.
 
 -*who_philaminte
-« Votre belle vie ! »
+Votre belle vie !
 
--*who_armandeetbelise
-Ah !
-
--*who_trissotin
-
-
-      Quoi ? Sans respecter votre rang,
-Elle se prend à votre sang,
-
--*who_philaminte
-Ah !
+-*who_armande_belise
+Ah !
 
 -*who_trissotin
-
-
-      Et nuit et jour vous fait outrage ?
-
-Si vous la conduisez aux bains,
+Et nuit et jour vous fait outrage ?
+Si vous la conduisez aux Bains,
 Sans la marchander davantage,
 Noyez-la de vos propres mains.
 
 -*who_philaminte
-On n'en peut plus.
+On n'en peut plus !
 
 -*who_belise
       On pâme.
@@ -1672,17 +1639,17 @@ On n'en peut plus.
 De mille doux frissons vous vous sentez saisir.
 
 -*who_armande
-« Si vous la conduisez aux bains, »
+Si vous la conduisez aux Bains,
 
 -*who_belise
-« Sans la marchander davantage, »
+Sans la marchander davantage,
 
 -*who_philaminte
-« Noyez-la de vos propres mains :
-De vos propres mains, là, noyez-la dans les bains. »
+Noyez-la de vos propres mains.
+De vos propres mains, là, noyez-la dans les Bains.
 
 -*who_armande
-Chaque pas dans vos vers rencontre un trait charmant.
+Chaque pas dans vos Vers rencontre un trait charmant.
 
 -*who_belise
 Partout on s'y promène avec ravissement.
@@ -1701,140 +1668,134 @@ Le sonnet donc vous semble...
 Et personne jamais n'a rien fait de si beau.
 
 -*who_belise
-Quoi, sans émotion pendant cette lecture ?
-Vous faites-là, ma nièce, une étrange figure !
+Quoi, sans émotion pendant cette lecture ?
+Vous faites là, ma Nièce, une étrange Figure !
 
 -*who_henriette
-Chacun fait ici-bas la figure qu'il peut,
-Ma tante ; et Bel-Esprit, il ne l'est pas qui veut.
+Chacun fait ici-bas la Figure qu'il peut,
+Ma Tante ; et Bel Esprit, il ne l'est pas qui veut.
 
 -*who_trissotin
-Peut-être que mes vers importunent Madame.
+Peut-être que mes Vers importunent Madame.
 
 -*who_henriette
 Point, je n'écoute pas.
 
 -*who_philaminte
-      Ah ? Voyons l'épigramme.
+      Ah ? voyons l'Épigramme.
 
 -*who_trissotin
-SUR UN CARROSSE de couleur amarante, donné à une dame de ses amies.
+      SUR UN CARROSSE DE COULEUR AMARANTE,
+      DONNÉ À UNE DAME DE SES AMIES.
 
 -*who_philaminte
-Ces titres ont toujours quelque chose de rare.
-
--*who_armande
-À cent beaux traits d'esprit leur nouveauté prépare.
-
--*who_trissotin
-
-
-L'Amour si chèrement m'a vendu son lien,
+Ces Titres ont toujours quelque chose de rare.
 
 -*who_philaminte
-Ah !
+À cent beaux traits d'Esprit leur nouveauté prépare.
 
 -*who_trissotin
+L'amour si chèrement m'a vendu son lien,
 
+-*who_philaminte
+Ah !
 
-      Qu'il m'en coûte déjà la moitié de mon bien.
-Et quand tu vois ce beau carrosse
-Où tant d'or se relève en bosse,
-Qu'il étonne tout le pays,
+-*who_trissotin
+Qu'il m'en coûte déjà la moitié de mon bien.
+      Et quand tu vois ce beau Carrosse
+      Où tant d'or se relève en bosse,
+      Qu'il étonne tout le Pays,
 Et fait pompeusement triompher ma Laïs,
 
 -*who_philaminte
-Ah « ma Laïs » ! Voilà de l'érudition.
+Ah ma Laïs ! voilà de l'érudition.
 
 -*who_belise
 L'enveloppe est jolie, et vaut un million.
 
 -*who_trissotin
-
-
-Et quand tu vois ce beau carrosse,
-Où tant d'or se relève en bosse,
-Qu'il étonne tout le pays,
+      Et quand tu vois ce beau Carrosse,
+      Où tant d'or se relève en bosse,
+      Qu'il étonne tout le Pays,
 Et fait pompeusement triompher ma Laïs,
-Ne dis plus qu'il est amarante :
-Dis plutôt qu'il est de ma rente.
+      Ne dis plus qu'il est Amarante :
+      Dis plutôt qu'il est de ma Rente.
 
 -*who_armande
-Oh, oh, oh ! Celui-là ne s'attend point du tout.
+Oh, oh, oh ! Celui-là ne s'attend point du tout.
 
 -*who_philaminte
 On n'a que lui qui puisse écrire de ce goût.
 
 -*who_belise
-« Ne dis plus qu'il est amarante :
-Dis plutôt qu'il est de ma rente. »
-Voilà qui se décline : « ma rente, de ma rente, à ma rente. »
-.............
+Ne dis plus qu'il est Amarante :
+Dis plutôt qu'il est de ma Rente.
+Voilà qui se décline : ma Rente, de ma Rente, à ma Rente.
 
 -*who_philaminte
-Je ne sais, du moment que je vous ai connu,
+Je ne sais du moment que je vous ai connu,
 Si sur votre sujet j'ai l'esprit prévenu,
-Mais j'admire partout vos vers et votre prose.
+Mais j'admire partout vos Vers et votre Prose.
 
 -*who_trissotin
 Si vous vouliez de vous nous montrer quelque chose,
 À notre tour aussi nous pourrions admirer.
 
 -*who_philaminte
-Je n'ai rien fait en vers, mais j'ai lieu d'espérer
-Que je pourrai bientôt vous montrer, en amie,
-Huit chapitres du plan de notre Académie.
+Je n'ai rien fait en Vers, mais j'ai lieu d'espérer
+Que je pourrai bientôt vous montrer en Amie,
+Huit chapitres du Plan de notre Académie.
 Platon s'est au projet simplement arrêté,
-Quand de sa République il a fait le traité ;
+Quand de sa République il a fait le Traité ;
 Mais à l'effet entier je veux pousser l'idée
-Que j'ai sur le papier en prose accommodée,
+Que j'ai sur le papier en Prose accommodée,
 Car enfin je me sens un étrange dépit
-Du tort que l'on nous fait du côté de l'esprit,
+Du tort que l'on nous fait du côté de l'Esprit,
 Et je veux nous venger toutes tant que nous sommes
-De cette indigne classe où nous rangent les hommes ;
+De cette indigne Classe où nous rangent les Hommes ;
 De borner nos talents à des futilités,
 Et nous fermer la porte aux sublimes clartés.
 
 -*who_armande
-C'est faire à notre sexe une trop grande offense,
+C'est faire à notre Sexe une trop grande offense,
 De n'étendre l'effort de notre intelligence,
-Qu'à juger d'une jupe et de l'air d'un manteau,
-Ou des beautés d'un point, ou d'un brocart nouveau.
+Qu'à juger d'une Jupe, et de l'air d'un Manteau,
+Ou des beautés d'un Point, ou d'un Brocart nouveau.
 
 -*who_belise
 Il faut se relever de ce honteux partage,
-Et mettre hautement notre esprit hors de page.
+Et mettre hautement notre Esprit hors de Page.
 
 -*who_trissotin
-Pour les dames on sait mon respect en tous lieux,
+Pour les Dames on sait mon respect en tous lieux,
 Et si je rends hommage aux brillants de leurs yeux,
 De leur esprit aussi j'honore les lumières.
 
 -*who_philaminte
-Le sexe aussi vous rend justice en ces matières ;
-Mais nous voulons montrer à de certains esprits,
+Le Sexe aussi vous rend justice en ces matières ;
+Mais nous voulons montrer à de certains Esprits,
 Dont l'orgueilleux savoir nous traite avec mépris,
-Que de science aussi les femmes sont meublées,
-Qu'on peut faire comme eux de doctes assemblées,
+Que de Science aussi les Femmes sont meublées,
+Qu'on peut faire comme eux de doctes Assemblées,
 Conduites en cela par des ordres meilleurs,
-Qu'on y veut réunir ce qu'on sépare ailleurs,
-Mêler le beau langage et les hautes sciences ;
-Découvrir la nature en mille expériences ;
-Et sur les questions qu'on pourra proposer,
-Faire entrer chaque secte, et n'en point épouser.
+Qu'on y veut réunir ce qu'on sépare ailleurs ;
+Mêler le beau Langage, et les hautes Sciences ;
+Découvrir la Nature en mille expériences ;
+Et sur les questions qu'on pourra proposer
+Faire entrer chaque Secte, et n'en point épouser.
 
 -*who_trissotin
-Je m'attache pour l'ordre au péripatétisme.
+Je m'attache pour l'ordre au Péripatétisme.
 
 -*who_philaminte
-Pour les abstractions, j'aime le platonisme.
+Pour les abstractions j'aime le Platonisme.
 
 -*who_armande
-Épicure me plaît, et ses dogmes sont forts.
+Épicure me plaît, et ses Dogmes sont forts.
 
 -*who_belise
-Je m'accommode assez pour moi des petits corps ;
-Mais le vuide à souffrir me semble difficile,
+Je m'accommode assez pour moi des petits Corps ;
+Mais le Vide à souffrir me semble difficile,
 Et je goûte bien mieux la matière subtile.
 
 -*who_trissotin
@@ -1844,10 +1805,10 @@ Descartes pour l'aimant donne fort dans mon sens.
 J'aime ses tourbillons.
 
 -*who_philaminte
-      Moi, ses mondes tombants.
+      Moi ses Mondes tombants.
 
 -*who_armande
-Il me tarde de voir notre assemblée ouverte,
+Il me tarde de voir notre Assemblée ouverte,
 Et de nous signaler par quelque découverte.
 
 -*who_trissotin
@@ -1856,146 +1817,146 @@ Et pour vous la nature a peu d'obscurités.
 
 -*who_philaminte
 Pour moi, sans me flatter, j'en ai déjà fait une,
-Et j'ai vu clairement des hommes dans la Lune.
+Et j'ai vu clairement des Hommes dans la Lune.
 
 -*who_belise
-Je n'ai point encor vu d'hommes, comme je crois,
-Mais j'ai vu des clochers tout comme je vous vois.
+Je n'ai point encor vu d'Hommes, comme je crois,
+Mais j'ai vu des Clochers tout comme je vous vois.
 
 -*who_armande
-Nous approfondirons ainsi que la physique,
-Grammaire, Histoire, Vers, Morale et Politique,
+Nous approfondirons, ainsi que la Physique,
+Grammaire, Histoire, Vers, Morale, et Politique.
 
 -*who_philaminte
-La morale a des traits dont mon coeur est épris,
-Et c'était autrefois l'amour des grands esprits ;
+La Morale a des traits dont mon cœur est épris,
+Et c'était autrefois l'amour des grands Esprits ;
 Mais aux Stoïciens je donne l'avantage,
 Et je ne trouve rien de si beau que leur Sage.
 
 -*who_armande
-Pour la langue, on verra dans peu nos règlements,
+Pour la Langue, on verra dans peu nos Règlements,
 Et nous y prétendons faire des remuements.
 Par une antipathie ou juste, ou naturelle,
 Nous avons pris chacune une haine mortelle
-Pour un nombre de mots, soit ou verbes ou noms,
-Que mutuellement nous nous abandonnons ;
-Contre eux nous préparons de mortelles sentences,
-Et nous devons ouvrir nos doctes conférences
-Par les proscriptions de tous ces mots divers
-Dont nous voulons purger et la prose et les vers.
+Pour un nombre de mots, soit ou verbes, ou noms,
+Que mutuellement nous nous abandonnons ;
+Contre eux nous préparons de mortelles Sentences,
+Et nous devons ouvrir nos doctes Conférences
+Par les proscriptions de tous ces mots divers,
+Dont nous voulons purger et la Prose et les Vers.
 
 -*who_philaminte
-Mais le plus beau projet de notre académie,
-Une entreprise noble, et dont je suis ravie ;
+Mais le plus beau projet de notre Académie,
+Une entreprise noble et dont je suis ravie ;
 Un dessein plein de gloire, et qui sera vanté
-Chez tous les beaux esprits de la postérité,
+Chez tous les beaux Esprits de la postérité,
 C'est le retranchement de ces syllabes sales,
-Qui dans les plus beaux mots produisent des scandales ;
-Ces jouets éternels des sots de tous les temps ;
-Ces fades lieux communs de nos méchants plaisants ;
+Qui dans les plus beaux mots produisent des scandales ;
+Ces jouets éternels des Sots de tous les temps ;
+Ces fades lieux communs de nos méchants Plaisants ;
 Ces sources d'un amas d'équivoques infâmes,
-Dont on vient faire insulte à la pudeur des femmes.
+Dont on vient faire insulte à la pudeur des Femmes.
 
 -*who_trissotin
-Voilà certainement d'admirables projets !
+Voilà certainement d'admirables projets !
 
 -*who_belise
-Vous verrez nos statuts, quand ils seront tous faits.
+Vous verrez nos Statuts quand ils seront tous faits.
 
 -*who_trissotin
 Ils ne sauraient manquer d'être tous beaux et sages.
 
 -*who_armande
-Nous serons par nos lois les juges des ouvrages.
-Par nos lois, prose et vers, tout nous sera soumis,
-Nul n'aura de l'esprit, hors nous et nos amis ;
+Nous serons par nos Lois les Juges des Ouvrages.
+Par nos Lois, Prose et Vers, tout nous sera soumis.
+Nul n'aura de l'esprit, hors nous et nos Amis.
 Nous chercherons partout à trouver à redire,
 Et ne verrons que nous qui sache bien écrire.
 
-**** *book_ *id_III03 *act_III *date_1672
+**** *book_ *id_III03 *act_III *date_1672 *creator_moliere
 
--*who_lepine
-Monsieur, un homme est là qui veut parler à vous,
+-*who_l_epine
+Monsieur, un Homme est là qui veut parler à vous,
 Il est vêtu de noir, et parle d'un ton doux.
 
 -*who_trissotin
-C'est cet ami savant qui m'a fait tant d'instance
+C'est cet Ami savant qui m'a fait tant d'instance
 De lui donner l'honneur de votre connaissance.
 
 -*who_philaminte
 Pour le faire venir, vous avez tout crédit.
-Faisons bien les honneurs au moins de notre esprit.
+Faisons bien les honneurs au moins de notre Esprit.
 Holà. Je vous ai dit en paroles bien claires,
 Que j'ai besoin de vous.
 
 -*who_henriette
-      Mais pour quelles affaires ?
+      Mais pour quelles affaires ?
 
 -*who_philaminte
 Venez, on va dans peu vous les faire savoir.
 
 -*who_trissotin
-Voici l'homme qui meurt du désir de vous voir.
+Voici l'Homme qui meurt du désir de vour voir.
 En vous le produisant, je ne crains point le blâme
-D'avoir admis chez vous un profane, Madame :
-Il peut tenir son coin parmi de beaux esprits.
+D'avoir admis chez vous un Profane, Madame,
+Il peut tenir son coin parmi de beaux Esprits.
 
 -*who_philaminte
 La main qui le présente, en dit assez le prix.
 
 -*who_trissotin
-Il a des vieux auteurs la pleine intelligence,
-Et sait du Grec, Madame, autant qu'homme de France.
+Il a des vieux Auteurs la pleine intelligence,
+Et sait du Grec, Madame, autant qu'Homme de France.
 
 -*who_philaminte
-Du Grec, ô Ciel ! Du Grec ! Il sait du Grec, ma soeur !
+Du Grec, ô Ciel ! du Grec ! Il sait du Grec, ma Sœur !
 
 -*who_belise
-Ah, ma nièce, du Grec !
+Ah, ma Nièce, du Grec !
 
 -*who_armande
-      Du Grec ! Quelle douceur !
+      Du Grec ! Quelle douceur !
 
 -*who_philaminte
-Quoi, Monsieur sait du Grec ? Ah permettez, de grâce,
-Que pour l'amour du Grec, Monsieur, on vous embrasse,
+Quoi, Monsieur sait du Grec ? Ah permettez, de grâce
+Que pour l'amour du Grec, Monsieur, on vous embrasse.
 
 -*who_henriette
-Excusez-moi, Monsieur, je n'entends pas le grec.
+Excusez-moi, Monsieur, je n'entends pas le Grec.
 
 -*who_philaminte
-J'ai pour les livres grecs un merveilleux respect.
+J'ai pour les Livres Grecs un merveilleux respect.
 
 -*who_vadius
 Je crains d'être fâcheux, par l'ardeur qui m'engage
 À vous rendre aujourd'hui, Madame, mon hommage,
-Et j'aurai pu troubler quelque docte entretien.
+Et j'aurais pu troubler quelque docte entretien.
 
 -*who_philaminte
 Monsieur, avec du Grec on ne peut gâter rien.
 
 -*who_trissotin
-Au reste il fait merveille en vers ainsi qu'en prose,
+Au reste il fait merveille en Vers ainsi qu'en Prose,
 Et pourrait, s'il voulait, vous montrer quelque chose.
 
 -*who_vadius
-Le défaut des auteurs dans leurs productions,
-C'est d'en tyranniser les conversations ;
+Le défaut des Auteurs, dans leurs productions,
+C'est d'en tyranniser les Conversations ;
 D'être au Palais, au Cours, aux Ruelles, aux Tables,
-De leurs vers fatigants lecteurs infatigables.
-Pour moi, je ne vois rien de plus sot à mon sens,
-Qu'un auteur qui partout va gueuser des encens ;
-Qui des premiers-venus saisissant les oreilles,
+De leurs Vers fatigants lecteurs infatigables.
+Pour moi je ne vois rien de plus sot à mon sens,
+Qu'un Auteur qui partout va gueuser des encens ;
+Qui des premiers -venus saisissant les oreilles,
 En fait le plus souvent les martyrs de ses veilles.
 On ne m'a jamais vu ce fol entêtement,
 Et d'un Grec là-dessus je suis le sentiment,
-Qui, par un dogme exprès défend à tous ses sages
+Qui par un dogme exprès défend à tous ses Sages
 L'indigne empressement de lire leurs ouvrages.
-Voici de petits vers pour de jeunes amants,
+Voici de petits vers pour de jeunes Amants,
 Sur quoi je voudrais bien avoir vos sentiments.
 
 -*who_trissotin
-Vos vers ont des beautés que n'ont point tous les autres.
+Vos Vers ont des beautés que n'ont point tous les autres.
 
 -*who_vadius
 Les Grâces et Vénus règnent dans tous les vôtres.
@@ -2004,82 +1965,82 @@ Les Grâces et Vénus règnent dans tous les vôtres.
 Vous avez le tour libre, et le beau choix des mots.
 
 -*who_vadius
-On voit partout chez vous l'ithos et le pathos.
+On voit partout chez vous l'Ithos et le Pathos.
 
 -*who_trissotin
-Nous avons vu de vous des églogues d'un style
+Nous avons vu de vous des Églogues d'un style,
 Qui passe en doux attraits Théocrite et Virgile.
 
 -*who_vadius
-Vos odes ont un air noble, galant et doux,
+Vos Odes ont un air noble, galant et doux,
 Qui laisse de bien loin votre Horace après vous.
 
 -*who_trissotin
-Est-il rien d'amoureux comme vos chansonnettes ?
+Est-il rien d'amoureux comme vos Chansonnettes ?
 
 -*who_vadius
-Peut-on voir rien d'égal aux sonnets que vous faites ?
+Peut-on voir rien d'égal aux Sonnets que vous faites ?
 
 -*who_trissotin
-Rien qui soit plus charmant que vos petits rondeaux ?
+Rien qui soit plus charmant que vos petits Rondeaux ?
 
 -*who_vadius
-Rien de si plein d'esprit que tous vos madrigaux ?
+Rien de si plein d'esprit que tous vos Madrigaux ?
 
 -*who_trissotin
-Aux ballades surtout vous êtes admirable.
+Aux Ballades surtout vous êtes admirable.
 
 -*who_vadius
-Et dans les bouts-rimés je vous trouve adorable.
+Et dans les Bouts-rimés je vous trouve adorable.
 
 -*who_trissotin
-Si la France pouvait connaître votre prix.
+Si la France pouvait connaître votre prix,
 
 -*who_vadius
-Si le siècle rendait justice aux beaux esprits.
+Si le Siècle rendait justice aux beaux Esprits,
 
 -*who_trissotin
-En carrosse doré vous iriez par les rues.
+En Carrosse doré vous iriez par les rues.
 
 -*who_vadius
-On verrait le public vous dresser des statues.
-Hom. C'est une ballade, et je veux que tout net
+On verrait le Public vous dresser des Statues.
+Hom. C'est une Ballade, et je veux que tout net
 Vous m'en...
 
 -*who_trissotin
-      Avez-vous vu certain petit sonnet
-Sur la fièvre qui tient la princesse Uranie ?
+      Avez-vous vu certain petit Sonnet
+Sur la Fièvre qui tient la Princesse Uranie ?
 
 -*who_vadius
-Oui, hier il me fut lu dans une compagnie.
+Oui, hier il me fut lu dans une Compagnie.
 
 -*who_trissotin
-Vous en savez l'auteur ?
+Vous en savez l'Auteur ?
 
 -*who_vadius
-      Non ; mais je sais fort bien
-Qu'à ne le point flatter son sonnet ne vaut rien.
+      Non ; mais je sais fort bien,
+Qu'à ne le point flatter, son Sonnet ne vaut rien.
 
 -*who_trissotin
-Beaucoup de gens pourtant le trouvent admirable.
+Beaucoup de Gens pourtant le trouvent admirable.
 
 -*who_vadius
-Cela n'empêche pas qu'il ne soit misérable ;
+Cela n'empêche pas qu'il ne soit misérable ;
 Et si vous l'avez vu, vous serez de mon goût.
 
 -*who_trissotin
 Je sais que là-dessus je n'en suis point du tout,
-Et que d'un tel sonnet peu de gens sont capables.
+Et que d'un tel Sonnet peu de Gens sont capables.
 
 -*who_vadius
-Me préserve le ciel d'en faire de semblables !
+Me préserve le Ciel d'en faire de semblables !
 
 -*who_trissotin
-Je soutiens qu'on ne peut en faire de meilleur ;
+Je soutiens qu'on ne peut en faire de meilleur ;
 Et ma grande raison, c'est que j'en suis l'auteur.
 
 -*who_vadius
-Vous ?
+Vous ?
 
 -*who_trissotin
       Moi.
@@ -2092,15 +2053,15 @@ C'est qu'on fut malheureux, de ne pouvoir vous plaire.
 
 -*who_vadius
 Il faut qu'en écoutant j'aie eu l'esprit distrait,
-Ou bien que le lecteur m'ait gâté le sonnet.
-Mais laissons ce discours, et voyons ma ballade.
+Ou bien que le Lecteur m'ait gâté le Sonnet.
+Mais laissons ce discours, et voyons ma Ballade.
 
 -*who_trissotin
-La ballade, à mon goût, est une chose fade.
-Ce n'en est plus la mode ; elle sent son vieux temps.
+La Ballade, à mon goût, est une chose fade.
+Ce n'en est plus la mode ; Elle sent son vieux temps.
 
 -*who_vadius
-La ballade pourtant charme beaucoup de gens.
+La Ballade pourtant charme beaucoup de gens.
 
 -*who_trissotin
 Cela n'empêche pas qu'elle ne me déplaise.
@@ -2109,7 +2070,7 @@ Cela n'empêche pas qu'elle ne me déplaise.
 Elle n'en reste pas pour cela plus mauvaise.
 
 -*who_trissotin
-Elle a pour les pédants de merveilleux appas.
+Elle a pour les Pédants de merveilleux appas.
 
 -*who_vadius
 Cependant nous voyons qu'elle ne vous plaît pas.
@@ -2121,19 +2082,19 @@ Vous donnez sottement vos qualités aux autres.
 Fort impertinemment vous me jetez les vôtres.
 
 -*who_trissotin
-Allez, petit grimaud, barbouilleur de papier.
+Allez, petit Grimaud, Barbouilleur de Papier.
 
 -*who_vadius
-Allez, rimeur de balle, opprobre du métier.
+Allez, Rimeur de Balle, opprobre du Métier.
 
 -*who_trissotin
-Allez, fripier d'écrits, impudent plagiaire.
+Allez, Fripier d'Écrits, impudent Plagiaire.
 
 -*who_vadius
-Allez, cuistre...
+Allez, Cuistre...
 
 -*who_philaminte
-      Eh, Messieurs, que prétendez-vous faire ?
+      Eh, Messieurs, que prétendez-vous faire ?
 
 -*who_trissotin
 Va, va restituer tous les honteux larcins
@@ -2141,19 +2102,19 @@ Que réclament sur toi les Grecs et les Latins.
 
 -*who_vadius
 Va, va-t'en faire amende honorable au Parnasse,
-D'avoir fait à tes vers estropier Horace.
+D'avoir fait à tes Vers estropier Horace.
 
 -*who_trissotin
-Souviens-toi de ton livre, et de son peu de bruit.
+Souviens-toi de ton Livre, et de son peu de bruit.
 
 -*who_vadius
-Et toi, de ton libraire à l'hôpital réduit.
+Et toi, de ton Libraire à l'Hôpital réduit.
 
 -*who_trissotin
 Ma gloire est établie, en vain tu la déchires.
 
 -*who_vadius
-Oui, oui, je te renvoie à l'auteur des Satires.
+Oui, oui, je te renvoie à l'Auteur des Satires.
 
 -*who_trissotin
 Je t'y renvoie aussi.
@@ -2162,43 +2123,43 @@ Je t'y renvoie aussi.
       J'ai le contentement,
 Qu'on voit qu'il m'a traité plus honorablement.
 Il me donne en passant une atteinte légère
-Parmi plusieurs auteurs qu'au Palais on révère ;
-Mais jamais dans ses vers il ne te laisse en paix,
+Parmi plusieurs Auteurs qu'au Palais on révère ;
+Mais jamais dans ses Vers il ne te laisse en paix,
 Et l'on t'y voit partout être en butte à ses traits.
 
 -*who_trissotin
 C'est par là que j'y tiens un rang plus honorable.
-Il te met dans la foule ainsi qu'un misérable,
+Il te met dans la foule ainsi qu'un Misérable,
 Il croit que c'est assez d'un coup pour t'accabler,
-Et ne t'a jamais fait l'honneur de redoubler :
-Mais il m'attaque à part comme un noble adversaire
-Sur qui tout son effort lui semble nécessaire ;
+Et ne t'a jamais fait l'honneur de redoubler :
+Mais il m'attaque à part comme un noble Adversaire
+Sur qui tout son effort lui semble nécessaire ;
 Et ses coups contre moi redoublés en tous lieux,
 Montrent qu'il ne se croit jamais victorieux.
 
 -*who_vadius
-Ma plume t'apprendra quel homme je puis être.
+Ma plume t'apprendra quel Homme je puis être.
 
 -*who_trissotin
-Et la mienne saura te faire voir ton maître.
+Et la mienne saura te faire voir ton Maître.
 
 -*who_vadius
-Je te défie en vers, prose, Grec, et Latin.
+Je te défie en Vers, Prose, Grec, et Latin.
 
 -*who_trissotin
 Hé bien, nous nous verrons seul à seul chez Barbin.
 
-**** *book_ *id_III04 *act_III *date_1672
+**** *book_ *id_III04 *act_III *date_1672 *creator_moliere
 
 -*who_trissotin
-À mon emportement ne donnez aucun blâme ;
+À mon emportement ne donnez aucun blâme ;
 C'est votre jugement que je défends, Madame,
-Dans le sonnet qu'il a l'audace d'attaquer.
+Dans le Sonnet qu'il a l'audace d'attaquer.
 
 -*who_philaminte
-À vous remettre bien je me veux appliquer.
+À vous remettre bien, je me veux appliquer.
 Mais parlons d'autre affaire. Approchez, Henriette.
-Depuis assez longtemps mon âme s'inquiète
+Depuis assez longtemps mon âme s'inquiète,
 De ce qu'aucun esprit en vous ne se fait voir,
 Mais je trouve un moyen de vous en faire avoir.
 
@@ -2207,42 +2168,42 @@ C'est prendre un soin pour moi qui n'est pas nécessaire,
 Les doctes entretiens ne sont point mon affaire.
 J'aime à vivre aisément, et dans tout ce qu'on dit
 Il faut se trop peiner, pour avoir de l'esprit.
-C'est une ambition que je n'ai point en tête.
-Je me trouve fort bien, ma mère, d'être bête,
+C'est une ambition que je n'ai point en tête,
+Je me trouve fort bien, ma Mère, d'être Bête,
 Et j'aime mieux n'avoir que de communs propos,
 Que de me tourmenter pour dire de beaux mots.
 
 -*who_philaminte
-Oui, mais j'y suis blessée, et ce n'est pas mon conte
+Oui, mais j'y suis blessée, et ce n'est pas mon compte
 De souffrir dans mon sang une pareille honte.
-La beauté du visage est un frêle ornement,
+La beauté du Visage est un frêle ornement,
 Une fleur passagère, un éclat d'un moment,
-Et qui n'est attaché qu'à la simple épiderme ;
-Mais celle de l'esprit est inhérente et ferme.
+Et qui n'est attaché qu'à la simple épiderme ;
+Mais celle de l'Esprit est inhérente et ferme.
 J'ai donc cherché longtemps un biais de vous donner
 La beauté que les ans ne peuvent moissonner,
-De faire entrer chez vous le désir des sciences,
-De vous insinuer les belles connaissances ;
-Et la pensée enfin où mes voeux ont souscrit,
+De faire entrer chez vous le désir des Sciences,
+De vous insinuer les belles connaissances ;
+Et la pensée enfin où mes vœux ont souscrit,
 C'est d'attacher à vous un homme plein d'esprit,
-Et cet homme est Monsieur que je vous détermine
-À voir comme l'époux que mon choix vous destine.
+Et cet Homme est Monsieur que je vous détermine
+À voir comme l'Époux que mon choix vous destine.
 
 -*who_henriette
-Moi, ma mère ?
+Moi, ma Mère ?
 
 -*who_philaminte
-      Oui, vous. Faites la sotte un peu.
+      Oui, vous. Faites la Sotte un peu.
 
 -*who_belise
 Je vous entends. Vos yeux demandent mon aveu,
-Pour engager ailleurs un coeur que je possède.
-Allez, je le veux bien. À ce noeud je vous cède,
-C'est un hymen qui fait votre établissement.
+Pour engager ailleurs un cœur que je possède.
+Allez, je le veux bien. À ce nœud je vous cède,
+C'est un Hymen qui fait votre établissement.
 
 -*who_trissotin
-Je ne sais que vous dire en mon ravissement,
-Madame, et cet hymen dont je vois qu'on m'honore
+Je ne sais que vous dire, en mon ravissement,
+Madame, et cet Hymen dont je vois qu'on m'honore
 Me met...
 
 -*who_henriette
@@ -2250,317 +2211,317 @@ Me met...
 Ne vous pressez pas tant.
 
 -*who_philaminte
-      Comme vous répondez !
-Savez-vous bien que si... Suffit, vous m'entendez.
-Elle se rendra sage ; allons, laissons-la faire.
+      Comme vous répondez !
+Savez-vous bien que si… Suffit, vous m'entendez.
+Elle se rendra sage ; allons, laissons-la faire.
 
-**** *book_ *id_III05 *act_III *date_1672
+**** *book_ *id_III05 *act_III *date_1672 *creator_moliere
 
 -*who_armande
-On voit briller pour vous les soins de notre mère ;
-Et son choix ne pouvait d'un plus illustre époux...
+On voit briller pour vous les soins de notre Mère ;
+Et son choix ne pouvait d'un plus illustre Époux...
 
 -*who_henriette
-Si le choix est si beau, que ne le prenez-vous ?
+Si le choix est si beau, que ne le prenez-vous ?
 
 -*who_armande
 C'est à vous, non à moi, que sa main est donnée.
 
 -*who_henriette
-Je vous le cède tout, comme à ma soeur aînée.
+Je vous le cède tout, comme à ma Sœur aînée.
 
 -*who_armande
-Si l'hymen comme à vous, me paraissait charmant,
+Si l'Hymen comme à vous me paraissait charmant,
 J'accepterais votre offre avec ravissement.
 
 -*who_henriette
-Si j'avais comme vous les pédants dans la tête,
-Je pourrais le trouver un parti fort honnête.
+Si j'avais comme vous les Pédants dans la tête,
+Je pourrais le trouver un Parti fort honnête.
 
 -*who_armande
-Cependant, bien qu'ici nos goûts soient différents,
-Nous devons obéir, ma soeur, à nos parents ;
-Une mère a sur nous une entière puissance,
+Cependant bien qu'ici nos goûts soient différents,
+Nous devons obéir, ma Sœur, à nos Parents ;
+Une Mère a sur nous une entière puissance,
 Et vous croyez en vain par votre résistance...
 
-**** *book_ *id_III06 *act_III *date_1672
+**** *book_ *id_III06 *act_III *date_1672 *creator_moliere
 
 -*who_chrysale
-Allons, ma fille, il faut approuver mon dessein,
-Otez ce gant ; touchez à Monsieur dans la main,
+Allons, ma Fille, il faut approuver mon dessein,
+Ôtez ce Gant. Touchez à Monsieur dans la main,
 Et le considérez désormais dans votre âme
-En homme dont je veux que vous soyez la femme.
+En Homme dont je veux que vous soyez la Femme.
 
 -*who_armande
-De ce côté, ma soeur, vos penchants sont fort grands.
+De ce côté, ma Sœur, vos penchants sont fort grands.
 
 -*who_henriette
-Il nous faut obéir, ma soeur, à nos parents ;
-Un père a sur nos voeux une entière puissance.
+Il nous faut obéir, ma Sœur, à nos Parents ;
+Un Père a sur nos vœux une entière puissance.
 
 -*who_armande
-Une mère a sa part à notre obéissance.
+Une Mère a sa part à notre obéissance.
 
 -*who_chrysale
-Qu'est-ce à dire ?
+Qu'est-ce à dire ?
 
 -*who_armande
       Je dis que j'appréhende fort
-Qu'ici ma mère et vous ne soyez pas d'accord,
-Et c'est un autre époux...
+Qu'ici ma Mère et vous ne soyez pas d'accord,
+Et c'est un autre Époux...
 
 -*who_chrysale
-      Taisez-vous, péronnelle !
+      Taisez-vous, Péronnelle !
 Allez philosopher tout le soûl avec elle,
 Et de mes actions ne vous mêlez en rien.
 Dites-lui ma pensée, et l'avertissez bien
-Qu'elle ne vienne pas m'échauffer les oreilles ;
+Qu'elle ne vienne pas m'échauffer les oreilles ;
 Allons vite.
 
 -*who_ariste
-      Fort bien ; vous faites des merveilles.
+      Fort bien ; Vous faites des merveilles.
 
 -*who_clitandre
-Quel transport ! Quelle joie ! Ah que mon sort est doux !
+Quel transport ! quelle joie ! ah ! que mon sort est doux !
 
 -*who_chrysale
 Allons, prenez sa main, et passez devant nous,
-Menez-là dans sa chambre. Ah les douces caresses !
-Tenez, mon coeur s'émeut à toutes ces tendresses,
+Menez-la dans sa chambre. Ah les douces caresses !
+Tenez, mon cœur s'émeut à toutes ces tendresses,
 Cela ragaillardit tout à fait mes vieux jours,
 Et je me ressouviens de mes jeunes amours.
 
-**** *book_ *id_IV01 *act_IV *date_1672
+**** *book_ *id_IV01 *act_IV *date_1672 *creator_moliere
 
 -*who_armande
 Oui, rien n'a retenu son esprit en balance.
 Elle a fait vanité de son obéissance.
-Son coeur, pour se livrer, à peine devant moi
+Son cœur, pour se livrer, à peine devant moi
 S'est-il donné le temps d'en recevoir la loi,
-Et semblait suivre moins les volontés d'un père,
-Qu'affecter de braver les ordres d'une mère.
+Et semblait suivre moins les volontés d'un Père,
+Qu'affecter de braver les ordres d'une Mère.
 
 -*who_philaminte
 Je lui montrerai bien aux lois de qui des deux
-Les droits de la raison soumettent tous ses voeux.
-Et qui doit gouverner, ou sa mère ou son père,
-Ou l'esprit ou le corps ; la forme, ou la matière.
+Les droits de la Raison soumettent tous ses vœux ;
+Et qui doit gouverner ou sa Mère, ou son Père,
+Ou l'esprit, ou le corps ; la forme, ou la matière.
 
 -*who_armande
 On vous en devait bien au moins un compliment,
 Et ce petit Monsieur en use étrangement,
-De vouloir malgré vous devenir votre gendre.
+De vouloir malgré vous devenir votre Gendre.
 
 -*who_philaminte
-Il n'en est pas encore où son coeur peut prétendre.
-Je le trouvais bien fait, et j'aimais vos amours ;
+Il n'en est pas encore où son cœur peut prétendre.
+Je le trouvais bien fait, et j'aimais vos amours ;
 Mais dans ses procédés il m'a déplu toujours.
 Il sait que Dieu merci je me mêle d'écrire,
 Et jamais il ne m'a prié de lui rien lire.
 
-**** *book_ *id_IV02 *act_IV *date_1672
+**** *book_ *id_IV02 *act_IV *date_1672 *creator_moliere
 
 -*who_armande
 Je ne souffrirais point, si j'étais que de vous,
-Que jamais d'Henriette il pût être l'époux.
+Que jamais d'Henriette il pût être l'Époux.
 On me ferait grand tort d'avoir quelque pensée,
-Que là-dessus je parle en fille intéressée,
+Que là-dessus je parle en Fille intéressée,
 Et que le lâche tour que l'on voit qu'il me fait,
-Jette au fond de mon coeur quelque dépit secret.
-Contre de pareils coups l'âme se fortifie
-Du solide secours de la philosophie,
-Et par elle on se peut mettre au-dessus de tout :
+Jette au fond de mon cœur quelque dépit secret.
+Contre de pareils coups, l'âme se fortifie
+Du solide secours de la Philosophie,
+Et par elle on se peut mettre au-dessus de tout :
 Mais vous traiter ainsi, c'est vous pousser à bout.
-Il est de votre honneur d'être à ses voeux contraire,
-Et c'est un homme enfin qui ne doit point vous plaire.
+Il est de votre honneur d'être à ses vœux contraire,
+Et c'est un Homme enfin qui ne doit point vous plaire.
 Jamais je n'ai connu, discourant entre nous,
-Qu'il eût au fond du coeur de l'estime pour vous.
+Qu'il eût au fond du cœur de l'estime pour vous.
 
 -*who_philaminte
-Petit sot !
+Petit Sot !
 
 -*who_armande
       Quelque bruit que votre gloire fasse,
 Toujours à vous louer il a paru de glace.
 
 -*who_philaminte
-Le brutal !
+Le Brutal !
 
 -*who_armande
-      Et vingt fois, comme ouvrages nouveaux,
-J'ai lu des vers de vous qu'il n'a point trouvé beaux.
+      Et vingt fois, comme Ouvrages nouveaux,
+J'ai lu des Vers de vous qu'il n'a point trouvé beaux.
 
 -*who_philaminte
-L'impertinent !
+L'Impertinent !
 
 -*who_armande
-      Souvent nous en étions aux prises ;
+      Souvent nous en étions aux prises ;
 Et vous ne croiriez point de combien de sottises...
 
 -*who_clitandre
-Eh doucement, de grâce : un peu de charité,
+Eh doucement de grâce. Un peu de charité,
 Madame, ou tout au moins un peu d'honnêteté.
-Quel mal vous ai-je fait ? Et quelle est mon offense,
-Pour armer contre moi toute votre éloquence ?
+Quel mal vous ai-je fait ? et quelle est mon offense,
+Pour armer contre moi toute votre éloquence ?
 Pour vouloir me détruire, et prendre tant de soin
-De me rendre odieux aux gens dont j'ai besoin ?
-Parlez, dites, d'où vient ce courroux effroyable ?
-Je veux bien que Madame en soit juge équitable.
+De me rendre odieux aux Gens dont j'ai besoin ?
+Parlez. Dites, d'où vient ce courroux effroyable ?
+Je veux bien que Madame en soit Juge équitable.
 
 -*who_armande
 Si j'avais le courroux dont on veut m'accuser,
-Je trouverais assez de quoi l'autoriser ;
+Je trouverais assez de quoi l'autoriser ;
 Vous en seriez trop digne, et les premières flammes
 S'établissent des droits si sacrés sur les âmes.
 Qu'il faut perdre fortune, et renoncer au jour,
-Plutôt que de brûler des feux d'un autre amour ;
-Au changement de voeux nulle horreur ne s'égale,
-Et tout coeur infidèle est un monstre en morale.
+Plutôt que de brûler des feux d'un autre amour ;
+Au changement de vœux nulle horreur ne s'égale,
+Et tout cœur infidèle est un Monstre en Morale.
 
 -*who_clitandre
-Appelez-vous, Madame, une infidélité
-Ce que m'a de votre âme ordonné la fierté ?
-Je ne fais qu'obéir aux lois qu'elle m'impose ;
+Appelez-vous, Madame, une infidélité,
+Ce que m'a de votre âme ordonné la fierté ?
+Je ne fais qu'obéir aux lois qu'elle m'impose ;
 Et si je vous offense, elle seule en est cause.
-Vos charmes ont d'abord possédé tout mon coeur.
-Il a brûlé deux ans d'une constante ardeur ;
+Vos charmes ont d'abord possédé tout mon cœur.
+Il a brûlé deux ans d'une constante ardeur ;
 Il n'est soins empressés, devoirs, respects, services,
 Dont il ne vous ait fait d'amoureux sacrifices.
-Tous mes feux, tous mes soins ne peuvent rien sur vous ;
-Je vous trouve contraire à mes voeux les plus doux ;
+Tous mes feux, tous mes soins ne peuvent rien sur vous,
+Je vous trouve contraire à mes vœux les plus doux ;
 Ce que vous refusez, je l'offre au choix d'une autre.
-Voyez. Est-ce, Madame, ou ma faute, ou la vôtre ?
-Mon coeur court-il au change, ou si vous l'y poussez ?
-Est-ce moi qui vous quitte, ou vous qui me chassez ?
+Voyez. Est-ce, Madame, ou ma faute, ou la vôtre ?
+Mon cœur court-il au change, ou si vous l'y poussez ?
+Est-ce moi qui vous quitte, ou vous qui me chassez ?
 
 -*who_armande
-Appelez-vous, Monsieur, être à vos voeux contraire,
+Appelez-vous, Monsieur, être à vos vœux contraire,
 Que de leur arracher ce qu'ils ont de vulgaire,
 Et vouloir les réduire à cette pureté
-Où du parfait amour consiste la beauté ?
+Où du parfait amour consiste la beauté ?
 Vous ne sauriez pour moi tenir votre pensée
-Du commerce des sens nette et débarrassée ?
-Et vous ne goûtez point, dans ses plus doux appas,
-Cette union des coeurs où les corps n'entrent pas ?
-Vous ne pouvez aimer que d'une amour grossière ?
-Qu'avec tout l'attirail des noeuds de la matière ?
+Du commerce des sens nette et débarrassée ?
+Et vous ne goûtez point dans ses plus doux appas,
+Cette union des cœurs, où les corps n'entrent pas ?
+Vous ne pouvez aimer que d'une amour grossière ?
+Qu'avec tout l'attirail des nœuds de la matière ?
 Et pour nourrir les feux que chez vous on produit,
-Il faut un mariage, et tout ce qui s'ensuit.
-Ah quel étrange amour ! Et que les belles âmes
-Sont bien loin de brûler de ces terrestres flammes !
+Il faut un Mariage, et tout ce qui s'ensuit.
+Ah quel étrange amour ! et que les belles âmes
+Sont bien loin de brûler de ces terrestres flammes !
 Les sens n'ont point de part à toutes leurs ardeurs,
-Et ce beau feu ne veut marier que les coeurs ;
+Et ce beau feu ne veut marier que les cœurs.
 Comme une chose indigne, il laisse là le reste.
 C'est un feu pur et net comme le feu céleste,
-On ne pousse, avec lui, que d'honnêtes soupirs,
+On ne pousse avec lui que d'honnêtes soupirs,
 Et l'on ne penche point vers les sales désirs.
 Rien d'impur ne se mêle au but qu'on se propose.
 On aime pour aimer, et non pour autre chose.
-Ce n'est qu'à l'esprit seul que vont tous les transports,
+Ce n'est qu'à l'esprit seul que vont tous les transports
 Et l'on ne s'aperçoit jamais qu'on ait un corps.
 
 -*who_clitandre
-Pour moi, par un malheur, je m'aperçois, Madame,
-Que j'ai, ne vous déplaise, un corps tout comme une âme :
-Je sens qu'il y tient trop, pour le laisser à part ;
-De ces détachements je ne connais point l'art ;
-Le Ciel m'a dénié cette philosophie,
+Pour moi par un malheur, je m'aperçois, Madame,
+Que j'ai, ne vous déplaise, un corps tout comme une âme :
+Je sens qu'il y tient trop, pour le laisser à part ;
+De ces détachements je ne connais point l'art ;
+Le Ciel m'a dénié cette Philosophie,
 Et mon âme et mon corps marchent de compagnie.
 Il n'est rien de plus beau, comme vous avez dit,
-Que ces voeux épurés qui ne vont qu'à l'esprit,
-Ces unions de coeurs, et ces tendres pensées,
-Du commerce des sens si bien débarrassées :
+Que ces vœux épurés qui ne vont qu'à l'esprit,
+Ces unions de cœurs, et ces tendres pensées,
+Du commerce des sens si bien débarrassées :
 Mais ces amours pour moi sont trop subtilisés,
-Je suis un peu grossier, comme vous m'accusez ;
+Je suis un peu grossier, comme vous m'accusez ;
 J'aime avec tout moi-même, et l'amour qu'on me donne,
 En veut, je le confesse, à toute la personne.
-Ce n'est pas là matière à de grands châtiments ;
-Et, sans faire de tort à vos beaux sentiments,
-Je vois que dans le monde on suit fort ma méthode,
-Et que le mariage est assez à la mode,
+Ce n'est pas là matière à de grands châtiments ;
+Et sans faire de tort à vos beaux sentiments,
+Je vois que dans le Monde on suit fort ma méthode,
+Et que le Mariage est assez à la mode,
 Passe pour un lien assez honnête et doux,
-Pour avoir désiré de me voir votre époux,
+Pour avoir désiré de me voir votre Époux,
 Sans que la liberté d'une telle pensée
 Ait dû vous donner lieu d'en paraître offensée.
 
 -*who_armande
-Hé bien, Monsieur, hé bien, puisque sans m'écouter,
-Vos sentiments brutaux veulent se contenter ;
+Hé bien, Monsieur, hé bien, puisque sans m'écouter
+Vos sentiments brutaux veulent se contenter ;
 Puisque pour vous réduire à des ardeurs fidèles,
-Il faut des noeuds de chair, des chaînes corporelles ;
-Si ma mère le veut, je résous mon esprit
+Il faut des nœuds de chair, des chaînes corporelles ;
+Si ma Mère le veut, je résous mon esprit
 À consentir pour vous à ce dont il s'agit.
 
 -*who_clitandre
-Il n'est plus temps, Madame, une autre a pris la place ;
+Il n'est plus temps, Madame, une autre a pris la place ;
 Et par un tel retour j'aurais mauvaise grâce
-De maltraiter l'asile et blesser les bontés,
+De maltraiter l'asile, et blesser les bontés,
 Où je me suis sauvé de toutes vos fiertés.
 
 -*who_philaminte
 Mais enfin comptez-vous, Monsieur, sur mon suffrage,
-Quand vous vous promettez cet autre mariage ?
-Et, dans vos visions, savez-vous, s'il vous plaît,
-Que j'ai pour Henriette un autre époux tout prêt ?
+Quand vous vous promettez cet autre Mariage ?
+Et dans vos visions savez-vous, s'il vous plaît,
+Que j'ai pour Henriette un autre Époux tout prêt ?
 
 -*who_clitandre
-Eh, Madame, voyez votre choix, je vous prie ;
+Eh, Madame, voyez votre choix, je vous prie ;
 Exposez-moi, de grâce, à moins d'ignominie,
 Et ne me rangez pas à l'indigne destin
-De me voir le rival de Monsieur Trissotin.
-L'amour des beaux esprits qui chez vous m'est contraire
-Ne pouvait m'opposer un moins noble adversaire.
+De me voir le Rival de Monsieur Trissotin.
+L'amour des beaux Esprits qui chez vous m'est contraire
+Ne pouvait m'opposer un moins noble Adversaire.
 Il en est, et plusieurs, que pour le bel esprit
-Le mauvais goût du siècle a su mettre en crédit :
+Le mauvais goût du Siècle a su mettre en crédit :
 Mais Monsieur Trissotin n'a pu duper personne,
-Et chacun rend justice aux écrits qu'il nous donne.
-Hors céans, on le prise en tous lieux ce qu'il vaut ;
+Et chacun rend justice aux Écrits qu'il nous donne.
+Hors céans, on le prise en tous lieux ce qu'il vaut ;
 Et ce qui m'a vingt fois fait tomber de mon haut,
-C'est de vous voir au ciel élever des sornettes
+C'est de vous voir au Ciel élever des sornettes,
 Que vous désavoueriez, si vous les aviez faites.
 
 -*who_philaminte
 Si vous jugez de lui tout autrement que nous,
 C'est que nous le voyons par d'autres yeux que vous.
 
-**** *book_ *id_IV03 *act_IV *date_1672
+**** *book_ *id_IV03 *act_IV *date_1672 *creator_moliere
 
 -*who_trissotin
 Je viens vous annoncer une grande nouvelle.
-Nous l'avons en dormant, Madame, échappé belle :
-Un monde près de nous a passé tout du long,
-Est chu tout au travers de notre tourbillon ;
+Nous l'avons en dormant, Madame, échappé belle :
+Un Monde près de nous a passé tout du long,
+Est chu tout au travers de notre tourbillon ;
 Et s'il eût en chemin rencontré notre terre,
 Elle eût été brisée en morceaux comme verre.
 
 -*who_philaminte
-Remettons ce discours pour une autre saison :
-Monsieur n'y trouverait ni rime, ni raison ;
+Remettons ce discours pour une autre saison,
+Monsieur n'y trouverait ni rime, ni raison ;
 Il fait profession de chérir l'ignorance,
-Et de haïr surtout l'esprit et la science.
+Et de haïr surtout l'Esprit et la Science.
 
 -*who_clitandre
 Cette vérité veut quelque adoucissement.
 Je m'explique, Madame, et je hais seulement
-La science et l'esprit qui gâtent les personnes.
-Ce sont choses de soi qui sont belles et bonnes ;
-Mais j'aimerais mieux être au rang des ignorants,
-Que de me voir savant comme certaines gens.
+La Science et l'Esprit qui gâtent les Personnes.
+Ce sont choses de soi qui sont belles et bonnes ;
+Mais j'aimerais mieux être au rang des Ignorants,
+Que de me voir savant comme certaines Gens.
 
 -*who_trissotin
-Pour moi, je ne tiens pas, quelque effet qu'on suppose,
-Que la science soit pour gâter quelque chose.
+Pour moi je ne tiens pas, quelque effet qu'on suppose,
+Que la Science soit pour gâter quelque chose.
 
 -*who_clitandre
-Et c'est mon sentiment qu'en faits, comme en propos,
-La science est sujette à faire de grands sots.
+Et c'est mon sentiment, qu'en faits, comme en propos,
+La Science est sujette à faire de grands Sots.
 
 -*who_trissotin
 Le paradoxe est fort.
 
 -*who_clitandre
       Sans être fort habile,
-La preuve m'en serait, je pense, assez facile.
+La preuve m'en serait je pense assez facile.
 Si les raisons manquaient, je suis sûr qu'en tout cas
 Les exemples fameux ne me manqueraient pas.
 
@@ -2577,56 +2538,56 @@ Pour moi je ne vois pas ces exemples fameux.
 Moi, je les vois si bien, qu'ils me crèvent les yeux.
 
 -*who_trissotin
-J'ai cru jusques ici que c'était l'ignorance
-Qui faisait les grands sots, et non pas la science.
+J'ai cru jusques ici que c'était l'Ignorance
+Qui faisait les grands Sots, et non pas la Science.
 
 -*who_clitandre
 Vous avez cru fort mal, et je vous suis garant,
-Qu'un sot savant est sot plus qu'un sot ignorant.
+Qu'un Sot savant est sot plus qu'un Sot ignorant.
 
 -*who_trissotin
 Le sentiment commun est contre vos maximes,
-Puisqu'ignorant et sot sont termes synonymes.
+Puisque Ignorant et Sot sont termes synonymes.
 
 -*who_clitandre
 Si vous le voulez prendre aux usages du mot,
-L'alliance est plus grande entre pédant et sot.
+L'alliance est plus grande entre Pédant et Sot.
 
 -*who_trissotin
-La sottise dans l'un se fait voir toute pure.
+La Sottise dans l'un se fait voir toute pure.
 
 -*who_clitandre
-Et l'étude dans l'autre ajoute à la nature.
+Et l'Étude dans l'autre ajoute à la Nature.
 
 -*who_trissotin
-Le savoir garde en soi son mérite éminent.
+Le Savoir garde en soi son mérite éminent.
 
 -*who_clitandre
-Le savoir dans un fat devient impertinent.
+Le Savoir dans un Fat devient impertinent.
 
 -*who_trissotin
-Il faut que l'ignorance ait pour vous de grands charmes,
+Il faut que l'Ignorance ait pour vous de grands charmes,
 Puisque pour elle ainsi vous prenez tant les armes.
 
 -*who_clitandre
-Si pour moi l'ignorance a des charmes bien grands,
-C'est depuis qu'à mes yeux s'offrent certains savants.
+Si pour moi l'Ignorance a des charmes bien grands,
+C'est depuis qu'à mes yeux s'offrent certains Savants.
 
 -*who_trissotin
-Ces certains savants-là, peuvent à les connaître,
-Valoir certaines gens que nous voyons paraître.
+Ces certains Savants-là, peuvent à les connaître
+Valoir certaines Gens que nous voyons paraître.
 
 -*who_clitandre
-Oui, si l'on s'en rapporte à ces certains savants ;
-Mais on n'en convient pas chez ces certaines gens.
+Oui, si l'on s'en rapporte à ces certains Savants ;
+Mais on n'en convient pas chez ces certaines Gens.
 
 -*who_philaminte
 Il me semble, Monsieur...
 
 -*who_clitandre
-      Eh, Madame, de grâce.
-Monsieur est assez fort, sans qu'à son aide on passe :
-Je n'ai déjà que trop d'un si rude assaillant ;
+      Eh, Madame, de grâce,
+Monsieur est assez fort, sans qu'à son aide on passe :
+Je n'ai déjà que trop d'un si rude assaillant ;
 Et si je me défends, ce n'est qu'en reculant.
 
 -*who_armande
@@ -2634,136 +2595,136 @@ Mais l'offensante aigreur de chaque repartie
 Dont vous...
 
 -*who_clitandre
-      Autre second : je quitte la partie.
+      Autre second, je quitte la partie.
 
 -*who_philaminte
 On souffre aux entretiens ces sortes de combats,
-Pourvu qu'à la personne on ne s'attaque pas.
+Pourvu qu'à la Personne on ne s'attaque pas.
 
 -*who_clitandre
-Eh, mon Dieu, tout cela n'a rien dont il s'offense ;
-Il entend raillerie autant qu'homme de France ;
+Eh, mon Dieu, tout cela n'a rien dont il s'offense ;
+Il entend raillerie autant qu'Homme de France ;
 Et de bien d'autres traits il s'est senti piquer,
 Sans que jamais sa gloire ait fait que s'en moquer.
 
 -*who_trissotin
 Je ne m'étonne pas au combat que j'essuie,
-De voir prendre à Monsieur la thèse qu'il appuie.
-Il est fort enfoncé dans la Cour, c'est tout dit :
-La Cour, comme l'on sait, ne tient pas pour l'esprit ;
-Elle a quelque intérêt d'appuyer l'ignorance,
-Et c'est en courtisan qu'il en prend la défense.
+De voir prendre à Monsieur la Thèse qu'il appuie.
+Il est fort enfoncé dans la Cour, c'est tout dit :
+La Cour, comme l'on sait, ne tient pas pour l'Esprit ;
+Elle a quelque intérêt d'appuyer l'Ignorance,
+Et c'est en Courtisan qu'il en prend la défense.
 
 -*who_clitandre
 Vous en voulez beaucoup à cette pauvre Cour,
-Et son malheur est grand de voir que chaque jour
-Vous autres beaux esprits, vous déclamiez contre elle,
-Que de tous vos chagrins vous lui fassiez querelle ;
+Et son malheur est grand, de voir que chaque jour
+Vous autres beaux Esprits, vous déclamiez contre elle ;
+Que de tous vos chagrins vous lui fassiez querelle ;
 Et sur son méchant goût lui faisant son procès,
 N'accusiez que lui seul de vos méchants succès.
 Permettez-moi, Monsieur Trissotin, de vous dire,
 Avec tout le respect que votre nom m'inspire,
-Que vous feriez fort bien, vos confrères, et vous,
-De parler de la Cour d'un ton un peu plus doux ;
+Que vous feriez fort bien, vos Confrères, et vous,
+De parler de la Cour d'un ton un peu plus doux ;
 Qu'à le bien prendre au fond, elle n'est pas si bête
-Que vous autres Messieurs vous vous mettez en tête ;
-Qu'elle a du sens commun pour se connaître à tout ;
-Que chez elle on se peut former quelque bon goût ;
-Et que l'esprit du monde y vaut, sans flatterie,
-Tout le savoir obscur de la pédanterie.
+Que vous autres Messieurs vous vous mettez en tête ;
+Qu'elle a du sens commun pour se connaître à tout ;
+Que chez elle on se peut former quelque bon goût ;
+Et que l'Esprit du Monde y vaut, sans flatterie,
+Tout le savoir obscur de la Pédanterie.
 
 -*who_trissotin
 De son bon goût, Monsieur, nous voyons des effets.
 
 -*who_clitandre
-Où voyez-vous, Monsieur, qu'elle l'ait si mauvais ?
+Où voyez-vous, Monsieur, qu'elle l'ait si mauvais ?
 
 -*who_trissotin
-Ce que je vois, Monsieur, c'est que pour la science
+Ce que je vois, Monsieur, c'est que pour la Science
 Rasius et Baldus font honneur à la France,
 Et que tout leur mérite exposé fort au jour,
 N'attire point les yeux et les dons de la Cour.
 
 -*who_clitandre
 Je vois votre chagrin, et que par modestie
-Vous ne vous mettez point, Monsieur, de la partie :
+Vous ne vous mettez point, Monsieur, de la partie :
 Et pour ne vous point mettre aussi dans le propos,
-Que font-ils pour l'État vos habiles héros ?
-Qu'est-ce que leurs écrits lui rendent de service,
+Que font-ils pour l'État vos habiles Héros ?
+Qu'est-ce que leurs Écrits lui rendent de service,
 Pour accuser la Cour d'une horrible injustice,
 Et se plaindre en tous lieux que sur leurs doctes noms
-Elle manque à verser la faveur de ses dons ?
+Elle manque à verser la faveur de ses dons ?
 Leur savoir à la France est beaucoup nécessaire,
-Et des livres qu'ils font la Cour a bien affaire.
-Il semble à trois gredins, dans leur petit cerveau,
-Que, pour être imprimés, et reliés en veau,
-Les voilà dans l'État d'importantes personnes ;
-Qu'avec leur plume ils font les destins des couronnes ;
+Et des Livres qu'ils font la Cour a bien affaire.
+Il semble à trois Gredins, dans leur petit cerveau,
+Que pour être imprimés, et reliés en Veau,
+Les voilà dans l'État d'importantes Personnes ;
+Qu'avec leur plume ils font les destins des Couronnes ;
 Qu'au moindre petit bruit de leurs productions,
-Ils doivent voir chez eux voler les pensions ;
-Que sur eux l'univers a la vue attachée ;
+Ils doivent voir chez eux voler les Pensions ;
+Que sur eux l'Univers a la vue attachée ;
 Que partout de leur nom la gloire est épanchée,
-Et qu'en science ils sont des prodiges fameux,
+Et qu'en Science ils sont des prodiges fameux,
 Pour savoir ce qu'ont dit les autres avant eux,
 Pour avoir eu trente ans des yeux et des oreilles,
 Pour avoir employé neuf ou dix mille veilles
 À se bien barbouiller de Grec et de Latin,
 Et se charger l'esprit d'un ténébreux butin
-De tous les vieux fatras qui traînent dans les livres ;
-Gens qui de leur savoir paraissent toujours ivres ;
+De tous les vieux fatras qui traînent dans les Livres ;
+Gens qui de leur savoir paraissent toujours ivres ;
 Riches pour tout mérite, en babil importun,
 Inhabiles à tout, vides de sens commun,
 Et pleins d'un ridicule, et d'une impertinence
-À décrier partout l'esprit et la science.
+À décrier partout l'Esprit et la Science.
 
 -*who_philaminte
 Votre chaleur est grande, et cet emportement
-De la nature en vous marque le mouvement.
-C'est le nom de rival qui dans votre âme excite...
+De la Nature en vous marque le mouvement.
+C'est le nom de Rival qui dans votre âme excite...
 
-**** *book_ *id_IV04 *act_IV *date_1672
+**** *book_ *id_IV04 *act_IV *date_1672 *creator_moliere
 
 -*who_julien
-Le savant qui tantôt vous a rendu visite,
-Et de qui j'ai l'honneur de me voir le valet,
-Madame, vous exhorte à lire ce billet.
+Le Savant qui tantôt vous a rendu visite,
+Et de qui j'ai l'honneur de me voir le Valet,
+Madame, vous exhorte à lire ce Billet.
 
 -*who_philaminte
 Quelque important que soit ce qu'on veut que je lise,
 Apprenez, mon ami, que c'est une sottise
 De se venir jeter au travers d'un discours,
-Et qu'aux gens d'un logis il faut avoir recours,
-Afin de s'introduire en valet qui sait vivre.
+Et qu'aux Gens d'un Logis il faut avoir recours,
+Afin de s'introduire en Valet qui sait vivre.
 
 -*who_julien
-Je noterai cela, Madame, dans mon livre.
+Je noterai cela, Madame, dans mon Livre.
 
 -*who_philaminte
-Trissotin s'est vanté, Madame, qu'il épouserait votre fille.
-Je vous donne avis que sa philosophie n'en veut qu'à vos richesses, et que vous ferez bien de ne point conclure ce mariage, que vous n'ayez vu le poème que je compose contre lui.
-En attendant cette peinture où je prétends vous le dépeindre de toutes ses couleurs, je vous envoie Horace, Virgile, Térence, et Catulle, où vous verrez notés en marge tous les endroits qu'il a pillés.
-Voilà sur cet hymen que je me suis promis
-Un mérite attaqué de beaucoup d'ennemis ;
+Trissotin s'est vanté, Madame, qu'il épouserait votre Fille.
+Je vous donne avis que sa Philosophie n'en veut qu'à vos richesses, et que vous ferez bien de ne point conclure ce Mariage, que vous n'ayez vu le Poème que je compose contre lui.
+En attendant cette Peinture où je prétends vous le dépeindre de toutes ses couleurs, je vous envoie Horace, Virgile, Térence et Catulle, où vous verrez notés en marge tous les endroits qu'il a pillés.
+Voilà sur cet Hymen que je me suis promis
+Un mérite attaqué de beaucoup d'ennemis ;
 Et ce déchaînement aujourd'hui me convie,
-À faire une action qui confonde l'envie,
+À faire une action qui confonde l'envie ;
 Qui lui fasse sentir que l'effort qu'elle fait,
 De ce qu'elle veut rompre, aura pressé l'effet.
-Reportez tout cela sur l'heure à votre maître ;
+Reportez tout cela sur l'heure à votre Maître ;
 Et lui dites, qu'afin de lui faire connaître
 Quel grand état je fais de ses nobles avis,
 Et comme je les crois dignes d'être suivis,
-Dès ce soir à Monsieur je marierai ma fille.
-Vous, Monsieur, comme ami de toute la famille,
-À signer leur contrat vous pourrez assister,
+Dès ce soir à Monsieur je marierai ma Fille ;
+Vous, Monsieur, comme Ami de toute la Famille,
+À signer leur Contrat vous pourrez assister,
 Et je vous y veux bien de ma part inviter.
-Armande, prenez soin d'envoyer au notaire,
-Et d'aller avertir votre soeur de l'affaire.
+Armande, prenez soin d'envoyer au Notaire,
+Et d'aller avertir votre Sœur de l'affaire.
 
 -*who_armande
-Pour avertir ma soeur, il n'en est pas besoin,
-Et Monsieur que voilà saura prendre le soin
+Pour avertir ma Sœur, il n'en est pas besoin,
+Et Monsieur que voilà, saura prendre le soin
 De courir lui porter bientôt cette nouvelle,
-Et disposer son coeur à vous être rebelle.
+Et disposer son cœur à vous être rebelle.
 
 -*who_philaminte
 Nous verrons qui sur elle aura plus de pouvoir,
@@ -2775,7 +2736,7 @@ Les choses ne soient pas tout à fait disposées.
 
 -*who_clitandre
 Je m'en vais travailler, Madame, avec ardeur,
-À ne vous point laisser ce grand regret au coeur.
+À ne vous point laisser ce grand regret au cœur.
 
 -*who_armande
 J'ai peur que votre effort n'ait pas trop bonne issue.
@@ -2787,7 +2748,7 @@ Peut-être verrez-vous votre crainte déçue.
 Je le souhaite ainsi.
 
 -*who_clitandre
-      J'en suis persuadé.
+      J'en suis persuadé,
 Et que de votre appui je serai secondé.
 
 -*who_armande
@@ -2796,26 +2757,26 @@ Oui, je vais vous servir de toute ma puissance.
 -*who_clitandre
 Et ce service est sûr de ma reconnaissance.
 
-**** *book_ *id_IV05 *act_IV *date_1672
+**** *book_ *id_IV05 *act_IV *date_1672 *creator_moliere
 
 -*who_clitandre
 Sans votre appui, Monsieur, je serai malheureux.
-Madame votre femme a rejeté mes voeux,
-Et son coeur prévenu veut Trissotin pour gendre.
+Madame votre Femme a rejeté mes vœux,
+Et son cœur prévenu, veut Trissotin pour Gendre.
 
 -*who_chrysale
-Mais quelle fantaisie a-t-elle donc pu prendre ?
-Pourquoi diantre vouloir ce Monsieur Trissotin ?
+Mais quelle fantaisie a-t-elle donc pu prendre ?
+Pourquoi diantre vouloir ce Monsieur Trissotin ?
 
 -*who_ariste
-C'est par l'honneur qu'il a de rimer à Latin
+C'est par l'honneur qu'il a de rimer à Latin,
 Qu'il a sur son rival emporté l'avantage.
 
 -*who_clitandre
-Elle veut dès ce soir faire ce mariage.
+Elle veut dès ce soir faire ce Mariage.
 
 -*who_chrysale
-Dès ce soir ?
+Dès ce soir ?
 
 -*who_clitandre
       Dès ce soir.
@@ -2825,137 +2786,137 @@ Dès ce soir ?
 Pour la contrecarrer, vous marier vous deux.
 
 -*who_clitandre
-Pour dresser le contrat, elle envoie au Notaire.
+Pour dresser le Contrat, elle envoie au Notaire.
 
 -*who_chrysale
 Et je vais le quérir pour celui qu'il doit faire.
 
 -*who_clitandre
-Et Madame doit être instruite par sa soeur,
-De l'hymen où l'on veut qu'elle apprête son coeur.
+Et Madame doit être instruite par sa Sœur,
+De l'hymen où l'on veut qu'elle apprête son cœur.
 
 -*who_chrysale
 Et moi, je lui commande avec pleine puissance,
-De préparer sa main à cette autre alliance.
-Ah ! Je leur ferai voir, si pour donner la loi,
-Il est dans ma maison d'autre maître que moi.
-Nous allons revenir, songez à nous attendre.
-Allons, suivez mes pas, mon frère, et vous, mon gendre.
+De préparer sa main à cette autre Alliance.
+Ah je leur ferai voir, si pour donner la loi,
+Il est dans ma Maison d'autre Maître que moi.
+Nous allons revenir, songez à nous attendre ;
+Allons, suivez mes pas, mon Frère, et vous mon Gendre.
 
 -*who_henriette
-Hélas ! Dans cette humeur conservez-le toujours.
+Hélas ! dans cette humeur conservez-le toujours.
 
 -*who_ariste
 J'emploierai toute chose à servir vos amours.
 
 -*who_clitandre
 Quelque secours puissant qu'on promette à ma flamme,
-Mon plus solide espoir, c'est votre coeur, Madame.
+Mon plus solide espoir, c'est votre cœur, Madame.
 
 -*who_henriette
-Pour mon coeur, vous pouvez vous assurer de lui.
+Pour mon cœur vous pouvez vous assurer de lui.
 
 -*who_clitandre
 Je ne puis qu'être heureux, quand j'aurai son appui.
 
 -*who_henriette
-Vous voyez à quels noeuds on prétend le contraindre.
+Vous voyez à quels nœuds on prétend le contraindre.
 
 -*who_clitandre
-Tant qu'il sera pour moi je ne vois rien à craindre.
+Tant qu'il sera pour moi, je ne vois rien à craindre.
 
 -*who_henriette
-Je vais tout essayer pour nos voeux les plus doux ;
+Je vais tout essayer pour nos vœux les plus doux ;
 Et si tous mes efforts ne me donnent à vous,
 Il est une retraite où notre âme se donne,
-Qui m'empêchera d'être à toute autre personne.
+Qui m'empêchera d'être à toute autre Personne.
 
 -*who_clitandre
 Veuille le juste Ciel me garder en ce jour,
 De recevoir de vous cette preuve d'amour.
 
-**** *book_ *id_V01 *act_V *date_1672
+**** *book_ *id_V01 *act_V *date_1672 *creator_moliere
 
 -*who_henriette
-C'est sur le mariage où ma mère s'apprête,
-Que j'ai voulu, Monsieur, vous parler tête à tête ;
-Et j'ai cru, dans le trouble où je vois la maison,
-Que je pourrais vous faire écouter la raison.
-Je sais qu'avec mes voeux vous me jugez capable
-De vous porter en dot un bien considérable :
-Mais l'argent dont on voit tant de gens faire cas,
-Pour un vrai philosophe a d'indignes appas ;
+C'est sur le Mariage où ma Mère s'apprête,
+Que j'ai voulu, Monsieur, vous parler tête -à -tête ;
+Et j'ai cru dans le trouble où je vois la Maison,
+Que je pourrais vous faire écouter la Raison.
+Je sais qu'avec mes vœux vous me jugez capable
+De vous porter en dot un bien considérable :
+Mais l'argent dont on voit tant de Gens faire cas,
+Pour un vrai Philosophe a d'indignes appas ;
 Et le mépris du bien et des grandeurs frivoles,
 Ne doit point éclater dans vos seules paroles.
 
 -*who_trissotin
-Aussi n'est-ce point là ce qui me charme en vous ;
+Aussi n'est-ce point là ce qui me charme en vous ;
 Et vos brillants attraits, vos yeux perçants et doux,
 Votre grâce et votre air sont les biens, les richesses,
-Qui vous ont attiré mes voeux et mes tendresses ;
+Qui vous ont attiré mes vœux et mes tendresses ;
 C'est de ces seuls trésors que je suis amoureux.
 
 -*who_henriette
-Je suis fort redevable à vos feux généreux ;
+Je suis fort redevable à vos feux généreux ;
 Cet obligeant amour a de quoi me confondre,
 Et j'ai regret, Monsieur, de n'y pouvoir répondre.
 Je vous estime autant qu'on saurait estimer,
-Mais je trouve un obstacle à vous pouvoir aimer :
-Un coeur, vous le savez, à deux ne saurait être,
+Mais je trouve un obstacle à vous pouvoir aimer.
+Un cœur, vous le savez, à deux ne saurait être,
 Et je sens que du mien Clitandre s'est fait maître.
 Je sais qu'il a bien moins de mérite que vous,
-Que j'ai de méchants yeux pour le choix d'un époux,
+Que j'ai de méchants yeux pour le choix d'un Époux,
 Que par cent beaux talents vous devriez me plaire.
-Je vois bien que j'ai tort, mais je n'y puis que faire ;
+Je vois bien que j'ai tort, mais je n'y puis que faire ;
 Et tout ce que sur moi peut le raisonnement,
 C'est de me vouloir mal d'un tel aveuglement.
 
 -*who_trissotin
-Le don de votre main où l'on me fait prétendre
-Me livrera ce coeur que possède Clitandre ;
-Et par mille doux soins j'ai lieu de présumer,
+Le don de votre main où l'on me fait prétendre,
+Me livrera ce cœur que possède Clitandre ;
+Et par mille doux soins, j'ai lieu de présumer,
 Que je pourrai trouver l'art de me faire aimer.
 
 -*who_henriette
-Non, à ses premiers voeux mon âme est attachée,
+Non, à ses premiers vœux mon âme est attachée,
 Et ne peut de vos soins, Monsieur, être touchée.
 Avec vous librement j'ose ici m'expliquer,
 Et mon aveu n'a rien qui vous doive choquer.
-Cette amoureuse ardeur qui dans les coeurs s'excite,
-N'est point, comme l'on sait, un effet du mérite ;
+Cette amoureuse ardeur qui dans les cœurs s'excite,
+N'est point, comme l'on sait, un effet du mérite ;
 Le caprice y prend part, et quand quelqu'un nous plaît,
 Souvent nous avons peine à dire pourquoi c'est.
 Si l'on aimait, Monsieur, par choix et par sagesse,
-Vous auriez tout mon coeur et toute ma tendresse ;
-Mais on voit que l'amour se gouverne autrement.
-Laissez-moi je vous prie à mon aveuglement,
+Vous auriez tout mon cœur et toute ma tendresse ;
+Mais on voit que l'Amour se gouverne autrement.
+Laissez-moi, je vous prie, à mon aveuglement,
 Et ne vous servez point de cette violence
 Que pour vous on veut faire à mon obéissance.
-Quand on est honnête homme, on ne veut rien devoir
-À ce que des parents ont sur nous de pouvoir.
+Quand on est honnête Homme, on ne veut rien devoir
+À ce que des Parents ont sur nous de pouvoir.
 On répugne à se faire immoler ce qu'on aime,
-Et l'on veut n'obtenir un coeur que de lui-même.
-Ne poussez point ma mère à vouloir par son choix,
-Exercer sur mes voeux la rigueur de ses droits.
-Otez-moi votre amour, et portez à quelque autre
-Les hommages d'un coeur aussi cher que le vôtre.
+Et l'on veut n'obtenir un cœur que de lui-même.
+Ne poussez point ma Mère à vouloir par son choix,
+Exercer sur mes vœux la rigueur de ses droits.
+Ôtez-moi votre amour, et portez à quelque autre
+Les hommages d'un cœur aussi cher que le vôtre.
 
 -*who_trissotin
-Le moyen que ce coeur puisse vous contenter ?
-Imposez-lui des lois qu'il puisse exécuter.
+Le moyen que ce cœur puisse vous contenter ?
+Imposez-lui des Lois qu'il puisse exécuter.
 De ne vous point aimer peut-il être capable,
 À moins que vous cessiez, Madame, d'être aimable,
 Et d'étaler aux yeux les célestes appas...
 
 -*who_henriette
-Eh Monsieur, laissons-là ce galimatias.
+Eh Monsieur, laissons là ce galimatias.
 Vous avez tant d'Iris, de Philis, d'Amarantes,
-Que partout dans vos vers vous peignez si charmantes,
+Que partout dans vos Vers vous peignez si charmantes,
 Et pour qui vous jurez tant d'amoureuse ardeur...
 
 -*who_trissotin
-C'est mon esprit qui parle, et ce n'est pas mon coeur.
-D'elles on ne me voit amoureux qu'en poète ;
+C'est mon esprit qui parle, et ce n'est pas mon cœur.
+D'elles on ne me voit amoureux qu'en Poète ;
 Mais j'aime tout de bon l'adorable Henriette.
 
 -*who_henriette
@@ -2964,102 +2925,102 @@ Eh de grâce, Monsieur...
 -*who_trissotin
       Si c'est vous offenser,
 Mon offense envers vous n'est pas prête à cesser.
-Cette ardeur, jusqu'ici de vos yeux ignorée,
-Vous consacre des voeux d'éternelle durée.
-Rien n'en peut arrêter les aimables transports ;
+Cette ardeur jusqu'ici de vos yeux ignorée,
+Vous consacre des vœux d'éternelle durée.
+Rien n'en peut arrêter les aimables transports ;
 Et bien que vos beautés condamnent mes efforts,
-Je ne puis refuser le secours d'une mère
-Qui prétend couronner une flamme si chère ;
+Je ne puis refuser le secours d'une Mère
+Qui prétend couronner une flamme si chère ;
 Et pourvu que j'obtienne un bonheur si charmant,
 Pourvu que je vous aie, il n'importe comment.
 
 -*who_henriette
 Mais savez-vous qu'on risque un peu plus qu'on ne pense,
-À vouloir sur un coeur user de violence.
+À vouloir sur un cœur user de violence.
 Qu'il ne fait pas bien sûr, à vous le trancher net,
-D'épouser une fille en dépit qu'elle en ait ;
+D'épouser une fille en dépit qu'elle en ait ;
 Et qu'elle peut aller en se voyant contraindre,
-À des ressentiments que le mari doit craindre ?
+À des ressentiments que le mari doit craindre.
 
 -*who_trissotin
 Un tel discours n'a rien dont je sois altéré.
-À tous événements le sage est préparé.
+À tous événements le Sage est préparé.
 Guéri par la raison des faiblesses vulgaires,
 Il se met au-dessus de ces sortes d'affaires,
-Et n'a garde de prendre aucune ombre d'ennui
+Et n'a garde de prendre aucune ombre d'ennui,
 De tout ce qui n'est pas pour dépendre de lui.
 
 -*who_henriette
-En vérité, Monsieur, je suis de vous ravie ;
-Et je ne pensais pas que la philosophie
-Fût si belle qu'elle est, d'instruire ainsi les gens
+En vérité, Monsieur, je suis de vous ravie ;
+Et je ne pensais pas que la Philosophie
+Fût si belle qu'elle est, d'instruire ainsi les Gens
 À porter constamment de pareils accidents.
 Cette fermeté d'âme à vous si singulière,
-Mérite qu'on lui donne une illustre matière ;
+Mérite qu'on lui donne une illustre matière ;
 Est digne de trouver qui prenne avec amour,
-Les soins continuels de la mettre en son jour ;
-Et comme, à dire vrai, je n'oserais me croire
+Les soins continuels de la mettre en son jour ;
+Et comme à dire vrai, je n'oserais me croire
 Bien propre à lui donner tout l'éclat de sa gloire,
 Je le laisse à quelque autre, et vous jure entre nous,
-Que je renonce au bien de vous voir mon époux.
+Que je renonce au bien de vous voir mon Époux.
 
 -*who_trissotin
-Nous allons voir bientôt comment ira l'affaire ;
+Nous allons voir bientôt comment ira l'affaire ;
 Et l'on a là-dedans fait venir le Notaire.
 
-**** *book_ *id_V02 *act_V *date_1672
+**** *book_ *id_V02 *act_V *date_1672 *creator_moliere
 
 -*who_chrysale
-Ah, ma fille ! Je suis bien aise de vous voir.
+Ah, ma Fille, je suis bien aise de vous voir.
 Allons, venez-vous-en faire votre devoir,
-Et soumettre vos voeux aux volontés d'un père.
-Je veux, je veux apprendre à vivre à votre mère,
-Et, pour la mieux braver, voilà, malgré ses dents,
+Et soumettre vos vœux aux volontés d'un Père.
+Je veux, je veux apprendre à vivre à votre Mère ;
+Et pour la mieux braver, voilà, malgré ses dents,
 Martine que j'amène, et rétablis céans.
 
 -*who_henriette
 Vos résolutions sont dignes de louange.
-Gardez que cette humeur, mon père, ne vous change.
+Gardez que cette humeur, mon Père, ne vous change.
 Soyez ferme à vouloir ce que vous souhaitez,
 Et ne vous laissez point séduire à vos bontés.
 Ne vous relâchez pas, et faites bien en sorte
-D'empêcher que sur vous ma mère ne l'emporte.
+D'empêcher que sur vous ma Mère ne l'emporte.
 
 -*who_chrysale
-Comment ? Me prenez-vous ici pour un benêt ?
+Comment ? Me prenez-vous ici pour un Benêt ?
 
 -*who_henriette
-M'en préserve le Ciel !
+M'en préserve le Ciel.
 
 -*who_chrysale
-      Suis-je un fat, s'il vous plaît ?
+      Suis-je un Fat, s'il vous plaît ?
 
 -*who_henriette
 Je ne dis pas cela.
 
 -*who_chrysale
       Me croit-on incapable
-Des fermes sentiments d'un homme raisonnable ?
+Des fermes sentiments d'un Homme raisonnable ?
 
 -*who_henriette
 Non, mon père.
 
 -*who_chrysale
       Est-ce donc qu'à l'âge où je me vois,
-Je n'aurais pas l'esprit d'être maître chez moi ?
+Je n'aurais pas l'esprit d'être Maître chez moi ?
 
 -*who_henriette
 Si fait.
 
 -*who_chrysale
       Et que j'aurais cette faiblesse d'âme,
-De me laisser mener par le nez à ma femme ?
+De me laisser mener par le nez à ma femme ?
 
 -*who_henriette
 Eh non, mon père.
 
 -*who_chrysale
-      Ouais. Qu'est-ce donc que ceci ?
+      Ouais. Qu'est-ce donc que ceci ?
 Je vous trouve plaisante à me parler ainsi.
 
 -*who_henriette
@@ -3069,10 +3030,10 @@ Si je vous ai choqué, ce n'est pas mon envie.
 Ma volonté céans doit être en tout suivie.
 
 -*who_henriette
-Fort bien, mon père.
+Fort bien, mon Père.
 
 -*who_chrysale
-      Aucun, hors moi, dans la maison,
+      Aucun, hors moi, dans la Maison,
 N'a droit de commander.
 
 -*who_henriette
@@ -3085,7 +3046,7 @@ C'est moi qui tiens le rang de chef de la famille.
 D'accord.
 
 -*who_chrysale
-      C'est moi qui dois disposer de ma fille.
+      C'est moi qui dois disposer de ma Fille.
 
 -*who_henriette
 Eh oui.
@@ -3094,22 +3055,22 @@ Eh oui.
       Le Ciel me donne un plein pouvoir sur vous.
 
 -*who_henriette
-Qui vous dit le contraire ?
+Qui vous dit le contraire ?
 
 -*who_chrysale
-      Et pour prendre un époux,
-Je vous ferai bien voir que c'est à votre père
-Qu'il vous faut obéir, non pas à votre mère.
+      Et pour prendre un Époux,
+Je vous ferai bien voir que c'est à votre Père
+Qu'il vous faut obéir, non pas à votre Mère.
 
 -*who_henriette
-Hélas ! Vous flattez là les plus doux de mes voeux ;
+Hélas ! vous flattez là les plus doux de mes vœux ;
 Veuillez être obéi, c'est tout ce que je veux.
 
 -*who_chrysale
-Nous verrons si ma femme à mes désirs rebelle...
+Nous verrons si ma Femme à mes désirs rebelle...
 
 -*who_clitandre
-La voici qui conduit le notaire avec elle.
+La voici qui conduit le Notaire avec elle.
 
 -*who_chrysale
 Secondez-moi bien tous.
@@ -3118,51 +3079,51 @@ Secondez-moi bien tous.
       Laissez-moi, j'aurai soin
 De vous encourager, s'il en est de besoin.
 
-**** *book_ *id_V03 *act_V *date_1672
+**** *book_ *id_V03 *act_V *date_1672 *creator_moliere
 
 -*who_philaminte
 Vous ne sauriez changer votre style sauvage,
-Et nous faire un contrat qui soit en beau langage ?
+Et nous faire un Contrat qui soit en beau langage ?
 
--*who_lenotaire
-Notre style est très bon, et je serais un sot,
+-*who_le_notaire
+Notre style est très bon, et je serais un Sot,
 Madame, de vouloir y changer un seul mot.
 
 -*who_belise
-Ah ! Quelle barbarie au milieu de la France !
-Mais au moins en faveur, Monsieur, de la science,
+Ah ! quelle barbarie au milieu de la France !
+Mais au moins en faveur, Monsieur, de la Science,
 Veuillez au lieu d'écus, de livres et de francs,
-Nous exprimer la dot en mines et talents,
-Et dater par les mots d'ides et de calendes.
+Nous exprimer la dot en Mines et Talents,
+Et dater par les mots d'Ides et de Calendes.
 
--*who_lenotaire
-Moi ? Si j'allais, Madam, accorder vos demandes,
-Je me ferais siffler de tous mes compagnons.
+-*who_le_notaire
+Moi ? Si j'allais, Madame, accorder vos demandes,
+Je me ferais siffler de tous mes Compagnons.
 
 -*who_philaminte
 De cette barbarie en vain nous nous plaignons.
-Allons, Monsieur, prenez la table pour écrire.
-Ah, ah ! Cette impudente ose encor se produire ?
-Pourquoi donc, s'il vous plaît, la ramener chez moi ?
+Allons, Monsieur, prenez la Table pour écrire.
+Ah, ah ! Cette Impudente ose encor se produire ?
+Pourquoi donc, s'il vous plaît, la ramener chez moi ?
 
 -*who_chrysale
 Tantôt avec loisir on vous dira pourquoi.
 Nous avons maintenant autre chose à conclure.
 
--*who_lenotaire
-Procédons au contrat. Où donc est la future ?
+-*who_le_notaire
+Procédons au Contrat. Où donc est la Future ?
 
 -*who_philaminte
-Celle que je marie est la cadette.
+Celle que je marie est la Cadette.
 
--*who_lenotaire
+-*who_le_notaire
       Bon.
 
 -*who_chrysale
 Oui. La voilà, Monsieur, Henriette est son nom.
 
--*who_lenotaire
-Fort bien. Et le futur ?
+-*who_le_notaire
+Fort bien. Et le futur ?
 
 -*who_philaminte
       L'époux que je lui donne
@@ -3172,20 +3133,20 @@ Est Monsieur.
       Et celui, moi, qu'en propre personne,
 Je prétends qu'elle épouse, est Monsieur.
 
--*who_lenotaire
-      Deux époux !
+-*who_le_notaire
+      Deux époux !
 C'est trop pour la coutume.
 
 -*who_philaminte
-      Où vous arrêtez-vous ?
+      Où vous arrêtez-vous ?
 Mettez, mettez, Monsieur, Trissotin pour mon gendre.
 
 -*who_chrysale
-Pour mon gendre, mettez, mettez, Monsieur, Clitandre.
+Pour mon gendre mettez, mettez, Monsieur, Clitandre.
 
--*who_lenotaire
+-*who_le_notaire
 Mettez-vous donc d'accord et d'un jugement mûr
-Voyez à convenir entre vous du futur ?
+Voyez à convenir entre vous du Futur ?
 
 -*who_philaminte
 Suivez, suivez, Monsieur, le choix où je m'arrête.
@@ -3193,56 +3154,56 @@ Suivez, suivez, Monsieur, le choix où je m'arrête.
 -*who_chrysale
 Faites, faites, Monsieur, les choses à ma tête.
 
--*who_lenotaire
-Dites-moi donc à qui j'obéirai des deux ?
+-*who_le_notaire
+Dites-moi donc à qui j'obéirai des deux ?
 
 -*who_philaminte
-Quoi donc, vous combattrez les choses que je veux ?
+Quoi donc, vous combattrez les choses que je veux ?
 
 -*who_chrysale
 Je ne saurais souffrir qu'on ne cherche ma fille,
-Que pour l'amour du bien qu'on voit dans ma famille.
+Que pour l'amour du bien qu'on voit dans ma Famille.
 
 -*who_philaminte
 Vraiment à votre bien on songe bien ici,
-Et c'est là pour un sage, un fort digne souci !
+Et c'est là pour un Sage, un fort digne souci !
 
 -*who_chrysale
 Enfin pour son époux, j'ai fait choix de Clitandre.
 
 -*who_philaminte
-Et moi, pour son époux, voici qui je veux prendre :
+Et moi, pour son Époux, voici qui je veux prendre :
 Mon choix sera suivi, c'est un point résolu.
 
 -*who_chrysale
-Ouais ! Vous le prenez là d'un ton bien absolu ?
+Ouais. Vous le prenez là d'un ton bien absolu ?
 
 -*who_martine
-Ce n'est point à la femme à prescrire, et je sommes
-Pour céder le dessus en toute chose aux hommes.
+Ce n'est point à la Femme à prescrire, et je sommes
+Pour céder le dessus en toute chose aux Hommes.
 
 -*who_chrysale
 C'est bien dit.
 
 -*who_martine
       Mon congé cent fois me fût-il hoc,
-La poule ne doit point chanter devant le coq.
+La poule ne doit point chanter devant le Coq.
 
 -*who_chrysale
 Sans doute.
 
 -*who_martine
       Et nous voyons que d'un homme on se gausse,
-Quand sa femme chez lui porte le haut-de-chausse.
+Quand sa Femme chez lui porte le Haut-de-chausse.
 
 -*who_chrysale
 Il est vrai.
 
 -*who_martine
       Si j'avais un mari, je le dis,
-Je voudrais qu'il se fît le maître du logis.
+Je voudrais qu'il se fît le Maître du logis.
 Je ne l'aimerais point, s'il faisait le Jocrisse.
-Et si je contestais contre lui par caprice,
+Et si je contestais contre lui par caprice ;
 Si je parlais trop haut, je trouverais fort bon,
 Qu'avec quelques soufflets il rabaissât mon ton.
 
@@ -3251,17 +3212,17 @@ C'est parler comme il faut.
 
 -*who_martine
       Monsieur est raisonnable,
-De vouloir pour sa fille un mari convenable.
+De vouloir pour sa Fille un Mari convenable.
 
 -*who_chrysale
 Oui.
 
 -*who_martine
       Par quelle raison, jeune, et bien fait qu'il est,
-Lui refuser Clitandre ? Et pourquoi, s'il vous plaît,
-Lui bailler un savant, qui sans cesse épilogue ?
-Il lui faut un mari, non pas un pédagogue :
-Et ne voulant savoir le Grais, ni le latin,
+Lui refuser Clitandre ? Et pourquoi, s'il vous plaît,
+Lui bailler un Savant, qui sans cesse épilogue ?
+Il lui faut un Mari, non pas un Pédagogue :
+Et ne voulant savoir le Grais, ni le Latin,
 Elle n'a pas besoin de Monsieur Trissotin.
 
 -*who_chrysale
@@ -3271,19 +3232,19 @@ Fort bien.
       Il faut souffrir qu'elle jase à son aise.
 
 -*who_martine
-Les savants ne sont bons que pour prêcher en chaise ;
-Et pour mon mari, moi, mille fois je l'ai dit,
-Je ne voudrais jamais prendre un homme d'esprit.
-L'esprit n'est point du tout ce qu'il faut en ménage ;
-Les livres cadrent mal avec le mariage ;
+Les Savants ne sont bons que pour prêcher en Chaise ;
+Et pour mon Mari, moi, mille fois je l'ai dit,
+Je ne voudrais jamais prendre un Homme d'esprit.
+L'Esprit n'est point du tout ce qu'il faut en ménage ;
+Les Livres cadrent mal avec le Mariage ;
 Et je veux, si jamais on engage ma foi,
-Un mari qui n'ait point d'autre livre que moi ;
+Un Mari qui n'ait point d'autre Livre que moi ;
 Qui ne sache A, ne B, n'en déplaise à Madame,
-Et ne soit en un mot docteur que pour sa femme.
+Et ne soit en un mot Docteur que pour sa femme.
 
 -*who_philaminte
-Est-ce fait ? Et sans trouble ai-je assez écouté
-Votre digne interprète ?
+Est-ce fait ? et sans trouble ai-je assez écouté
+Votre digne interprète ?
 
 -*who_chrysale
       Elle a dit vérité.
@@ -3291,97 +3252,97 @@ Votre digne interprète ?
 -*who_philaminte
 Et moi, pour trancher court toute cette dispute,
 Il faut qu'absolument mon désir s'exécute.
-Henriette et Monsieur seront joints de ce pas :
-Je l'ai dit, je le veux : ne me répliquez pas ;
+Henriette, et Monsieur seront joints de ce pas ;
+Je l'ai dit, je le veux, ne me répliquez pas :
 Et si votre parole à Clitandre est donnée,
 Offrez-lui le parti d'épouser son aînée.
 
 -*who_chrysale
 Voilà dans cette affaire un accommodement.
-Voyez ? Y donnez-vous votre consentement ?
+Voyez ? y donnez-vous votre consentement ?
 
 -*who_henriette
-Eh mon père !
+Eh mon père !
 
 -*who_clitandre
-      Eh Monsieur !
+      Eh Monsieur !
 
 -*who_belise
       On pourrait bien lui faire
-Des propositions qui pourraient mieux lui plaire :
+Des propositions qui pourraient mieux lui plaire :
 Mais nous établissons une espèce d'amour
-Qui doit être épuré comme l'astre du jour ;
-La substance qui pense y peut être reçue,
+Qui doit être épuré comme l'Astre du jour ;
+La substance qui pense, y peut être reçue,
 Mais nous en bannissons la substance étendue.
 
-**** *book_ *id_V04 *act_V *date_1672
+**** *book_ *id_V04 *act_V *date_1672 *creator_moliere
 
 -*who_ariste
 J'ai regret de troubler un mystère joyeux,
 Par le chagrin qu'il faut que j'apporte en ces lieux.
-Ces deux lettres me font porteur de deux nouvelles,
-Dont j'ai senti pour vous les atteintes cruelles :
-L'une pour vous, me vient de votre procureur ;
+Ces deux Lettres me font porteur de deux nouvelles,
+Dont j'ai senti pour vous les atteintes cruelles :
+L'une pour vous, me vient de votre Procureur ;
 L'autre pour vous, me vient de Lyon.
 
 -*who_philaminte
       Quel malheur,
-Digne de nous troubler, pourrait-on nous écrire ?
+Digne de nous troubler, pourrait-on nous écrire ?
 
 -*who_ariste
-Cette lettre en contient un que vous pouvez lire.
+Cette Lettre en contient un que vous pouvez lire.
 
 -*who_philaminte
-Madame, j'ai prié Monsieur votre frère de vous rendre cette lettre, qui vous dira ce que je n'ai osé vous aller dire.
-La grande négligence que vous avez pour vos affaires a été cause que le clerc de votre rapporteur ne m'a point averti, et vous avez perdu absolument votre procès que vous deviez gagner.
+Madame, j'ai prié Monsieur votre Frère de vous rendre cette Lettre, qui vous dira ce que je n'ai osé vous aller dire.
+La grande négligence que vous avez pour vos Affaires, a été cause que le Clerc de votre Rapporteur ne m'a point averti, et vous avez perdu absolument votre Procès que vous deviez gagner.
 
 -*who_chrysale
-Votre procès perdu !
+Votre procès perdu !
 
 -*who_philaminte
-      Vous vous troublez beaucoup !
-Mon coeur n'est point du tout ébranlé de ce coup.
+      Vous vous troublez beaucoup !
+Mon cœur n'est point du tout ébranlé de ce coup.
 Faites, faites paraître une âme moins commune
-À braver comme moi les traits de la fortune.
-Le peu de soin que vous avez vous coûte quarante mille écus, et c'est à payer cette somme, avec les dépens, que vous êtes condamnée par arrêt de la Cour.
-Condamnée ! Ah ce mot est choquant, et n'est fait
-Que pour les criminels.
+À braver comme moi les traits de la Fortune.
+Le peu de soin que vous avez vous coûte quarante mille écus, et c'est à payer cette somme, avec les dépens, que vous êtes condamnée par Arrêt de la Cour.
+Condamnée ! Ah ce mot est choquant, et n'est fait
+Que pour les Criminels.
 
 -*who_ariste
       Il a tort en effet,
 Et vous vous êtes là justement récriée.
 Il devait avoir mis que vous êtes priée,
-Par arrêt de la Cour, de payer au plus tôt
+Par Arrêt de la Cour, de payer au plus tôt
 Quarante mille écus, et les dépens qu'il faut.
 
 -*who_philaminte
 Voyons l'autre.
 
 -*who_chrysale
-Monsieur, l'amitié qui me lie à Monsieur votre frère me fait prendre intérêt à tout ce qui vous touche.
+Monsieur, l'amitié qui me lie à Monsieur votre Frère, me fait prendre intérêt à tout ce qui vous touche.
 Je sais que vous avez mis votre bien entre les mains d'Argante et de Damon, et je vous donne avis qu'en même jour ils ont fait tous deux banqueroute.
-      Ô Ciel ! Tout à la fois perdre ainsi tout mon bien !
+Ô Ciel! tout à la fois perdre ainsi tout mon bien!
 
 -*who_philaminte
-Ah quel honteux transport ! Fi, tout cela n'est rien !
-Il n'est pour le vrai sage aucun revers funeste,
+Ah quel honteux transport ! Fi ! tout cela n'est rien.
+Il n'est pour le vrai Sage aucun revers funeste,
 Et perdant toute chose, à soi-même il se reste.
-Achevons notre affaire, et quittez votre ennui ;
-Son bien nous peut suffire, et pour nous, et pour lui.
+Achevons notre affaire, et quittez votre ennui ;
+Son bien nous peut suffire et pour nous, et pour lui.
 
 -*who_trissotin
 Non, Madame, cessez de presser cette affaire.
-Je vois qu'à cet hymen tout le monde est contraire,
-Et mon dessein n'est point de contraindre les gens.
+Je vois qu'à cet Hymen tout le Monde est contraire,
+Et mon dessein n'est point de contraindre les Gens.
 
 -*who_philaminte
-Cette réflexion vous vient en peu de temps !
+Cette réflexion vous vient en peu de temps !
 Elle suit de bien près, Monsieur, notre disgrâce.
 
 -*who_trissotin
 De tant de résistance à la fin je me lasse.
 J'aime mieux renoncer à tout cet embarras,
-Et ne veux point d'un coeur qui ne se donne pas.
+Et ne veux point d'un cœur qui ne se donne pas.
 
 -*who_philaminte
 Je vois, je vois de vous, non pas pour votre gloire,
@@ -3389,20 +3350,20 @@ Ce que jusques ici j'ai refusé de croire.
 
 -*who_trissotin
 Vous pouvez voir de moi tout ce que vous voudrez,
-Et je regarde peu comment vous le prendrez :
-Mais je ne suis point homme à souffrir l'infamie
-Des refus offensants qu'il faut qu'ici j'essuie ;
+Et je regarde peu comment vous le prendrez :
+Mais je ne suis point Homme à souffrir l'infamie
+Des refus offensants qu'il faut qu'ici j'essuie ;
 Je vaux bien que de moi l'on fasse plus de cas,
 Et je baise les mains à qui ne me veut pas.
 
 -*who_philaminte
-Qu'il a bien découvert son âme mercenaire !
-Et que peu philosophe est ce qu'il vient de faire !
+Qu'il a bien découvert son âme mercenaire !
+Et que peu philosophe est ce qu'il vient de faire !
 
 -*who_clitandre
 Je ne me vante point de l'être, mais enfin
-Je m'attache, Madame, à tout votre destin ;
-Et j'ose vous offrir, avecque ma personne
+Je m'attache, Madame, à tout votre destin ;
+Et j'ose vous offrir, avecque ma personne,
 Ce qu'on sait que de bien la Fortune me donne.
 
 -*who_philaminte
@@ -3411,75 +3372,75 @@ Et je veux couronner vos désirs amoureux.
 Oui, j'accorde Henriette à l'ardeur empressée...
 
 -*who_henriette
-Non, ma mère, je change à présent de pensée.
+Non, ma Mère, je change à présent de pensée.
 Souffrez que je résiste à votre volonté.
 
 -*who_clitandre
-Quoi, vous vous opposez à ma félicité ?
+Quoi, vous vous opposez à ma félicité ?
 Et lorsqu'à mon amour je vois chacun se rendre...
 
 -*who_henriette
 Je sais le peu de bien que vous avez, Clitandre,
-Et je vous ai toujours souhaité pour époux,
-Lorsqu'en satisfaisant à mes voeux les plus doux,
-J'ai vu que mon hymen ajustait vos affaires :
-Mais lorsque nous avons les destins si contraires,
+Et je vous ai toujours souhaité pour Époux,
+Lorsqu'en satisfaisant à mes vœux les plus doux,
+J'ai vu que mon Hymen ajustait vos affaires :
+Mais lorsque nous avons les Destins si contraires,
 Je vous chéris assez dans cette extrémité,
 Pour ne vous charger point de notre adversité.
 
 -*who_clitandre
-Tout destin avec vous me peut être agréable ;
-Tout destin me serait sans vous insupportable.
+Tout Destin avec vous me peut être agréable ;
+Tout Destin me serait sans vous insupportable.
 
 -*who_henriette
-L'amour dans son transport parle toujours ainsi.
-Des retours importuns évitons le souci.
-Rien n'use tant l'ardeur de ce noeud qui nous lie,
-Que les fâcheux besoins des choses de la vie ;
+L'Amour dans son transport parle toujours ainsi.
+Des retours importuns évitons le souci,
+Rien n'use tant l'ardeur de ce nœud qui nous lie,
+Que les fâcheux besoins des choses de la vie ;
 Et l'on en vient souvent à s'accuser tous deux,
 De tous les noirs chagrins qui suivent de tels feux.
 
 -*who_ariste
 N'est-ce que le motif que nous venons d'entendre,
-Qui vous fait résister à l'hymen de Clitandre ?
+Qui vous fait résister à l'Hymen de Clitandre ?
 
 -*who_henriette
-Sans cela, vous verriez tout mon coeur y courir ;
+Sans cela, vous verriez tout mon cœur y courir ;
 Et je ne fuis sa main, que pour le trop chérir.
 
 -*who_ariste
 Laissez-vous donc lier par des chaînes si belles.
-Je ne vous ai porté que de fausses nouvelles ;
+Je ne vous ai porté que de fausses nouvelles ;
 Et c'est un stratagème, un surprenant secours,
-Que j'ai voulu tenter pour servir vos amours ;
-Pour détromper ma soeur, et lui faire connaître
-Ce que son philosophe à l'essai pouvait être.
+Que j'ai voulu tenter pour servir vos amours ;
+Pour détromper ma Sœur, et lui faire connaître
+Ce que son Philosophe à l'essai pouvait être.
 
 -*who_chrysale
-Le Ciel en soit loué !
+Le Ciel en soit loué.
 
 -*who_philaminte
-      J'en ai la joie au coeur,
-Par le chagrin qu'aura ce lâche déserteur.
+      J'en ai la joie au cœur,
+Par le chagrin qu'aura ce lâche Déserteur.
 Voilà le châtiment de sa basse avarice,
-De voir qu'avec éclat cet hymen s'accomplisse.
+De voir qu'avec éclat cet Hymen s'accomplisse.
 
 -*who_chrysale
 Je le savais bien, moi, que vous l'épouseriez.
 
 -*who_armande
-Ainsi donc à leurs voeux vous me sacrifiez ?
+Ainsi donc à leurs vœux vous me sacrifiez ?
 
 -*who_philaminte
 Ce ne sera point vous que je leur sacrifie,
-Et vous avez l'appui de la philosophie,
-Pour voir d'un oeil content couronner leur ardeur.
+Et vous avez l'appui de la Philosophie,
+Pour voir d'un œil content couronner leur ardeur.
 
 -*who_belise
-Qu'il prenne garde au moins que je suis dans son coeur,
+Qu'il prenne garde au moins que je suis dans son cœur.
 Par un prompt désespoir souvent on se marie,
 Qu'on s'en repent après tout le temps de sa vie.
 
 -*who_chrysale
 Allons, Monsieur, suivez l'ordre que j'ai prescrit,
-Et faites le contrat ainsi que je l'ai dit.
+Et faites le Contrat ainsi que je l'ai dit.

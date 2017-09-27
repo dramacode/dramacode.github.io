@@ -1,36 +1,46 @@
-<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://oeuvres.github.io/Teinte/teinte.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Les Précieuses ridicules</title>
-        <title type="sub">, comédie</title>
-        <author born="1622" born_location="Paris" death="1673" death_location="Paris" academie="">
-          <surname>Molière</surname>
-        </author>
-        <date>1659</date>
+        <title type="sub">Comédie</title>
+        <author key="Molière (1622-1673)">Molière</author>
       </titleStmt>
+      <editionStmt>
+        <edition>OBVIL</edition>
+        <respStmt>
+          <name>Paul Fièvre</name>
+          <resp>2010, édition TEI</resp>
+        </respStmt>
+        <respStmt>
+          <name>Amélie Canu</name>
+          <resp>2014, édition TEI</resp>
+        </respStmt>
+        <respStmt>
+          <name>Oriane Morvan</name>
+          <resp>2014, édition TEI</resp>
+        </respStmt>
+        <respStmt>
+          <name>Frédéric Glorieux</name>
+          <resp>Informatique éditoriale (conversions, validation)</resp>
+        </respStmt>
+      </editionStmt>
       <publicationStmt>
-        <p>publié par Paul FIEVRE mars 2010</p>
-        <idno/>
+        <publisher>LABEX OBVIL</publisher>
+        <date when="2010"/>
+        <date when="2014"/>
+        <availability status="restricted">
+          <licence target="projet-Molière"/>
+        </availability>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/moliere/moliere_precieusesridicules</idno>
+        <idno type="tei">http://dramacode.github.io/moliere/moliere_precieusesridicules.xml</idno>
       </publicationStmt>
-      <sourceDesc>
-        <genre>Comédie</genre>
-        <inspiration>moeurs françaises</inspiration>
-        <structure>Un acte</structure>
-        <type>prose</type>
-        <periode>1651-1660</periode>
-        <taille>(mesure non pertinente)</taille>
-        <permalien>http://gallica.bnf.fr/ark:/12148/bpt6k70179z</permalien>
-        <liens>
-          <lien type="theme">Préciosité</lien>
-          <lien type="oeuvre citée">La CLélie de Madeleine de Scudéry</lien>
-        </liens>
-      </sourceDesc>
+      <sourceDesc/>
     </fileDesc>
     <profileDesc>
       <creation>
-        <date type="created" when="1659-11-18"/>
-        <date type="issued" when="1660"/>
+        <date when="1659" type="created"/>
+        <date when="1660" type="issued"/>
       </creation>
       <langUsage>
         <language ident="fr"/>
@@ -44,1812 +54,987 @@
   </teiHeader>
   <text>
     <body>
-      <div1 xml:id="I" type="act" n="1">
-        <head/>
-        <div2 xml:id="I01" type="scene" n="1">
-          <head>SCÈNE I. La Grange, Du Croisy.<listPerson type="configuration" xml:id="conf1"/></head>
-          <sp xml:id="I01-1" who="DUCROISY">
-            <p>
-              <s>Seigneur la Grange... </s>
-            </p>
+      <div1 type="act" xml:id="I">
+        <head>Les Précieuses Ridicules</head>
+        <div2 type="scene" xml:id="I01">
+          <head>Scène I</head>
+          <sp who="ducroisy" xml:id="I01-1">
+            <p>Seigneur la Grange.</p>
           </sp>
-          <sp xml:id="I01-2" who="LAGRANGE">
-            <p>
-              <s>Quoi ? </s>
-            </p>
+          <sp who="lagrange" xml:id="I01-2">
+            <p>Quoi ?</p>
           </sp>
-          <sp xml:id="I01-3" who="DUCROISY">
-            <p>
-              <s>Regardez-moi un peu sans rire. </s>
-            </p>
+          <sp who="ducroisy" xml:id="I01-3">
+            <p>Regardez-moi un peu sans rire.</p>
           </sp>
-          <sp xml:id="I01-4" who="LAGRANGE">
-            <p>
-              <s>Eh bien ? </s>
-            </p>
+          <sp who="lagrange" xml:id="I01-4">
+            <p>Eh bien !</p>
           </sp>
-          <sp xml:id="I01-5" who="DUCROISY">
-            <p>
-              <s>Que dites-vous de notre visite ? </s>
-              <s>En êtes-vous fort satisfait ? </s>
-            </p>
+          <sp who="ducroisy" xml:id="I01-5">
+            <p>Que dites-vous de notre visite ? en êtes-vous fort satisfait ?</p>
           </sp>
-          <sp xml:id="I01-6" who="LAGRANGE">
-            <p>
-              <s>À votre avis, avons-nous sujet de l’être tous deux ? </s>
-            </p>
+          <sp who="lagrange" xml:id="I01-6">
+            <p>À votre avis, avons-nous sujet de l’être tous deux ?</p>
           </sp>
-          <sp xml:id="I01-7" who="DUCROISY">
-            <p>
-              <s>Pas tout à fait, à dire vrai. </s>
-            </p>
+          <sp who="ducroisy" xml:id="I01-7">
+            <p>Pas tout à fait à dire vrai.</p>
           </sp>
-          <sp xml:id="I01-8" who="LAGRANGE">
-            <p>
-              <s>Pour moi, je vous avoue que j’en suis tout scandalisé. </s>
-              <s>A-t-on jamais vu, dites-moi, deux pecques provinciales faire plus les renchéries que celles-là, et deux hommes traités avec plus de mépris que nous ? </s>
-              <s>À peine ont-elles pu se résoudre à nous faire donner des sièges. </s>
-              <s>Je n’ai jamais vu tant parler à l’oreille qu’elles ont fait entre elles, tant bâiller, tant se frotter les yeux, et demander tant de fois : "Quelle heure est-il ?" </s>
-              <s>Ont-elles répondu que oui et non à tout ce que nous avons pu leur dire ? </s>
-              <s>Et ne m’avouerez-vous pas enfin que, quand nous aurions été les dernières personnes du monde, on ne pouvait nous faire pis qu’elles ont fait ? </s>
-            </p>
+          <sp who="lagrange" xml:id="I01-8">
+            <p>Pour moi je vous avoue que j’en suis tout scandalisé. A-t-on jamais vu, dites-moi, deux Pecques Provinciales faire plus les renchéries que celles-là, et deux hommes traités avec plus de mépris que nous ? à peine ont-elles pu se résoudre à nous faire donner des sièges. Je n’ai jamais vu tant parler à l’oreille qu’elles ont fait entre elles, tant bâiller ; tant se frotter les yeux, et demander tant de fois quelle heure est-il ; ont-elles répondu que oui et non, à tout ce que nous avons pu leur dire ? Et ne m’avouerez-vous pas enfin que quand nous aurions été les dernières personnes du monde, on ne pouvait nous faire pis qu’elles ont fait ?</p>
           </sp>
-          <sp xml:id="I01-9" who="DUCROISY">
-            <p>
-              <s>Il me semble que vous prenez la chose fort à coeur. </s>
-            </p>
+          <sp who="ducroisy" xml:id="I01-9">
+            <p>Il me semble que vous prenez la chose fort à cœur.</p>
           </sp>
-          <sp xml:id="I01-10" who="LAGRANGE">
-            <p>
-              <s>Sans doute, je l’y prends, et de telle façon, que je veux me venger de cette impertinence. </s>
-              <s>Je connais ce qui nous a fait mépriser. </s>
-              <s>L’air précieux n’a pas seulement infecté Paris, il s’est aussi répandu dans les provinces, et nos donzelles ridicules en ont humé leur bonne part. </s>
-              <s>En un mot, c’est un ambigu de précieuse et de coquette que leur personne. </s>
-              <s>Je vois ce qu’il faut être pour en être bien reçu ; et si vous m’en croyez, nous leur jouerons tous deux une pièce qui leur fera voir leur sottise, et pourra leur apprendre à connaître un peu mieux leur monde. </s>
-            </p>
+          <sp who="lagrange" xml:id="I01-10">
+            <p>Sans doute je l’y prends, et de telle façon que je veux me venger de cette impertinence. Je connais ce qui nous a fait mépriser. L'air précieux n’a pas seulement infecté Paris, il s’est aussi répandu dans les provinces et nos Donzelles ridicules en ont humé leur bonne part. En un mot c’est un ambigu de Précieuse et de Coquette que leur personne ; je vois ce qu’il faut être, pour en être bien reçu, et si vous m’en croyez, nous leur jouerons tous deux une pièce, qui leur fera voir leur sottise, et pourra leur apprendre à connaître un peu mieux leur monde.</p>
           </sp>
-          <sp xml:id="I01-11" who="DUCROISY">
-            <p>
-              <s>Et comment encore ? </s>
-            </p>
+          <sp who="ducroisy" xml:id="I01-11">
+            <p>Et comment encore ?</p>
           </sp>
-          <sp xml:id="I01-12" who="LAGRANGE">
-            <p>
-              <s>J’ai un certain valet, nommé Mascarille, qui passe, au sentiment de beaucoup de gens, pour une manière de bel esprit ; car il n’y a rien à meilleur marché que le bel esprit maintenant. </s>
-              <s>C’est un extravagant, qui s’est mis dans la tête de vouloir faire l’homme de condition. </s>
-              <s>Il se pique ordinairement de galanterie et de vers, et dédaigne les autres valets, jusqu’à les appeler brutaux. </s>
-            </p>
+          <sp who="lagrange" xml:id="I01-12">
+            <p>J’ai un certain valet nommé Mascarille, qui passe au sentiment de beaucoup de gens pour une manière de bel esprit, car il n’y a rien à meilleur marché que le bel esprit maintenant. C’est un extravagant, qui s’est mis dans la tête de vouloir faire l’homme de condition. Il se pique ordinairement de galanterie, et de vers, et dédaigne les autres valets jusqu’à les appeler brutaux.</p>
           </sp>
-          <sp xml:id="I01-13" who="DUCROISY">
-            <p>
-              <s>Eh bien ! </s>
-              <s>Qu’en prétendez-vous faire ? </s>
-            </p>
+          <sp who="ducroisy" xml:id="I01-13">
+            <p>Et bien qu’en prétendez-vous faire ?</p>
           </sp>
-          <sp xml:id="I01-14" who="LAGRANGE">
-            <p>
-              <s>Ce que j’en prétends faire ? </s>
-              <s>Il faut... </s>
-              <s>Mais sortons d’ici auparavant. </s>
-            </p>
+          <sp who="lagrange" xml:id="I01-14">
+            <p>Ce que j’en prétends faire ! il faut… mais sortons d’ici auparavant.</p>
           </sp>
         </div2>
-        <div2 xml:id="I02" type="scene" n="2">
-          <head>SCÈNE II. Gorgibus, du Croisy, La Grange.<listPerson type="configuration" xml:id="conf2"/></head>
-          <sp xml:id="I02-1" who="GORGIBUS">
-            <p>
-              <s>Eh bien ! </s>
-              <s>Vous avez vu ma nièce et ma fille : les affaires iront-elles bien ? Quel est le résultat de cette visite ? </s>
-            </p>
+        <div2 type="scene" xml:id="I02">
+          <head>Scène II</head>
+          <sp who="gorgibus" xml:id="I02-1">
+            <p>Et bien vous avez vu ma nièce, et ma fille, les affaires iront-elles bien ? Quel est le résultat de cette visite ?</p>
           </sp>
-          <sp xml:id="I02-2" who="LAGRANGE">
-            <p>
-              <s>C’est une chose que vous pourrez mieux apprendre d’elles que de nous. </s>
-              <s>Tout ce que nous pouvons vous dire, c’est que nous vous rendons grâce de la faveur que vous nous avez faite, et demeurons vos très humbles serviteurs. </s>
-            </p>
+          <sp who="lagrange" xml:id="I02-2">
+            <p>C’est une chose que vous pourrez mieux apprendre d’elles, que de nous. Tout ce que nous pouvons vous dire, c’est que nous vous rendons grâce de la faveur que vous nous avez faite, et demeurons vos très humbles serviteurs.</p>
           </sp>
-          <sp xml:id="I02-3" who="GORGIBUS">
-            <p>
-              <s>Ouais ! </s>
-              <s>Il semble qu’ils sortent mal satisfaits d’ici. </s>
-              <s>D’où pourrait venir leur mécontentement ? </s>
-              <s>Il faut savoir un peu ce que c’est. Holà ! </s>
-            </p>
+          <sp who="gorgibus" xml:id="I02-3">
+            <p>Ouais il semble qu’ils sortent mal satisfaits d’ici, d’où pourrait venir leur mécontentement ? Il faut savoir un peu ce que c’est. Holà.</p>
           </sp>
         </div2>
-        <div2 xml:id="I03" type="scene" n="3">
-          <head>SCÈNE III. Marotte, Gorgibus.<listPerson type="configuration" xml:id="conf3"/></head>
-          <sp xml:id="I03-1" who="MAROTTE">
-            <p>
-              <s>Que désirez-vous, Monsieur ? </s>
-            </p>
+        <div2 type="scene" xml:id="I03">
+          <head>Scène III</head>
+          <sp who="marotte" xml:id="I03-1">
+            <p>Que désirez-vous Monsieur ?</p>
           </sp>
-          <sp xml:id="I03-2" who="GORGIBUS">
-            <p>
-              <s>Où sont vos maîtresses ? </s>
-            </p>
+          <sp who="gorgibus" xml:id="I03-2">
+            <p>Où sont vos Maîtresses ?</p>
           </sp>
-          <sp xml:id="I03-3" who="MAROTTE">
-            <p>
-              <s>Dans leur cabinet. </s>
-            </p>
+          <sp who="marotte" xml:id="I03-3">
+            <p>Dans leur cabinet.</p>
           </sp>
-          <sp xml:id="I03-4" who="GORGIBUS">
-            <p>
-              <s>Que font-elles ? </s>
-            </p>
+          <sp who="gorgibus" xml:id="I03-4">
+            <p>Que font-elles ?</p>
           </sp>
-          <sp xml:id="I03-5" who="MAROTTE">
-            <p>
-              <s>De la pommade pour les lèvres. </s>
-            </p>
+          <sp who="marotte" xml:id="I03-5">
+            <p>De la pommade pour les lèvres.</p>
           </sp>
-          <sp xml:id="I03-6" who="GORGIBUS">
-            <p>
-              <s>C’est trop pommadé. </s>
-              <s>Dites-leur qu’elles descendent. </s>
-              <s>Ces pendardes-là, avec leur pommade, ont, je pense, envie de me ruiner. </s>
-              <s>Je ne vois partout que blancs d’oeufs, lait virginal, et mille autres brimborions que je ne connais point. </s>
-              <s>Elles ont usé, depuis que nous sommes ici, le lard d’une douzaine de cochons, pour le moins, et quatre valets vivraient tous les jours des pieds de mouton qu’elles emploient. </s>
-            </p>
+          <sp who="gorgibus" xml:id="I03-6">
+            <p>C'est trop pommadé. Dites-leur qu’elles descendent. Ces pendardes-là avec leur pommade ont je pense envie de me ruiner. Je ne vois partout que blancs d’œufs, lait virginal, et mille autres brimborions que je ne connais point. Elles ont usé, depuis que nous sommes ici, le lard d’une douzaine de cochons, pour le moins ; et quatre valets vivraient tous les jours des pieds de mouton qu’elles emploient.</p>
           </sp>
         </div2>
-        <div2 xml:id="I04" type="scene" n="4">
-          <head>SCÈNE IV. Magdelon, Cathos, Gorgibus.<listPerson type="configuration" xml:id="conf4"/></head>
-          <sp xml:id="I04-1" who="GORGIBUS">
-            <p>
-              <s>Il est bien nécessaire vraiment de faire tant de dépense pour vous graisser le museau. </s>
-              <s>Dites-moi un peu ce que vous avez fait à ces Messieurs, que je les vois sortir avec tant de froideur ? </s>
-              <s>Vous avais-je pas commandé de les recevoir comme des personnes que je voulais vous donner pour maris ? </s>
-            </p>
+        <div2 type="scene" xml:id="I04">
+          <head>Scène IV</head>
+          <sp who="gorgibus" xml:id="I04-1">
+            <p>Il est bien nécessaire vraiment, de faire tant de dépense pour vous graisser le museau. Dites-moi un peu ce que vous avez fait à ces messieurs, que je les vois sortir avec tant de froideur ? vous avais-je pas commandé de les recevoir comme des personnes, que je voulais vous donner pour maris ?</p>
           </sp>
-          <sp xml:id="I04-2" who="MAGDELON">
-            <p>
-              <s>Et quelle estime, mon père, voulez-vous que nous fassions du procédé irrégulier de ces gens-là ? </s>
-            </p>
+          <sp who="magdelon" xml:id="I04-2">
+            <p>Et quelle estime, mon père, voulez-vous que nous fassions du procédé irrégulier de ces gens-là ?</p>
           </sp>
-          <sp xml:id="I04-3" who="CATHOS">
-            <p>
-              <s>Le moyen, mon oncle, qu’une fille un peu raisonnable se pût accommoder de leur personne ? </s>
-            </p>
+          <sp who="cathos" xml:id="I04-3">
+            <p>Le moyen, mon oncle, qu’une fille un peu raisonnable se pût accommoder de leur personne ?</p>
           </sp>
-          <sp xml:id="I04-4" who="GORGIBUS">
-            <p>
-              <s>Et qu’y trouvez-vous à redire ? </s>
-            </p>
+          <sp who="gorgibus" xml:id="I04-4">
+            <p>Et qu’y trouvez-vous à redire ?</p>
           </sp>
-          <sp xml:id="I04-5" who="MAGDELON">
-            <p>
-              <s>La belle galanterie que la leur ! </s>
-              <s>Quoi ? </s>
-              <s>Débuter d’abord par le mariage ! </s>
-            </p>
+          <sp who="magdelon" xml:id="I04-5">
+            <p>La belle galanterie que la leur ! quoi, débuter d’abord par le mariage ?</p>
           </sp>
-          <sp xml:id="I04-6" who="GORGIBUS">
-            <p>
-              <s>Et par où veux-tu donc qu’ils débutent ? </s>
-              <s>Par le concubinage ? </s>
-              <s>N’est-ce pas un procédé dont vous avez sujet de vous louer toutes deux aussi bien que moi ? </s>
-              <s>Est-il rien de plus obligeant que cela ? </s>
-              <s>Et ce lien sacré où ils aspirent, n’est-il pas un témoignage de l’honnêteté de leurs intentions ? </s>
-            </p>
+          <sp who="gorgibus" xml:id="I04-6">
+            <p>Et par où veux-tu donc qu’ils débutent, par le concubinage ? n’est-ce pas un procédé, dont vous avez sujet de vous louer toutes deux, aussi bien que moi ? Est-il rien de plus obligeant que cela ? et ce lien sacré où ils aspirent n’est-il pas un témoignage de l’honnêteté de leurs intentions ?</p>
           </sp>
-          <sp xml:id="I04-7" who="MAGDELON">
-            <p>
-              <s>Ah ! </s>
-              <s>Mon père, ce que vous dites là est du dernier bourgeois. </s>
-              <s>Cela me fait honte de vous ouïr parler de la sorte, et vous devriez un peu vous faire apprendre le bel air des choses. </s>
-            </p>
+          <sp who="magdelon" xml:id="I04-7">
+            <p>Ah mon père, ce que vous dites là est du dernier bourgeois. Cela me fait honte de vous ouïr parler de la sorte, et vous devriez un peu vous faire apprendre le bel air des choses.</p>
           </sp>
-          <sp xml:id="I04-8" who="GORGIBUS">
-            <p>
-              <s>Je n’ai que faire ni d’air ni de chanson. </s>
-              <s>Je te dis que le mariage est une chose simple et sacrée, et que c’est faire en honnêtes gens que de débuter par là. </s>
-            </p>
+          <sp who="gorgibus" xml:id="I04-8">
+            <p>Je n’ai que faire, ni d’air, ni de chanson. Je te dis que le mariage est une chose sainte et sacrée, et que c’est faire en honnêtes gens que de débuter par là.</p>
           </sp>
-          <sp xml:id="I04-9" who="MAGDELON">
-            <p>
-              <s>Mon Dieu, que, si tout le monde vous ressemblait, un roman serait bientôt fini ! </s>
-              <s>La belle chose que ce serait si d’abord Cyrus épousait Mandane, et qu’Aronce de plain-pied fût marié à Clélie ! </s>
-            </p>
+          <sp who="magdelon" xml:id="I04-9">
+            <p>Mon Dieu, que si tout le monde vous ressemblait un Roman serait bientôt fini : la belle chose, que ce serait, si d’abord Cyrus épousait Mandane, et qu’Aronce de plain-pied fût marié à Clélie.</p>
           </sp>
-          <sp xml:id="I04-10" who="GORGIBUS">
-            <p>
-              <s>Que me vient conter celle-ci ? </s>
-            </p>
+          <sp who="gorgibus" xml:id="I04-10">
+            <p>Que me vient conter celle-ci ?</p>
           </sp>
-          <sp xml:id="I04-11" who="MAGDELON">
-            <p>
-              <s>Mon père, voilà ma cousine qui vous dira, aussi bien que moi, que le mariage ne doit jamais arriver qu’après les autres aventures. </s>
-              <s>Il faut qu’un amant, pour être agréable, sache débiter les beaux sentiments, pousser le doux, le tendre et le passionné, et que sa recherche soit dans les formes. </s>
-              <s>Premièrement, il doit voir au temple, ou à la promenade, ou dans quelque cérémonie publique, la personne dont il devient amoureux ; ou bien être conduit fatalement chez elle par un parent ou un ami, et sortir de là tout rêveur et mélancolique. </s>
-              <s>Il cache un temps sa passion à l’objet aimé, et cependant lui rend plusieurs visites, où l’on ne manque jamais de mettre sur le tapis une question galante qui exerce les esprits de l’assemblée. </s>
-              <s>Le jour de la déclaration arrive, qui se doit faire ordinairement dans une allée de quelque jardin, tandis que la compagnie s’est un peu éloignée ; et cette déclaration est suivie d’un prompt courroux, qui paraît à notre rougeur, et qui, pour un temps, bannit l’amant de notre présence. </s>
-              <s>Ensuite il trouve moyen de nous apaiser, de nous accoutumer insensiblement au discours de sa passion, et de tirer de nous cet aveu qui fait tant de peine. </s>
-              <s>Après cela viennent les aventures, les rivaux qui se jettent à la traverse d’une inclination établie, les persécutions des pères, les jalousies conçues sur de fausses apparences, les plaintes, les désespoirs, les enlèvements, et ce qui s’ensuit. </s>
-              <s>Voilà comme les choses se traitent dans les belles manières et ce sont des règles dont, en bonne galanterie, on ne saurait se dispenser. </s>
-              <s>Mais en venir de but en blanc à l’union conjugale, ne faire l’amour qu’en faisant le contrat du mariage, et prendre justement le roman par la queue ! </s>
-              <s>Encore un coup, mon père, il ne se peut rien de plus marchand que ce procédé ; et j’ai mal au coeur de la seule vision que cela me fait. </s>
-            </p>
+          <sp who="magdelon" xml:id="I04-11">
+            <p>Mon père, voilà ma cousine, qui vous dira, aussi bien que moi, que le mariage ne doit jamais arriver, qu’après les autres aventures. Il faut qu’un amant, pour être agréable, sache débiter les beaux sentiments ; pousser le doux, le tendre, et le passionné, et que sa recherche soit dans les formes. Premièrement il doit voir au Temple, ou à la promenade, ou dans quelque cérémonie publique la personne dont il devient amoureux ; ou bien être conduit fatalement chez elle, par un parent, ou un ami, et sortir de là tout rêveur et mélancolique. Il cache, un temps, sa passion à l’objet aimé, et cependant lui rend plusieurs visites, où l’on ne manque jamais de mettre sur le tapis une question galante, qui exerce les esprits de l’assemblée. Le jour de la déclaration arrive, qui se doit faire ordinairement dans une allée de quelque jardin, tandis que la compagnie s’est un peu éloignée : et cette déclaration est suivie d’un prompt courroux, qui paraît à notre rougeur, et qui pour un temps bannit l’amant de notre présence. Ensuite il trouve un moyen de nous apaiser ; de nous accoutumer insensiblement au discours de sa passion, et de tirer de nous cet aveu qui fait tant de peine. Après cela viennent les aventures ; les rivaux qui se jettent à la traverse d’une inclination établie, les persécutions des pères, les jalousies conçues sur de fausses apparences, les plaintes, les désespoirs, les enlèvements, et ce qui s’ensuit. Voilà comme les choses se traitent dans les belles manières, et ce sont des règles, dont en bonne galanterie on ne saurait se dispenser ; mais en venir de but en blanc à l’union conjugale ! ne faire l’amour qu’en faisant le contrat du mariage, et prendre justement le Roman par la queue ! Encore un coup mon père, il ne se peut rien de plus Marchand que ce procédé, et j’ai mal au cœur de la seule vision que cela me fait.</p>
           </sp>
-          <sp xml:id="I04-12" who="GORGIBUS">
-            <p>
-              <s>Quel diable de jargon entends-je ici ? </s>
-              <s>Voici bien du haut style. </s>
-            </p>
+          <sp who="gorgibus" xml:id="I04-12">
+            <p>Quel diable de jargon entends-je ici ? voici bien du haut style.</p>
           </sp>
-          <sp xml:id="I04-13" who="CATHOS">
-            <p>
-              <s>En effet, mon oncle, ma cousine donne dans le vrai de la chose. </s>
-              <s>Le moyen de bien recevoir des gens qui sont tout à fait incongrus en galanterie ? </s>
-              <s>Je m’en vais gager qu’ils n’ont jamais vu la carte de Tendre, et que Billets-Doux, Petits-Soins, Billets-Galants et Jolis-Vers sont des terres inconnues pour eux. </s>
-              <s>Ne voyez-vous pas que toute leur personne marque cela, et qu’ils n’ont point cet air qui donne d’abord bonne opinion des gens ? </s>
-              <s>Venir en visite amoureuse avec une jambe toute unie, un chapeau désarmé de plumes, une tête irrégulière en cheveux, et un habit qui souffre une indigence de rubans !... </s>
-              <s>Mon Dieu, quels amants sont-ce là ! </s>
-              <s>Quelle frugalité d’ajustement et quelle sécheresse de conversation ! </s>
-              <s>On n’y dure point, on n’y tient pas. </s>
-              <s>J’ai remarqué encore que leurs rabats ne sont pas de la bonne faiseuse, et qu’il s’en faut plus d’un grand demi-pied que leurs hauts-de-chausses ne soient assez larges. </s>
-            </p>
+          <sp who="cathos" xml:id="I04-13">
+            <p>En effet, mon oncle, ma cousine donne dans le vrai de la chose. Le moyen de bien recevoir des gens qui sont tout à fait incongrus en galanterie ? je m’en vais gager qu’ils n’ont jamais vu la carte de tendre, et que billets-doux, petits soins, billets galants, et jolis vers, sont des terres inconnues pour eux. Ne voyez-vous pas que toute leur personne marque cela, et qu’ils n’ont point cet air qui donne d’abord bonne opinion des gens ? venir en visite amoureuse avec une jambe toute unie ; un chapeau désarmé de plumes ; une tête irrégulière en cheveux et un habit qui souffre une indigence de rubans ! mon Dieu, quels amants sont-ce là ! quelle frugalité d’ajustement, et quelle sécheresse de conversation ! on n’y dure point, on n’y tient pas. J’ai remarqué encore que leurs rabats ne sont pas de la bonne faiseuse, et qu’il s’en faut plus d’un grand demi-pied, que leurs hauts-de-chausses, ne soient assez larges.</p>
           </sp>
-          <sp xml:id="I04-14" who="GORGIBUS">
-            <p>
-              <s>Je pense qu’elles sont folles toutes deux, et je ne puis rien comprendre à ce baragouin. </s>
-              <s>Cathos, et vous, Magdelon... </s>
-            </p>
+          <sp who="gorgibus" xml:id="I04-14">
+            <p>Je pense qu’elles sont folles toutes deux, et je ne puis rien comprendre à ce baragouin. Cathos et vous Magdelon...</p>
           </sp>
-          <sp xml:id="I04-15" who="MAGDELON">
-            <p>
-              <s>Eh ! </s>
-              <s>De grâce, mon père, défaites-vous de ces noms étranges, et nous appelez autrement. </s>
-            </p>
+          <sp who="magdelon" xml:id="I04-15">
+            <p>Eh de grâce, mon père, défaites-vous de ces noms étranges, et nous appelez autrement.</p>
           </sp>
-          <sp xml:id="I04-16" who="GORGIBUS">
-            <p>
-              <s>Comment, ces noms étranges ! Ne sont-ce pas vos noms de baptême ? </s>
-            </p>
+          <sp who="gorgibus" xml:id="I04-16">
+            <p>Comment ces noms étranges ? Ne sont-ce pas vos noms de Baptême ?</p>
           </sp>
-          <sp xml:id="I04-17" who="MAGDELON">
-            <p>
-              <s>Mon Dieu, que vous êtes vulgaire ! </s>
-              <s>Pour moi, un de mes étonnements, c’est que vous ayez pu faire une fille si spirituelle que moi. </s>
-              <s>A-t-on jamais parlé dans le beau style de Cathos ni de Magdelon ? </s>
-              <s>Et ne m’avouerez-vous pas que ce serait assez d’un de ces noms pour décrier le plus beau roman du monde ? </s>
-            </p>
+          <sp who="magdelon" xml:id="I04-17">
+            <p>Mon Dieu, que vous êtes vulgaire ! pour moi un de mes étonnements, c’est que vous ayez pu faire une fille si spirituelle que moi. A-t-on jamais parlé dans le beau style de Cathos ni de Magdelon ? et ne m’avouerez-vous pas que ce serait assez d’un de ces noms, pour décrier le plus beau Roman du monde ?</p>
           </sp>
-          <sp xml:id="I04-18" who="CATHOS">
-            <p>
-              <s>Il est vrai, mon oncle, qu’une oreille un peu délicate pâtit furieusement à entendre prononcer ces mots-là ; et le nom de Polyxène que ma cousine a choisi, et celui d’Aminte que je me suis donné, ont une grâce dont il faut que vous demeuriez d’accord. </s>
-            </p>
+          <sp who="cathos" xml:id="I04-18">
+            <p>Il est vrai, mon oncle, qu’une oreille un peu délicate pâtit furieusement à entendre prononcer ces mots-là, et le nom de Polixène, que ma cousine a choisi, et celui d’Aminte, que je me suis donné, ont une grâce, dont il faut que vous demeuriez d’accord.</p>
           </sp>
-          <sp xml:id="I04-19" who="GORGIBUS">
-            <p>
-              <s>Écoutez, il n’y a qu’un mot qui serve : je n’entends point que vous ayez d’autres noms que ceux qui vous ont été donnés par vos parrains et marraines ; et pour ces Messieurs dont il est question, je connais leurs familles et leurs biens, et je veux résolument que vous vous disposiez à les recevoir pour maris. </s>
-              <s>Je me lasse de vous avoir sur les bras, et la garde de deux filles est une charge un peu trop pesante pour un homme de mon âge. </s>
-            </p>
+          <sp who="gorgibus" xml:id="I04-19">
+            <p>Écoutez ; il n’y a qu’un mot qui serve. Je n’entends point que vous ayez d’autres noms, que ceux, qui vous ont été donnés par vos parrains et marraines, et pour ces messieurs dont il est question je connais leurs familles et leurs biens, et je veux résolument que vous vous disposiez à les recevoir pour maris. Je me lasse de vous avoir sur les bras, et la garde de deux filles est une charge un peu trop pesante, pour un homme de mon âge.</p>
           </sp>
-          <sp xml:id="I04-20" who="CATHOS">
-            <p>
-              <s>Pour moi, mon oncle, tout ce que je vous puis dire, c’est que je trouve le mariage une chose tout à fait choquante. </s>
-              <s>Comment est-ce qu’on peut souffrir la pensée de coucher contre un homme vraiment nu ? </s>
-            </p>
+          <sp who="cathos" xml:id="I04-20">
+            <p>Pour moi, mon oncle, tout ce que je vous puis dire c’est que je trouve le mariage une chose tout à fait choquante. Comment est-ce qu’on peut souffrir la pensée de coucher contre un homme vraiment nu ?</p>
           </sp>
-          <sp xml:id="I04-21" who="MAGDELON">
-            <p>
-              <s>Souffrez que nous prenions un peu haleine parmi le beau monde de Paris, où nous ne faisons que d’arriver. </s>
-              <s>Laissez-nous faire à loisir le tissu de notre roman, et n’en pressez point tant la conclusion. </s>
-            </p>
+          <sp who="magdelon" xml:id="I04-21">
+            <p>Souffrez que nous prenions un peu haleine parmi le beau monde de Paris, où nous ne faisons que d’arriver. Laissez-nous faire à loisir le tissu de notre Roman, et n’en pressez point tant la conclusion.</p>
           </sp>
-          <sp xml:id="I04-22" who="GORGIBUS">
-            <p>
-              <s>Il n’en faut point douter, elles sont achevées. </s>
-              <s>Encore un coup, je n’entends rien à toutes ces balivernes ; je veux être maître absolu ; et pour trancher toutes sortes de discours, ou vous serez mariées toutes deux avant qu’il soit peu, ou, ma foi ! </s>
-              <s>Vous serez religieuses : j’en fais un bon serment. </s>
-            </p>
+          <sp who="gorgibus" xml:id="I04-22">
+            <p>Il n’en faut point douter elles sont achevées. Encore un coup, je n’entends rien à toutes ces balivernes, je veux être maître absolu, et pour trancher toutes sortes de discours, ou vous serez mariées toutes deux, avant qu’il soit peu, ou, ma foi, vous serez religieuses, j’en fais un bon serment.</p>
           </sp>
         </div2>
-        <div2 xml:id="I05" type="scene" n="5">
-          <head>SCÈNE V. Cathos, Magdelon.<listPerson type="configuration" xml:id="conf5"/></head>
-          <sp xml:id="I05-1" who="CATHOS">
-            <p>
-              <s>Mon Dieu ! </s>
-              <s>Ma chère, que ton père a la forme enfoncée dans la matière ! </s>
-              <s>Que son intelligence est épaisse et qu’il fait sombre dans son âme ! </s>
-            </p>
+        <div2 type="scene" xml:id="I05">
+          <head>Scène V</head>
+          <sp who="cathos" xml:id="I05-1">
+            <p>Mon Dieu, ma chère, que ton père a la forme enfoncée dans la matière ! que son intelligence est épaisse, et qu’il fait sombre dans son âme !</p>
           </sp>
-          <sp xml:id="I05-2" who="MAGDELON">
-            <p>
-              <s>Que veux-tu, ma chère ? </s>
-              <s>J’en suis en confusion pour lui. </s>
-              <s>J’ai peine à me persuader que je puisse être véritablement sa fille, et je crois que quelque aventure, un jour, me viendra développer une naissance plus illustre. </s>
-            </p>
+          <sp who="magdelon" xml:id="I05-2">
+            <p>Que veux-tu, ma chère, j’en suis en confusion pour lui. J’ai peine à me persuader que je puisse être véritablement sa fille, et je crois que quelque aventure, un jour, me viendra développer une naissance plus illustre.</p>
           </sp>
-          <sp xml:id="I05-3" who="CATHOS">
-            <p>
-              <s>Je le croirais bien ; oui, il y a toutes les apparences du monde ; et pour moi, quand je me regarde aussi...</s>
-            </p>
+          <sp who="cathos" xml:id="I05-3">
+            <p>Je le croirais bien oui, il y a toutes les apparences du monde, et pour moi, quand je me regarde aussi…</p>
           </sp>
         </div2>
-        <div2 xml:id="I06" type="scene" n="6">
-          <head>SCÈNE VI. Marotte, Cathos, Magdelon.<listPerson type="configuration" xml:id="conf6"/></head>
-          <sp xml:id="I06-1" who="MAROTTE">
-            <p>
-              <s>Voilà un laquais qui demande si vous êtes au logis, et dit que son maître vous veut venir voir. </s>
-            </p>
+        <div2 type="scene" xml:id="I06">
+          <head>Scène VI</head>
+          <sp who="marotte" xml:id="I06-1">
+            <p>Voilà un laquais, qui demande, si vous êtes au logis, et dit que son maître vous veut venir voir.</p>
           </sp>
-          <sp xml:id="I06-2" who="MAGDELON">
-            <p>
-              <s>Apprenez, sotte, à vous énoncer moins vulgairement. </s>
-              <s>Dites : "Voilà un nécessaire qui demande si vous êtes en commodité d’être visibles." </s>
-            </p>
+          <sp who="magdelon" xml:id="I06-2">
+            <p>Apprenez, sotte, à vous énoncer moins vulgairement. Dites : voilà un nécessaire qui demande, si vous êtes en commodité d’être visibles.</p>
           </sp>
-          <sp xml:id="I06-3" who="MAROTTE">
-            <p>
-              <s>Dame ! </s>
-              <s>Je n’entends point le latin, et je n’ai pas appris, comme vous, la filofie dans le Grand Cyre. </s>
-            </p>
+          <sp who="marotte" xml:id="I06-3">
+            <p>Dame, je n’entends point le Latin, et je n’ai pas appris, comme vous, la Filofie dans le <hi rend="i">Grand Cyre</hi>.</p>
           </sp>
-          <sp xml:id="I06-4" who="MAGDELON">
-            <p>
-              <s>L’impertinente ! </s>
-              <s>Le moyen de souffrir cela ? </s>
-              <s>Et qui est-il, le maître de ce laquais ? </s>
-            </p>
+          <sp who="magdelon" xml:id="I06-4">
+            <p>L’impertinente ! le moyen de souffrir cela ! et qui est-il, le maître de ce laquais ?</p>
           </sp>
-          <sp xml:id="I06-5" who="MAROTTE">
-            <p>
-              <s>Il me l’a nommé le marquis de Mascarille. </s>
-            </p>
+          <sp who="marotte" xml:id="I06-5">
+            <p>Il me l’a nommé le Marquis de Mascarille.</p>
           </sp>
-          <sp xml:id="I06-6" who="MAGDELON">
-            <p>
-              <s>Ah ! </s>
-              <s>Ma chère, un marquis ! </s>
-              <s>Oui, allez dire qu’on nous peut voir. </s>
-              <s>C’est sans doute un bel esprit qui aura ouï parler de nous. </s>
-            </p>
+          <sp who="magdelon" xml:id="I06-6">
+            <p>Ah ma chère ! un Marquis, oui, allez dire qu’on nous peut voir. C’est sans doute un bel esprit, qui aura ouï parler de nous.</p>
           </sp>
-          <sp xml:id="I06-7" who="CATHOS">
-            <p>
-              <s>Assurément, ma chère. </s>
-            </p>
+          <sp who="cathos" xml:id="I06-7">
+            <p>Assurément, ma chère.</p>
           </sp>
-          <sp xml:id="I06-8" who="MAGDELON">
-            <p>
-              <s>Il faut le recevoir dans cette salle basse, plutôt qu’en notre chambre. </s>
-              <s>Ajustons un peu nos cheveux au moins, et soutenons notre réputation. </s>
-              <s>Vite, venez nous tendre ici dedans le conseiller des grâces. </s>
-            </p>
+          <sp who="magdelon" xml:id="I06-8">
+            <p>Il faut le recevoir dans cette salle basse, plutôt qu’en notre chambre : ajustons un peu nos cheveux au moins, et soutenons notre réputation. Vite venez nous tendre ici dedans le conseiller des grâces.</p>
           </sp>
-          <sp xml:id="I06-9" who="MAROTTE">
-            <p>
-              <s>Par ma foi, je ne sais point quelle bête c’est là : il faut parler chrétien, si vous voulez que je vous entende. </s>
-            </p>
+          <sp who="marotte" xml:id="I06-9">
+            <p>Par ma foi, je ne sais point quelle bête c’est là, il faut parler Chrétien, si vous voulez, que je vous entende.</p>
           </sp>
-          <sp xml:id="I06-10" who="CATHOS">
-            <p>
-              <s>Apportez-nous le miroir, ignorante que vous êtes, et gardez-vous bien d’en salir la glace par la communication de votre image. </s>
-            </p>
+          <sp who="cathos" xml:id="I06-10">
+            <p>Apportez-nous le miroir, ignorante que vous êtes. Et gardez-vous bien d’en salir la glace, par la communication de votre image.</p>
           </sp>
         </div2>
-        <div2 xml:id="I07" type="scene" n="7">
-          <head>SCÈNE VII. Mascarille, deux porteurs.<listPerson type="configuration" xml:id="conf7"/></head>
-          <sp xml:id="I07-1" who="MASCARILLE">
-            <p>
-              <s>Holà, porteurs, holà ! </s>
-              <s>Là, là, là, là, là, là. </s>
-              <s>Je pense que ces marauds-là ont dessein de me briser à force de heurter contre les murailles et les pavés. </s>
-            </p>
+        <div2 type="scene" xml:id="I07">
+          <head>Scène VII</head>
+          <sp who="mascarille" xml:id="I07-1">
+            <p>Holà, porteurs, holà. Là, là, là, là, là, là. Je pense que ces marauds-là ont dessein de me briser, à force de heurter contre les murailles, et les pavés.</p>
           </sp>
-          <sp xml:id="I07-2" who="PREMIERPORTEUR">
-            <p>
-              <s>Dame ! </s>
-              <s>C’est que la porte est étroite : vous avez voulu aussi que nous soyons entrés jusqu’ici. </s>
-            </p>
+          <sp who="porteur1" xml:id="I07-2">
+            <p>Dame, c’est que la porte est étroite. Vous avez voulu aussi, que nous soyons entrés jusqu’ici.</p>
           </sp>
-          <sp xml:id="I07-3" who="MASCARILLE">
-            <p>
-              <s>Je le crois bien. </s>
-              <s>Voudriez-vous, faquins, que j’exposasse l’embonpoint de mes plumes aux inclémences de la saison pluvieuse, et que j’allasse imprimer mes souliers en boue ? </s>
-              <s>Allez, ôtez votre chaise d’ici. </s>
-            </p>
+          <sp who="mascarille" xml:id="I07-3">
+            <p>Je le crois bien. Voudriez-vous, faquins, que j’exposasse l’embonpoint de mes plumes aux inclémences de la saison pluvieuse ? et que j’allasse imprimer mes souliers en boue ? Allez ôtez votre chaise d’ici.</p>
           </sp>
-          <sp xml:id="I07-4" who="DEUXIEMEPORTEUR">
-            <p>
-              <s>Payez-nous donc, s’il vous plaît, Monsieur. </s>
-            </p>
+          <sp who="porteur2" xml:id="I07-4">
+            <p>Payez-nous donc, s’il vous plaît, monsieur.</p>
           </sp>
-          <sp xml:id="I07-5" who="MASCARILLE">
-            <p>
-              <s>Hem ? </s>
-            </p>
+          <sp who="mascarille" xml:id="I07-5">
+            <p>Hem ?</p>
           </sp>
-          <sp xml:id="I07-6" who="DEUXIEMEPORTEUR">
-            <p>
-              <s>Je dis, Monsieur, que vous nous donniez de l’argent, s’il vous plaît. </s>
-            </p>
+          <sp who="porteur2" xml:id="I07-6">
+            <p>Je dis, monsieur, que vous nous donniez de l’argent, s’il vous plaît.</p>
           </sp>
-          <sp xml:id="I07-7" who="MASCARILLE">
-            <p>
-              <s>Comment, coquin, demander de l’argent à une personne de ma qualité ! </s>
-            </p>
+          <sp who="mascarille" xml:id="I07-7">
+            <p>Comment, coquin, demander de l’argent à une personne de ma qualité ?</p>
           </sp>
-          <sp xml:id="I07-8" who="DEUXIEMEPORTEUR">
-            <p>
-              <s>Est-ce ainsi qu’on paye les pauvres gens ? </s>
-              <s>Et votre qualité nous donne-t-elle à dîner ? </s>
-            </p>
+          <sp who="porteur2" xml:id="I07-8">
+            <p>Est-ce ainsi, qu’on paie les pauvres gens ? et votre qualité nous donne-t-elle à dîner ?</p>
           </sp>
-          <sp xml:id="I07-9" who="MASCARILLE">
-            <p>
-              <s>Ah ! </s>
-              <s>Ah ! </s>
-              <s>Ah ! </s>
-              <s>Je vous apprendrai à vous connaître ! Ces canailles-là s’osent jouer à moi. </s>
-            </p>
+          <sp who="mascarille" xml:id="I07-9">
+            <p>Ah, ah, ah, je vous apprendrai à vous connaître. Ces canailles-là s’osent jouer à moi.</p>
           </sp>
-          <sp xml:id="I07-10" who="PREMIERPORTEUR">
-            <p>
-              <s>Çà ! </s>
-              <s>Payez-nous vitement ! </s>
-            </p>
+          <sp who="porteur1" xml:id="I07-10">
+            <p>Çà, payez-nous vitement.</p>
           </sp>
-          <sp xml:id="I07-11" who="MASCARILLE">
-            <p>
-              <s>Quoi ? </s>
-            </p>
+          <sp who="mascarille" xml:id="I07-11">
+            <p>Quoi ?</p>
           </sp>
-          <sp xml:id="I07-12" who="PREMIERPORTEUR">
-            <p>
-              <s>Je dis que je veux avoir de l’argent tout à l’heure. </s>
-            </p>
+          <sp who="porteur1" xml:id="I07-12">
+            <p>Je dis, que je veux avoir de l’argent, tout à l’heure.</p>
           </sp>
-          <sp xml:id="I07-13" who="MASCARILLE">
-            <p>
-              <s>Il est raisonnable. </s>
-            </p>
+          <sp who="mascarille" xml:id="I07-13">
+            <p>Il est raisonnable.</p>
           </sp>
-          <sp xml:id="I07-14" who="PREMIERPORTEUR">
-            <p>
-              <s>Vite donc. </s>
-            </p>
+          <sp who="porteur1" xml:id="I07-14">
+            <p>Vite donc.</p>
           </sp>
-          <sp xml:id="I07-15" who="MASCARILLE">
-            <p>
-              <s>Oui-dà. </s>
-              <s>Tu parles comme il faut, toi ; mais l’autre est un coquin qui ne sait ce qu’il dit. </s>
-              <s>Tiens : es-tu content ? </s>
-            </p>
+          <sp who="mascarille" xml:id="I07-15">
+            <p>Oui-da, tu parles comme il faut, toi ; mais l’autre est un coquin, qui ne sait ce qu’il dit. Tiens, es-tu content ?</p>
           </sp>
-          <sp xml:id="I07-16" who="PREMIERPORTEUR">
-            <p>
-              <s>Non, je ne suis pas content : vous avez donné un soufflet à mon camarade, et... </s>
-            </p>
+          <sp who="porteur1" xml:id="I07-16">
+            <p>Non, je ne suis pas content, vous avez donné un soufflet à mon camarade, et...</p>
           </sp>
-          <sp xml:id="I07-17" who="MASCARILLE">
-            <p>
-              <s>Doucement. </s>
-              <s>Tiens, voilà pour le soufflet. </s>
-              <s>On obtient tout de moi quand on s’y prend de la bonne façon. </s>
-              <s>Allez, venez me reprendre tantôt pour aller au Louvre, au petit coucher. </s>
-            </p>
+          <sp who="mascarille" xml:id="I07-17">
+            <p>Doucement, tiens, voilà pour le soufflet. On obtient tout de moi, quand on s’y prend de la bonne façon. Allez, venez me reprendre tantôt, pour aller au Louvre au petit coucher.</p>
           </sp>
         </div2>
-        <div2 xml:id="I08" type="scene" n="8">
-          <head>SCÈNE VIII. Marotte, Mascarille.<listPerson type="configuration" xml:id="conf8"/></head>
-          <sp xml:id="I08-1" who="MAROTTE">
-            <p>
-              <s>Monsieur, voilà mes maîtresses qui vont venir tout à l’heure. </s>
-            </p>
+        <div2 type="scene" xml:id="I08">
+          <head>Scène VIII</head>
+          <sp who="marotte" xml:id="I08-1">
+            <p>Monsieur, voilà mes maîtresses, qui vont venir tout à l’heure.</p>
           </sp>
-          <sp xml:id="I08-2" who="MASCARILLE">
-            <p>
-              <s>Qu’elles ne se pressent point : je suis ici posté commodément pour attendre. </s>
-            </p>
+          <sp who="mascarille" xml:id="I08-2">
+            <p>Qu’elles ne se pressent point, je suis ici posté commodément, pour attendre.</p>
           </sp>
-          <sp xml:id="I08-3" who="MAROTTE">
-            <p>
-              <s>Les voici. </s>
-            </p>
+          <sp who="marotte" xml:id="I08-3">
+            <p>Les voici.</p>
           </sp>
         </div2>
-        <div2 xml:id="I09" type="scene" n="9">
-          <head>SCÈNE IX. Magdelon, Cathos, Mascarille, Almanzor.<listPerson type="configuration" xml:id="conf9"/></head>
-          <sp xml:id="I09-1" who="MASCARILLE">
-            <p>
-              <s>Mesdames, vous serez surprises, sans doute, de l’audace de ma visite ; mais votre réputation vous attire cette méchante affaire, et le mérite a pour moi des charmes si puissants, que je cours partout après lui. </s>
-            </p>
-          </sp>
-          <sp xml:id="I09-2" who="MAGDELON">
-            <p>
-              <s>Si vous poursuivez le mérite, ce n’est pas sur nos terres que vous devez chasser. </s>
-            </p>
-          </sp>
-          <sp xml:id="I09-3" who="CATHOS">
-            <p>
-              <s>Pour voir chez nous le mérite, il a fallu que vous l’y ayez amené. </s>
-            </p>
-          </sp>
-          <sp xml:id="I09-4" who="MASCARILLE">
-            <p>
-              <s>Ah ! </s>
-              <s>Je m’inscris en faux contre vos paroles. </s>
-              <s>La renommée accuse juste en contant ce que vous valez ; et vous allez faire pic, repic et capot tout ce qu’il y a de galant dans Paris. </s>
-            </p>
-          </sp>
-          <sp xml:id="I09-5" who="MAGDELON">
-            <p>
-              <s>Votre complaisance pousse un peu trop avant la libéralité de ses louanges ; et nous n’avons garde, ma cousine et moi, de donner de notre sérieux dans le doux de votre flatterie. </s>
-            </p>
-          </sp>
-          <sp xml:id="I09-6" who="CATHOS">
-            <p>
-              <s>Ma chère, il faudrait faire donner des sièges. </s>
-            </p>
-          </sp>
-          <sp xml:id="I09-7" who="MAGDELON">
-            <p>
-              <s>Holà, Almanzor ! </s>
-            </p>
-          </sp>
-          <sp xml:id="I09-8" who="ALMANZOR">
-            <p>
-              <s>Madame. </s>
-            </p>
-          </sp>
-          <sp xml:id="I09-9" who="MAGDELON">
-            <p>
-              <s>Vite, voiturez-nous ici les commodités de la conversation. </s>
-            </p>
-          </sp>
-          <sp xml:id="I09-10" who="MASCARILLE">
-            <p>
-              <s>Mais au moins, y a-t-il sûreté ici pour moi ? </s>
-            </p>
-          </sp>
-          <sp xml:id="I09-11" who="CATHOS">
-            <p>
-              <s>Que craignez-vous ? </s>
-            </p>
-          </sp>
-          <sp xml:id="I09-12" who="MASCARILLE">
-            <p>
-              <s>Quelque vol de mon coeur, quelque assassinat de ma franchise. </s>
-              <s>Je vois ici des yeux qui ont la mine d’être de fort mauvais garçons, de faire insulte aux libertés, et de traiter une âme de Turc à More. </s>
-              <s>Comment diable, d’abord qu’on les approche, ils se mettent sur leur garde meurtrière ? </s>
-              <s>Ah ! </s>
-              <s>Par ma foi, je m’en défie, et je m’en vais gagner au pied, ou je veux caution bourgeoise qu’ils ne me feront point de mal. </s>
-            </p>
-          </sp>
-          <sp xml:id="I09-13" who="MAGDELON">
-            <p>
-              <s>Ma chère, c’est le caractère enjoué. </s>
-            </p>
-          </sp>
-          <sp xml:id="I09-14" who="CATHOS">
-            <p>
-              <s>Je vois bien que c’est un Amilcar. </s>
-            </p>
-          </sp>
-          <sp xml:id="I09-15" who="MAGDELON">
-            <p>
-              <s>Ne craignez rien : nos yeux n’ont point de mauvais desseins, et votre coeur peut dormir en assurance sur leur prud’homie. </s>
-            </p>
-          </sp>
-          <sp xml:id="I09-16" who="CATHOS">
-            <p>
-              <s>Mais de grâce, Monsieur, ne soyez pas inexorable à ce fauteuil qui vous tend les bras il y a un quart d’heure ; contentez un peu l’envie qu’il a de vous embrasser. </s>
-            </p>
-          </sp>
-          <sp xml:id="I09-17" who="MASCARILLE">
-            <p>
-              <s>Eh bien, Mesdames, que dites-vous de Paris ? </s>
-            </p>
-          </sp>
-          <sp xml:id="I09-18" who="MAGDELON">
-            <p>
-              <s>Hélas ! </s>
-              <s>Qu’en pourrions-nous dire ? </s>
-              <s>Il faudrait être l’antipode de la raison, pour ne pas confesser que Paris est le grand bureau des merveilles, le centre du bon goût, du bel esprit et de la galanterie. </s>
-            </p>
-          </sp>
-          <sp xml:id="I09-19" who="MASCARILLE">
-            <p>
-              <s>Pour moi, je tiens que hors de Paris, il n’y a point de salut pour les honnêtes gens. </s>
-            </p>
-          </sp>
-          <sp xml:id="I09-20" who="CATHOS">
-            <p>
-              <s>C’est une vérité incontestable. </s>
-            </p>
-          </sp>
-          <sp xml:id="I09-21" who="MASCARILLE">
-            <p>
-              <s>Il y fait un peu crotté ; mais nous avons la chaise. </s>
-            </p>
-          </sp>
-          <sp xml:id="I09-22" who="MAGDELON">
-            <p>
-              <s>Il est vrai que la chaise est un retranchement merveilleux contre les insultes de la boue et du mauvais temps. </s>
-            </p>
-          </sp>
-          <sp xml:id="I09-23" who="MASCARILLE">
-            <p>
-              <s>Vous recevez beaucoup de visites : quel bel esprit est des vôtres ? </s>
-            </p>
-          </sp>
-          <sp xml:id="I09-24" who="MAGDELON">
-            <p>
-              <s>Hélas ! </s>
-              <s>Nous ne sommes pas encore connues ; mais nous sommes en passe de l’être, et nous avons une amie particulière qui nous a promis d’amener ici tous ces Messieurs du "Recueil des pièces choisies". </s>
-            </p>
-          </sp>
-          <sp xml:id="I09-25" who="CATHOS">
-            <p>
-              <s>Et certains autres qu’on nous a nommés aussi pour être les arbitres souverains des belles choses. </s>
-            </p>
-          </sp>
-          <sp xml:id="I09-26" who="MASCARILLE">
-            <p>
-              <s>C’est moi qui ferai votre affaire mieux que personne : ils me rendent tous visite ; et je puis dire que je ne me lève jamais sans une demi-douzaine de beaux esprits. </s>
-            </p>
-          </sp>
-          <sp xml:id="I09-27" who="MAGDELON">
-            <p>
-              <s>Eh ! </s>
-              <s>Mon Dieu, nous vous serons obligées de la dernière obligation, si vous nous faites cette amitié ; car enfin il faut avoir la connaissance de tous ces Messieurs-là, si l’on veut être du beau monde. </s>
-              <s>Ce sont ceux qui donnent le branle à la réputation dans Paris et vous savez qu’il y en a tel dont il ne faut que la seule fréquentation pour vous donner bruit de connaisseuse, quand il n’y aurait rien autre chose que cela. </s>
-              <s>Mais pour moi, ce que je considère particulièrement, c’est que, par le moyen de ces visites spirituelles, on est instruite de cent choses qu’il faut savoir de nécessité, et qui sont de l’essence d’un bel esprit. </s>
-              <s>On apprend par là chaque jour les petites nouvelles galantes, les jolies commerces de prose et de vers. </s>
-              <s>On sait à point nommé : "Un tel a composé la plus jolie pièce du monde sur un tel sujet ; une telle a fait des paroles sur un tel air ; celui-ci a fait un madrigal sur une jouissance ; celui-là a composé des stances sur une infidélité ; Monsieur un tel écrivit hier au soir un sixain à Mademoiselle une telle, dont elle lui a envoyé la réponse ce matin sur les huit heures ; un tel auteur a fait un tel dessein ; celui-là en est à la troisième partie de son roman ; cet autre met ses ouvrages sous la presse." </s>
-              <s>C’est là ce qui vous fait valoir dans les compagnies ; et si l’on ignore ces choses, je ne donnerais pas un clou de tout l’esprit qu’on peut avoir. </s>
-            </p>
-          </sp>
-          <sp xml:id="I09-28" who="CATHOS">
-            <p>
-              <s>En effet, je trouve que c’est renchérir sur le ridicule, qu’une personne se pique d’esprit et ne sache pas jusqu’au moindre petit quatrain qui se fait chaque jour ; et pour moi, j’aurais toutes les hontes du monde s’il fallait qu’on vînt à me demander si j’aurais vu quelque chose de nouveau que je n’aurais pas vu. </s>
-            </p>
-          </sp>
-          <sp xml:id="I09-29" who="MASCARILLE">
-            <p>
-              <s>Il est vrai qu’il est honteux de n’avoir pas des premiers tout ce qui se fait ; mais ne vous mettez pas en peine : je veux établir chez vous une Académie de beaux esprits, et je vous promets qu’il ne se fera pas un bout de vers dans Paris que vous ne sachiez par coeur avant tous les autres. </s>
-              <s>Pour moi, tel que vous me voyez, je m’en escrime un peu quand je veux ; et vous verrez courir de ma façon, dans les belles ruelles de Paris, deux cents chansons, autant de sonnets, quatre cents épigrammes et plus de mille madrigaux, sans compter les énigmes et les portraits. </s>
-            </p>
-          </sp>
-          <sp xml:id="I09-30" who="MAGDELON">
-            <p>
-              <s>Je vous avoue que je suis furieusement pour les portraits ; je ne vois rien de si galant que cela. </s>
-            </p>
-          </sp>
-          <sp xml:id="I09-31" who="MASCARILLE">
-            <p>
-              <s>Les portraits sont difficiles, et demandent un esprit profond : vous en verrez de ma manière qui ne vous déplairont pas. </s>
-            </p>
-          </sp>
-          <sp xml:id="I09-32" who="CATHOS">
-            <p>
-              <s>Pour moi, j’aime terriblement les énigmes. </s>
-            </p>
-          </sp>
-          <sp xml:id="I09-33" who="MASCARILLE">
-            <p>
-              <s>Cela exerce l’esprit, et j’en ai fait quatre encore ce matin, que je vous donnerai à deviner. </s>
-            </p>
-          </sp>
-          <sp xml:id="I09-34" who="MAGDELON">
-            <p>
-              <s>Les madrigaux sont agréables, quand ils sont bien tournés. </s>
-            </p>
-          </sp>
-          <sp xml:id="I09-35" who="MASCARILLE">
-            <p>
-              <s>C’est mon talent particulier ; et je travaille à mettre en madrigaux toute l’histoire romaine. </s>
-            </p>
-          </sp>
-          <sp xml:id="I09-36" who="MAGDELON">
-            <p>
-              <s>Ah ! </s>
-              <s>Certes, cela sera du dernier beau. </s>
-              <s>J’en retiens un exemplaire au moins, si vous le faites imprimer. </s>
-            </p>
-          </sp>
-          <sp xml:id="I09-37" who="MASCARILLE">
-            <p>
-              <s>Je vous en promets à chacune un, et des mieux reliés. </s>
-              <s>Cela est au-dessous de ma condition ; mais je le fais seulement pour donner à gagner aux libraires qui me persécutent. </s>
-            </p>
-          </sp>
-          <sp xml:id="I09-38" who="MAGDELON">
-            <p>
-              <s>Je m’imagine que le plaisir est grand de se voir imprimé. </s>
-            </p>
-          </sp>
-          <sp xml:id="I09-39" who="MASCARILLE">
-            <p>
-              <s>Sans doute. </s>
-              <s>Mais à propos, il faut que je vous die un impromptu que je fis hier chez une duchesse de mes amies que je fus visiter ; car je suis diablement fort sur les impromptus. </s>
-            </p>
-          </sp>
-          <sp xml:id="I09-40" who="CATHOS">
-            <p>
-              <s>L’impromptu est justement la pierre de touche de l’esprit. </s>
-            </p>
-          </sp>
-          <sp xml:id="I09-41" who="MASCARILLE">
-            <p>
-              <s>Écoutez donc. </s>
-            </p>
-          </sp>
-          <sp xml:id="I09-42" who="MAGDELON">
-            <p>
-              <s>Nous y sommes de toutes nos oreilles. </s>
-            </p>
-          </sp>
-          <sp xml:id="I09-43" who="MASCARILLE">
-            <l n="1" xml:id="l1">Oh ! oh ! je n’y prenais pas garde : </l>
-            <l n="2" xml:id="l2">Tandis que, sans songer à mal, je vous regarde, </l>
-            <l n="3" xml:id="l3">Votre oeil en tapinois me dérobe mon coeur. </l>
-            <l n="4" xml:id="l4">Au voleur, au voleur, au voleur, au voleur !</l>
-          </sp>
-          <sp xml:id="I09-44" who="CATHOS">
-            <p>
-              <s>Ah ! </s>
-              <s>Mon Dieu ! </s>
-              <s>Voilà qui est poussé dans le dernier galant. </s>
-            </p>
-          </sp>
-          <sp xml:id="I09-45" who="MASCARILLE">
-            <p>
-              <s>Tout ce que je fais a l’air cavalier ; cela ne sent point le pédant. </s>
-            </p>
-          </sp>
-          <sp xml:id="I09-46" who="MAGDELON">
-            <p>
-              <s>Il en est éloigné de plus de deux mille lieues. </s>
-            </p>
-          </sp>
-          <sp xml:id="I09-47" who="MASCARILLE">
-            <p>
-              <s>Avez-vous remarqué ce commencement : Oh, oh ? </s>
-              <s>Voilà qui est extraordinaire : oh, oh ! </s>
-              <s>Comme un homme qui s’avise tout d’un coup : oh, oh ! </s>
-              <s>La surprise : oh, oh ! </s>
-            </p>
-          </sp>
-          <sp xml:id="I09-48" who="MAGDELON">
-            <p>
-              <s>Oui, je trouve ce oh, oh ! </s>
-              <s>Admirable. </s>
-            </p>
-          </sp>
-          <sp xml:id="I09-49" who="MASCARILLE">
-            <p>
-              <s>Il semble que cela ne soit rien. </s>
-            </p>
-          </sp>
-          <sp xml:id="I09-50" who="CATHOS">
-            <p>
-              <s>Ah ! </s>
-              <s>Mon Dieu, que dites-vous ? </s>
-              <s>Ce sont là de ces sortes de choses qui ne se peuvent payer. </s>
-            </p>
-          </sp>
-          <sp xml:id="I09-51" who="MAGDELON">
-            <p>
-              <s>Sans doute ; et j’aimerais mieux avoir fait ce oh, oh ! </s>
-              <s>Qu’un poème épique. </s>
-            </p>
-          </sp>
-          <sp xml:id="I09-52" who="MASCARILLE">
-            <p>
-              <s>Tudieu ! </s>
-              <s>Vous avez le goût bon. </s>
-            </p>
-          </sp>
-          <sp xml:id="I09-53" who="MAGDELON">
-            <p>
-              <s>Eh ! </s>
-              <s>Je ne l’ai pas tout à fait mauvais. </s>
-            </p>
-          </sp>
-          <sp xml:id="I09-54" who="MASCARILLE">
-            <p>
-              <s>Mais n’admirez-vous pas aussi je n’y prenais pas garde ? </s>
-              <s>Je n’y prenais pas garde, je ne m’apercevais pas de cela : façon de parler naturelle : je n’y prenais pas garde. </s>
-              <s>Tandis que sans songer à mal, tandis qu’innocemment, sans malice, comme un pauvre mouton ; je vous regarde, c’est-à-dire, je m’amuse à vous considérer, je vous observe, je vous contemple ; votre oeil en tapinois... </s>
-              <s>Que vous semble de ce mot tapinois ? </s>
-              <s>N’est-il pas bien choisi ? </s>
-            </p>
-          </sp>
-          <sp xml:id="I09-55" who="CATHOS">
-            <p>
-              <s>Tout à fait bien. </s>
-            </p>
-          </sp>
-          <sp xml:id="I09-56" who="MASCARILLE">
-            <p>
-              <s>Tapinois, en cachette : il semble que ce soit un chat qui vienne de prendre une souris : tapinois. </s>
-            </p>
-          </sp>
-          <sp xml:id="I09-57" who="MAGDELON">
-            <p>
-              <s>Il ne se peut rien de mieux. </s>
-            </p>
-          </sp>
-          <sp xml:id="I09-58" who="MASCARILLE">
-            <p>
-              <s>Me dérobe mon coeur, me l’emporte, me le ravit. </s>
-              <s>Au voleur, au voleur, au voleur, au voleur ! </s>
-              <s>Ne diriez-vous pas que c’est un homme qui crie et court après un voleur pour le faire arrêter ? </s>
-              <s>Au voleur, au voleur, au voleur, au voleur ! </s>
-            </p>
-          </sp>
-          <sp xml:id="I09-59" who="MAGDELON">
-            <p>
-              <s>Il faut avouer que cela a un tour spirituel et galant. </s>
-            </p>
-          </sp>
-          <sp xml:id="I09-60" who="MASCARILLE">
-            <p>
-              <s>Je veux vous dire l’air que j’ai fait dessus. </s>
-            </p>
-          </sp>
-          <sp xml:id="I09-61" who="CATHOS">
-            <p>
-              <s>Vous avez appris la musique ? </s>
-            </p>
-          </sp>
-          <sp xml:id="I09-62" who="MASCARILLE">
-            <p>
-              <s>Moi ? </s>
-              <s>Point du tout. </s>
-            </p>
-          </sp>
-          <sp xml:id="I09-63" who="CATHOS">
-            <p>
-              <s>Et comment donc cela se peut-il ? </s>
-            </p>
-          </sp>
-          <sp xml:id="I09-64" who="MASCARILLE">
-            <p>
-              <s>Les gens de qualité savent tout sans avoir jamais rien appris. </s>
-            </p>
-          </sp>
-          <sp xml:id="I09-65" who="MAGDELON">
-            <p>
-              <s>Assurément, ma chère. </s>
-            </p>
-          </sp>
-          <sp xml:id="I09-66" who="MASCARILLE">
-            <p>
-              <s>Écoutez si vous trouverez l’air à votre goût. </s>
-              <s>Hem, hem. La, la, la, la, la. La brutalité de la saison a furieusement outragé la délicatesse de ma voix ; mais il n’importe, c’est à la cavalière. </s>
-            </p>
-            <p>
-              <s>Oh, oh ! </s>
-              <s>Je n’y prenais pas... </s>
-            </p>
-          </sp>
-          <sp xml:id="I09-67" who="CATHOS">
-            <p>
-              <s>Ah ! </s>
-              <s>Que voilà un air qui est passionné ! </s>
-              <s>Est-ce qu’on n’en meurt point ? </s>
-            </p>
-          </sp>
-          <sp xml:id="I09-68" who="MAGDELON">
-            <p>
-              <s>Il y a de la chromatique là dedans. </s>
-            </p>
-          </sp>
-          <sp xml:id="I09-69" who="MASCARILLE">
-            <p>
-              <s>Ne trouvez-vous pas la pensée bien exprimée dans le chant ? Au voleur !... Et puis, comme si l’on criait bien fort : au, au, au, au, au, au, voleur ! </s>
-              <s>Et tout d’un coup, comme une personne essoufflée : au voleur ! </s>
-            </p>
-          </sp>
-          <sp xml:id="I09-70" who="MAGDELON">
-            <p>
-              <s>C’est là savoir le fin des choses, le grand fin, le fin du fin. </s>
-              <s>Tout est merveilleux, je vous assure ; je suis enthousiasmée de l’air et des paroles. </s>
-            </p>
-          </sp>
-          <sp xml:id="I09-71" who="CATHOS">
-            <p>
-              <s>Je n’ai encore rien vu de cette force-là. </s>
-            </p>
-          </sp>
-          <sp xml:id="I09-72" who="MASCARILLE">
-            <p>
-              <s>Tout ce que je fais me vient naturellement, c’est sans étude. </s>
-            </p>
-          </sp>
-          <sp xml:id="I09-73" who="MAGDELON">
-            <p>
-              <s>La nature vous a traité en vraie mère passionnée, et vous en êtes l’enfant gâté. </s>
-            </p>
-          </sp>
-          <sp xml:id="I09-74" who="MASCARILLE">
-            <p>
-              <s>À quoi donc passez-vous le temps ? </s>
-            </p>
-          </sp>
-          <sp xml:id="I09-75" who="CATHOS">
-            <p>
-              <s>À rien du tout. </s>
-            </p>
-          </sp>
-          <sp xml:id="I09-76" who="MAGDELON">
-            <p>
-              <s>Nous avons été jusqu’ici dans un jeûne effroyable de divertissements. </s>
-            </p>
-          </sp>
-          <sp xml:id="I09-77" who="MASCARILLE">
-            <p>
-              <s>Je m’offre à vous mener l’un de ces jours à la comédie, si vous voulez ; aussi bien on en doit jouer une nouvelle que je serai bien aise que nous voyions ensemble. </s>
-            </p>
-          </sp>
-          <sp xml:id="I09-78" who="MAGDELON">
-            <p>
-              <s>Cela n’est pas de refus. </s>
-            </p>
-          </sp>
-          <sp xml:id="I09-79" who="MASCARILLE">
-            <p>
-              <s>Mais je vous demande d’applaudir comme il faut, quand nous serons là ; car je me suis engagé de faire valoir la pièce, et l’auteur m’en est venu prier encore ce matin. </s>
-              <s>C’est la coutume ici qu’à nous autres gens de condition les auteurs viennent lire leurs pièces nouvelles, pour nous engager à les trouver belles, et leur donner de la réputation ; et je vous laisse à penser si, quand nous disons quelque chose, le parterre ose nous contredire. </s>
-              <s>Pour moi, j’y suis fort exact ; et quand j’ai promis à quelque poète, je crie toujours : "Voilà qui est beau !" devant que les chandelles soient allumées. </s>
-            </p>
-          </sp>
-          <sp xml:id="I09-80" who="MAGDELON">
-            <p>
-              <s>Ne m’en parlez point : c’est un admirable lieu que Paris ; il s’y passe cent choses tous les jours qu’on ignore dans les provinces, quelque spirituelle qu’on puisse être. </s>
-            </p>
-          </sp>
-          <sp xml:id="I09-81" who="CATHOS">
-            <p>
-              <s>C’est assez : puisque nous sommes instruites, nous ferons notre devoir de nous écrier comme il faut sur tout ce qu’on dira. </s>
-            </p>
-          </sp>
-          <sp xml:id="I09-82" who="MASCARILLE">
-            <p>
-              <s>Je ne sais si je me trompe, mais vous avez toute la mine d’avoir fait quelque comédie. </s>
-            </p>
-          </sp>
-          <sp xml:id="I09-83" who="MAGDELON">
-            <p>
-              <s>Eh ! il pourrait être quelque chose de ce que vous dites. </s>
-            </p>
-          </sp>
-          <sp xml:id="I09-84" who="MASCARILLE">
-            <p>
-              <s>Ah ! </s>
-              <s>Ma foi, il faudra que nous la voyions. </s>
-              <s>Entre nous, j’en ai composé une que je veux faire représenter. </s>
-            </p>
-          </sp>
-          <sp xml:id="I09-85" who="CATHOS">
-            <p>
-              <s>Hé, à quels comédiens la donnerez-vous ? </s>
-            </p>
-          </sp>
-          <sp xml:id="I09-86" who="MASCARILLE">
-            <p>
-              <s>Belle demande ! </s>
-              <s>Aux grands comédiens. </s>
-              <s>Il n’y a qu’eux qui soient capables de faire valoir les choses ; les autres sont des ignorants qui récitent comme l’on parle ; ils ne savent pas faire ronfler les vers, et s’arrêter au bel endroit : et le moyen de connaître où est le beau vers, si le comédien ne s’y arrête, et ne vous avertit par là qu’il faut faire le brouhaha ? </s>
-            </p>
-          </sp>
-          <sp xml:id="I09-87" who="CATHOS">
-            <p>
-              <s>En effet, il y a manière de faire sentir aux auditeurs les beautés d’un ouvrage ; et les choses ne valent que ce qu’on les fait valoir. </s>
-            </p>
-          </sp>
-          <sp xml:id="I09-88" who="MASCARILLE">
-            <p>
-              <s>Que vous semble de ma petite-oie ? </s>
-              <s>La trouvez-vous congruante à l’habit ? </s>
-            </p>
-          </sp>
-          <sp xml:id="I09-89" who="CATHOS">
-            <p>
-              <s>Tout à fait. </s>
-            </p>
-          </sp>
-          <sp xml:id="I09-90" who="MASCARILLE">
-            <p>
-              <s>Le ruban est bien choisi. </s>
-            </p>
-          </sp>
-          <sp xml:id="I09-91" who="MAGDELON">
-            <p>
-              <s>Furieusement bien. </s>
-              <s>C’est Perdrigeon tout pur. </s>
-            </p>
-          </sp>
-          <sp xml:id="I09-92" who="MASCARILLE">
-            <p>
-              <s>Que dites-vous de mes canons ? </s>
-            </p>
-          </sp>
-          <sp xml:id="I09-93" who="MAGDELON">
-            <p>
-              <s>Ils ont tout à fait bon air. </s>
-            </p>
-          </sp>
-          <sp xml:id="I09-94" who="MASCARILLE">
-            <p>
-              <s>Je puis me vanter au moins qu’ils ont un grand quartier plus que tous ceux qu’on fait. </s>
-            </p>
-          </sp>
-          <sp xml:id="I09-95" who="MAGDELON">
-            <p>
-              <s>Il faut avouer que je n’ai jamais vu porter si haut l’élégance de l’ajustement. </s>
-            </p>
-          </sp>
-          <sp xml:id="I09-96" who="MASCARILLE">
-            <p>
-              <s>Attachez un peu sur ces gants la réflexion de votre odorat. </s>
-            </p>
-          </sp>
-          <sp xml:id="I09-97" who="MAGDELON">
-            <p>
-              <s>Ils sentent terriblement bon. </s>
-            </p>
-          </sp>
-          <sp xml:id="I09-98" who="CATHOS">
-            <p>
-              <s>Je n’ai jamais respiré une odeur mieux conditionnée. </s>
-            </p>
-          </sp>
-          <sp xml:id="I09-99" who="MASCARILLE">
-            <p>
-              <s>Et celle-là ? </s>
-            </p>
-          </sp>
-          <sp xml:id="I09-100" who="MAGDELON">
-            <p>
-              <s>Elle est tout à fait de qualité ; le sublime en est touché délicieusement. </s>
-            </p>
-          </sp>
-          <sp xml:id="I09-101" who="MASCARILLE">
-            <p>
-              <s>Vous ne me dites rien de mes plumes : comment les trouvez-vous ? </s>
-            </p>
-          </sp>
-          <sp xml:id="I09-102" who="CATHOS">
-            <p>
-              <s>Effroyablement belles. </s>
-            </p>
-          </sp>
-          <sp xml:id="I09-103" who="MASCARILLE">
-            <p>
-              <s>Savez-vous que le brin me coûte un louis d’or ? </s>
-              <s>Pour moi, j’ai cette manie de vouloir donner généralement sur tout ce qu’il y a de plus beau. </s>
-            </p>
-          </sp>
-          <sp xml:id="I09-104" who="MAGDELON">
-            <p>
-              <s>Je vous assure que nous sympathisons vous et moi : j’ai une délicatesse furieuse pour tout ce que je porte ; et jusqu’à mes chaussettes, je ne puis rien souffrir qui ne soit de la bonne ouvrière. </s>
-            </p>
-          </sp>
-          <sp xml:id="I09-105" who="MASCARILLE">
-            <p>
-              <s>Ahi, ahi, ahi, doucement ! </s>
-              <s>Dieu me damne, Mesdames, c’est fort mal en user ; j’ai à me plaindre de votre procédé ; cela n’est pas honnête. </s>
-            </p>
-          </sp>
-          <sp xml:id="I09-106" who="CATHOS">
-            <p>
-              <s>Qu’est-ce donc ? </s>
-              <s>Qu’avez-vous ? </s>
-            </p>
-          </sp>
-          <sp xml:id="I09-107" who="MASCARILLE">
-            <p>
-              <s>Quoi ? </s>
-              <s>Toutes deux contre mon coeur, en même temps ! </s>
-              <s>M’attaquer à droit et à gauche ! </s>
-              <s>Ah ! </s>
-              <s>C’est contre le droit des gens ; la partie n’est pas égale ; et je m’en vais crier au meurtre. </s>
-            </p>
-          </sp>
-          <sp xml:id="I09-108" who="CATHOS">
-            <p>
-              <s>Il faut avouer qu’il dit les choses d’une manière particulière. </s>
-            </p>
-          </sp>
-          <sp xml:id="I09-109" who="MAGDELON">
-            <p>
-              <s>Il a un tour admirable dans l’esprit. </s>
-            </p>
-          </sp>
-          <sp xml:id="I09-110" who="CATHOS">
-            <p>
-              <s>Vous avez plus de peur que de mal, et votre coeur crie avant qu’on l’écorche. </s>
-            </p>
-          </sp>
-          <sp xml:id="I09-111" who="MASCARILLE">
-            <p>
-              <s>Comment diable ! </s>
-              <s>Il est écorché depuis la tête jusqu’aux pieds. </s>
-            </p>
+        <div2 type="scene" xml:id="I09">
+          <head>Scène IX</head>
+          <sp who="mascarille" xml:id="I09-1">
+            <p>Mesdames, vous serez surprises, sans doute, de l’audace de ma visite ; mais votre réputation vous attire cette méchante affaire, et le mérite a, pour moi, des charmes si puissants, que je cours, partout, après lui.</p>
+          </sp>
+          <sp who="magdelon" xml:id="I09-2">
+            <p>Si vous poursuivez le mérite, ce n’est pas sur nos terres que vous devez chasser.</p>
+          </sp>
+          <sp who="cathos" xml:id="I09-3">
+            <p>Pour voir chez nous le mérite, il a fallu, que vous l’y ayez amené.</p>
+          </sp>
+          <sp who="mascarille" xml:id="I09-4">
+            <p>Ah je m’inscris en faux contre vos paroles. La Renommé accuse juste, en contant ce que vous valez, et vous allez faire pic, repic et capot, tout ce qu’il y a de galant dans Paris.</p>
+          </sp>
+          <sp who="magdelon" xml:id="I09-5">
+            <p>Votre complaisance pousse, un peu trop avant, la libéralité de ces louanges, et nous n’avons garde, ma cousine et moi, de donner de notre sérieux dans le doux de votre flatterie.</p>
+          </sp>
+          <sp who="cathos" xml:id="I09-6">
+            <p>Ma chère, il faudrait faire donner des sièges.</p>
+          </sp>
+          <sp who="magdelon" xml:id="I09-7">
+            <p>Holà, Almanzor.</p>
+          </sp>
+          <sp who="almanzor" xml:id="I09-8">
+            <p>Madame.</p>
+          </sp>
+          <sp who="magdelon" xml:id="I09-9">
+            <p>Vite, voiturez-nous ici les commodités de la conversation.</p>
+          </sp>
+          <sp who="mascarille" xml:id="I09-10">
+            <p>Mais au moins, y a-t-il sûreté ici pour moi ?</p>
+          </sp>
+          <sp who="cathos" xml:id="I09-11">
+            <p>Que craignez-vous ?</p>
+          </sp>
+          <sp who="mascarille" xml:id="I09-12">
+            <p>Quelque vol de mon cœur, quelque assassinat de ma franchise. Je vois ici des yeux qui ont la mine d’être de fort mauvais garçons, de faire insulte aux libertés, et de traiter une âme de Turc à More. Comment diable, d’abord qu’on les approche, ils se mettent sur leur garde meurtrière ? Ah ! par ma foi je m’en défie, et je m’en vais gagner au pied, ou je veux caution bourgeoise, qu’ils ne me feront point de mal.</p>
+          </sp>
+          <sp who="magdelon" xml:id="I09-13">
+            <p>Ma chère, c’est le caractère enjoué.</p>
+          </sp>
+          <sp who="cathos" xml:id="I09-14">
+            <p>Je vois bien que c’est un Amilcar.</p>
+          </sp>
+          <sp who="magdelon" xml:id="I09-15">
+            <p>Ne craignez rien, nos yeux n’ont point de mauvais desseins, et votre cœur peut dormir en assurance sur leur prud’homie.</p>
+          </sp>
+          <sp who="cathos" xml:id="I09-16">
+            <p>Mais de grâce, Monsieur, ne soyez pas inexorable à ce fauteuil qui vous tend les bras il y a un quart d’heure, contentez un peu l’envie qu’il a de vous embrasser.</p>
+          </sp>
+          <sp who="mascarille" xml:id="I09-17">
+            <p>Et bien, Mesdames, que dites-vous de Paris ?</p>
+          </sp>
+          <sp who="magdelon" xml:id="I09-18">
+            <p>Hélas ! qu’en pourrions-nous dire ? Il faudrait être l’antipode de la raison, pour ne pas confesser que Paris est le grand Bureau des merveilles, le centre du bon goût, du bel esprit et de la galanterie.</p>
+          </sp>
+          <sp who="mascarille" xml:id="I09-19">
+            <p>Pour moi, je tiens que hors de Paris, il n’y a point de salut pour les honnêtes gens.</p>
+          </sp>
+          <sp who="cathos" xml:id="I09-20">
+            <p>C'est une vérité incontestable.</p>
+          </sp>
+          <sp who="mascarille" xml:id="I09-21">
+            <p>Il y fait un peu crotté, mais nous avons la Chaise.</p>
+          </sp>
+          <sp who="magdelon" xml:id="I09-22">
+            <p>Il est vrai que la Chaise est un retranchement merveilleux contre les insultes de la boue, et du mauvais temps.</p>
+          </sp>
+          <sp who="mascarille" xml:id="I09-23">
+            <p>Vous recevez beaucoup de visites ? Quel bel Esprit est des vôtres ?</p>
+          </sp>
+          <sp who="magdelon" xml:id="I09-24">
+            <p>Hélas nous ne sommes pas encore connues ; mais nous sommes en passe de l’être, et nous avons une amie particulière, qui nous a promis d’amener ici tous ces Messieurs du <hi rend="i">Recueil des Pièces Choisies</hi>.</p>
+          </sp>
+          <sp who="cathos" xml:id="I09-25">
+            <p>Et certains autres, qu’on nous a nommés aussi, pour être les arbitres souverains des belles choses.</p>
+          </sp>
+          <sp who="mascarille" xml:id="I09-26">
+            <p>C’est moi qui ferai votre affaire mieux que personne ; ils me rendent tous visite, et je puis dire que je ne me lève jamais, sans une demi-douzaine de beaux Esprits.</p>
+          </sp>
+          <sp who="magdelon" xml:id="I09-27">
+            <p>Eh ! mon Dieu, nous vous serons obligées de la dernière obligation, si vous nous faites cette amitié : car enfin il faut avoir la connaissance de tous ces Messieurs-là, si l’on veut être du beau monde. Ce sont ceux qui donnent le branle à la réputation dans Paris ; et vous savez qu’il y en a tel, dont il ne faut que la seule fréquentation, pour vous donner bruit de connaisseuse, quand il n’y aurait rien autre chose que cela. Mais pour moi ce que je considère particulièrement, c’est que, par le moyen de ces visites spirituelles, on est instruite de cent choses, qu’il faut savoir de nécessité, et qui sont de l’essence d’un bel esprit. On apprend par là, chaque jour, les petites nouvelles galantes ; les jolis commerces de Prose, et de Vers. On sait à point nommé, un tel a composé la plus jolie pièce du monde, sur un tel sujet ; Une telle a fait des paroles sur un tel air ; celui-ci a fait un Madrigal sur une jouissance ; celui-là a composé des Stances sur une infidélité ; Monsieur un tel écrivit hier au soir un Sixain à Mademoiselle une telle, dont elle lui a envoyé la réponse ce matin sur les huit heures ; un tel Auteur a fait un tel dessein ; celui-là en est à la troisième partie de son Roman ; cet autre met ses ouvrages sous la Presse : c'est là ce qui vous fait valoir dans les compagnies ; et si l’on ignore ces choses, je ne donnerais pas un clou de tout l’esprit qu’on peut avoir.</p>
+          </sp>
+          <sp who="cathos" xml:id="I09-28">
+            <p>En effet je trouve que c’est renchérir sur le ridicule, qu’une personne se pique d’esprit, et ne sache pas jusqu’au moindre petit Quatrain qui se fait chaque jour ; et pour moi j’aurais toutes les hontes du monde, s’il fallait qu’on vînt à me demander, si j’aurais vu quelque chose de nouveau, que je n’aurais pas vu.</p>
+          </sp>
+          <sp who="mascarille" xml:id="I09-29">
+            <p>Il est vrai qu’il est honteux de n’avoir pas des premiers tout ce qui se fait ; mais ne vous mettez pas en peine, je veux établir chez vous une Académie de beaux Esprits, et je vous promets, qu’il ne se fera pas un bout de Vers dans Paris, que vous ne sachiez par cœur avant tous les autres. Pour moi, tel que vous me voyez, je m’en escrime un peu quand je veux, et vous verrez courir de ma façon dans les belles Ruelles de Paris, deux cents Chansons, autant de Sonnets, quatre cents Épigrammes, et plus de mille Madrigaux, sans compter les Énigmes et les Portraits.</p>
+          </sp>
+          <sp who="magdelon" xml:id="I09-30">
+            <p>Je vous avoue, que je suis furieusement pour les Portraits ; je ne vois rien de si galant que cela.</p>
+          </sp>
+          <sp who="mascarille" xml:id="I09-31">
+            <p>Les Portraits sont difficiles, et demandent un esprit profond. Vous en verrez de ma manière, qui ne vous déplairont pas.</p>
+          </sp>
+          <sp who="cathos" xml:id="I09-32">
+            <p>Pour moi j’aime terriblement les Énigmes.</p>
+          </sp>
+          <sp who="mascarille" xml:id="I09-33">
+            <p>Cela exerce l’esprit, et j’en ai fait quatre encore ce matin, que je vous donnerai à deviner.</p>
+          </sp>
+          <sp who="magdelon" xml:id="I09-34">
+            <p>Les Madrigaux sont agréables, quand ils sont bien tournés.</p>
+          </sp>
+          <sp who="mascarille" xml:id="I09-35">
+            <p>C’est mon talent particulier, et je travaille à mettre en Madrigaux toute l’Histoire Romaine.</p>
+          </sp>
+          <sp who="magdelon" xml:id="I09-36">
+            <p>Ah ! certes, cela sera du dernier beau, j’en retiens un exemplaire au moins, si vous le faites imprimer.</p>
+          </sp>
+          <sp who="mascarille" xml:id="I09-37">
+            <p>Je vous en promets à chacune un, et des mieux reliés. Cela est au-dessous de ma condition ; mais je le fais seule­ment pour donner à gagner aux Libraires, qui me persécutent.</p>
+          </sp>
+          <sp who="magdelon" xml:id="I09-38">
+            <p>Je m’imagine que le plaisir est grand de se voir imprimé.</p>
+          </sp>
+          <sp who="mascarille" xml:id="I09-39">
+            <p>Sans doute ; mais à propos, il faut que je vous die un Impromptu que je fis hier chez une Duchesse de mes amies que je fus visiter ; car je suis diablement fort sur les Impromptus.</p>
+          </sp>
+          <sp who="cathos" xml:id="I09-40">
+            <p>L’Impromptu est justement la pierre de touche de l’esprit.</p>
+          </sp>
+          <sp who="mascarille" xml:id="I09-41">
+            <p>Écoutez donc.</p>
+          </sp>
+          <sp who="magdelon" xml:id="I09-42">
+            <p>Nous y sommes de toutes nos oreilles.</p>
+          </sp>
+          <sp who="mascarille" xml:id="I09-43">
+            <lg rend="i">
+              <l>Oh, oh, je n'y prenais pas garde,</l>
+              <l>Tandis que sans songer à mal, je vous regarde.</l>
+              <l>Votre œil en tapinois me dérobe mon cœur,</l>
+              <l>Au voleur, au voleur, au voleur, au voleur.</l>
+            </lg>
+          </sp>
+          <sp who="cathos" xml:id="I09-44">
+            <p>Ah mon Dieu ! voilà qui est poussé dans le dernier galant.</p>
+          </sp>
+          <sp who="mascarille" xml:id="I09-45">
+            <p>Tout ce que je fais a l’air Cavalier, cela ne sent point le Pédant.</p>
+          </sp>
+          <sp who="magdelon" xml:id="I09-46">
+            <p>Il en est éloigné de plus de deux mille lieues.</p>
+          </sp>
+          <sp who="mascarille" xml:id="I09-47">
+            <p>Avez-vous remarqué ce commencement, <hi rend="i">oh, oh</hi> ? voilà qui est extraordinaire, <hi rend="i">oh, oh.</hi>  Comme un homme qui s’avise tout d’un coup <hi rend="i">oh, oh.</hi> La surprise, <hi rend="i">oh, oh .</hi></p>
+          </sp>
+          <sp who="magdelon" xml:id="I09-48">
+            <p>Oui, je trouve ce <hi rend="i">oh, oh,</hi> admirable.</p>
+          </sp>
+          <sp who="mascarille" xml:id="I09-49">
+            <p>Il semble que cela ne soit rien.</p>
+          </sp>
+          <sp who="cathos" xml:id="I09-50">
+            <p>Ah, mon Dieu, que dites-vous ! ce sont là de ces sortes de choses qui ne se peuvent payer.</p>
+          </sp>
+          <sp who="magdelon" xml:id="I09-51">
+            <p>Sans doute, et j’aimerais mieux avoir fait ce <hi rend="i">oh, oh,</hi> qu’un Poème épique.</p>
+          </sp>
+          <sp who="mascarille" xml:id="I09-52">
+            <p>Tudieu, vous avez le goût bon.</p>
+          </sp>
+          <sp who="magdelon" xml:id="I09-53">
+            <p>Eh, je ne l’ai pas tout à fait mauvais.</p>
+          </sp>
+          <sp who="mascarille" xml:id="I09-54">
+            <p>Mais n’admirez-vous pas aussi, <hi rend="i">je n’y prenais pas garde</hi> ? <hi rend="i">je n’y prenais pas garde</hi>, je ne m’apercevais pas de cela, façon de parler naturelle, <hi rend="i">Je n’y prenais pas garde. Tandis que sans songer à mal.</hi> Tandis qu’innocemment, sans malice, comme un pauvre mouton, <hi rend="i">je vous regarde</hi> ; c’est-à-dire je m’amuse à vous considérer, je vous observe, je vous contemple. <hi rend="i">Votre œil en tapinois…</hi> Que vous semble de ce mot, <hi rend="i">Tapinois</hi>, n’est-il pas bien choisi ?</p>
+          </sp>
+          <sp who="cathos" xml:id="I09-55">
+            <p>Tout à fait bien.</p>
+          </sp>
+          <sp who="mascarille" xml:id="I09-56">
+            <p><hi rend="i">Tapinois</hi>, en cachette, il semble que ce soit un chat qui vienne de prendre une souris. <hi rend="i">Tapinois</hi>.</p>
+          </sp>
+          <sp who="magdelon" xml:id="I09-57">
+            <p>Il ne se peut rien de mieux.</p>
+          </sp>
+          <sp who="mascarille" xml:id="I09-58">
+            <p><hi rend="i">Me dérobe mon cœur</hi>, me l’emporte, me le ravit. <hi rend="i">Au voleur, au voleur, au voleur, au voleur</hi>. Ne diriez-vous pas que c’est un homme qui crie et court après un voleur pour le faire arrêter, <hi rend="i">au voleur, au voleur, au voleur, au voleur.</hi></p>
+          </sp>
+          <sp who="magdelon" xml:id="I09-59">
+            <p>Il faut avouer que cela a un tour spirituel, et galant.</p>
+          </sp>
+          <sp who="mascarille" xml:id="I09-60">
+            <p>Je veux vous dire l’air que j’ai fait dessus.</p>
+          </sp>
+          <sp who="cathos" xml:id="I09-61">
+            <p>Vous avez appris la Musique ?</p>
+          </sp>
+          <sp who="mascarille" xml:id="I09-62">
+            <p>Moi ? point du tout.</p>
+          </sp>
+          <sp who="cathos" xml:id="I09-63">
+            <p>Et comment donc cela se peut-il ?</p>
+          </sp>
+          <sp who="mascarille" xml:id="I09-64">
+            <p>Les gens de qualité savent tout, sans avoir jamais rien appris.</p>
+          </sp>
+          <sp who="magdelon" xml:id="I09-65">
+            <p>Assurément, ma chère.</p>
+          </sp>
+          <sp who="mascarille" xml:id="I09-66">
+            <p>Écoutez si vous trouverez l’air à votre goût : <hi rend="i">hem, hem, la, la, la, la, la</hi>. La brutalité de la saison a furieusement outragé la délicatesse de ma voix ; mais il n’importe, c’est à la Cavalière.</p>
+            <p rend="i">Oh, oh, je n’y prenais pas ....</p>
+          </sp>
+          <sp who="cathos" xml:id="I09-67">
+            <p>Ah que voilà un air qui est passionné ! Est-ce qu’on n’en meurt point ?</p>
+          </sp>
+          <sp who="magdelon" xml:id="I09-68">
+            <p>Il y a de la chromatique-là dedans.</p>
+          </sp>
+          <sp who="mascarille" xml:id="I09-69">
+            <p>Ne trouvez-vous pas la pensée bien exprimée dans le chant ? <hi rend="i">au voleur...</hi> Et puis comme si l’on criait bien fort, <hi rend="i">au, au, au, au, au, au, voleur</hi> ; et tout d’un coup comme une personne essoufflée, <hi rend="i">au voleur</hi>.</p>
+          </sp>
+          <sp who="magdelon" xml:id="I09-70">
+            <p>C'est là savoir le fin des choses, le grand fin, le fin du fin. Tout est merveilleux, je vous assure ; je suis enthousiasmée de l’air, et des paroles.</p>
+          </sp>
+          <sp who="cathos" xml:id="I09-71">
+            <p>Je n’ai encore rien vu de cette force-là.</p>
+          </sp>
+          <sp who="mascarille" xml:id="I09-72">
+            <p>Tout ce que je fais me vient naturellement, c’est sans étude.</p>
+          </sp>
+          <sp who="magdelon" xml:id="I09-73">
+            <p>La Nature vous a traité en vraie mère passionnée, et vous en êtes l’enfant gâté.</p>
+          </sp>
+          <sp who="mascarille" xml:id="I09-74">
+            <p>À quoi donc passez-vous le temps ?</p>
+          </sp>
+          <sp who="cathos" xml:id="I09-75">
+            <p>À rien du tout.</p>
+          </sp>
+          <sp who="magdelon" xml:id="I09-76">
+            <p>Nous avons été jusqu’ici, dans un jeûne effroyable de divertissements.</p>
+          </sp>
+          <sp who="mascarille" xml:id="I09-77">
+            <p>Je m’offre à vous mener l’un de ces jours à la Comédie, si vous voulez, aussi bien on en doit jouer une nouvelle, que je serai bien aise, que nous voyions ensemble.</p>
+          </sp>
+          <sp who="magdelon" xml:id="I09-78">
+            <p>Cela n’est pas de refus.</p>
+          </sp>
+          <sp who="mascarille" xml:id="I09-79">
+            <p>Mais je vous demande d’applaudir, comme il faut, quand nous serons là. Car je me suis engagé de faire valoir la Pièce, et l’Auteur m’en est venu prier encore ce matin. C’est la coutume ici, qu’à nous autres gens de condition, les Auteurs viennent lire leurs Pièces nouvelles, pour nous engager à les trouver belles, et leur donner de la réputation, et je vous laisse à penser, si quand nous disons quelque chose le parterre ose nous contredire. Pour moi, j’y suis fort exact ; et quand j’ai promis à quelque Poète, je crie toujours, voilà qui est beau, devant que les chandelles soient allumées.</p>
+          </sp>
+          <sp who="magdelon" xml:id="I09-80">
+            <p>Ne m’en parlez point, c’est un admirable lieu que Paris ; il s’y passe cent choses tous les jours, qu’on ignore dans les Provinces, quelque spirituelle qu’on puisse être.</p>
+          </sp>
+          <sp who="cathos" xml:id="I09-81">
+            <p>C’est assez, puisque nous sommes instruites, nous ferons notre devoir de nous écrier comme il faut sur tout ce qu’on dira.</p>
+          </sp>
+          <sp who="mascarille" xml:id="I09-82">
+            <p>Je ne sais si je me trompe ; mais vous avez toute la mine d’avoir fait quelque Comédie.</p>
+          </sp>
+          <sp who="magdelon" xml:id="I09-83">
+            <p>Eh, il pourrait être quelque chose de ce que vous dites.</p>
+          </sp>
+          <sp who="mascarille" xml:id="I09-84">
+            <p>Ah, ma foi, il faudra que nous la voyions. Entre nous, j’en ai composé une que je veux faire représenter.</p>
+          </sp>
+          <sp who="cathos" xml:id="I09-85">
+            <p>Hé, à quels Comédiens la donnerez-vous ?</p>
+          </sp>
+          <sp who="mascarille" xml:id="I09-86">
+            <p>Belle demande ! aux grands Comédiens. Il n’y a qu’eux qui soient capables de faire valoir les choses ; les autres sont des Ignorants, qui récitent comme l’on parle, ils ne savent pas faire ronfler les Vers et s’arrêter au bel endroit ; le moyen de connaître où est le beau Vers, si le Comédien ne s’y arrête et ne vous avertit par là, qu’il faut faire le brouhaha.</p>
+          </sp>
+          <sp who="cathos" xml:id="I09-87">
+            <p>En effet, il y a manière de faire sentir aux Auditeurs les beautés d’un Ouvrage, et les choses ne valent que ce qu’on les fait valoir.</p>
+          </sp>
+          <sp who="mascarille" xml:id="I09-88">
+            <p>Que vous semble de ma petite-oie ? la trouvez-vous congruante à l’habit ?</p>
+          </sp>
+          <sp who="cathos" xml:id="I09-89">
+            <p>Tout à fait.</p>
+          </sp>
+          <sp who="mascarille" xml:id="I09-90">
+            <p>Le ruban est bien choisi.</p>
+          </sp>
+          <sp who="magdelon" xml:id="I09-91">
+            <p>Furieusement bien. C’est Perdrigeon tout pur.</p>
+          </sp>
+          <sp who="mascarille" xml:id="I09-92">
+            <p>Que dites-vous de mes canons ?</p>
+          </sp>
+          <sp who="magdelon" xml:id="I09-93">
+            <p>Ils ont tout à fait bon air.</p>
+          </sp>
+          <sp who="mascarille" xml:id="I09-94">
+            <p>Je puis me vanter au moins qu’ils ont un grand quartier plus que tous ceux qu’on fait.</p>
+          </sp>
+          <sp who="magdelon" xml:id="I09-95">
+            <p>Il faut avouer que je n’ai jamais vu porter si haut l’élégance de l’ajustement.</p>
+          </sp>
+          <sp who="mascarille" xml:id="I09-96">
+            <p>Attachez un peu sur ces gants la réflexion de votre odorat.</p>
+          </sp>
+          <sp who="magdelon" xml:id="I09-97">
+            <p>Ils sentent terriblement bon.</p>
+          </sp>
+          <sp who="cathos" xml:id="I09-98">
+            <p>Je n’ai jamais respiré une odeur mieux conditionnée.</p>
+          </sp>
+          <sp who="mascarille" xml:id="I09-99">
+            <p>Et celle-là ?</p>
+          </sp>
+          <sp who="magdelon" xml:id="I09-100">
+            <p>Elle est tout à fait de qualité ; le sublime en est touché délicieusement.</p>
+          </sp>
+          <sp who="mascarille" xml:id="I09-101">
+            <p>Vous ne me dites rien de mes plumes, comment les trouvez-vous ?</p>
+          </sp>
+          <sp who="cathos" xml:id="I09-102">
+            <p>Effroyablement belles.</p>
+          </sp>
+          <sp who="mascarille" xml:id="I09-103">
+            <p>Savez-vous que le brin me coûte un Louis d’or ? Pour moi j’ai cette manie, de vouloir donner généralement sur tout ce qu’il y a de plus beau.</p>
+          </sp>
+          <sp who="magdelon" xml:id="I09-104">
+            <p>Je vous assure, que nous sympathisons vous et moi, j’ai une délicatesse furieuse pour tout ce que je porte ; et jusqu’à mes chaussettes, je ne puis rien souffrir qui ne soit de la bonne ouvrière.</p>
+          </sp>
+          <sp who="mascarille" xml:id="I09-105">
+            <p>Ahi, ahi, ahi, doucement ; Dieu me damne, Mesdames, c’est fort mal en user ; j’ai à me plaindre de votre procédé ; cela n’est pas honnête.</p>
+          </sp>
+          <sp who="cathos" xml:id="I09-106">
+            <p>Qu’est-ce donc ? qu’avez-vous ?</p>
+          </sp>
+          <sp who="mascarille" xml:id="I09-107">
+            <p>Quoi, toutes deux contre mon cœur, en même temps ? m’attaquer à droit et à gauche ? ah c’est contre le droit des gens, la partie n’est pas égale, et je m’en vais crier au meurtre.</p>
+          </sp>
+          <sp who="cathos" xml:id="I09-108">
+            <p>Il faut avouer qu’il dit les choses d’une manière particulière.</p>
+          </sp>
+          <sp who="magdelon" xml:id="I09-109">
+            <p>Il a un tour admirable dans l’esprit.</p>
+          </sp>
+          <sp who="cathos" xml:id="I09-110">
+            <p>Vous avez plus de peur que de mal, et votre cœur crie avant qu’on l’écorche.</p>
+          </sp>
+          <sp who="mascarille" xml:id="I09-111">
+            <p>Comment diable ! il est écorché depuis la tête jusqu’aux pieds.</p>
           </sp>
         </div2>
-        <div2 xml:id="I10" type="scene" n="10">
-          <head>SCÈNE X. Marotte, Mascarille, Cathos, Magdelon.<listPerson type="configuration" xml:id="conf10"/></head>
-          <sp xml:id="I10-1" who="MAROTTE">
-            <p>
-              <s>Madame, on demande à vous voir. </s>
-            </p>
+        <div2 type="scene" xml:id="I10">
+          <head>Scène X</head>
+          <sp who="marotte" xml:id="I10-1">
+            <p>Madame, on demande à vous voir.</p>
           </sp>
-          <sp xml:id="I10-2" who="MAGDELON">
-            <p>
-              <s>Qui ? </s>
-            </p>
+          <sp who="magdelon" xml:id="I10-2">
+            <p>Qui ?</p>
           </sp>
-          <sp xml:id="I10-3" who="MAROTTE">
-            <p>
-              <s>Le vicomte de Jodelet. </s>
-            </p>
+          <sp who="marotte" xml:id="I10-3">
+            <p>Le Vicomte de Jodelet.</p>
           </sp>
-          <sp xml:id="I10-4" who="MASCARILLE">
-            <p>
-              <s>Le vicomte de Jodelet ? </s>
-            </p>
+          <sp who="mascarille" xml:id="I10-4">
+            <p>Le Vicomte de Jodelet ?</p>
           </sp>
-          <sp xml:id="I10-5" who="MAROTTE">
-            <p>
-              <s>Oui, Monsieur. </s>
-            </p>
+          <sp who="marotte" xml:id="I10-5">
+            <p>Oui, Monsieur.</p>
           </sp>
-          <sp xml:id="I10-6" who="CATHOS">
-            <p>
-              <s>Le connaissez-vous ? </s>
-            </p>
+          <sp who="cathos" xml:id="I10-6">
+            <p>Le connaissez-vous ?</p>
           </sp>
-          <sp xml:id="I10-7" who="MASCARILLE">
-            <p>
-              <s>C’est mon meilleur ami. </s>
-            </p>
+          <sp who="mascarille" xml:id="I10-7">
+            <p>C’est mon meilleur Ami.</p>
           </sp>
-          <sp xml:id="I10-8" who="MAGDELON">
-            <p>
-              <s>Faites entrer vitement. </s>
-            </p>
+          <sp who="magdelon" xml:id="I10-8">
+            <p>Faites entrer vitement.</p>
           </sp>
-          <sp xml:id="I10-9" who="MASCARILLE">
-            <p>
-              <s>Il y a quelque temps que nous ne nous sommes vus, et je suis ravi de cette aventure. </s>
-            </p>
+          <sp who="mascarille" xml:id="I10-9">
+            <p>Il y a quelque temps que nous ne nous sommes vus, et je suis ravi de cette aventure.</p>
           </sp>
-          <sp xml:id="I10-10" who="CATHOS">
-            <p>
-              <s>Le voici. </s>
-            </p>
+          <sp who="cathos" xml:id="I10-10">
+            <p>Le voici.</p>
           </sp>
         </div2>
-        <div2 xml:id="I11" type="scene" n="11">
-          <head>SCÈNE XI. Jodelet, Mascarille, Cathos, Magdelon, Marotte.<listPerson type="configuration" xml:id="conf11"/></head>
-          <sp xml:id="I11-1" who="MASCARILLE">
-            <p>
-              <s>Ah ! </s>
-              <s>Vicomte ! </s>
-            </p>
+        <div2 type="scene" xml:id="I11">
+          <head>Scène XI</head>
+          <sp who="mascarille" xml:id="I11-1">
+            <p>Ah Vicomte !</p>
           </sp>
-          <sp xml:id="I11-2" who="JODELET">
-            <p>
-              <s>Ah ! </s>
-              <s>Marquis ! </s>
-            </p>
+          <sp who="jodelet" xml:id="I11-2">
+            <p>Ah Marquis !</p>
           </sp>
-          <sp xml:id="I11-3" who="MASCARILLE">
-            <p>
-              <s>Que je suis aise de te rencontrer ! </s>
-            </p>
+          <sp who="mascarille" xml:id="I11-3">
+            <p>Que je suis aise de te rencontrer !</p>
           </sp>
-          <sp xml:id="I11-4" who="JODELET">
-            <p>
-              <s>Que j’ai de joie de te voir ici ! </s>
-            </p>
+          <sp who="jodelet" xml:id="I11-4">
+            <p>Que j’ai de joie de te voir ici !</p>
           </sp>
-          <sp xml:id="I11-5" who="MASCARILLE">
-            <p>
-              <s>Baise-moi donc encore un peu, je te prie. </s>
-            </p>
+          <sp who="mascarille" xml:id="I11-5">
+            <p>Baise-moi donc encore un peu, je te prie.</p>
           </sp>
-          <sp xml:id="I11-6" who="MAGDELON">
-            <p>
-              <s>Ma toute bonne, nous commençons d’être connues ; voilà le beau monde qui prend le chemin de nous venir voir. </s>
-            </p>
+          <sp who="magdelon" xml:id="I11-6">
+            <p>Ma toute Bonne, nous commençons d’être connues, voilà le beau monde qui prend le chemin de nous venir voir.</p>
           </sp>
-          <sp xml:id="I11-7" who="MASCARILLE">
-            <p>
-              <s>Mesdames, agréez que je vous présente ce gentilhomme-ci : sur ma parole, il est digne d’être connu de vous. </s>
-            </p>
+          <sp who="mascarille" xml:id="I11-7">
+            <p>Mesdames, agréez que je vous présente ce Gentilhomme-ci. Sur ma parole, il est digne d’être connu de vous.</p>
           </sp>
-          <sp xml:id="I11-8" who="JODELET">
-            <p>
-              <s>Il est juste de venir vous rendre ce qu’on vous doit ; et vos attraits exigent leurs droits seigneuriaux sur toutes sortes de personnes. </s>
-            </p>
+          <sp who="jodelet" xml:id="I11-8">
+            <p>Il est juste de venir vous rendre ce qu’on vous doit, et vos attraits exigent leurs droits seigneuriaux sur toutes sortes de personnes.</p>
           </sp>
-          <sp xml:id="I11-9" who="MAGDELON">
-            <p>
-              <s>C’est pousser vos civilités jusqu’aux derniers confins de la flatterie. </s>
-            </p>
+          <sp who="magdelon" xml:id="I11-9">
+            <p>C’est pousser vos civilités jusqu’aux derniers confins de la flatterie.</p>
           </sp>
-          <sp xml:id="I11-10" who="CATHOS">
-            <p>
-              <s>Cette journée doit être marquée dans notre almanach comme une journée bienheureuse. </s>
-            </p>
+          <sp who="cathos" xml:id="I11-10">
+            <p>Cette journée doit être marquée dans notre Almanach, comme une journée bienheureuse.</p>
           </sp>
-          <sp xml:id="I11-11" who="MAGDELON">
-            <p>
-              <s>Allons, petit garçon, faut-il toujours vous répéter les choses ? </s>
-              <s>Voyez-vous pas qu’il faut le surcroît d’un fauteuil ? </s>
-            </p>
+          <sp who="magdelon" xml:id="I11-11">
+            <p>Allons, petit garçon, faut-il toujours vous répéter les choses ? voyez-vous pas qu’il faut le surcroît d’un fauteuil ?</p>
           </sp>
-          <sp xml:id="I11-12" who="MASCARILLE">
-            <p>
-              <s>Ne vous étonnez pas de voir le Vicomte de la sorte ; il ne fait que sortir d’une maladie qui lui a rendu le visage pâle comme vous le voyez. </s>
-            </p>
+          <sp who="mascarille" xml:id="I11-12">
+            <p>Ne vous étonnez pas de voir le Vicomte de la sorte, il ne fait que sortir d’une maladie qui lui a rendu le visage pâle, comme vous le voyez.</p>
           </sp>
-          <sp xml:id="I11-13" who="JODELET">
-            <p>
-              <s>Ce sont fruits des veilles de la cour et des fatigues de la guerre. </s>
-            </p>
+          <sp who="jodelet" xml:id="I11-13">
+            <p>Ce sont fruits des veilles de la Cour, et des fatigues de la guerre.</p>
           </sp>
-          <sp xml:id="I11-14" who="MASCARILLE">
-            <p>
-              <s>Savez-vous, Mesdames, que vous voyez dans le Vicomte un des plus vaillants hommes du siècle ? </s>
-              <s>C’est un brave à trois poils. </s>
-            </p>
+          <sp who="mascarille" xml:id="I11-14">
+            <p>Savez-vous, Mesdames, que vous voyez dans le Vicomte un des vaillants hommes du siècle ? C’est un brave à trois poils.</p>
           </sp>
-          <sp xml:id="I11-15" who="JODELET">
-            <p>
-              <s>Vous ne m’en devez rien, Marquis ; et nous savons ce que vous savez faire aussi. </s>
-            </p>
+          <sp who="jodelet" xml:id="I11-15">
+            <p>Vous ne m’en devez rien, Marquis, et nous savons ce que vous savez faire aussi.</p>
           </sp>
-          <sp xml:id="I11-16" who="MASCARILLE">
-            <p>
-              <s>Il est vrai que nous nous sommes vus tous deux dans l’occasion. </s>
-            </p>
+          <sp who="mascarille" xml:id="I11-16">
+            <p>Il est vrai que nous nous sommes vus tous deux dans l’occasion.</p>
           </sp>
-          <sp xml:id="I11-17" who="JODELET">
-            <p>
-              <s>Et dans des lieux où il faisait fort chaud. </s>
-            </p>
+          <sp who="jodelet" xml:id="I11-17">
+            <p>Et dans des lieux où il faisait fort chaud.</p>
           </sp>
-          <sp xml:id="I11-18" who="MASCARILLE">
-            <p>
-              <s>Oui ; mais non pas si chaud qu’ici. </s>
-              <s>Hai, hai, hai ! </s>
-            </p>
+          <sp who="mascarille" xml:id="I11-18">
+            <p>Oui, mais non pas si chaud qu’ici. Hay, hay, hay.</p>
           </sp>
-          <sp xml:id="I11-19" who="JODELET">
-            <p>
-              <s>Notre connaissance s’est faite à l’armée ; et la première fois que nous nous vîmes, il commandait un régiment de cavalerie sur les galères de Malte. </s>
-            </p>
+          <sp who="jodelet" xml:id="I11-19">
+            <p>Notre connaissance s’est faite à l’armée, et la première fois que nous nous vîmes, il commandait un Régiment de Cavalerie sur les Galères de Malte.</p>
           </sp>
-          <sp xml:id="I11-20" who="MASCARILLE">
-            <p>
-              <s>Il est vrai ; mais vous étiez pourtant dans l’emploi avant que j’y fusse ; et je me souviens que je n’étais que petit officier encore, que vous commandiez deux mille chevaux. </s>
-            </p>
+          <sp who="mascarille" xml:id="I11-20">
+            <p>Il est vrai ; mais vous étiez pourtant dans l’emploi avant que j’y fusse, et je me souviens que je n’étais que petit Officier encore, que vous commandiez deux mille Chevaux.</p>
           </sp>
-          <sp xml:id="I11-21" who="JODELET">
-            <p>
-              <s>La guerre est une belle chose ; mais, ma foi, la cour récompense bien mal aujourd’hui les gens de service comme nous. </s>
-            </p>
+          <sp who="jodelet" xml:id="I11-21">
+            <p>La Guerre est une belle chose : mais ma foi, la Cour récompense bien mal aujourd’hui les gens de service comme nous.</p>
           </sp>
-          <sp xml:id="I11-22" who="MASCARILLE">
-            <p>
-              <s>C’est ce qui fait que je veux pendre l’épée au croc. </s>
-            </p>
+          <sp who="mascarille" xml:id="I11-22">
+            <p>C’est ce qui fait que je veux pendre l’épée au croc.</p>
           </sp>
-          <sp xml:id="I11-23" who="CATHOS">
-            <p>
-              <s>Pour moi, j’ai un furieux tendre pour les hommes d’épée. </s>
-            </p>
+          <sp who="cathos" xml:id="I11-23">
+            <p>Pour moi j’ai un furieux tendre pour les hommes d’épée.</p>
           </sp>
-          <sp xml:id="I11-24" who="MAGDELON">
-            <p>
-              <s>Je les aime aussi ; mais je veux que l’esprit assaisonne la bravoure. </s>
-            </p>
+          <sp who="magdelon" xml:id="I11-24">
+            <p>Je les aime aussi : mais je veux que l’Esprit assaisonne la bravoure.</p>
           </sp>
-          <sp xml:id="I11-25" who="MASCARILLE">
-            <p>
-              <s>Te souvient-il, Vicomte, de cette demi-lune que nous emportâmes sur les ennemis au siège d’Arras ? </s>
-            </p>
+          <sp who="mascarille" xml:id="I11-25">
+            <p>Te souvient-il, Vicomte, de cette demi-lune, que nous emportâmes sur les ennemis au siège d’Arras ?</p>
           </sp>
-          <sp xml:id="I11-26" who="JODELET">
-            <p>
-              <s>Que veux-tu dire avec ta demi-lune ? </s>
-              <s>C’était bien une lune toute entière. </s>
-            </p>
+          <sp who="jodelet" xml:id="I11-26">
+            <p>Que veux-tu dire avec ta demi-lune ? c’était bien une lune toute entière.</p>
           </sp>
-          <sp xml:id="I11-27" who="MASCARILLE">
-            <p>
-              <s>Je pense que tu as raison. </s>
-            </p>
+          <sp who="mascarille" xml:id="I11-27">
+            <p>Je pense que tu as raison.</p>
           </sp>
-          <sp xml:id="I11-28" who="JODELET">
-            <p>
-              <s>Il m’en doit bien souvenir, ma foi : j’y fus blessé à la jambe d’un coup de grenade, dont je porte encore les marques. </s>
-              <s>Tâtez un peu, de grâce, vous sentirez quelque coup, c’était là. </s>
-            </p>
+          <sp who="jodelet" xml:id="I11-28">
+            <p>Il m’en doit bien souvenir, ma foi : j’y fus blessé à la jambe d’un coup de grenade, dont je porte encore les marques. Tâtez un peu, de grâce, vous sentirez quelque coup, c’était là.</p>
           </sp>
-          <sp xml:id="I11-29" who="CATHOS">
-            <p>
-              <s>Il est vrai que la cicatrice est grande. </s>
-            </p>
+          <sp who="cathos" xml:id="I11-29">
+            <p>Il est vrai que la cicatrice est grande.</p>
           </sp>
-          <sp xml:id="I11-30" who="MASCARILLE">
-            <p>
-              <s>Donnez-moi un peu votre main, et tâtez celui-ci, là, justement au derrière de la tête : y êtes-vous ? </s>
-            </p>
+          <sp who="mascarille" xml:id="I11-30">
+            <p>Donnez-moi un peu votre main, et tâtez celui-ci : là, justement au derrière de la tête. Y êtes-vous ?</p>
           </sp>
-          <sp xml:id="I11-31" who="MAGDELON">
-            <p>
-              <s>Oui : je sens quelque chose. </s>
-            </p>
+          <sp who="magdelon" xml:id="I11-31">
+            <p>Oui, je sens quelque chose.</p>
           </sp>
-          <sp xml:id="I11-32" who="MASCARILLE">
-            <p>
-              <s>C’est un coup de mousquet que je reçus la dernière campagne que j’ai faite. </s>
-            </p>
+          <sp who="mascarille" xml:id="I11-32">
+            <p>C’est un coup de mousquet que je reçus la dernière campagne que j’ai faite.</p>
           </sp>
-          <sp xml:id="I11-33" who="JODELET">
-            <p>
-              <s>Voici un autre coup qui me perça de part en part à l’attaque de Gravelines. </s>
-            </p>
+          <sp who="jodelet" xml:id="I11-33">
+            <p>Voici un autre coup qui me perça de part en part à l’attaque de Gravelines.</p>
           </sp>
-          <sp xml:id="I11-34" who="MASCARILLE">
-            <p>
-              <s>Je vais vous montrer une furieuse plaie. </s>
-            </p>
+          <sp who="mascarille" xml:id="I11-34">
+            <p>Je vais vous montrer une furieuse plaie.</p>
           </sp>
-          <sp xml:id="I11-35" who="MAGDELON">
-            <p>
-              <s>Il n’est pas nécessaire : nous le croyons sans y regarder. </s>
-            </p>
+          <sp who="magdelon" xml:id="I11-35">
+            <p>Il n’est pas nécessaire, nous le croyons, sans y regarder.</p>
           </sp>
-          <sp xml:id="I11-36" who="MASCARILLE">
-            <p>
-              <s>Ce sont des marques honorables qui font voir ce qu’on est. </s>
-            </p>
+          <sp who="mascarille" xml:id="I11-36">
+            <p>Ce sont des marques honorables, qui font voir ce qu’on est.</p>
           </sp>
-          <sp xml:id="I11-37" who="CATHOS">
-            <p>
-              <s>Nous ne doutons point de ce que vous êtes. </s>
-            </p>
+          <sp who="cathos" xml:id="I11-37">
+            <p>Nous ne doutons point de ce que vous êtes.</p>
           </sp>
-          <sp xml:id="I11-38" who="MASCARILLE">
-            <p>
-              <s>Vicomte, as-tu là ton carrosse ? </s>
-            </p>
+          <sp who="mascarille" xml:id="I11-38">
+            <p>Vicomte, as-tu là ton Carrosse ?</p>
           </sp>
-          <sp xml:id="I11-39" who="JODELET">
-            <p>
-              <s>Pourquoi ? </s>
-            </p>
+          <sp who="jodelet" xml:id="I11-39">
+            <p>Pourquoi ?</p>
           </sp>
-          <sp xml:id="I11-40" who="MASCARILLE">
-            <p>
-              <s>Nous mènerions promener ces Dames hors des portes, et leur donnerions un cadeau. </s>
-            </p>
+          <sp who="mascarille" xml:id="I11-40">
+            <p>Nous mènerions promener ces Dames hors des Portes, et leur donnerions un cadeau.</p>
           </sp>
-          <sp xml:id="I11-41" who="MAGDELON">
-            <p>
-              <s>Nous ne saurions sortir aujourd’hui. </s>
-            </p>
+          <sp who="magdelon" xml:id="I11-41">
+            <p>Nous ne saurions sortir aujourd’hui.</p>
           </sp>
-          <sp xml:id="I11-42" who="MASCARILLE">
-            <p>
-              <s>Ayons donc les violons pour danser. </s>
-            </p>
+          <sp who="mascarille" xml:id="I11-42">
+            <p>Ayons donc les violons pour danser.</p>
           </sp>
-          <sp xml:id="I11-43" who="JODELET">
-            <p>
-              <s>Ma foi, c’est bien avisé. </s>
-            </p>
+          <sp who="jodelet" xml:id="I11-43">
+            <p>Ma foi c’est bien avisé.</p>
           </sp>
-          <sp xml:id="I11-44" who="MAGDELON">
-            <p>
-              <s>Pour cela, nous y consentons ; mais il faut donc quelque surcroît de compagnie. </s>
-            </p>
+          <sp who="magdelon" xml:id="I11-44">
+            <p>Pour cela nous y consentons ; mais il faut donc quelque surcroît de compagnie.</p>
           </sp>
-          <sp xml:id="I11-45" who="MASCARILLE">
-            <p>
-              <s>Holà ! </s>
-              <s>Champagne, Picard, Bourguignon, Casquaret, Basque, la Verdure, Lorrain, Provençal, la Violette ! </s>
-              <s>Au diable soient tous les laquais ! </s>
-              <s>Je ne pense pas qu’il y ait gentilhomme en France plus mal servi que moi. </s>
-              <s>Ces canailles me laissent toujours seul. </s>
-            </p>
+          <sp who="mascarille" xml:id="I11-45">
+            <p>Holà Champagne, Picard, Bourguignon, Casquaret, Basque, la Verdure, Lorrain, Provençal, la Violette. Au diable soient tous les Laquais. Je ne pense pas qu’il y ait Gentilhomme en France plus mal servi que moi. Ces canailles me laissent toujours seul.</p>
           </sp>
-          <sp xml:id="I11-46" who="MAGDELON">
-            <p>
-              <s>Almanzor, dites aux gens de Monsieur qu’ils aillent quérir des violons, et nous faites venir ces Messieurs et ces Dames d’ici près, pour peupler la solitude de notre bal. </s>
-            </p>
+          <sp who="magdelon" xml:id="I11-46">
+            <p>Almanzor, dites aux gens de Monsieur, qu’ils aillent quérir des Violons, et nous faites venir ces Messieurs, et ces Dames d’ici près, pour peupler la solitude de notre bal.</p>
           </sp>
-          <sp xml:id="I11-47" who="MASCARILLE">
-            <p>
-              <s>Vicomte, que dis-tu de ces yeux ? </s>
-            </p>
+          <sp who="mascarille" xml:id="I11-47">
+            <p>Vicomte, que dis-tu de ces yeux ?</p>
           </sp>
-          <sp xml:id="I11-48" who="JODELET">
-            <p>
-              <s>Mais toi-même, Marquis, que t’en semble ? </s>
-            </p>
+          <sp who="jodelet" xml:id="I11-48">
+            <p>Mais toi-même, Marquis, que t’en semble ?</p>
           </sp>
-          <sp xml:id="I11-49" who="MASCARILLE">
-            <p>
-              <s>Moi, je dis que nos libertés auront peine à sortir d’ici les braies nettes. </s>
-              <s>Au moins, pour moi, je reçois d’étranges secousses, et mon coeur ne tient plus qu’à un filet. </s>
-            </p>
+          <sp who="mascarille" xml:id="I11-49">
+            <p>Moi, je dis, que nos libertés auront peine à sortir d’ici les braies nettes. Au moins, pour moi, je reçois d’étranges secousses, et mon cœur ne tient plus qu’à un filet.</p>
           </sp>
-          <sp xml:id="I11-50" who="MAGDELON">
-            <p>
-              <s>Que tout ce qu’il dit est naturel ! </s>
-              <s>Il tourne les choses le plus agréablement du monde. </s>
-            </p>
+          <sp who="magdelon" xml:id="I11-50">
+            <p>Que tout ce qu’il dit est naturel ! il tourne les choses le plus agréablement du monde.</p>
           </sp>
-          <sp xml:id="I11-51" who="CATHOS">
-            <p>
-              <s>Il est vrai qu’il fait une furieuse dépense en esprit. </s>
-            </p>
+          <sp who="cathos" xml:id="I11-51">
+            <p>Il est vrai, qu’il fait une furieuse dépense en esprit.</p>
           </sp>
-          <sp xml:id="I11-52" who="MASCARILLE">
-            <p>
-              <s>Pour vous montrer que je suis véritable, je veux faire un impromptu là-dessus. </s>
-            </p>
+          <sp who="mascarille" xml:id="I11-52">
+            <p>Pour vous montrer que je suis véritable, je veux faire un impromptu là-dessus.</p>
           </sp>
-          <sp xml:id="I11-53" who="CATHOS">
-            <p>
-              <s>Eh ! </s>
-              <s>Je vous en conjure de toute la dévotion de mon coeur : que nous ayons quelque chose qu’on ait fait pour nous. </s>
-            </p>
+          <sp who="cathos" xml:id="I11-53">
+            <p>Eh je vous en conjure de toute la dévotion de mon cœur. Que nous ayons quelque chose qu’on ait fait pour nous.</p>
           </sp>
-          <sp xml:id="I11-54" who="JODELET">
-            <p>
-              <s>J’aurais envie d’en faire autant ; mais je me trouve un peu incommodé de la veine poétique, pour la quantité des saignées que j’y ai faites ces jours passés. </s>
-            </p>
+          <sp who="jodelet" xml:id="I11-54">
+            <p>J’aurais envie d’en faire autant : mais je me trouve un peu incommodé de la veine Poétique, pour la quantité des saignées que j’y ai faites ces jours passés.</p>
           </sp>
-          <sp xml:id="I11-55" who="MASCARILLE">
-            <p>
-              <s>Que diable est cela ? </s>
-              <s>Je fais toujours bien le premier vers ; mais j’ai peine à faire les autres. </s>
-              <s>Ma foi, ceci est un peu trop pressé : je vous ferai un impromptu à loisir, que vous trouverez le plus beau du monde. </s>
-            </p>
+          <sp who="mascarille" xml:id="I11-55">
+            <p>Que Diable est cela ? je fais toujours bien le premier vers : mais j’ai peine à faire les autres. Ma foi, ceci est un peu trop pressé, je vous ferai un impromptu à loisir, que vous trouverez le plus beau du monde.</p>
           </sp>
-          <sp xml:id="I11-56" who="JODELET">
-            <p>
-              <s>Il a de l’esprit comme un démon. </s>
-            </p>
+          <sp who="jodelet" xml:id="I11-56">
+            <p>Il a de l’esprit comme un Démon.</p>
           </sp>
-          <sp xml:id="I11-57" who="MAGDELON">
-            <p>
-              <s>Et du galant, et du bien tourné. </s>
-            </p>
+          <sp who="magdelon" xml:id="I11-57">
+            <p>Et du galant, et du bien tourné.</p>
           </sp>
-          <sp xml:id="I11-58" who="MASCARILLE">
-            <p>
-              <s>Vicomte, dis-moi un peu, y a-t-il longtemps que tu n’as vu la Comtesse ? </s>
-            </p>
+          <sp who="mascarille" xml:id="I11-58">
+            <p>Vicomte dis-moi un peu, y a-t-il longtemps, que tu n’as vu la Comtesse ?</p>
           </sp>
-          <sp xml:id="I11-59" who="JODELET">
-            <p>
-              <s>Il y a plus de trois semaines que je ne lui ai rendu visite. </s>
-            </p>
+          <sp who="jodelet" xml:id="I11-59">
+            <p>Il y a plus de trois semaines que je ne lui ai rendu visite.</p>
           </sp>
-          <sp xml:id="I11-60" who="MASCARILLE">
-            <p>
-              <s>Sais-tu bien que le Duc m’est venu voir ce matin, et m’a voulu mener à la campagne courir un cerf avec lui ? </s>
-            </p>
+          <sp who="mascarille" xml:id="I11-60">
+            <p>Sais-tu bien que le Duc m’est venu voir ce matin, et m’a voulu mener à la campagne, courir un Cerf, avec lui ?</p>
           </sp>
-          <sp xml:id="I11-61" who="MAGDELON">
-            <p>
-              <s>Voici nos amies qui viennent. </s>
-            </p>
+          <sp who="magdelon" xml:id="I11-61">
+            <p>Voici nos amies, qui viennent.</p>
           </sp>
         </div2>
-        <div2 xml:id="I12" type="scene" n="12">
-          <head>SCÈNE XII. Jodelet, Mascarille, Cathos, Magdelon, Marotte, Lucile.<listPerson type="configuration" xml:id="conf12"/></head>
-          <sp xml:id="I12-1" who="MAGDELON">
-            <p>
-              <s>Mon Dieu, mes chères, nous vous demandons pardon. </s>
-              <s>Ces Messieurs ont eu fantaisie de nous donner les âmes des pieds ; et nous vous avons envoyé quérir pour remplir les vides de notre assemblée. </s>
-            </p>
+        <div2 type="scene" xml:id="I12">
+          <head>Scène XII</head>
+          <sp who="magdelon" xml:id="I12-1">
+            <p>Mon Dieu, mes chères, nous vous demandons pardon. Ces Messieurs ont eu fantaisie de nous donner les âmes des pieds, et nous vous avons envoyé quérir pour remplir les vides de notre assemblée.</p>
           </sp>
-          <sp xml:id="I12-2" who="LUCILE">
-            <p>
-              <s>Vous nous avez obligées, sans doute. </s>
-            </p>
+          <sp who="lucile" xml:id="I12-2">
+            <p>Vous nous avez obligées, sans doute.</p>
           </sp>
-          <sp xml:id="I12-3" who="MASCARILLE">
-            <p>
-              <s>Ce n’est ici qu’un bal à la hâte ; mais l’un de ces jours nous vous en donnerons un dans les formes. </s>
-              <s>Les violons sont-ils venus ? </s>
-            </p>
+          <sp who="mascarille" xml:id="I12-3">
+            <p>Ce n’est ici qu’un Bal à la hâte ; mais l’un de ces jours nous vous en donnerons un dans les formes. Les Violons sont-ils venus ?</p>
           </sp>
-          <sp xml:id="I12-4" who="ALMANZOR">
-            <p>
-              <s>Oui, Monsieur ; ils sont ici. </s>
-            </p>
+          <sp who="almanzor" xml:id="I12-4">
+            <p>Oui, Monsieur, ils sont ici.</p>
           </sp>
-          <sp xml:id="I12-5" who="CATHOS">
-            <p>
-              <s>Allons donc, mes chères, prenez place. </s>
-            </p>
+          <sp who="cathos" xml:id="I12-5">
+            <p>Allons donc, mes chères, prenez place.</p>
           </sp>
-          <sp xml:id="I12-6" who="MASCARILLE">
-            <p>
-              <s>La, la, la, la, la, la, la, la. </s>
-            </p>
+          <sp who="mascarille" xml:id="I12-6">
+            <p>La, la, la, la, la, la, la, la.</p>
           </sp>
-          <sp xml:id="I12-7" who="MAGDELON">
-            <p>
-              <s>Il a tout à fait la taille élégante. </s>
-            </p>
+          <sp who="magdelon" xml:id="I12-7">
+            <p>Il a tout à fait la taille élégante.</p>
           </sp>
-          <sp xml:id="I12-8" who="CATHOS">
-            <p>
-              <s>Et a la mine de danser proprement. </s>
-            </p>
+          <sp who="cathos" xml:id="I12-8">
+            <p>Et a la mine de danser proprement.</p>
           </sp>
-          <sp xml:id="I12-9" who="MASCARILLE">
-            <p>
-              <s>Ma franchise va danser la courante aussi bien que mes pieds. </s>
-              <s>En cadence, violons, en cadence. </s>
-              <s>Oh ! </s>
-              <s>Quels ignorants ! </s>
-              <s>Il n’y a pas moyen de danser avec eux. </s>
-              <s>Le diable vous emporte ! </s>
-              <s>Ne sauriez-vous jouer en mesure ? </s>
-              <s>La, la, la, la, la, la, la, la. </s>
-              <s>Ferme, ô violons de village. </s>
-            </p>
+          <sp who="mascarille" xml:id="I12-9">
+            <p>Ma franchise va danser la courante aussi bien que mes pieds. En cadence, Violons, en cadence. Oh quels ignorants ! il n’y a pas moyen de danser avec eux. Le Diable vous emporte, ne sauriez-vous jouer en mesure ? La, la, la, la, la, la, la, la ? Ferme, ô Violons de village.</p>
           </sp>
-          <sp xml:id="I12-10" who="JODELET">
-            <p>
-              <s>Holà ! ne pressez pas si fort la cadence : je ne fais que sortir de maladie. </s>
-            </p>
+          <sp who="jodelet" xml:id="I12-10">
+            <p>Holà, ne pressez pas si fort la cadence, je ne fais que sortir de maladie.</p>
           </sp>
         </div2>
-        <div2 xml:id="I13" type="scene" n="13">
-          <head>SCÈNE XIII. Du Croisy, la Grange, Mascarille.<listPerson type="configuration" xml:id="conf13"/></head>
-          <sp xml:id="I13-1" who="LAGRANGE">
-            <p>
-              <s>Ah ! </s>
-              <s>Ah ! </s>
-              <s>Coquins, que faites-vous ici ? </s>
-              <s>Il y a trois heures que nous vous cherchons. </s>
-            </p>
+        <div2 type="scene" xml:id="I13">
+          <head>Scène XIII</head>
+          <sp who="lagrange" xml:id="I13-1">
+            <p>Ah, ah, Coquins, que faites-vous ici ? il y a trois heures que nous vous cherchons.</p>
           </sp>
-          <sp xml:id="I13-2" who="MASCARILLE">
-            <p>
-              <s>Ahy ! </s>
-              <s>Ahy ! </s>
-              <s>Ahy ! </s>
-              <s>Vous ne m’aviez pas dit que les coups en seraient aussi. </s>
-            </p>
+          <sp who="mascarille" xml:id="I13-2">
+            <p>Ahy, ahy, ahy, vous ne m’aviez pas dit que les coups en seraient aussi.</p>
           </sp>
-          <sp xml:id="I13-3" who="JODELET">
-            <p>
-              <s>Ahy ! </s>
-              <s>Ahy ! </s>
-              <s>Ahy ! </s>
-            </p>
+          <sp who="jodelet" xml:id="I13-3">
+            <p>Ahy, ahy, ahy.</p>
           </sp>
-          <sp xml:id="I13-4" who="LAGRANGE">
-            <p>
-              <s>C’est bien à vous, infâme que vous êtes, à vouloir faire l’homme d’importance. </s>
-            </p>
+          <sp who="lagrange" xml:id="I13-4">
+            <p>C'est bien à vous, infâme que vous êtes, à vouloir faire l’homme d’importance.</p>
           </sp>
-          <sp xml:id="I13-5" who="DUCROISY">
-            <p>
-              <s>Voilà qui vous apprendra à vous connaître. </s>
-            </p>
+          <sp who="ducroisy" xml:id="I13-5">
+            <p>Voilà qui vous apprendra à vous connaître.</p>
           </sp>
         </div2>
-        <div2 xml:id="I14" type="scene" n="14">
-          <head>SCÈNE XIV. Mascarille, Jodelet, Cathos, Magdelon.<listPerson type="configuration" xml:id="conf14"/></head>
-          <sp xml:id="I14-1" who="MAGDELON">
-            <p>
-              <s>Que veut donc dire ceci ? </s>
-            </p>
+        <div2 type="scene" xml:id="I14">
+          <head>Scène XIV</head>
+          <sp who="magdelon" xml:id="I14-1">
+            <p>Que veut donc dire ceci ?</p>
           </sp>
-          <sp xml:id="I14-2" who="JODELET">
-            <p>
-              <s>C’est une gageure. </s>
-            </p>
+          <sp who="jodelet" xml:id="I14-2">
+            <p>C’est une gageure.</p>
           </sp>
-          <sp xml:id="I14-3" who="CATHOS">
-            <p>
-              <s>Quoi ! </s>
-              <s>Vous laisser battre de la sorte ! </s>
-            </p>
+          <sp who="cathos" xml:id="I14-3">
+            <p>Quoi, vous laisser battre de la sorte !</p>
           </sp>
-          <sp xml:id="I14-4" who="MASCARILLE">
-            <p>
-              <s>Mon Dieu, je n’ai pas voulu faire semblant de rien ; car je suis violent, et je me serais emporté. </s>
-            </p>
+          <sp who="mascarille" xml:id="I14-4">
+            <p>Mon Dieu, je n’ai pas voulu faire semblant de rien : car je suis violent, et je me serais emporté.</p>
           </sp>
-          <sp xml:id="I14-5" who="MAGDELON">
-            <p>
-              <s>Endurer un affront comme celui-là, en notre présence ! </s>
-            </p>
+          <sp who="magdelon" xml:id="I14-5">
+            <p>Endurer un affront comme celui-là, en notre présence ?</p>
           </sp>
-          <sp xml:id="I14-6" who="MASCARILLE">
-            <p>
-              <s>Ce n’est rien : ne laissons pas d’achever. </s>
-              <s>Nous nous connaissons il y a longtemps ; et entre amis, on ne va pas se piquer pour si peu de chose. </s>
-            </p>
+          <sp who="mascarille" xml:id="I14-6">
+            <p>Ce n’est rien, ne laissons pas d’achever. Nous nous connaissons il y a longtemps, et entre amis on ne va pas se piquer, pour si peu de chose.</p>
           </sp>
         </div2>
-        <div2 xml:id="I15" type="scene" n="15">
-          <head>SCÈNE XV. Du Croisy, la Grange, Mascarille, Jodelet, Magdelon, Cathos.<listPerson type="configuration" xml:id="conf15"/></head>
-          <sp xml:id="I15-1" who="LAGRANGE">
-            <p>
-              <s>Ma foi, marauds, vous ne vous rirez pas de nous, je vous promets. </s>
-              <s>Entrez, vous autres. </s>
-            </p>
+        <div2 type="scene" xml:id="I15">
+          <head>Scène XV</head>
+          <sp who="lagrange" xml:id="I15-1">
+            <p>Ma foi, marauds, vous ne vous rirez pas de nous, je vous promets. Entrez, vous autres.</p>
           </sp>
-          <sp xml:id="I15-2" who="MAGDELON">
-            <p>
-              <s>Quelle est donc cette audace, de venir nous troubler de la sorte dans notre maison ? </s>
-            </p>
+          <sp who="magdelon" xml:id="I15-2">
+            <p>Quelle est donc cette audace, de venir nous troubler de la sorte, dans notre maison ?</p>
           </sp>
-          <sp xml:id="I15-3" who="DUCROISY">
-            <p>
-              <s>Comment, Mesdames, nous endurerons que nos laquais soient mieux reçus que nous ? </s>
-              <s>Qu’ils viennent vous faire l’amour à nos dépens, et vous donnent le bal ? </s>
-            </p>
+          <sp who="ducroisy" xml:id="I15-3">
+            <p>Comment, mes Dames, nous endurerons que nos laquais soient mieux reçus que nous ? qu’ils viennent vous faire l’amour à nos dépens, et vous donnent le Bal ?</p>
           </sp>
-          <sp xml:id="I15-4" who="MAGDELON">
-            <p>
-              <s>Vos laquais ? </s>
-            </p>
+          <sp who="magdelon" xml:id="I15-4">
+            <p>Vos laquais ?</p>
           </sp>
-          <sp xml:id="I15-5" who="LAGRANGE">
-            <p>
-              <s>Oui, nos laquais : et cela n’est ni beau ni honnête de nous les débaucher comme vous faites. </s>
-            </p>
+          <sp who="lagrange" xml:id="I15-5">
+            <p>Oui, nos laquais, et cela n’est ni beau, ni honnête, de nous les débaucher, comme vous faites.</p>
           </sp>
-          <sp xml:id="I15-6" who="MAGDELON">
-            <p>
-              <s>Ô Ciel ! </s>
-              <s>Quelle insolence ! </s>
-            </p>
+          <sp who="magdelon" xml:id="I15-6">
+            <p>Ô ciel, quelle insolence !</p>
           </sp>
-          <sp xml:id="I15-7" who="LAGRANGE">
-            <p>
-              <s>Mais ils n’auront pas l’avantage de se servir de nos habits pour vous donner dans la vue ; et si vous les voulez aimer, ce sera, ma foi, pour leurs beaux yeux. </s>
-              <s>Vite, qu’on les dépouille sur-le-champ. </s>
-            </p>
+          <sp who="lagrange" xml:id="I15-7">
+            <p>Mais ils n’auront pas l’avantage de se servir de nos habits, pour vous donner dans la vue, et si vous les voulez aimer, ce sera, ma foi, pour leurs beaux yeux. Vite qu’on les dépouille sur-le-champ.</p>
           </sp>
-          <sp xml:id="I15-8" who="JODELET">
-            <p>
-              <s>Adieu notre braverie. </s>
-            </p>
+          <sp who="jodelet" xml:id="I15-8">
+            <p>Adieu notre braverie.</p>
           </sp>
-          <sp xml:id="I15-9" who="MASCARILLE">
-            <p>
-              <s>Voilà le marquisat et le vicomté à bas. </s>
-            </p>
+          <sp who="mascarille" xml:id="I15-9">
+            <p>Voilà le Marquisat et la Vicomté à bas.</p>
           </sp>
-          <sp xml:id="I15-10" who="DUCROISY">
-            <p>
-              <s>Ha ! </s>
-              <s>Ha ! </s>
-              <s>Coquins, vous avez l’audace d’aller sur nos brisées ! </s>
-              <s>Vous irez chercher autre part de quoi vous rendre agréables aux yeux de vos belles, je vous en assure. </s>
-            </p>
+          <sp who="ducroisy" xml:id="I15-10">
+            <p>Ha ha, coquins, vous avez l’audace d’aller sur nos brisées. Vous irez chercher autre part de quoi vous rendre agréables aux yeux de vos belles, je vous en assure.</p>
           </sp>
-          <sp xml:id="I15-11" who="LAGRANGE">
-            <p>
-              <s>C’est trop que de nous supplanter, et de nous supplanter avec nos propres habits. </s>
-            </p>
+          <sp who="lagrange" xml:id="I15-11">
+            <p>C’est trop que de nous supplanter, et de nous supplanter avec nos propres habits.</p>
           </sp>
-          <sp xml:id="I15-12" who="MASCARILLE">
-            <p>
-              <s>Ô Fortune, quelle est ton inconstance. </s>
-            </p>
+          <sp who="mascarille" xml:id="I15-12">
+            <p>Ô fortune, quelle est ton inconstance !</p>
           </sp>
-          <sp xml:id="I15-13" who="DUCROISY">
-            <p>
-              <s>Vite, qu’on leur ôte jusqu’à la moindre chose. </s>
-            </p>
+          <sp who="ducroisy" xml:id="I15-13">
+            <p>Vite qu’on leur ôte jusqu’à la moindre chose.</p>
           </sp>
-          <sp xml:id="I15-14" who="LAGRANGE">
-            <p>
-              <s>Qu’on emporte toutes ces hardes, dépêchez. </s>
-              <s>Maintenant, Mesdames, en l’état qu’ils sont, vous pouvez continuer vos amours avec eux tant qu’il vous plaira ; nous vous laissons toute sorte de liberté pour cela, et nous vous protestons, Monsieur et moi, que nous n’en serons aucunement jaloux. </s>
-            </p>
+          <sp who="lagrange" xml:id="I15-14">
+            <p>Qu’on emporte toutes ces hardes, dépêchez. Maintenant, mes Dames, en l’état qu’ils sont, vous pouvez continuer vos amours avec eux, tant qu’il vous plaira, nous vous laissons toute sorte de liberté pour cela, et nous vous protestons, Monsieur, et moi, que nous n’en serons aucunement jaloux.</p>
           </sp>
-          <sp xml:id="I15-15" who="CATHOS">
-            <p>
-              <s>Ah ! </s>
-              <s>Quelle confusion ! </s>
-            </p>
+          <sp who="cathos" xml:id="I15-15">
+            <p>Ah quelle confusion !</p>
           </sp>
-          <sp xml:id="I15-16" who="MAGDELON">
-            <p>
-              <s>Je crève de dépit. </s>
-            </p>
+          <sp who="magdelon" xml:id="I15-16">
+            <p>Je crève de dépit.</p>
           </sp>
-          <sp xml:id="I15-17" who="VIOLONS">
-            <p>
-              <s>Qu’est-ce donc que ceci ? </s>
-              <s>Qui nous payera, nous autres ? </s>
-            </p>
+          <sp who="violons" xml:id="I15-17">
+            <p>Qu’est-ce donc que ceci ? qui nous payera, nous autres ?</p>
           </sp>
-          <sp xml:id="I15-18" who="MASCARILLE">
-            <p>
-              <s>Demandez à Monsieur le Vicomte. </s>
-            </p>
+          <sp who="mascarille" xml:id="I15-18">
+            <p>Demandez à Monsieur le Vicomte.</p>
           </sp>
-          <sp xml:id="I15-19" who="VIOLONS">
-            <p>
-              <s>Qui est-ce qui nous donnera de l’argent ? </s>
-            </p>
+          <sp who="violons" xml:id="I15-19">
+            <p>Qui est-ce qui nous donnera de l’argent ?</p>
           </sp>
-          <sp xml:id="I15-20" who="JODELET">
-            <p>
-              <s>Demandez à Monsieur le Marquis. </s>
-            </p>
+          <sp who="jodelet" xml:id="I15-20">
+            <p>Demandez à Monsieur le Marquis.</p>
           </sp>
         </div2>
-        <div2 xml:id="I16" type="scene" n="16">
-          <head>SCÈNE XVI. Gorgibus, Mascarille, Magdelon.<listPerson type="configuration" xml:id="conf16"/></head>
-          <sp xml:id="I16-1" who="GORGIBUS">
-            <p>
-              <s>Ah ! </s>
-              <s>Coquines que vous êtes, vous nous mettez dans de beaux draps blancs, à ce que je vois ! </s>
-              <s>Et je viens d’apprendre de belles affaires, vraiment, de ces Messieurs qui sortent ! </s>
-            </p>
+        <div2 type="scene" xml:id="I16">
+          <head>Scène XVI</head>
+          <sp who="gorgibus" xml:id="I16-1">
+            <p>Ah coquines, que vous êtes, vous nous mettez dans de beaux draps blancs, à ce que je vois, et je viens d’apprendre de belles affaires vraiment, de ces Messieurs, qui sortent.</p>
           </sp>
-          <sp xml:id="I16-2" who="MAGDELON">
-            <p>
-              <s>Ah ! mon père, c’est une pièce sanglante qu’ils nous ont faite. </s>
-            </p>
+          <sp who="magdelon" xml:id="I16-2">
+            <p>Ah ! mon père, c’est une pièce sanglante, qu’ils nous ont faite.</p>
           </sp>
-          <sp xml:id="I16-3" who="GORGIBUS">
-            <p>
-              <s>Oui, c’est une pièce sanglante, mais qui est un effet de votre impertinence, infâmes ! </s>
-              <s>Ils se sont ressentis du traitement que vous leur avez fait ; et cependant, malheureux que je suis, il faut que je boive l’affront. </s>
-            </p>
+          <sp who="gorgibus" xml:id="I16-3">
+            <p>Oui c’est une pièce sanglante ; mais qui est un effet de votre impertinence, infâmes. Ils se sont ressentis du traitement que vous leur avez fait, et cependant, malheureux que je suis, il faut que je boive l’affront.</p>
           </sp>
-          <sp xml:id="I16-4" who="MAGDELON">
-            <p>
-              <s>Ah ! </s>
-              <s>Je jure que nous en serons vengés, ou que je mourrai en la peine. </s>
-              <s>Et vous, marauds, osez-vous vous tenir ici après votre insolence ? </s>
-            </p>
+          <sp who="magdelon" xml:id="I16-4">
+            <p>Ah, je jure, que nous en serons vengées, ou que je mourrai en la peine. Et vous, marauds, osez-vous vous tenir ici, après votre insolence ?</p>
           </sp>
-          <sp xml:id="I16-5" who="MASCARILLE">
-            <p>
-              <s>Traiter comme cela un marquis ! </s>
-              <s>Voilà ce que c’est que du monde ! </s>
-              <s>La moindre disgrâce nous fait mépriser de ceux qui nous chérissaient. </s>
-              <s>Allons, camarade, allons chercher fortune autre part : je vois bien qu’on n’aime ici que la vaine apparence, et qu’on n’y considère point la vertu toute nue.</s>
-            </p>
+          <sp who="mascarille" xml:id="I16-5">
+            <p>Traiter comme cela un Marquis ? Voilà ce que c’est que du monde, la moindre disgrâce nous fait mépriser de ceux qui nous chérissaient. Allons, camarade, allons chercher fortune autre part ; je vois bien qu’on n’aime ici, que la vaine apparence, et qu’on n y considère point la vertu toute nue.</p>
           </sp>
         </div2>
-        <div2 xml:id="I17" type="scene" n="17">
-          <head>SCÈNE XVII. Gorgibus, Magdelon, Cathos, Violons.<listPerson type="configuration" xml:id="conf17"/></head>
-          <sp xml:id="I17-1" who="VIOLONS">
-            <p>
-              <s>Monsieur, nous entendons que vous nous contentiez à leur défaut pour ce que nous avons joué ici. </s>
-            </p>
+        <div2 type="scene" xml:id="I17">
+          <head>Scène XVII</head>
+          <sp who="violons" xml:id="I17-1">
+            <p>Monsieur nous entendons que vous nous contentiez à leur défaut, pour ce que nous avons joué ici.</p>
           </sp>
-          <sp xml:id="I17-2" who="GORGIBUS">
-            <p>
-              <s>Oui, oui, je vous vais contenter, et voici la monnaie dont je vous veux payer. </s>
-              <s>Et vous, pendardes, je ne sais qui me tient que je ne vous en fasse autant. </s>
-              <s>Nous allons servir de fable et de risée à tout le monde, et voilà ce que vous vous êtes attiré par vos extravagances. </s>
-              <s>Allez vous cacher, vilaines ; allez vous cacher pour jamais. </s>
-              <s>Et vous, qui êtes cause de leur folie, sottes billevesées, pernicieux amusements des esprits oisifs, romans, vers, chansons, sonnets et sonnettes, puissiez-vous être à tous les diables ! </s>
-            </p>
+          <sp who="gorgibus" xml:id="I17-2">
+            <p>Oui, oui, je vous vais contenter, et voici la monnaie, dont je vous veux payer. Et vous, pendardes, je ne sais qui me tient que je ne vous en fasse autant, nous allons servir de fable, et de risée à tout le monde, et voilà ce que vous vous êtes attiré par vos extravagances. Allez vous cacher, vilaines,  allez vous cacher pour jamais. Et vous, qui êtes cause de leur folie, sottes billevesées, pernicieux amusements des esprits oisifs, Romans, Vers, Chansons, Sonnets et Sonnettes, puissiez‑vous être à tous les Diables.</p>
           </sp>
         </div2>
       </div1>
