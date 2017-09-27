@@ -30,18 +30,18 @@
       </langUsage>
       <textClass>
         <keywords>
-          <term type="genre" subtype="tragedy">Tragédie</term>
+          <term subtype="tragedy" type="genre">Tragédie</term>
         </keywords>
       </textClass>
     </profileDesc>
   </teiHeader>
   <text>
     <body>
-      <div1 xml:id="P" n="P" type="prologue">
+      <div1 n="P" type="prologue" xml:id="P">
         <head>PROLOGUE</head>
-        <div2 xml:id="1" n="1" type="scene">
+        <div2 n="1" type="scene" xml:id="1">
           <head>Le Tibre, La Seine.</head>
-          <sp xml:id="1-1" who="LETIBRE">
+          <sp who="LETIBRE" xml:id="1-1">
             <lg type="stances">
               <lg n="1" type="stanza">
                 <l n="1" xml:id="l1">J’ai traversé les flots amers</l>
@@ -85,7 +85,7 @@
               </lg>
             </lg>
           </sp>
-          <sp xml:id="1-2" who="LASEINE">
+          <sp who="LASEINE" xml:id="1-2">
             <lg type="stances">
               <lg n="1" type="stanza">
                 <l n="31" xml:id="l31">Sois plus juste en ce compliment,</l>
@@ -167,7 +167,7 @@
               </lg>
             </lg>
           </sp>
-          <sp xml:id="1-3" who="LETIBRE">
+          <sp who="LETIBRE" xml:id="1-3">
             <lg type="stances">
               <lg n="1" type="stanza">
                 <l n="91" xml:id="l91">S’il te plaît, j’y suis résolu ;</l>
@@ -179,7 +179,7 @@
               </lg>
             </lg>
           </sp>
-          <sp xml:id="1-4" who="LASEINE">
+          <sp who="LASEINE" xml:id="1-4">
             <lg type="stances">
               <lg n="1" type="stanza">
                 <l n="97" xml:id="l97">Nos pays ne souffrent pas ;</l>
@@ -201,11 +201,11 @@
           </sp>
         </div2>
       </div1>
-      <div1 xml:id="I" n="1" type="act">
+      <div1 n="1" type="act" xml:id="I">
         <head>ACTE I</head>
-        <div2 xml:id="I1" n="1" type="scene">
+        <div2 n="1" type="scene" xml:id="I1">
           <head>SCÈNE I. Brute, Cassie.<listPerson type="configuration" xml:id="conf1"/></head>
-          <sp xml:id="I1-1" who="BRUTE">
+          <sp who="BRUTE" xml:id="I1-1">
             <l n="109" xml:id="l109">Ne délibérons plus, le sort en est jeté :</l>
             <l n="110" xml:id="l110">L’excès de prévoyance est une lâcheté : </l>
             <l n="111" xml:id="l111">Il faut pour ce grand coup choisir l’heure opportune,</l>
@@ -217,7 +217,7 @@
             <l n="117" xml:id="l117">Montrons le même cœur qu’ont montré nos parents,</l>
             <l n="118" xml:id="l118">Et que le nom de Brute est fatal aux tyrans.</l>
           </sp>
-          <sp xml:id="I1-2" who="CASSIE">
+          <sp who="CASSIE" xml:id="I1-2">
             <l n="119" xml:id="l119">Jeune et vaillant héros, de qui la République</l>
             <l n="120" xml:id="l120">Espère sa franchise, et sa splendeur antique :</l>
             <l n="121" xml:id="l121">Tu veux suivre un chemin que les tiens ont battu,</l>
@@ -233,7 +233,7 @@
             <l n="131" xml:id="l131">Fais voir qu’un siècle infâme, en toi fit naître un homme,</l>
             <l n="132" xml:id="l132">Digne de la grandeur de la première Rome.</l>
           </sp>
-          <sp xml:id="I1-3" who="BRUTE">
+          <sp who="BRUTE" xml:id="I1-3">
             <l n="133" xml:id="l133">Les peuples que le sort a soumis à des Rois,</l>
             <l n="134" xml:id="l134">En doivent révérer la personne et les lois,</l>
             <l n="135" xml:id="l135">C’est là mon sentiment, et je tiens que sans crime,</l>
@@ -265,7 +265,7 @@
             <l n="161" xml:id="l161">Ha César ! Ô tyran ! C’en est trop enduré ;</l>
             <l n="162" xml:id="l162">Le Ciel veut ton trépas, et Brute l’a juré.</l>
           </sp>
-          <sp xml:id="I1-4" who="CASSIE">
+          <sp who="CASSIE" xml:id="I1-4">
             <l n="163" xml:id="l163">Ha ! L’illustre serment, ha ! La belle entreprise ;</l>
             <l n="164" xml:id="l164">C’est de cette façon que l’on s’immortalise ;</l>
             <l n="165" xml:id="l165">Voilà ce grand dessein digne d’être admiré,</l>
@@ -277,7 +277,7 @@
             <l n="171" xml:id="l171">Voici le dernier jour de ta rage homicide,</l>
             <l n="172" xml:id="l172">Le bruit de nos soupirs vient d’éveiller Alcide.</l>
           </sp>
-          <sp xml:id="I1-5" who="BRUTE">
+          <sp who="BRUTE" xml:id="I1-5">
             <l n="173" xml:id="l173">Ha ! Tu me traites mal, rare et fidèle ami ;</l>
             <l n="174" xml:id="l174">Mon coeur était pensif, mais non pas endormi ;</l>
             <l n="175" xml:id="l175">Il pèse mûrement tout ce qu’il propose,</l>
@@ -299,7 +299,7 @@
             <l n="191" xml:id="l191">Et résolus de faire un acte mémorable,</l>
             <l n="192" xml:id="l192">Tâchons de prendre un lieu qui nous soit favorable.</l>
           </sp>
-          <sp xml:id="I1-6" who="CASSIE">
+          <sp who="CASSIE" xml:id="I1-6">
             <l n="193" xml:id="l193">Pour avoir sans péril notre commun repos,</l>
             <l n="194" xml:id="l194">La Sénat (ce me semble) est le plus à propos.</l>
             <l n="195" xml:id="l195">Sa garde ailleurs partout le suit comme son ombre.</l>
@@ -311,7 +311,7 @@
             <l n="201" xml:id="l201">Mais quel est ce danger ! Si chacun est pour toi ;</l>
             <l n="202" xml:id="l202">Et si tous ont horreur du simple nom de Roi ?</l>
           </sp>
-          <sp xml:id="I1-7" who="BRUTE">
+          <sp who="BRUTE" xml:id="I1-7">
             <l n="203" xml:id="l203">Cette belle espérance est encore incertaine ?</l>
             <l n="204" xml:id="l204">La captif à la fin s’accoutume à la chaîne.</l>
             <l n="205" xml:id="l205">Tout mal par l’habitude est facile à souffrir,</l>
@@ -337,7 +337,7 @@
             <l n="225" xml:id="l225">Seront contre eux pour lui : mais sans plus discourir,</l>
             <l n="226" xml:id="l226">Libre nous sommes nés, libres il faut mourir.</l>
           </sp>
-          <sp xml:id="I1-8" who="CASSIE">
+          <sp who="CASSIE" xml:id="I1-8">
             <l n="227" xml:id="l227">Le temps produira ses effets ordinaires :</l>
             <l n="228" xml:id="l228">Brute, je connais bien l’amour des mercenaires,</l>
             <l n="229" xml:id="l229">César ne vivant plus, ces amis d’intérêt ;</l>
@@ -345,7 +345,7 @@
             <l n="231" xml:id="l231">Et vrais caméléon plus changeants que Neptune,</l>
             <l n="232" xml:id="l232">Ils suivront le parti qui suivra la fortune.</l>
           </sp>
-          <sp xml:id="I1-9" who="BRUTE">
+          <sp who="BRUTE" xml:id="I1-9">
             <l n="233" xml:id="l233">Il n’appartient qu’aux Dieux de savoir l’avenir</l>
             <l n="234" xml:id="l234">Commençons toujours bien, et laissons les finir :</l>
             <l n="235" xml:id="l235">Notre prudence est courte, et la leur infinie ;</l>
@@ -353,36 +353,36 @@
             <l n="237" xml:id="l237">Leur bonté les oblige en ce pressant besoin,</l>
             <l n="238" xml:id="l238">De voir notre conduite ; et d’en prendre le soin.</l>
           </sp>
-          <sp xml:id="I1-10" who="CASSIE">
+          <sp who="CASSIE" xml:id="I1-10">
             <l n="239" xml:id="l239">Nous mêmes conduisons nos faits et nos années :</l>
             <l n="240" xml:id="l240">Nous seuls pouvons former nos bonnes destinées :</l>
             <l n="241" xml:id="l241">Brute, s’il est des Dieux, ils s’occupent ailleurs,</l>
             <l n="242" xml:id="l242">Qu’à nous rendre contents, et nos destins meilleurs.</l>
           </sp>
-          <sp xml:id="I1-11" who="BRUTE">
+          <sp who="BRUTE" xml:id="I1-11">
             <l n="243" xml:id="l243">L’on voit en tes discours, l’on oit en mes répliques,</l>
             <l n="244" xml:id="l244">La Secte d’Épicure, et celle des stoïques :</l>
             <l n="245" xml:id="l245">Mais pourtant nos pensers, ennemi des tyrans,</l>
             <l n="246" xml:id="l246">Vont en un même lieu, par sentiers différents.</l>
           </sp>
-          <sp xml:id="I1-12" who="CASSIE">
+          <sp who="CASSIE" xml:id="I1-12">
             <l n="247" xml:id="l247">Mets ta main dans le mienne ; ici je te proteste,</l>
             <l n="248" xml:id="l248">(Et soit notre aventure, ou prospère ou funeste)</l>
             <l n="249" xml:id="l249">De suivre désormais ta fortune et tes pas,</l>
             <l n="250" xml:id="l250">Soit que tu veuille vivre, ou courir au trépas.</l>
           </sp>
-          <sp xml:id="I1-13" who="BRUTE">
+          <sp who="BRUTE" xml:id="I1-13">
             <l n="251" xml:id="l251">Brute en te donnant son cœur, prends celui de Cassie.</l>
           </sp>
-          <sp xml:id="I1-14" who="CASSIE">
+          <sp who="CASSIE" xml:id="I1-14">
             <l n="252" xml:id="l252">Trêve de ce discours, voici venir Porcie ;</l>
             <l n="253" xml:id="l253">Va-t-en voir nos Amis, je te suivrai de près,</l>
             <l n="254" xml:id="l254">Couronné de lauriers, ou couverts de cyprès.</l>
           </sp>
         </div2>
-        <div2 xml:id="I2" n="2" type="scene">
+        <div2 n="2" type="scene" xml:id="I2">
           <head>SCÈNE II. Porcie, Brute.<listPerson type="configuration" xml:id="conf2"/></head>
-          <sp xml:id="I2-1" who="PORCIE">
+          <sp who="PORCIE" xml:id="I2-1">
             <l n="255" xml:id="l255">Ne me direz vos point quelle humeur solitaire,</l>
             <l n="256" xml:id="l256">Vous éloigne de moi, vous oblige à vous taire ?</l>
             <l n="257" xml:id="l257">Auriez-vous reconnu mon esprit indiscret,</l>
@@ -396,7 +396,7 @@
             <l n="265" xml:id="l265">Je ne m’en souviens pas ; et loin d’y consentir,</l>
             <l n="266" xml:id="l266">Sans savoir qui il est, j’en ai du repentir.</l>
           </sp>
-          <sp xml:id="I2-2" who="BRUTE">
+          <sp who="BRUTE" xml:id="I2-2">
             <l n="267" xml:id="l267">Ha ! Que tu fondes mal ta faible conjecture :</l>
             <l n="268" xml:id="l268">La peine que je sens, et d’une autre nature ;</l>
             <l n="269" xml:id="l269">Le corps, et non l’esprit, en souffre la rigueur ;</l>
@@ -406,7 +406,7 @@
             <l n="273" xml:id="l273">Certaine pesanteur occupe tous mes sens ;</l>
             <l n="274" xml:id="l274">Et j’ignore le nom de ce mal que je sens.</l>
           </sp>
-          <sp xml:id="I2-3" who="PORCIE">
+          <sp who="PORCIE" xml:id="I2-3">
             <l n="275" xml:id="l275">Que la feinte me sied à l’âme généreuse !</l>
             <l n="276" xml:id="l276">Ou je suis criminelle; pi je suis malheureuse !</l>
             <l n="277" xml:id="l277">Vous perdez le repas; vous perdez le repos,</l>
@@ -416,11 +416,11 @@
             <l n="281" xml:id="l281">C’est ce qu’on ne fait point pour un mal inconnu,</l>
             <l n="282" xml:id="l282">Il nous doit advenir, ou nous est advenu.</l>
           </sp>
-          <sp xml:id="I2-4" who="BRUTE">
+          <sp who="BRUTE" xml:id="I2-4">
             <l n="283" xml:id="l283">Aussi peu l’un que l’autre ; et c’est ce qui t’oblige</l>
             <l n="284" xml:id="l284">À ne t’affliger pas, croyant que je m’afflige.</l>
           </sp>
-          <sp xml:id="I2-5" who="PORCIE">
+          <sp who="PORCIE" xml:id="I2-5">
             <l n="285" xml:id="l285">Ha ! Ne contestez plus, contentez mes désirs :</l>
             <l n="286" xml:id="l286">Quoi ! N’ai-je point de part aux maux, comme aux plaisirs ?</l>
             <l n="287" xml:id="l287">Quoi ! Votre âme croit donc quelque ennui qui la tienne;</l>
@@ -442,7 +442,7 @@
             <l n="303" xml:id="l303">Afin qu’il puisse croire en la voyant extrême,</l>
             <l n="304" xml:id="l304">Que me dire un secret, c’est le dire à lui-même.</l>
           </sp>
-          <sp xml:id="I2-6" who="BRUTE">
+          <sp who="BRUTE" xml:id="I2-6">
             <l n="305" xml:id="l305">Ha ! C’est trop ; je me rends ; et contre mon dessein,</l>
             <l n="306" xml:id="l306">Ton zèle, et ton amour, s’en vont m’ouvrir le sein.</l>
             <l n="307" xml:id="l307">Connaissant ton pouvoir, tu me fais violence ;</l>
@@ -454,13 +454,13 @@
             <l n="313" xml:id="l313">Sache que je m’apprête à faire un coup si grand,</l>
             <l n="314" xml:id="l314">Qu’il fait presque trembler la main qui l’entreprend.</l>
           </sp>
-          <sp xml:id="I2-7" who="PORCIE">
+          <sp who="PORCIE" xml:id="I2-7">
             <l n="315" xml:id="l315">Mon cœur n’est point outré, ni ma paupière humide.</l>
             <l n="316" xml:id="l316">La fille de Caton ne peut être timide :</l>
             <l n="317" xml:id="l317">Fais agir ta prudence ; elle suivra ton sort,</l>
             <l n="318" xml:id="l318">Quand il devrait passer par les mains de la mort.</l>
           </sp>
-          <sp xml:id="I2-8" who="BRUTE">
+          <sp who="BRUTE" xml:id="I2-8">
             <l n="319" xml:id="l319">Ô mon cœur n’est point outré, excellente héritière !</l>
             <l n="320" xml:id="l320">On voit qu’il t’a laissé la vertu toute entière :</l>
             <l n="321" xml:id="l321">(Vertu, que dans sa fin l’univers admira)</l>
@@ -470,7 +470,7 @@
             <l n="325" xml:id="l325">Et pour dire en un mot tout ce que j’ai pensé,</l>
             <l n="326" xml:id="l326">Je suis prêt d’achever ce qu’il a commencé.</l>
           </sp>
-          <sp xml:id="I2-9" who="PORCIE">
+          <sp who="PORCIE" xml:id="I2-9">
             <l n="327" xml:id="l327">N’attendez pas de moi des marques de faiblesse,</l>
             <l n="328" xml:id="l328">Je hais trop le tyran, s’il vous choque, il me blesse :</l>
             <l n="329" xml:id="l329">L’image de Caton qui me suit en tous lieux,</l>
@@ -480,38 +480,38 @@
             <l n="333" xml:id="l333">Et loin d’avoir des pleurs capables d’arrêter,</l>
             <l n="334" xml:id="l334">J’en répandrais plutôt pour vous solliciter.</l>
           </sp>
-          <sp xml:id="I2-10" who="BRUTE">
+          <sp who="BRUTE" xml:id="I2-10">
             <l n="335" xml:id="l335">Ô miracle ! Ô grand cœur ! À qui tout cela cède ;</l>
             <l n="336" xml:id="l336">Dieux, que je suis puissant, puisque je te possède.</l>
           </sp>
-          <sp xml:id="I2-11" who="PORCIE">
+          <sp who="PORCIE" xml:id="I2-11">
             <l n="337" xml:id="l337">Oui, vous y régner seul ; rien ne peut l’asservir ;</l>
             <l n="338" xml:id="l338">Et ce cœur est un lieu qu’on ne vous peut ravir.</l>
           </sp>
-          <sp xml:id="I2-12" who="BRUTE">
+          <sp who="BRUTE" xml:id="I2-12">
             <l n="339" xml:id="l339">Adieu, l’heure m’appelle ; avant que je te voie,</l>
             <l n="340" xml:id="l340">Nous serons dans l’excès de tristesse ou de joie.</l>
           </sp>
-          <sp xml:id="I2-13" who="PORCIE">
+          <sp who="PORCIE" xml:id="I2-13">
             <l n="341" xml:id="l341">Moi, je vais de ce pas au pied de nos autels,</l>
             <l n="342" xml:id="l342">Offrir des vœux pour vous, à tous les immortels.</l>
           </sp>
-          <sp xml:id="I2-14" who="BRUTE">
-            <l n="343" xml:id="l343" part="I">Encor un coup, Adieu.</l>
+          <sp who="BRUTE" xml:id="I2-14">
+            <l n="343" part="I" xml:id="l343">Encor un coup, Adieu.</l>
           </sp>
-          <sp xml:id="I2-15" who="PORCIE">
+          <sp who="PORCIE" xml:id="I2-15">
             <l part="F">Mon âme vous veut suivre.</l>
           </sp>
-          <sp xml:id="I2-16" who="BRUTE">
+          <sp who="BRUTE" xml:id="I2-16">
             <l n="344" xml:id="l344">C’est fait ; Brute ou César s’en vont cesser de vivre.</l>
           </sp>
         </div2>
       </div1>
-      <div1 xml:id="II" n="2" type="act">
+      <div1 n="2" type="act" xml:id="II">
         <head>ACTE II</head>
-        <div2 xml:id="II1" n="1" type="scene">
+        <div2 n="1" type="scene" xml:id="II1">
           <head>SCÈNE PREMIÈRE. Lépide, Antoine.<listPerson type="configuration" xml:id="conf4"/></head>
-          <sp xml:id="II1-1" who="LEPIDE">
+          <sp who="LEPIDE" xml:id="II1-1">
             <l n="345" xml:id="l345">À ceux de qui la main gouverne l’univers,</l>
             <l n="346" xml:id="l346">Les plus grand ennemis sont les moins découverts :</l>
             <l n="347" xml:id="l347">La douceur de César se trouvera déçue,</l>
@@ -531,7 +531,7 @@
             <l n="361" xml:id="l361">Et que le grand César (à qui rien ne défaut)</l>
             <l n="362" xml:id="l362">N’ai point de précipice, étant monté si haut.</l>
           </sp>
-          <sp xml:id="II1-2" who="ANTOINE">
+          <sp who="ANTOINE" xml:id="II1-2">
             <l n="363" xml:id="l363">Je tiens que cette crainte a la raison pour guide ;</l>
             <l n="364" xml:id="l364">Votre avis est le mien, sage et prudent Lépide ;</l>
             <l n="365" xml:id="l365">Cet excès de clémence a déjà trop permis :</l>
@@ -543,12 +543,12 @@
             <l n="371" xml:id="l371">Son humeur sombre et noire, est un signe visible,</l>
             <l n="372" xml:id="l372">Que pour troubler autrui son cœur n’est point paisible,</l>
             <l n="373" xml:id="l373">Il rumine sans doute, un dessein important :</l>
-            <l n="374" xml:id="l374" part="I">Oui, Brute m’est suspect.</l>
+            <l n="374" part="I" xml:id="l374">Oui, Brute m’est suspect.</l>
           </sp>
-          <sp xml:id="II1-3" who="LEPIDE">
+          <sp who="LEPIDE" xml:id="II1-3">
             <l part="F">Je vous en dis autant.</l>
           </sp>
-          <sp xml:id="II1-4" who="ANTOINE">
+          <sp who="ANTOINE" xml:id="II1-4">
             <l n="375" xml:id="l375">Et César néanmoins en a l’âme charmée,</l>
             <l n="376" xml:id="l376">Se repose sur lui des soins de son armée,</l>
             <l n="377" xml:id="l377">N’a jamais de pensers qui ne lui soient ouverts,</l>
@@ -572,7 +572,7 @@
             <l n="395" xml:id="l395">Et de leur infortune augmentant sa puissance,</l>
             <l n="396" xml:id="l396">Avoir moins de sujets, et plus d’obéissance.</l>
           </sp>
-          <sp xml:id="II1-5" who="LEPIDE">
+          <sp who="LEPIDE" xml:id="II1-5">
             <l n="397" xml:id="l397">Ce mal est en un point qu’on le peut éviter :</l>
             <l n="398" xml:id="l398">César pèche en douceur, mais il la peut quitter :</l>
             <l n="399" xml:id="l399">L’amitié la plus franche, est la plus estimable ;</l>
@@ -581,39 +581,39 @@
             <l n="402" xml:id="l402">Et haut ; dans le dessein d’éveiller la raison :</l>
             <l n="403" xml:id="l403">César mérite bien une amitié fidèle.</l>
           </sp>
-          <sp xml:id="II1-6" who="ANTOINE">
+          <sp who="ANTOINE" xml:id="II1-6">
             <l n="404" xml:id="l404">Allons à son Palais où l’heure nous appelle.</l>
             <l n="405" xml:id="l405">Pour le suivre au Sénat, après que nos propos</l>
             <l n="406" xml:id="l406">Auront mis son esprit, et le nôtre en repos.</l>
           </sp>
         </div2>
-        <div2 xml:id="II2" n="2" type="scene">
+        <div2 n="2" type="scene" xml:id="II2">
           <head>SCÈNE II. Calphurnie, César, Philipus.<listPerson type="configuration" xml:id="conf5"/></head>
-          <sp xml:id="II2-1" who="CALPHURNIE">
+          <sp who="CALPHURNIE" xml:id="II2-1">
             <l n="407" xml:id="l407">Au secours mes amis, des tigres sanguinaires,</l>
             <l n="408" xml:id="l408">Exerçants sur César leurs fureurs ordinaires.</l>
           </sp>
-          <sp xml:id="II2-2" who="CESAR">
+          <sp who="CESAR" xml:id="II2-2">
             <l n="409" xml:id="l409">La peine qu’elle sent,, me touche de pitié :</l>
             <l n="410" xml:id="l410">Ce songe, est un effet d’une forte amitié</l>
             <l n="411" xml:id="l411">Qui peignant mon visage, en l’imaginative,</l>
             <l n="412" xml:id="l412">Lui fait tenir certain que ce malheur arrive.</l>
           </sp>
-          <sp xml:id="II2-3" who="CALPHURNIE">
+          <sp who="CALPHURNIE" xml:id="II2-3">
             <l n="413" xml:id="l413">Ô Dieux ! Rien ne s’oppose, à ce sanglant effort ;</l>
             <l n="414" xml:id="l414">Il n’en peut plus, il tombe, il se meurt, il est mort,</l>
           </sp>
-          <sp xml:id="II2-4" who="CESAR">
+          <sp who="CESAR" xml:id="II2-4">
             <l n="415" xml:id="l415">Il la faut éveiller : répondez-moi dormeuse.</l>
           </sp>
-          <sp xml:id="II2-5" who="CALPHURNIE">
+          <sp who="CALPHURNIE" xml:id="II2-5">
             <l n="416" xml:id="l416">Qui m’appelle ? Où sont-ils ? Revenez, troupe affreuse.</l>
           </sp>
-          <sp xml:id="II2-6" who="CESAR">
+          <sp who="CESAR" xml:id="II2-6">
             <l n="417" xml:id="l417">Vous même, revenez d’un assoupissement,</l>
             <l n="418" xml:id="l418">Qui nous a fait souffrir tous deux également.</l>
           </sp>
-          <sp xml:id="II2-7" who="CALPHURNIE">
+          <sp who="CALPHURNIE" xml:id="II2-7">
             <l n="419" xml:id="l419">Est-ce vous mon César ? Hélas : Est-il possible,</l>
             <l n="420" xml:id="l420">Que vous soyez vivant, et que je sois sensible ?</l>
             <l n="421" xml:id="l421">Vous me venez de rendre un service important :</l>
@@ -629,7 +629,7 @@
             <l n="431" xml:id="l431">Je sens bien qu’elle est faible, et que le mal l’emporte,</l>
             <l n="432" xml:id="l432">Elle s’oppose en vain, et la crainte est plus forte.</l>
           </sp>
-          <sp xml:id="II2-8" who="CESAR">
+          <sp who="CESAR" xml:id="II2-8">
             <l n="433" xml:id="l433">Quoi ! Vous laissez vous vaincre aux effets de la peur</l>
             <l n="434" xml:id="l434">Vous qui ne combattez que contre une vapeur ?</l>
             <l n="435" xml:id="l435">Et cet esprit solide, en sa douleur amère,</l>
@@ -641,7 +641,7 @@
             <l n="441" xml:id="l441">Chassez nue frayeur qui n’a point de sujet ;</l>
             <l n="442" xml:id="l442">Et par votre récit montrez moi son objet.</l>
           </sp>
-          <sp xml:id="II2-9" who="CALPHURNIE">
+          <sp who="CALPHURNIE" xml:id="II2-9">
             <l n="443" xml:id="l443">Ha ! Ne conservez pas cette fatale envie :</l>
             <l n="444" xml:id="l444">Étouffez, ce désir, si vous aimez ma vie :</l>
             <l n="445" xml:id="l445">Ce prodige est si noir, qu’on n’en peut discourir,</l>
@@ -657,16 +657,16 @@
             <l n="455" xml:id="l455">Sans doute il périrait dedans son infortune ;</l>
             <l n="456" xml:id="l456">Et désormais sa perte, est la perte commune.</l>
           </sp>
-          <sp xml:id="II2-10" who="CESAR">
+          <sp who="CESAR" xml:id="II2-10">
             <l n="457" xml:id="l457">Ces vœux justes et saints voleront jusqu’au Ciel,</l>
             <l n="458" xml:id="l458">Ils pourraient adoucir un astre tout le fiel ;</l>
             <l n="459" xml:id="l459">Et de quelque façon que le sort me regarde,</l>
             <l n="460" xml:id="l460">Je me tiens assuré d’une si bonne garde ;</l>
             <l n="461" xml:id="l461">Puisqu’ils partent d’un cœur, et si pur, et si net.</l>
             <l n="462" xml:id="l462">Mais l’heure du Sénat m’appelle au cabinet,</l>
-            <l n="463" xml:id="l463" part="I">Qu’on me donne ma robe.</l>
+            <l n="463" part="I" xml:id="l463">Qu’on me donne ma robe.</l>
           </sp>
-          <sp xml:id="II2-11" who="CALPHURNIE">
+          <sp who="CALPHURNIE" xml:id="II2-11">
             <l part="F">Ha ! Ce peu de croyance,</l>
             <l n="464" xml:id="l464">Veut offusquer les yeux de votre prévoyance ;</l>
             <l n="465" xml:id="l465">César, vous refusez d’un esprit étonné,</l>
@@ -684,20 +684,20 @@
             <l n="477" xml:id="l477">Afin que leur secours vous puisse garantir,</l>
             <l n="478" xml:id="l478">Du triste sentiment d’un tardif repentir.</l>
           </sp>
-          <sp xml:id="II2-12" who="CESAR">
+          <sp who="CESAR" xml:id="II2-12">
             <l n="479" xml:id="l479">César ne peut rien craindre ; et son âme affermie,</l>
             <l n="480" xml:id="l480">Voit gémir sous ses pies la fortune ennemie :</l>
             <l n="481" xml:id="l481">Consolez vous mon cœur, perdez ce souvenir ;</l>
             <l n="482" xml:id="l482">Et laissons au destin le soin de l’avenir ;</l>
             <l n="483" xml:id="l483">Il nous fait arriver où son vouloir nous mène.</l>
           </sp>
-          <sp xml:id="II2-13" who="CALPHURNIE">
+          <sp who="CALPHURNIE" xml:id="II2-13">
             <l n="484" xml:id="l484">Ô ! Le faible secours, qu’est la prudence humaine.</l>
           </sp>
         </div2>
-        <div2 xml:id="II3" n="3" type="scene">
+        <div2 n="3" type="scene" xml:id="II3">
           <head>SCÈNE III. Brute, Cassie.<listPerson type="configuration" xml:id="conf6"/></head>
-          <sp xml:id="II3-1" who="BRUTE">
+          <sp who="BRUTE" xml:id="II3-1">
             <l n="485" xml:id="l485">Enfin obtiendrons nous le suprême bonheur ?</l>
             <l n="486" xml:id="l486">Voit-on en nos amis un sentiment d’honneur ?</l>
             <l n="487" xml:id="l487">As-tu bien observé les traits de leur visage ;</l>
@@ -709,7 +709,7 @@
             <l n="493" xml:id="l493">Vont-ils d’un même pied ? L’auras-tu bien pu voir ?</l>
             <l n="494" xml:id="l494">Et bref, qui règne en eux, ou la crainte, ou l’espoir ?</l>
           </sp>
-          <sp xml:id="II3-2" who="CASSIE">
+          <sp who="CASSIE" xml:id="II3-2">
             <l n="495" xml:id="l495">Jamais lyre d’Orphée, en douceur infinie,</l>
             <l n="496" xml:id="l496">Ne fut si bien d’accord, et n’eut tant d’harmonie ;</l>
             <l n="497" xml:id="l497">Ha ! Qu’ils sont éloignés de la peur du trépas ;</l>
@@ -725,7 +725,7 @@
             <l n="507" xml:id="l507">Et qu’ils suivront ton sort, ou funeste ou prospère,</l>
             <l n="508" xml:id="l508">Juge ayant cet esprit, s’il craint, ou s’il espère.</l>
           </sp>
-          <sp xml:id="II3-3" who="BRUTE">
+          <sp who="BRUTE" xml:id="II3-3">
             <l n="509" xml:id="l509">Je doute que j’en ai, n’est pas sans fondement :</l>
             <l n="510" xml:id="l510">Tel homme ne craint point l’aspect du monument,</l>
             <l n="511" xml:id="l511">Qui craindra pour son bien, pour son fils, pour sa femme ;</l>
@@ -747,7 +747,7 @@
             <l n="527" xml:id="l527">Puisqu’on te tend la main (te rendant secourable)</l>
             <l n="528" xml:id="l528">Fais nous voir du temps une heure favorable.</l>
           </sp>
-          <sp xml:id="II3-4" who="CASSIE">
+          <sp who="CASSIE" xml:id="II3-4">
             <l n="529" xml:id="l529">Avant que de courir le plus grand des hasards,</l>
             <l n="530" xml:id="l530">Nos amis assemblés dedans le champ de Mars,</l>
             <l n="531" xml:id="l531">Désirent ta présence ; espérant que ta vue,</l>
@@ -755,7 +755,7 @@
             <l n="533" xml:id="l533">Ils pensent que ton œil inspira la valeur,</l>
             <l n="534" xml:id="l534">Et que ce grand courage, augmentera le leur.</l>
           </sp>
-          <sp xml:id="II3-5" who="BRUTE">
+          <sp who="BRUTE" xml:id="II3-5">
             <l n="535" xml:id="l535">Pour cette volonté qui gouverne la mienne,</l>
             <l n="536" xml:id="l536">Il n’est rien d’impossible, et rien qu’elle n’obtienne.</l>
             <l n="537" xml:id="l537">Il est juste, allons-y ; voyons ces vrais Romains ;</l>
@@ -767,42 +767,42 @@
             <l n="543" xml:id="l543">Mais quel deuil est écrit sur le front de Porcie ?</l>
           </sp>
         </div2>
-        <div2 xml:id="II4" n="4" type="scene">
+        <div2 n="4" type="scene" xml:id="II4">
           <head>SCÈNE IV. Porcie, Cassie, Brute.<listPerson type="configuration" xml:id="conf7"/></head>
-          <sp xml:id="II4-1" who="PORCIE">
+          <sp who="PORCIE" xml:id="II4-1">
             <l n="544" xml:id="l544">Funeste présage ! Ô triste prophétie !</l>
           </sp>
-          <sp xml:id="II4-2" who="CASSIE">
+          <sp who="CASSIE" xml:id="II4-2">
             <l n="545" xml:id="l545">Aurais-tu découvert ce dessein important ?</l>
           </sp>
-          <sp xml:id="II4-3" who="BRUTE">
+          <sp who="BRUTE" xml:id="II4-3">
             <l n="546" xml:id="l546">Ton esprit en ma place, en aurait fait autant :</l>
             <l n="547" xml:id="l547">Je lis dedans son cœur, elle voit dans mon âme.</l>
           </sp>
-          <sp xml:id="II4-4" who="CASSIE">
+          <sp who="CASSIE" xml:id="II4-4">
             <l n="548" xml:id="l548">Un secret n’est pas bien dans celui d’une femme.</l>
             <l n="549" xml:id="l549">De quel mal inconnu souffres-tu la rigueur ?</l>
           </sp>
-          <sp xml:id="II4-5" who="PORCIE">
+          <sp who="PORCIE" xml:id="II4-5">
             <l n="550" xml:id="l550">D’un mal qui vous regarde, et qui m’ôte le cœur :</l>
             <l n="551" xml:id="l551">Hélas ! Qui le croirait, ô tristesse infinie !</l>
             <l n="552" xml:id="l552">Les Dieux sont contre nous, et pour la tyrannie.</l>
           </sp>
-          <sp xml:id="II4-6" who="CASSIE">
+          <sp who="CASSIE" xml:id="II4-6">
             <l n="553" xml:id="l553">On dirait à l’ouïr, que le Ciel s’est ouvert.</l>
           </sp>
-          <sp xml:id="II4-7" who="PORCIE">
+          <sp who="PORCIE" xml:id="II4-7">
             <l n="554" xml:id="l554">Leur courroux s’est fait voir au sacrifice offert.</l>
           </sp>
-          <sp xml:id="II4-8" who="BRUTE">
+          <sp who="BRUTE" xml:id="II4-8">
             <l n="555" xml:id="l555">Fais-nous savoir au moins qui te rend désolée ?</l>
           </sp>
-          <sp xml:id="II4-9" who="PORCIE">
+          <sp who="PORCIE" xml:id="II4-9">
             <l n="556" xml:id="l556">Des marques de malheur, en la bête immolée ;</l>
             <l n="557" xml:id="l557">Ha Brute le destin s’oppose à nos désirs ;</l>
             <l n="558" xml:id="l558">Menace votre tête, et détruit mes plaisirs.</l>
           </sp>
-          <sp xml:id="II4-10" who="CASSIE">
+          <sp who="CASSIE" xml:id="II4-10">
             <l n="559" xml:id="l559">Étrange aveuglement de ce siècle où nous sommes !</l>
             <l n="560" xml:id="l560">Ô faiblesse d’esprit ! Stupidité des hommes ;</l>
             <l n="561" xml:id="l561">De croire follement, que leur bien, et leur mal,</l>
@@ -817,7 +817,7 @@
             <l n="570" xml:id="l570">Que rien que le hasard, ne conduit l’Univers :</l>
             <l n="571" xml:id="l571">Jugez après cela de votre prophétie.</l>
           </sp>
-          <sp xml:id="II4-11" who="BRUTE">
+          <sp who="BRUTE" xml:id="II4-11">
             <l n="572" xml:id="l572">Je serai toujours Brute, et toi toujours Cassie :</l>
             <l n="573" xml:id="l573">Les écrits d’Épicure ont séduit ta raison.</l>
             <l n="574" xml:id="l574">Mais toi, finis un deuil qui n’est pas de saison ;</l>
@@ -825,7 +825,7 @@
             <l n="576" xml:id="l576">Que nous sommes trop loin pour regarder la rive,</l>
             <l n="577" xml:id="l577">Dans la lice d’honneur, il faut aller au bout.</l>
           </sp>
-          <sp xml:id="II4-12" who="PORCIE">
+          <sp who="PORCIE" xml:id="II4-12">
             <l n="578" xml:id="l578">Oui Brute, C’en est fait ; mon esprit s’y résout :</l>
             <l n="579" xml:id="l579">Il se rit maintenant de la force ennemie ;</l>
             <l n="580" xml:id="l580">Vous réveillez en moi la constance endormie ;</l>
@@ -836,17 +836,17 @@
             <l n="585" xml:id="l585">Et quand un bel exploit vous aura couronnés,</l>
             <l n="586" xml:id="l586">Oubliez ma faiblesse, et me le pardonnez.</l>
           </sp>
-          <sp xml:id="II4-13" who="BRUTE">
+          <sp who="BRUTE" xml:id="II4-13">
             <l n="587" xml:id="l587">Allons cher compagnon, prendre cette couronne ;</l>
             <l n="588" xml:id="l588">Et suivre le conseil, que la vertu nous donne.</l>
           </sp>
         </div2>
       </div1>
-      <div1 xml:id="III" n="3" type="act">
+      <div1 n="3" type="act" xml:id="III">
         <head>ACTE III</head>
-        <div2 xml:id="III1" n="1" type="scene">
+        <div2 n="1" type="scene" xml:id="III1">
           <head>SCÈNE PREMIÈRE. César, Antoine, Lépide, Philippus.<listPerson type="configuration" xml:id="conf9"/></head>
-          <sp xml:id="III1-1" who="CESAR">
+          <sp who="CESAR" xml:id="III1-1">
             <l n="589" xml:id="l589">Entre les vrais amis on ne doit rien cacher :</l>
             <l n="590" xml:id="l590">Rien, venant de leur part, ne me saurait fâcher :</l>
             <l n="591" xml:id="l591">J’écoute leurs avis, franc d’orgueil et d’envie,</l>
@@ -870,7 +870,7 @@
             <l n="609" xml:id="l609">Voilà comme César traite avec ses amis,</l>
             <l n="610" xml:id="l610">Or souvenez-vous donc que tout vous est permis.</l>
           </sp>
-          <sp xml:id="III1-2" who="ANTOINE">
+          <sp who="ANTOINE" xml:id="III1-2">
             <l n="611" xml:id="l611">Après cette assurance il faut que je vous die,</l>
             <l n="612" xml:id="l612">Que nous avons pour vous une amitié hardie,</l>
             <l n="613" xml:id="l613">Qui ne sent point l’esclave, et qui ne saurait voir</l>
@@ -904,7 +904,7 @@
             <l n="641" xml:id="l641">Et tout usurpateur ; après l’avoir soumis,</l>
             <l n="642" xml:id="l642">En comptant ses sujets, compte ses ennemis,</l>
           </sp>
-          <sp xml:id="III1-3" who="CESAR">
+          <sp who="CESAR" xml:id="III1-3">
             <l n="643" xml:id="l643">Si ce discours est vrai, c’est pour la tyrannie :</l>
             <l n="644" xml:id="l644">Mais quand je régirais des tigres d’Hircanie,</l>
             <l n="645" xml:id="l645">Avecque la douceur dont je les ai traités,</l>
@@ -928,7 +928,7 @@
             <l n="663" xml:id="l663">Et que tant de labeurs m’ont donné quelque place ;</l>
             <l n="664" xml:id="l664">En l’estime du peuple, et dans sa bonne grâce.</l>
           </sp>
-          <sp xml:id="III1-4" who="ANTOINE">
+          <sp who="ANTOINE" xml:id="III1-4">
             <l n="665" xml:id="l665">Ce peuple est une mer, qui n’a rien d’arrêté ;</l>
             <l n="666" xml:id="l666">On doit craindre l’effet de sa légèreté :</l>
             <l n="667" xml:id="l667">Il se lasse de tout ; et son âme inconstante,</l>
@@ -940,7 +940,7 @@
             <l n="673" xml:id="l673">Il faut lever le masque, en lui donnant terreur ;</l>
             <l n="674" xml:id="l674">Et prendre le pouvoir, et le nom d’Empereur.</l>
           </sp>
-          <sp xml:id="III1-5" who="CESAR">
+          <sp who="CESAR" xml:id="III1-5">
             <l n="675" xml:id="l675">Ce remède est fâcheux, il a trop d’amertume :</l>
             <l n="676" xml:id="l676">C’est insensiblement que le joug s’accoutume,</l>
             <l n="677" xml:id="l677">On doit tromper le peuple avec dextérité,</l>
@@ -952,17 +952,17 @@
             <l n="683" xml:id="l683">Et tiens par le discours dont mon âme est pourvue,</l>
             <l n="684" xml:id="l684">Que la plus douce mort, est la plus imprévue.</l>
           </sp>
-          <sp xml:id="III1-6" who="LEPIDE">
+          <sp who="LEPIDE" xml:id="III1-6">
             <l n="685" xml:id="l685">Achevons de parler, sans perdre le respect.</l>
           </sp>
-          <sp xml:id="III1-7" who="CESAR">
-            <l n="686" xml:id="l686" part="I">Dites tout, chers amis.</l>
+          <sp who="CESAR" xml:id="III1-7">
+            <l n="686" part="I" xml:id="l686">Dites tout, chers amis.</l>
           </sp>
-          <sp xml:id="III1-8" who="ANTOINE">
+          <sp who="ANTOINE" xml:id="III1-8">
             <l part="F">Brute nous est suspect :</l>
             <l n="687" xml:id="l687">C’est après votre rang, que son âme soupire.</l>
           </sp>
-          <sp xml:id="III1-9" who="CESAR">
+          <sp who="CESAR" xml:id="III1-9">
             <l n="688" xml:id="l688">Il est certain que Brute, est digne de l’Empire ;</l>
             <l n="689" xml:id="l689">Mais il attendra bien que le Ciel en son cours,</l>
             <l n="690" xml:id="l690">Mette sur l’horizon le dernier de mes jours :</l>
@@ -971,21 +971,21 @@
             <l n="693" xml:id="l693">Qui souvent éprouvée, est sans comparaison ;</l>
             <l n="694" xml:id="l694">Et qu’on ne peut choquer, qu’en choquant la raison.</l>
           </sp>
-          <sp xml:id="III1-10" who="ANTOINE">
+          <sp who="ANTOINE" xml:id="III1-10">
             <l n="695" xml:id="l695">Fasse le juste Ciel, que nos peurs frivoles,</l>
             <l n="696" xml:id="l696">Et que l’événement s’accorde à vos paroles.</l>
           </sp>
-          <sp xml:id="III1-11" who="PHILIPPUS">
-            <l n="697" xml:id="l697" part="I">Le sacrifice est prêt.</l>
+          <sp who="PHILIPPUS" xml:id="III1-11">
+            <l n="697" part="I" xml:id="l697">Le sacrifice est prêt.</l>
           </sp>
-          <sp xml:id="III1-12" who="CESAR">
+          <sp who="CESAR" xml:id="III1-12">
             <l part="F">Allons prier les Dieux,</l>
             <l n="698" xml:id="l698">De vous ouvrir son cœur, ou de m’ouvrir les yeux.</l>
           </sp>
         </div2>
-        <div2 xml:id="III2" n="2" type="scene">
+        <div2 n="2" type="scene" xml:id="III2">
           <head>SCÈNE II. Brute, Cassie, Labéo, Quintus, Albin, Artimore.<listPerson type="configuration" xml:id="conf10"/></head>
-          <sp xml:id="III2-1" who="BRUTE">
+          <sp who="BRUTE" xml:id="III2-1">
             <l n="699" xml:id="l699">Je croirais faire tort à vos cœurs invincibles,</l>
             <l n="700" xml:id="l700">De tâcher par discours de les rendre sensibles</l>
             <l n="701" xml:id="l701">Ils aiment trop l’honneur, pour ne le suivre pas,</l>
@@ -1018,7 +1018,7 @@
             <l n="728" xml:id="l728">Mais il croit bien aussi que vos cœurs généreux,</l>
             <l n="729" xml:id="l729">Auront toujours pour lui, l’amour qu’il a pour eux.</l>
           </sp>
-          <sp xml:id="III2-2" who="CASSIE">
+          <sp who="CASSIE" xml:id="III2-2">
             <l n="730" xml:id="l730">Il est temps de parler, l’honneur vous le commande ;</l>
             <l n="731" xml:id="l731">Maintenant votre esprit a tout ce qu’il demande ;</l>
             <l n="732" xml:id="l732">Brute s’est expliqué ; témoignez aujourd’hui,</l>
@@ -1028,7 +1028,7 @@
             <l n="736" xml:id="l736">Ne pourront ébranler mon courage affermi :</l>
             <l n="737" xml:id="l737">Et ’avoir le premier du sang de l’ennemi.</l>
           </sp>
-          <sp xml:id="III2-3" who="LABEO">
+          <sp who="LABEO" xml:id="III2-3">
             <l n="738" xml:id="l738">Mon cœur est dans mes yeux ou je veux qu’on le voie,</l>
             <l n="739" xml:id="l739">Sachant qu’il y paraît plein d’ardeur et de joie ;</l>
             <l n="740" xml:id="l740">Déjà depuis longtemps ou l’oyait soupirer,</l>
@@ -1041,7 +1041,7 @@
             <l n="747" xml:id="l747">Les hommes comme nous ne savent point trahir :</l>
             <l n="748" xml:id="l748">C’est à lui d’ordonner, c’est à nous d’obéir.</l>
           </sp>
-          <sp xml:id="III2-4" who="QUINTUS">
+          <sp who="QUINTUS" xml:id="III2-4">
             <l n="749" xml:id="l749">Quand l’ennemi commun serait invulnérable,</l>
             <l n="750" xml:id="l750">Mon bras entreprendrait sa défaite honorable ;</l>
             <l n="751" xml:id="l751">L’oeil de Brute m’inspire, un désir violent,</l>
@@ -1051,7 +1051,7 @@
             <l n="755" xml:id="l755">Et je ne me veux plus estimer vrai Romain,</l>
             <l n="756" xml:id="l756">Que le sang de César, n’ait fait rougir ma main.</l>
           </sp>
-          <sp xml:id="III2-5" who="ALBIN">
+          <sp who="ALBIN" xml:id="III2-5">
             <l n="757" xml:id="l757">Brute ne sait-il pas que mon âme méprise,</l>
             <l n="758" xml:id="l758">L’amitié du tyran, pour avoir la franchise ?</l>
             <l n="759" xml:id="l759">Et que foulant au pieds tant de trésors offerts,</l>
@@ -1063,7 +1063,7 @@
             <l n="765" xml:id="l765">L’amour de la patrie, emporte tous les autres ;</l>
             <l n="766" xml:id="l766">Et pour le faire court, mes desseins sont les vôtres.</l>
           </sp>
-          <sp xml:id="III2-6" who="BRUTE">
+          <sp who="BRUTE" xml:id="III2-6">
             <l n="767" xml:id="l767">Il suffit, chers amis, je me tiens satisfait : </l>
             <l n="768" xml:id="l768">Mais avant que nos mains en viennent à l’effet,</l>
             <l n="769" xml:id="l769">De grâce, qu’un de vous, que la prudence guide,</l>
@@ -1074,18 +1074,18 @@
             <l n="774" xml:id="l774">Contre un seul la justice élève son épée ;</l>
             <l n="775" xml:id="l775">Il n’en faut pas venir à l’extrême rigueur.</l>
           </sp>
-          <sp xml:id="III2-7" who="ALBIN">
+          <sp who="ALBIN" xml:id="III2-7">
             <l n="776" xml:id="l776">Je suivrai le chemin que m’enseigne un grand cœur.</l>
           </sp>
-          <sp xml:id="III2-8" who="BRUTE">
+          <sp who="BRUTE" xml:id="III2-8">
             <l n="777" xml:id="l777">De crainte d’être vus que chacun se dérobe ;</l>
             <l n="778" xml:id="l778">Et que tous aillent prendre un poignard sous la robe,</l>
-            <l n="779" xml:id="l779" part="I">Car j’ai déjà la mien.</l>
+            <l n="779" part="I" xml:id="l779">Car j’ai déjà la mien.</l>
           </sp>
-          <sp xml:id="III2-9" who="CASSIE">
+          <sp who="CASSIE" xml:id="III2-9">
             <l part="F">Nous en avons aussi.</l>
           </sp>
-          <sp xml:id="III2-10" who="BRUTE">
+          <sp who="BRUTE" xml:id="III2-10">
             <l n="780" xml:id="l780">Allons ; cela va bien ; retirons nous d’ici :</l>
             <l n="781" xml:id="l781">La fortune souvent favorise le crime :</l>
             <l n="782" xml:id="l782">Allez dans le Sénat, attendre la victime,</l>
@@ -1093,9 +1093,9 @@
             <l n="784" xml:id="l784">Et pour vous sauver tous, donner le coup mortel.</l>
           </sp>
         </div2>
-        <div2 xml:id="III3" n="3" type="scene">
+        <div2 n="3" type="scene" xml:id="III3">
           <head>SCÈNE III. <listPerson type="configuration" xml:id="conf11"/></head>
-          <sp xml:id="III3-1" who="ARTEMIDORE">
+          <sp who="ARTEMIDORE" xml:id="III3-1">
             <l n="785" xml:id="l785">Qu’ai-je entendu, bons Dieux ! Est-il bien véritable,</l>
             <l n="786" xml:id="l786">Que je n’ai point songé ce conseil détestable ?</l>
             <l n="787" xml:id="l787">Ô l’étrange dessein ! Ô l’horrible attentat !</l>
@@ -1106,9 +1106,9 @@
             <l n="792" xml:id="l792">Il semble que les Dieux m’enseignent mon devoir.</l>
           </sp>
         </div2>
-        <div2 xml:id="III4" n="4" type="scene">
+        <div2 n="4" type="scene" xml:id="III4">
           <head>SCÈNE IV. Calphunie, Porcie.<listPerson type="configuration" xml:id="conf12"/></head>
-          <sp xml:id="III4-1" who="CALPHURNIE">
+          <sp who="CALPHURNIE" xml:id="III4-1">
             <l n="793" xml:id="l793">S’il est vrai que le temps ait mis en vos pensées, </l>
             <l n="794" xml:id="l794">Un oubli général des affaires passées,</l>
             <l n="795" xml:id="l795">Et que ce grand esprit que l’on remarque en vous,</l>
@@ -1121,7 +1121,7 @@
             <l n="802" xml:id="l802">Et de me découvrir en véritable amie,</l>
             <l n="803" xml:id="l803">Si l’on n’aurait rien dit dedans votre maison...</l>
           </sp>
-          <sp xml:id="III4-2" who="PORCIE">
+          <sp who="PORCIE" xml:id="III4-2">
             <l n="804" xml:id="l804">Quoi ! Vous nous soupçonnez de quelque trahison ?</l>
             <l n="805" xml:id="l805">Ha ! Je ne puis souffrir une si rude offense ;</l>
             <l n="806" xml:id="l806">Brute a trop de vertu, qui parle en sa défense ;</l>
@@ -1130,11 +1130,11 @@
             <l n="809" xml:id="l809">Qui, oui, je lui dirai, l’outrage insupportable,</l>
             <l n="810" xml:id="l810">Qu’endure en notre endroit l’amitié véritable.</l>
           </sp>
-          <sp xml:id="III4-3" who="CALPHURNIE">
+          <sp who="CALPHURNIE" xml:id="III4-3">
             <l n="811" xml:id="l811">N’importe ; un grand malheur le menace aujourd’hui ;</l>
             <l n="812" xml:id="l812">Et la peur que j’en ai m’appelle auprès de lui.</l>
           </sp>
-          <sp xml:id="III4-4" who="PORCIE">
+          <sp who="PORCIE" xml:id="III4-4">
             <l n="813" xml:id="l813">Qu’elle sait dextrement d’un artifice extrême, </l>
             <l n="814" xml:id="l814">Surprendre les secrets que l’on cache en soi-même !</l>
             <l n="815" xml:id="l815">Ô Dieux ! Qu’elle a d’adresse, et qu’il est malaisé</l>
@@ -1152,11 +1152,11 @@
           </sp>
         </div2>
       </div1>
-      <div1 xml:id="IV" n="4" type="act">
+      <div1 n="4" type="act" xml:id="IV">
         <head>ACTE IV</head>
-        <div2 xml:id="IV1" n="1" type="scene">
+        <div2 n="1" type="scene" xml:id="IV1">
           <head>SCÈNE I. César, Antoine, Lépide.<listPerson type="configuration" xml:id="conf14"/></head>
-          <sp xml:id="IV1-1" who="CESAR">
+          <sp who="CESAR" xml:id="IV1-1">
             <l n="827" xml:id="l827">Pour ce mal advenir, dont je suis menacé,</l>
             <l n="828" xml:id="l828">Il m’étonne aussi peu, comme a fait le passé :</l>
             <l n="829" xml:id="l829">Et mon esprit égal, sans tristesse, ni joie,</l>
@@ -1205,7 +1205,7 @@
             <l n="872" xml:id="l872">Au lit au Capitole, ou dedans un combat,</l>
             <l n="873" xml:id="l873">La genre différent ne fait rien à la chose.</l>
           </sp>
-          <sp xml:id="IV1-2" who="ANTOINE">
+          <sp who="ANTOINE" xml:id="IV1-2">
             <l n="874" xml:id="l874">Par un si beau discours j’aurais le bouche close,</l>
             <l n="875" xml:id="l875">Si l’amitié de flamme en voulant s’exhaler,</l>
             <l n="876" xml:id="l876">Ne forçait mon esprit, et ma langue à parler :</l>
@@ -1232,63 +1232,63 @@
             <l n="897" xml:id="l897">Que pouvons nous attendre en l’état ou nous sommes,</l>
             <l n="898" xml:id="l898">Si César ne croit plus ni les Dieux ni les hommes ?</l>
           </sp>
-          <sp xml:id="IV1-3" who="LEPIDE">
+          <sp who="LEPIDE" xml:id="IV1-3">
             <l n="899" xml:id="l899">Ce traître qui s’approche excite mon courroux :</l>
           </sp>
         </div2>
-        <div2 xml:id="IV2" n="2" type="scene">
+        <div2 n="2" type="scene" xml:id="IV2">
           <head>SCÈNE II. Brute, César, Antoine, Lépide.<listPerson type="configuration" xml:id="conf15"/></head>
-          <sp xml:id="IV2-1" who="BRUTE">
+          <sp who="BRUTE" xml:id="IV2-1">
             <l n="900" xml:id="l900">Le Sénat assemblé n’attend plus qu’après vous :</l>
             <l n="901" xml:id="l901">Pour payer la valeur du plus brave des princes,</l>
             <l n="902" xml:id="l902">Il vous déclare Roi de toutes les provinces ;</l>
             <l n="903" xml:id="l903">Et veut que (hors d’ici) vous ayez souverain,</l>
             <l n="904" xml:id="l904">La couronne à la tête, et le sceptre à la main.</l>
           </sp>
-          <sp xml:id="IV2-2" who="CESAR">
+          <sp who="CESAR" xml:id="IV2-2">
             <l n="905" xml:id="l905">Ha Brute ! Dans le trône où le destin m’appelle</l>
             <l n="906" xml:id="l906">Que ferai-je pour vous, après cette nouvelle,</l>
             <l n="907" xml:id="l907">Où le cœur à l’amour utilement se joint ?</l>
             <l n="908" xml:id="l908">Ou bien pour mieux parler que ne ferai-je point ?</l>
           </sp>
-          <sp xml:id="IV2-3" who="BRUTE">
+          <sp who="BRUTE" xml:id="IV2-3">
             <l n="909" xml:id="l909">Être chéri de vous, ma vaut plus qu’un Empire,</l>
             <l n="910" xml:id="l910">Et c’est l’unique gloire où mon désir aspire.</l>
           </sp>
-          <sp xml:id="IV2-4" who="ANTOINE">
+          <sp who="ANTOINE" xml:id="IV2-4">
             <l n="911" xml:id="l911">Je m’étonne bien fort (puisque vous l’aimez tant)</l>
             <l n="912" xml:id="l912">Que lorsqu’il s’est agi d’un service important,</l>
             <l n="913" xml:id="l913">Et qu’on a vu sa vie, au bout de son épée,</l>
             <l n="914" xml:id="l914">Que vous ayez suivi le parti de Pompée ?</l>
           </sp>
-          <sp xml:id="IV2-5" who="BRUTE">
+          <sp who="BRUTE" xml:id="IV2-5">
             <l n="915" xml:id="l915">Vous avez un esprit qui s’étonne de rien :</l>
             <l n="916" xml:id="l916">Et si je ne voyais votre chef et le mien,</l>
             <l n="917" xml:id="l917">Je saurais vous tirer de merveille et de doute :</l>
             <l n="918" xml:id="l918">Mais nous sommes dans Rome, et César nous écoute.</l>
           </sp>
-          <sp xml:id="IV2-6" who="LEPIDE">
+          <sp who="LEPIDE" xml:id="IV2-6">
             <l n="919" xml:id="l919">Ce silence est timide, autant qu’il est discret :</l>
             <l n="920" xml:id="l920">Répondre sans répondre est un fort beau secret ;</l>
             <l n="921" xml:id="l921">Mais vous être pourtant (ou mon âme est trompée)</l>
             <l n="922" xml:id="l922">Le gendre de Caton, et l’ami de Pompée.</l>
           </sp>
-          <sp xml:id="IV2-7" who="BRUTE">
+          <sp who="BRUTE" xml:id="IV2-7">
             <l n="923" xml:id="l923">Je fus et l’un et l’autre, et le tins à bonheur :</l>
             <l n="924" xml:id="l924">Maintenant je suis Brute, et fort homme d’honneur.</l>
           </sp>
-          <sp xml:id="IV2-8" who="ANTOINE">
+          <sp who="ANTOINE" xml:id="IV2-8">
             <l n="925" xml:id="l925">On chante votre nom, du Tibre, jusqu’au Tage.</l>
           </sp>
-          <sp xml:id="IV2-9" who="CESAR">
+          <sp who="CESAR" xml:id="IV2-9">
             <l n="926" xml:id="l926">Tout beau ; je vous défends de parler davantage :</l>
             <l n="927" xml:id="l927">Antoine, oubliez-vous ce qu’on doit au respect ?</l>
             <l n="928" xml:id="l928">Allons je vais montrer si Brute m’est suspect.</l>
           </sp>
         </div2>
-        <div2 xml:id="IV3" n="3" type="scene">
+        <div2 n="3" type="scene" xml:id="IV3">
           <head>SCÈNE III. Calphurnie, César, Brute, Antoine, Lépide.<listPerson type="configuration" xml:id="conf16"/></head>
-          <sp xml:id="IV3-1" who="CALPHURNIE">
+          <sp who="CALPHURNIE" xml:id="IV3-1">
             <l n="929" xml:id="l929">César, ne sortez point, ou bien sortez en armes ;</l>
             <l n="930" xml:id="l930">Hé de grâce donnez quelque chose à mes larmes :</l>
             <l n="931" xml:id="l931">Remettez aujourd’hui le Sénat à demain :</l>
@@ -1300,10 +1300,10 @@
             <l n="937" xml:id="l937">Il faut absolument que Monseigneur demeure,</l>
             <l n="938" xml:id="l938">Ou qu’il prenne poignard, et que sa femme meure.</l>
           </sp>
-          <sp xml:id="IV3-2" who="CESAR">
+          <sp who="CESAR" xml:id="IV3-2">
             <l n="939" xml:id="l939">Brute, que ferons-nous, la dis-je contenter ?</l>
           </sp>
-          <sp xml:id="IV3-3" who="BRUTE">
+          <sp who="BRUTE" xml:id="IV3-3">
             <l n="940" xml:id="l940">Dieux, un si fort esprit se laisse donc tenter !</l>
             <l n="941" xml:id="l941">Quoi pourrez-vous souffrir qu’on dise avecque blâme,</l>
             <l n="942" xml:id="l942">Que César croit, et craint, les songes d’un femme ?</l>
@@ -1321,13 +1321,13 @@
             <l n="954" xml:id="l954">Ou venez dire au moins que le Sénat diffère :</l>
             <l n="955" xml:id="l955">Si le faible soupçon attaque un si grand cœur.</l>
           </sp>
-          <sp xml:id="IV3-4" who="CESAR">
+          <sp who="CESAR" xml:id="IV3-4">
             <l n="956" xml:id="l956">Ce Brute ardent et prompt est toujours le vainqueur.</l>
             <l n="957" xml:id="l957">Je le veux bien ; sortons : une si courte absence,</l>
             <l n="958" xml:id="l958">Ne viendra pas à bout de votre patience,</l>
             <l n="959" xml:id="l959">Une heure de conseil suffira pour ce jour.</l>
           </sp>
-          <sp xml:id="IV3-5" who="CALPHURNIE">
+          <sp who="CALPHURNIE" xml:id="IV3-5">
             <l n="960" xml:id="l960">Ce funeste départ, n’aura point de retour :</l>
             <l n="961" xml:id="l961">Ô déloyal flatteur ! Dont son âme obsédée,</l>
             <l n="962" xml:id="l962">Se trouve pour sa perte, aveuglément guidée,</l>
@@ -1337,9 +1337,9 @@
             <l n="966" xml:id="l966">La haine des mortels, et l’objet du tonnerre.</l>
           </sp>
         </div2>
-        <div2 xml:id="IV4" n="4" type="scene">
+        <div2 n="4" type="scene" xml:id="IV4">
           <head>SCÈNE IV. <listPerson type="configuration" xml:id="conf17"/></head>
-          <sp xml:id="IV4-1" who="PORCIE">
+          <sp who="PORCIE" xml:id="IV4-1">
             <l n="967" xml:id="l967">Je succombe, il est vrai, dans un si haut dessein :</l>
             <l n="968" xml:id="l968">J’ai devant que César un poignard dans le sein:</l>
             <l n="969" xml:id="l969">Désirs impatients, cruelle incertitude,</l>
@@ -1366,9 +1366,9 @@
             <l n="990" xml:id="l990">Je vais voir si quelqu’un ne t’a point apportée.</l>
           </sp>
         </div2>
-        <div2 xml:id="IV5" n="5" type="scene">
+        <div2 n="5" type="scene" xml:id="IV5">
           <head>SCÈNE V. Brute, César, Antoine, Lépide.<listPerson type="configuration" xml:id="conf18"/></head>
-          <sp xml:id="IV5-1" who="BRUTE">
+          <sp who="BRUTE" xml:id="IV5-1">
             <l n="991" xml:id="l991">Ainsi tant de désirs ont pénétré les Cieux :</l>
             <l n="992" xml:id="l992">Et le Sénat enfin inspiré par les Dieux,</l>
             <l n="993" xml:id="l993">Suivant les immortels la sagesse profonde, </l>
@@ -1384,23 +1384,23 @@
             <l n="1003" xml:id="l1003">Et qui ne préférât (loin de le dédaigner)</l>
             <l n="1004" xml:id="l1004">L’honneur de vous servir à celui de régner ?</l>
           </sp>
-          <sp xml:id="IV5-2" who="CESAR">
+          <sp who="CESAR" xml:id="IV5-2">
             <l n="1005" xml:id="l1005">Ha Brute ! Si j’arrive à cette heure opportune ;</l>
             <l n="1006" xml:id="l1006">Que vous aurez de part à ma bonne fortune :</l>
             <l n="1007" xml:id="l1007">Il ne vous manquera que le seul nom de roi ;</l>
             <l n="1008" xml:id="l1008">Grade, que vos vertus vous donnent après moi. </l>
           </sp>
-          <sp xml:id="IV5-3" who="BRUTE">
+          <sp who="BRUTE" xml:id="IV5-3">
             <l n="1009" xml:id="l1009">Sur mon peu de valeur, je règle mon attente.</l>
           </sp>
         </div2>
-        <div2 xml:id="IV6" n="6" type="scene">
+        <div2 n="6" type="scene" xml:id="IV6">
           <head>SCÈNE VI. Artemidore, Brute, César, Antoine, Lépide, Cassie, Labéo.<listPerson type="configuration" xml:id="conf19"/></head>
-          <sp xml:id="IV6-1" who="ARTEMIDORE">
+          <sp who="ARTEMIDORE" xml:id="IV6-1">
             <l n="1010" xml:id="l1010">Je viens pour t’avertir d’une affaire importante ;</l>
             <l n="1011" xml:id="l1011">César, prends ce billet ; et le lis promptement.</l>
           </sp>
-          <sp xml:id="IV6-2" who="BRUTE">
+          <sp who="BRUTE" xml:id="IV6-2">
             <l n="1012" xml:id="l1012">Faisons agir l’adresse avec le jugement ;</l>
             <l n="1013" xml:id="l1013">La mine est éventée, et mon âme est déçue :</l>
             <l n="1014" xml:id="l1014">Labyrinthe des grands n’auras-tu point d’issue ?</l>
@@ -1408,45 +1408,45 @@
             <l n="1016" xml:id="l1016">Déchargez vous la main d’une fardeau si pesant ;</l>
             <l n="1017" xml:id="l1017">Si fâcheux à souffrir, et si peu nécessaire.</l>
           </sp>
-          <sp xml:id="IV6-3" who="CESAR">
-            <l n="1018" xml:id="l1018" part="I">Lisez.</l>
+          <sp who="CESAR" xml:id="IV6-3">
+            <l n="1018" part="I" xml:id="l1018">Lisez.</l>
           </sp>
-          <sp xml:id="IV6-4" who="BRUTE">
+          <sp who="BRUTE" xml:id="IV6-4">
             <l part="F">Ha ! L’impudence ; ô l’importante affaire !</l>
             <l n="1019" xml:id="l1019">Lui qui veut une charge est digne de l’avoir :</l>
             <l n="1020" xml:id="l1020">Mais voici le Sénat qui vient vous recevoir ;</l>
             <l n="1021" xml:id="l1021">Mêlez un peu la grave avec la modestie.</l>
           </sp>
         </div2>
-        <div2 xml:id="IV7" n="7" type="scene">
+        <div2 n="7" type="scene" xml:id="IV7">
           <head>SCÈNE VII. Albin, Antoine, Lépide.<listPerson type="configuration" xml:id="conf20"/></head>
-          <sp xml:id="IV7-1" who="ALBIN">
+          <sp who="ALBIN" xml:id="IV7-1">
             <l n="1022" xml:id="l1022">Un certain messager, étant venu d’Ostie,</l>
             <l n="1023" xml:id="l1023">Vous cherche et l’un et l’autre, il dit être pressé,</l>
-            <l n="1024" xml:id="l1024" part="I">Je vous en avertis.</l>
+            <l n="1024" part="I" xml:id="l1024">Je vous en avertis.</l>
           </sp>
-          <sp xml:id="IV7-2" who="ANTOINE">
+          <sp who="ANTOINE" xml:id="IV7-2">
             <l part="F">Où l’avez-vous laissé ?</l>
           </sp>
-          <sp xml:id="IV7-3" who="ALBIN">
+          <sp who="ALBIN" xml:id="IV7-3">
             <l n="1025" xml:id="l1025">Au pied de l’Aventin, prêt d’entrer dans la place.</l>
           </sp>
-          <sp xml:id="IV7-4" who="LEPIDE">
-            <l n="1026" xml:id="l1026" part="I">Allons voir ce qu’il veut.</l>
+          <sp who="LEPIDE" xml:id="IV7-4">
+            <l n="1026" part="I" xml:id="l1026">Allons voir ce qu’il veut.</l>
           </sp>
-          <sp xml:id="IV7-5" who="ANTOINE">
+          <sp who="ANTOINE" xml:id="IV7-5">
             <l part="F">Albin, je vous rends grâce.</l>
           </sp>
-          <sp xml:id="IV7-6" who="ALBIN">
+          <sp who="ALBIN" xml:id="IV7-6">
             <l n="1027" xml:id="l1027">Oui, tu me la dois rendre, avec beaucoup d’amour,</l>
             <l n="1028" xml:id="l1028">Puisque ce faux avis te conserve le jour.</l>
             <l n="1029" xml:id="l1029">Entrons, pour avoir part à la prochaine gloire,</l>
             <l n="1030" xml:id="l1030">Comme nous en aurons aux fruits de la victoire.</l>
           </sp>
         </div2>
-        <div2 xml:id="IV8" n="8" type="scene">
+        <div2 n="8" type="scene" xml:id="IV8">
           <head>SCÈNE VIII. César, Brute, Cassir, Labéo, Quintus, Albin, Choeur d’autres sénateurs.<listPerson type="configuration" xml:id="conf21"/></head>
-          <sp xml:id="IV8-1" who="CESAR">
+          <sp who="CESAR" xml:id="IV8-1">
             <l n="1031" xml:id="l1031">Qu’on ne m’en parle plus ; Cimber est criminel :</l>
             <l n="1032" xml:id="l1032">Je m’oblige en ce lieu d’un serment solennel,</l>
             <l n="1033" xml:id="l1033">De n’accorder jamais cette injuste requête ;</l>
@@ -1461,41 +1461,41 @@
             <l n="1042" xml:id="l1042">Suit toujours les conseils que la vertu lui donne :</l>
             <l n="1043" xml:id="l1043">Quoi, Brute, est-ce là donc ce qu’on vous a promis ?</l>
           </sp>
-          <sp xml:id="IV8-2" who="CASSIE">
+          <sp who="CASSIE" xml:id="IV8-2">
             <l n="1044" xml:id="l1044">Hé ! Donnez quelque chose aux pleurs de ses amis ;</l>
             <l n="1045" xml:id="l1045">César, ayez pitié d’une extrême infortune</l>
           </sp>
-          <sp xml:id="IV8-3" who="CESAR">
+          <sp who="CESAR" xml:id="IV8-3">
             <l n="1046" xml:id="l1046">Allez ; Retirez-vous ; ce discours m’importune.</l>
           </sp>
-          <sp xml:id="IV8-4" who="CASSIE">
+          <sp who="CASSIE" xml:id="IV8-4">
             <l n="1047" xml:id="l1047">Puisque tout le Sénat, doit subir cette loi,</l>
             <l n="1048" xml:id="l1048">Prends ce premier hommage en qualité de roi.</l>
           </sp>
-          <sp xml:id="IV8-5" who="CESAR">
+          <sp who="CESAR" xml:id="IV8-5">
             <l n="1049" xml:id="l1049">Ha ! Perfide Casca, bons dieux que veux-tu faire ?</l>
           </sp>
-          <sp xml:id="IV8-6" who="CASSIE">
+          <sp who="CASSIE" xml:id="IV8-6">
             <l n="1050" xml:id="l1050">Purger Rome d’un monstre ; assiste-moi mon frère.</l>
           </sp>
-          <sp xml:id="IV8-7" who="BRUTE">
+          <sp who="BRUTE" xml:id="IV8-7">
             <l n="1051" xml:id="l1051">Brute que tu chéris te veut ôter d’ici,</l>
-            <l n="1052" xml:id="l1052" part="I">Ce coup t’est favorable.</l>
+            <l n="1052" part="I" xml:id="l1052">Ce coup t’est favorable.</l>
           </sp>
-          <sp xml:id="IV8-8" who="CESAR">
+          <sp who="CESAR" xml:id="IV8-8">
             <l part="F">Et toi mon fils aussi.</l>
           </sp>
-          <sp xml:id="IV8-9" who="BRUTE">
+          <sp who="BRUTE" xml:id="IV8-9">
             <l n="1053" xml:id="l1053">Il est mort ; c’en est fait ; le voilà sans parole :</l>
             <l n="1054" xml:id="l1054">Pour notre sûreté, montons au Capitole.</l>
           </sp>
         </div2>
       </div1>
-      <div1 xml:id="V" n="5" type="act">
+      <div1 n="5" type="act" xml:id="V">
         <head>ACTE V</head>
-        <div2 xml:id="V1" n="1" type="scene">
+        <div2 n="1" type="scene" xml:id="V1">
           <head>SCÈNE I. Antoine Lépide.<listPerson type="configuration" xml:id="conf23"/></head>
-          <sp xml:id="V1-1" who="ANTOINE">
+          <sp who="ANTOINE" xml:id="V1-1">
             <l n="1055" xml:id="l1055">Soupçons trop bien fondés, doutes trop éclaircis,</l>
             <l n="1056" xml:id="l1056">Que pour n’être pas crus, nous aurons de soucis !</l>
             <l n="1057" xml:id="l1057">Déplorable César, que j’ai bien connaissance</l>
@@ -1527,13 +1527,13 @@
             <l n="1083" xml:id="l1083">Et puis le sang l’oblige après un tel malheur,</l>
             <l n="1084" xml:id="l1084">De joindre son courage avec notre valeur.</l>
           </sp>
-          <sp xml:id="V1-2" who="LEPIDE">
+          <sp who="LEPIDE" xml:id="V1-2">
             <l n="1085" xml:id="l1085">Allons allons Antoine, où ce penser nous mène,</l>
             <l n="1086" xml:id="l1086">Nous trois aurons en main la puissance Romaine ;</l>
             <l n="1087" xml:id="l1087">Le travail et l’honneur seront pris en commun :</l>
             <l n="1088" xml:id="l1088">Et ces traîtres auront trois maîtres, au lieu d’un.</l>
           </sp>
-          <sp xml:id="V1-3" who="ANTOINE">
+          <sp who="ANTOINE" xml:id="V1-3">
             <l n="1089" xml:id="l1089">Pour le bien de l’État, il nous y faut résoudre :</l>
             <l n="1090" xml:id="l1090">Oui, contre ces Titans, je prépare une foudre ;</l>
             <l n="1091" xml:id="l1091">Mais foudre d’éloquence, et qu’il leur fera voir,</l>
@@ -1542,9 +1542,9 @@
             <l n="1094" xml:id="l1094">Par le sanglant portrait d’un si funeste crime.</l>
           </sp>
         </div2>
-        <div2 xml:id="V2" n="2" type="scene">
+        <div2 n="2" type="scene" xml:id="V2">
           <head>SCÈNE II. Calphurnie, Émilie.<listPerson type="configuration" xml:id="conf24"/></head>
-          <sp xml:id="V2-1" who="EMILIE">
+          <sp who="EMILIE" xml:id="V2-1">
             <l n="1095" xml:id="l1095">Le remède d’un mal qu’on ne peut empêcher,</l>
             <l n="1096" xml:id="l1096">C’est de n’y songer pas, et de n’en plus chercher :</l>
             <l n="1097" xml:id="l1097">Madame, au nom des Dieux, un peu de résistance</l>
@@ -1552,7 +1552,7 @@
             <l n="1099" xml:id="l1099">Et ne pouvant sauver cet excellent époux,</l>
             <l n="1100" xml:id="l1100">En sauvant la raison, Madame, sauvez-vous.</l>
           </sp>
-          <sp xml:id="V2-2" who="CALPHURNIE">
+          <sp who="CALPHURNIE" xml:id="V2-2">
             <l n="1101" xml:id="l1101">Ce conseil criminel, ne ferait criminelle :</l>
             <l n="1102" xml:id="l1102">La plainte que je fais se doit rendre éternelle :</l>
             <l n="1103" xml:id="l1103">On voit toujours aux cœurs qui furent bien unis,</l>
@@ -1566,13 +1566,13 @@
             <l n="1111" xml:id="l1111">Et de quelque propos qu’on flatte son malheur,</l>
             <l n="1112" xml:id="l1112">Est-il quelque plaisir après cette douleur ?</l>
           </sp>
-          <sp xml:id="V2-3" who="EMILIE">
-            <l n="1113" xml:id="l1113" part="I">Oui, Madame, il en est.</l>
+          <sp who="EMILIE" xml:id="V2-3">
+            <l n="1113" part="I" xml:id="l1113">Oui, Madame, il en est.</l>
           </sp>
-          <sp xml:id="V2-4" who="CALPHURNIE">
+          <sp who="CALPHURNIE" xml:id="V2-4">
             <l part="F">Je le crois impossible.</l>
           </sp>
-          <sp xml:id="V2-5" who="EMILIE">
+          <sp who="EMILIE" xml:id="V2-5">
             <l n="1114" xml:id="l1114">Vous en goûterez un, bien grand, et bien sensible,</l>
             <l n="1115" xml:id="l1115">Lorsque ses assassins, ces tigres furieux,</l>
             <l n="1116" xml:id="l1116">Sentirons à leur tour la colère des Cieux :</l>
@@ -1589,28 +1589,28 @@
             <l n="1127" xml:id="l1127">Suspendez la douleur puisqu’il vous est permis ;</l>
             <l n="1128" xml:id="l1128">Et ne vous perdez point qu’après vos ennemis.</l>
           </sp>
-          <sp xml:id="V2-6" who="CALPHURNIE">
+          <sp who="CALPHURNIE" xml:id="V2-6">
             <l n="1129" xml:id="l1129">Chère ombre, qui peux voir dans une âme fidèle,</l>
             <l n="1130" xml:id="l1130">Et l’amour immortel et la haine immortelle,</l>
             <l n="1131" xml:id="l1131">Joints ta main à la mienne, et me vient secourir,</l>
             <l n="1132" xml:id="l1132">Puisque je ne vis plus, que pour les voir mourir.</l>
           </sp>
         </div2>
-        <div2 xml:id="V3" n="3" type="scene">
+        <div2 n="3" type="scene" xml:id="V3">
           <head>SCÈNE III. Philippus, Calphurnie, Émilie.<listPerson type="configuration" xml:id="conf25"/></head>
-          <sp xml:id="V3-1" who="PHILIPPUS">
-            <l n="1133" xml:id="l1133" part="I">Le Sénat et le peuple.</l>
+          <sp who="PHILIPPUS" xml:id="V3-1">
+            <l n="1133" part="I" xml:id="l1133">Le Sénat et le peuple.</l>
           </sp>
-          <sp xml:id="V3-2" who="CALPHURNIE">
+          <sp who="CALPHURNIE" xml:id="V3-2">
             <l part="F">Ha ! Ce discours me tue :</l>
             <l n="1134" xml:id="l1134">Mais si faut-il portant que mon cœur s’évertue :</l>
             <l n="1135" xml:id="l1135">Je t’entends bien ; faisons au-delà du pouvoir,</l>
             <l n="1136" xml:id="l1136">Pour rendre au grand César se funeste devoir.</l>
           </sp>
         </div2>
-        <div2 xml:id="V4" n="4" type="scene">
+        <div2 n="4" type="scene" xml:id="V4">
           <head>SCÈNE IV. Brute, Cassie.<listPerson type="configuration" xml:id="conf26"/></head>
-          <sp xml:id="V4-1" who="BRUTE">
+          <sp who="BRUTE" xml:id="V4-1">
             <l n="1137" xml:id="l1137">Ces hommes sans courage, et plein d’ingratitude,</l>
             <l n="1138" xml:id="l1138">Sont dignes de leur honte, et de leur servitude :</l>
             <l n="1139" xml:id="l1139">Loin de briser le joug qu’on leur avait ôté,</l>
@@ -1648,7 +1648,7 @@
             <l n="1171" xml:id="l1171">Dans le chemin d’honneur, étant trop avancé,</l>
             <l n="1172" xml:id="l1172">On le verra finir comme il a commencé.</l>
           </sp>
-          <sp xml:id="V4-2" who="CASSIE">
+          <sp who="CASSIE" xml:id="V4-2">
             <l n="1173" xml:id="l1173">Tous ceux que ta valeur attache à ta fortune,</l>
             <l n="1174" xml:id="l1174">Sont Nochers, que jamais n’a fait pâlir Neptune :</l>
             <l n="1175" xml:id="l1175">Quand l’univers les verrait contre eux se verrait conjuré,</l>
@@ -1666,7 +1666,7 @@
             <l n="1187" xml:id="l1187">Oubliera le pays, les parents et le bien ;</l>
             <l n="1188" xml:id="l1188">Fais donc quand tu voudras, notre destin tien.</l>
           </sp>
-          <sp xml:id="V4-3" who="BRUTE">
+          <sp who="BRUTE" xml:id="V4-3">
             <l n="1189" xml:id="l1189">Sortons, mon cher ami, de cette infâme Rome,</l>
             <l n="1190" xml:id="l1190">Où le vice masqué sous le visage d’homme,</l>
             <l n="1191" xml:id="l1191">Où l’avarice règne avec la lâcheté ;</l>
@@ -1679,16 +1679,16 @@
             <l n="1198" xml:id="l1198">Il naîtra des soldats de notre renommée :</l>
             <l n="1199" xml:id="l1199">Assemblons nos amis ; partons en combattant.</l>
           </sp>
-          <sp xml:id="V4-4" who="CASSIE">
-            <l n="1200" xml:id="l1200" part="I">Je m’en vais les trouver.</l>
+          <sp who="CASSIE" xml:id="V4-4">
+            <l n="1200" part="I" xml:id="l1200">Je m’en vais les trouver.</l>
           </sp>
-          <sp xml:id="V4-5" who="BRUTE">
+          <sp who="BRUTE" xml:id="V4-5">
             <l part="F">J’y suis dans un instant.</l>
           </sp>
         </div2>
-        <div2 xml:id="V5" n="5" type="scene">
+        <div2 n="5" type="scene" xml:id="V5">
           <head>SCÈNE V. Brute, Porcie.<listPerson type="configuration" xml:id="conf27"/></head>
-          <sp xml:id="V5-1" who="BRUTE">
+          <sp who="BRUTE" xml:id="V5-1">
             <l n="1201" xml:id="l1201">En ce nouveau travail, que le destin me donne,</l>
             <l n="1202" xml:id="l1202">Il faut, hélas ! Il faut, que Brute t’abandonne ;</l>
             <l n="1203" xml:id="l1203">Ce mal persécutant, que rien n’a diverti,</l>
@@ -1698,10 +1698,10 @@
             <l n="1207" xml:id="l1207">Il lui plaît, il le faut : que sert de reculer ?</l>
             <l n="1208" xml:id="l1208">L’arrêt est prononcé, je n’en peux appeler.</l>
           </sp>
-          <sp xml:id="V5-2" who="PORCIE">
+          <sp who="PORCIE" xml:id="V5-2">
             <l n="1209" xml:id="l1209">Brute s’en va partir ! Ô tristesse infinie !</l>
           </sp>
-          <sp xml:id="V5-3" who="BRUTE">
+          <sp who="BRUTE" xml:id="V5-3">
             <l n="1210" xml:id="l1210">De la mort d’un tyran, renaît la tyrannie :</l>
             <l n="1211" xml:id="l1211">Son sang envenimé fait revoir aujourd’hui</l>
             <l n="1212" xml:id="l1212">En dépit de ma main, des monstres comme lui,</l>
@@ -1722,7 +1722,7 @@
             <l n="1227" xml:id="l1227">Fais agir ta vertu dans un sort si douteux ;</l>
             <l n="1228" xml:id="l1228">Mon amour le permet, je n’en suis point honteux.</l>
           </sp>
-          <sp xml:id="V5-4" who="PORCIE">
+          <sp who="PORCIE" xml:id="V5-4">
             <l n="1229" xml:id="l1229">On verra que je suis (quoi que l’on exécute)</l>
             <l n="1230" xml:id="l1230">La fille de Caton, et la femme de Brute :</l>
             <l n="1231" xml:id="l1231">Que l’univers entier s’assemble contre toi,</l>
@@ -1736,24 +1736,24 @@
             <l n="1239" xml:id="l1239">Et toute leur puissance, et toute leur rigueur,</l>
             <l n="1240" xml:id="l1240">N’ébranlerons jamais, ton âme, ni mon cœur.</l>
           </sp>
-          <sp xml:id="V5-5" who="BRUTE">
+          <sp who="BRUTE" xml:id="V5-5">
             <l n="1241" xml:id="l1241">Ha ! Ce divin propos m’échauffe, et me ranime :</l>
             <l n="1242" xml:id="l1242">Après ’lavoir goûté, la faiblesse est un crime :</l>
             <l n="1243" xml:id="l1243">Je pars, mon cher amour, je pars, mais résolu,</l>
             <l n="1244" xml:id="l1244">De mourir noblement, si le sort l’a voulu.</l>
           </sp>
-          <sp xml:id="V5-6" who="PORCIE">
+          <sp who="PORCIE" xml:id="V5-6">
             <l n="1245" xml:id="l1245">Ma fin suivant la tienne (en étant éclaircie)</l>
             <l n="1246" xml:id="l1246">Sera digne de Brute, et digne de Porcie.</l>
           </sp>
-          <sp xml:id="V5-7" who="BRUTE">
+          <sp who="BRUTE" xml:id="V5-7">
             <l n="1247" xml:id="l1247">Puisse le Ciel touché, par un désir si beau,</l>
             <l n="1248" xml:id="l1248">Nous rejoindre à la vie, ou du moins au tombeau.</l>
           </sp>
         </div2>
-        <div2 xml:id="V6" n="6" type="scene">
+        <div2 n="6" type="scene" xml:id="V6">
           <head>SCÈNE VI. Antoine, Calphurnie, La Sénat en corps, coeur du peuple romain, Lépide, Emilie, Philippus, Artémidore.<listPerson type="configuration" xml:id="conf28"/></head>
-          <sp xml:id="V6-1" who="ANTOINE">
+          <sp who="ANTOINE" xml:id="V6-1">
             <l n="1249" xml:id="l1249">Le grand César est mort ; se second Alexandre ;</l>
             <l n="1250" xml:id="l1250">(Hélas ! Qui le croira) n’est plus qu’un peu de cendre :</l>
             <l n="1251" xml:id="l1251">Et cette urne contient (ô triste souvenir)</l>
@@ -1847,22 +1847,22 @@
             <l n="1339" xml:id="l1339">Et que pour s’acquitter, il vous dit à genoux,</l>
             <l n="1340" xml:id="l1340">C’est le sang de César (Romains) qui parle à vous.</l>
           </sp>
-          <sp xml:id="V6-2" who="CALPHURNIE">
+          <sp who="CALPHURNIE" xml:id="V6-2">
             <l n="1341" xml:id="l1341">Pour vous faire courir à de si justes armes,</l>
             <l n="1342" xml:id="l1342">Souffrez-moi de mêler ce sang avec mes larmes :</l>
             <l n="1343" xml:id="l1343">Et si quelque pitié règne en vos cœurs pour moi,</l>
             <l n="1344" xml:id="l1344">Gardez bien d’en avoir, de ces hommes sans foi.</l>
           </sp>
-          <sp xml:id="V6-3" who="UNCITOYEN">
+          <sp who="UNCITOYEN" xml:id="V6-3">
             <l n="1345" xml:id="l1345">D’une lâche pitié nos cœurs sont incapables :</l>
             <l n="1346" xml:id="l1346">Qui défend les méchants, est au rang des coupables :</l>
             <l n="1347" xml:id="l1347">Allons, allons changer ce discours en effets ;</l>
             <l n="1348" xml:id="l1348">Et de ce même feu consumer leurs palais.</l>
           </sp>
         </div2>
-        <div2 xml:id="V7" n="7" type="scene">
+        <div2 n="7" type="scene" xml:id="V7">
           <head>SCÈNE DERNIÈRE.<listPerson type="configuration" xml:id="conf29"/></head>
-          <sp xml:id="V7-1" who="UNAUTRECITOYEN">
+          <sp who="UNAUTRECITOYEN" xml:id="V7-1">
             <l n="1349" xml:id="l1349">Sénateurs, apprenez la plus grande merveille,</l>
             <l n="1350" xml:id="l1350">Qui peut-être jamais ait frappé votre oreille :</l>
             <l n="1351" xml:id="l1351">Hier au soir ennuyé de voir tant de méchants,</l>
@@ -1877,7 +1877,7 @@
             <l n="1360" xml:id="l1360">Un astre tout nouveau qui brillait dans les cieux,</l>
             <l n="1361" xml:id="l1361">Qu’aucun doute ici de ce rapport fidèle.</l>
           </sp>
-          <sp xml:id="V7-2" who="ANTOINE">
+          <sp who="ANTOINE" xml:id="V7-2">
             <l n="1362" xml:id="l1362">Bienheureux messager agréable nouvelle !</l>
             <l n="1363" xml:id="l1363">Romains, Vénus sans doute, a mis en ce haut rang,</l>
             <l n="1364" xml:id="l1364">Celui que la Nature a tiré de son sang,</l>
