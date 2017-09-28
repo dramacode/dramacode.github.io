@@ -403,7 +403,7 @@ Un petit mot.
 
 **** *book_ *id_I07 *act_I *date_1708
 
--*who_clistorel
+-*who_apothicaire
 Les comédiens sont bien plaisants, de jouer sur leur théâtre un corps aussi illustre que celui des apothicaires ; et ce petit myrmidon de Clistorel bien impertinent de s'attaquer à un homme comme moi !
 
 -*who_lacomtesse
@@ -416,14 +416,14 @@ Un petit mot.
 
 **** *book_ *id_I08 *act_I *date_1708
 
--*who_clistorelapothicire
+-*who_apothicaire
 C'est donc vous, mon petit ami, qui empruntez mon nom et ma personne pour les mettre dans vos comédies ?
 Savez-vous que je suis doyen des apothicaires ?
 
 -*who_clistorelcomedien
 Vous, doyen des apothicaires !
 
--*who_clistorelapothicaire
+-*who_apothicaire
 Oui, moi.
 
 -*who_clistorelcomedien
@@ -431,20 +431,20 @@ Que m'importe ?
 Ha, ha, ha !
 La plaisante figure pour un doyen !
 
--*who_clistorelapothicaire
+-*who_apothicaire
 Figure !
 Parbleu, figure vous-même ; je serais bien fâché que la mienne fût aussi ridicule que la vôtre.
 
 -*who_clistorelcomedien
 Et moi, je serais au désespoir de vous ressembler : ne voilà-t-il pas un petit gentilhomme bien tourné ?
 
--*who_clistorelapothicaire
+-*who_apothicaire
 Depuis deux cents ans nous tenons boutique d'apothicaire, de père en fils, dans le faubourg Saint-Germain.
 
 -*who_clistorelcomedien
 Oui : l'on dit que c'est vous qui recrépissez toutes les vieilles du quartier.
 
--*who_clistorelapothicaire
+-*who_apothicaire
 Je puis me vanter qu'il n 'y a point d'homme en France qui ait plus raccommodé de visages que moi.
 
 -*who_lacomtesse
@@ -459,25 +459,25 @@ Il a remis sur pied des teints aussi désespérés que le vôtre.
 -*who_lacomtesse
 Je puis l'assurer que mon visage ne lui fera point d'affront, et qu'il en aura de l'honneur.
 
--*who_clistorelapothicaire
+-*who_apothicaire
 Pourquoi donc, mon petit comédien, connaissant mon mérite, êtes-vous assez impudent pour me jouer en plein théâtre ?
 
 -*who_clistorelcomedien
 Nous y jouons bien tous les jours les médecins, qui valent bien les apothicaires.
 
--*who_clistorelapothicaire
+-*who_apothicaire
 Savez-vous que personne n'approche de plus près que nous les princes et les grands seigneurs ?
 
 -*who_clistorelcomedien
 Vous ne les voyez que par derrière ; mais nous leur parlons face à face.
 
--*who_clistorelapothicaire
+-*who_apothicaire
 Je suis apothicaire, et médecin quand il le faut.
 
 -*who_clistorelcomedien
 Je joue, moi, dans le comique et dans le sérieux.
 
--*who_clistorelapothicaire
+-*who_apothicaire
 J'ai fait, dans Paris, quatre cours de chimie.
 
 -*who_clistorelcomedien
@@ -498,26 +498,26 @@ Oui-da.
 Et vous aurez pour vous, malgré les envieux,
 Et Lisette, et Crispin, et l'enfer, et les dieux.
 
--*who_clistorelapothicaire
+-*who_apothicaire
 Il faut dire la vérité : voilà une belle taille pour faire un empereur !
 
 -*who_clistorelcomedien
 Voilà un plaisant visage pour avoir fait quatorze enfants à sa femme !
 
--*who_clistorelapothicaire
+-*who_apothicaire
 Cela est faux, je lui en ai fait dix-neuf.
 
 -*who_clistorelcomedien
 Tant mieux, pourvu qu'ils soient tous de votre façon.
 
--*who_clistorelapothicaire
+-*who_apothicaire
 Qu'est-ce à dire de ma façon ?
 Apprenez que, sur l'honneur, madame Clistorel n'a jamais fait de quiproquo.
 
 -*who_clistorelcomedien
 Elle ne vous ressemble donc pas ?
 
--*who_clistorelapothicaire
+-*who_apothicaire
 Moi, j'ai fait du quiproquo !
 Vous en avez menti.
 
@@ -527,7 +527,7 @@ J'en ai menti ?
 -*who_lacomtesse
 Monsieur l'apothicaire, monsieur le comédien, monsieur Clistorel, monsieur Mithridate...
 
--*who_clistorelapothicaire
+-*who_apothicaire
 Avorton de comédien !
 
 -*who_clistorelcomedien

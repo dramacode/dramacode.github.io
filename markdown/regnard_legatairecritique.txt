@@ -515,13 +515,7 @@ Hé bien, morbleu ! Voilà ce qui s'appelle une comédie dans les règles ! Cel
 
 [9] Cuistre : Valet de pédants, ou de prêtres, et de gens de Collège, qui leur sert à faire cuire leur viande. On le dit aussi de tous les pauvres écoliers qui sont en service. F
 
-[10] Pistole : 1 écu = 3 francs. 
-1 écu = 3 livres tournois. 
-1 livre tournois = 20 sols. 
-1 sol = 4 liards ou 12 deniers. 
-1 liard = 3 deniers. 
-1 pistole = 10 francs ou 10 livres tournois. 
-
+[10] Pistole : 1 écu = 3 francs. 1 écu = 3 livres tournois. 1 livre tournois = 20 sols. 1 sol = 4 liards ou 12 deniers. 1 liard = 3 deniers. 1 pistole = 10 francs ou 10 livres tournois. 
 
 [11] Jurisprudent : pour Jurisconsulte, a été employé ironiquement par M. Regnard dans sa critique du Légataire. T
 
@@ -529,7 +523,7 @@ Hé bien, morbleu ! Voilà ce qui s'appelle une comédie dans les règles ! Cel
 
 [13] Avoué : Officier ministériel chargé de représenter les parties devant les tribunaux et de faire les actes de procédure. L
 
-[14] Voix délibérative :  droit de suffrage dans une assemblée ; il se dit par opposition à voix consultative. L
+[14] Voix délibérative : droit de suffrage dans une assemblée ; il se dit par opposition à voix consultative. L
 
 [15] Quartaut : Petit tonneau de dimension inférieure à celle du quart de muid, et dont la capacité varie selon les lieux. L
 
